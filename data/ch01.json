@@ -1,0 +1,454 @@
+{
+  "chapter": 1,
+  "title": "Layers and Structure of Eyeball",
+  "pageRange": "1-2",
+  "questions": [
+    {
+      "id": "OPH-C1-001",
+      "sec": "Basic Anatomy of Eyeball",
+      "page": 1,
+      "fmt": "numeric",
+      "q": "The volume of the eyeball is:",
+      "opts": ["15 ml", "24 ml", "6 ml", "12 ml"],
+      "ans": 2,
+      "exp": "The book lists the volume of the eyeball as 6 ml; 24 ml is a trap — 24 mm is the axial length, not the volume. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-002",
+      "sec": "Basic Anatomy of Eyeball",
+      "page": 1,
+      "fmt": "fillup",
+      "q": "Fill up: The eyeball is aspherical — specifically an ______.",
+      "opts": ["Prolate spheroid", "Oblate spheroid", "Perfect sphere", "Biconvex lens"],
+      "ans": 1,
+      "exp": "Shape of the eyeball: aspherical (oblate spheroid) — a sphere flattened at the poles, not elongated as in a prolate spheroid. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-003",
+      "sec": "Basic Anatomy of Eyeball",
+      "page": 1,
+      "fmt": "scenario",
+      "q": "In the anatomy lab a student is asked for the site of the eyeball. Per the book, the eyeball is housed in the ______.",
+      "opts": ["Sphenoid sinus", "Temporal fossa", "Infratemporal fossa", "Orbit (bony cage)"],
+      "ans": 3,
+      "exp": "Site of the eyeball: the orbit, a bony cage; the figure 'Orbit containing eyeball' labels its roof, lateral wall, medial wall and floor. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-004",
+      "sec": "Basic Anatomy of Eyeball",
+      "page": 1,
+      "fmt": "numeric",
+      "q": "The axial length (anteroposterior diameter) of the eyeball is:",
+      "opts": ["2.4 cm (24 mm)", "18 mm (1.8 cm)", "34 mm (3.4 cm)", "10 mm (1 cm)"],
+      "ans": 0,
+      "exp": "Axial length/antroposterior diameter: 24 mm (2.4 cm) — one of the four headline values on the 'Basic Anatomy of Eyeball' block. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-005",
+      "sec": "Basic Anatomy of Eyeball",
+      "page": 1,
+      "fmt": "match",
+      "q": "Match each attribute of the eyeball with its value — 1) Volume 2) Site 3) Axial length … A) 24 mm (2.4 cm) B) Orbit (bony cage) C) 6 ml",
+      "opts": ["1-B, 2-C, 3-A", "1-C, 2-B, 3-A", "1-C, 2-A, 3-B", "1-A, 2-B, 3-C"],
+      "ans": 1,
+      "exp": "The book's four basic facts: shape aspherical (oblate spheroid), volume 6 ml, site orbit (bony cage), axial length/antroposterior diameter 24 mm (2.4 cm). (Book p1)"
+    },
+    {
+      "id": "OPH-C1-006",
+      "sec": "Basic Anatomy of Eyeball",
+      "page": 1,
+      "fmt": "oddoneout",
+      "q": "All of the following are labelled in the 'Orbit containing eyeball' figure EXCEPT:",
+      "opts": ["Posterior wall", "Roof", "Medial wall", "Floor"],
+      "ans": 0,
+      "exp": "The figure labels four structures of the orbit — roof, lateral wall, medial wall and floor; a posterior wall is not among the labelled structures. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-007",
+      "sec": "Outermost coat — cornea, limbus, sclera",
+      "page": 1,
+      "fmt": "fillup",
+      "q": "Fill up: The cornea forms the anterior ______ of the outermost layer of the eyeball.",
+      "opts": ["1/3rd", "5/6th", "1/2", "1/6th"],
+      "ans": 3,
+      "exp": "Layers → Outermost: anterior 1/6th is the cornea (transparent, convex shaped, refractive power present), the limbus is the corneo-scleral junction, and the posterior 5/6th is the sclera. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-008",
+      "sec": "Outermost coat — cornea, limbus, sclera",
+      "page": 1,
+      "fmt": "recall",
+      "q": "The posterior 5/6th of the outermost layer is formed by the:",
+      "opts": ["Cornea", "Limbus", "Sclera", "Choroid"],
+      "ans": 2,
+      "exp": "Outermost layer: posterior 5/6th : Sclera — white (opaque) and covered by the conjunctiva (a transparent mucous membrane); the choroid belongs to the middle uveal tract. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-009",
+      "sec": "Outermost coat — cornea, limbus, sclera",
+      "page": 1,
+      "fmt": "oddoneout",
+      "q": "All of the following are stated about the cornea EXCEPT:",
+      "opts": ["Transparent", "White and opaque", "Convex shaped", "Refractive power present"],
+      "ans": 1,
+      "exp": "The cornea is transparent, convex shaped and has refractive power; 'white (opaque)' is the description of the sclera, not the cornea. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-010",
+      "sec": "Outermost coat — cornea, limbus, sclera",
+      "page": 1,
+      "fmt": "match",
+      "q": "Match each structure of the outermost layer with its description — 1) Cornea 2) Limbus 3) Sclera … A) Corneo-scleral junction B) White (opaque), covered by conjunctiva C) Transparent, convex, refractive power present",
+      "opts": ["1-A, 2-C, 3-B", "1-C, 2-B, 3-A", "1-B, 2-A, 3-C", "1-C, 2-A, 3-B"],
+      "ans": 3,
+      "exp": "Cornea: transparent, convex, refractive power present; limbus: corneo-scleral junction; sclera: white (opaque), covered by conjunctiva (transparent mucous membrane). (Book p1)"
+    },
+    {
+      "id": "OPH-C1-011",
+      "sec": "Outermost coat — cornea, limbus, sclera",
+      "page": 1,
+      "fmt": "fillup",
+      "q": "Fill up: The sclera is covered by the ______, described as a transparent mucous membrane.",
+      "opts": ["Conjunctiva", "Iris", "Cornea", "Ciliary body"],
+      "ans": 0,
+      "exp": "The sclera (posterior 5/6th of the outermost layer) is white (opaque) and covered by the conjunctiva — a transparent mucous membrane. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-012",
+      "sec": "Outermost coat — cornea, limbus, sclera",
+      "page": 1,
+      "fmt": "scenario",
+      "q": "During dissection, a trainee points at the limbus and asks for its identity. The correct reply is:",
+      "opts": ["The angle of the anterior chamber", "The corneo-scleral junction", "The most avascular part of the uvea", "The junction of iris and ciliary body"],
+      "ans": 1,
+      "exp": "The limbus is defined in the layers flowchart as the corneo-scleral junction; the angle of the anterior chamber and the pars plana (most avascular in uvea) are separate structures. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-013",
+      "sec": "Outermost coat — cornea, limbus, sclera",
+      "page": 1,
+      "fmt": "truefalse",
+      "q": "Which of the following statements about the layers of the eyeball is TRUE?",
+      "opts": ["The uveal tract is the innermost layer", "The retina is present both anteriorly and posteriorly", "The outermost layer consists of the cornea, limbus and sclera", "The sclera is transparent"],
+      "ans": 2,
+      "exp": "Outermost = cornea (anterior 1/6th) + limbus (corneo-scleral junction) + sclera (posterior 5/6th). The uveal tract is the middle (vascular) layer, the retina (neurosensory layer) is present only posteriorly, and the sclera is white and opaque. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-014",
+      "sec": "Outermost coat — cornea, limbus, sclera",
+      "page": 1,
+      "fmt": "recall",
+      "q": "Which part of the eyeball is described as 'white (opaque)' and covered by a transparent mucous membrane?",
+      "opts": ["Cornea", "Limbus", "Iris", "Sclera"],
+      "ans": 3,
+      "exp": "Posterior 5/6th : Sclera — white (opaque), covered by conjunctiva (transparent mucous membrane); the iris belongs to the middle uveal tract. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-015",
+      "sec": "Uveal tract and retina",
+      "page": 1,
+      "fmt": "recall",
+      "q": "The middle layer of the eyeball is the:",
+      "opts": ["Retina", "Cornea", "Conjunctiva", "Uveal tract"],
+      "ans": 3,
+      "exp": "Layers → Middle: uveal tract (vascular layer) with parts (anterior and posterior): a. iris, b. ciliary body, c. choroid; the retina is the innermost, neurosensory layer. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-016",
+      "sec": "Uveal tract and retina",
+      "page": 1,
+      "fmt": "oddoneout",
+      "q": "All of the following are parts of the uveal tract EXCEPT:",
+      "opts": ["Sclera", "Iris", "Ciliary body", "Choroid"],
+      "ans": 0,
+      "exp": "Uveal tract parts (anterior and posterior): a. iris, b. ciliary body, c. choroid; the sclera is part of the outermost layer. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-017",
+      "sec": "Uveal tract and retina",
+      "page": 1,
+      "fmt": "fillup",
+      "q": "Fill up: The uveal tract is also referred to as the ______ layer.",
+      "opts": ["Neurosensory", "Refractive", "Pigmented", "Vascular"],
+      "ans": 3,
+      "exp": "The book explicitly labels the middle uveal tract as the 'Vascular Layer'; the neurosensory layer is the innermost retina. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-018",
+      "sec": "Uveal tract and retina",
+      "page": 1,
+      "fmt": "recall",
+      "q": "The innermost layer of the eyeball is the retina, described in the book as the:",
+      "opts": ["Vascular layer", "Muscular layer", "Neurosensory layer", "Refractive layer"],
+      "ans": 2,
+      "exp": "Innermost: Retina — a neurosensory layer, present only posteriorly; the vascular layer is the middle uveal tract. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-019",
+      "sec": "Uveal tract and retina",
+      "page": 1,
+      "fmt": "truefalse",
+      "q": "Which statement about the retina is TRUE?",
+      "opts": ["It is present only posteriorly", "It is the middle (vascular) layer", "It forms the anterior 1/6th of the outer coat", "It is the corneo-scleral junction"],
+      "ans": 0,
+      "exp": "The retina is the innermost neurosensory layer and is present only posteriorly; the middle layer is the vascular uveal tract, the anterior 1/6th is the cornea, and the limbus is the corneo-scleral junction. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-020",
+      "sec": "Uveal tract and retina",
+      "page": 1,
+      "fmt": "scenario",
+      "q": "A medical student must recite the three parts of the uveal tract in the book's order (a, b, c). The correct sequence is:",
+      "opts": ["Choroid, ciliary body, iris", "Iris, ciliary body, choroid", "Ciliary body, iris, choroid", "Iris, choroid, ciliary body"],
+      "ans": 1,
+      "exp": "Uveal tract — Parts (anterior and posterior): a. iris, b. ciliary body, c. choroid, in that order. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-021",
+      "sec": "Structural anatomy — chambers & segments",
+      "page": 1,
+      "fmt": "recall",
+      "q": "The anterior chamber (AC) is the space:",
+      "opts": ["Between the cornea and the iris", "Between the iris and the lens", "Behind the lens", "Inside the posterior segment"],
+      "ans": 0,
+      "exp": "The structural anatomy diagram annotates 'Anterior chamber (AC): between cornea and iris'; the posterior chamber (PC) lies deeper, behind the iris. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-022",
+      "sec": "Structural anatomy — chambers & segments",
+      "page": 1,
+      "fmt": "fillup",
+      "q": "Fill up: The posterior segment of the eyeball contains the ______.",
+      "opts": ["Vitreous", "Aqueous humour", "Cornea", "Iris"],
+      "ans": 0,
+      "exp": "Posterior segment: contains vitreous (1% hyaluronic acid, gel-like consistency); the aqueous humour is in the anterior segment. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-023",
+      "sec": "Structural anatomy — chambers & segments",
+      "page": 1,
+      "fmt": "match",
+      "q": "Match each part of the ciliary body with its feature — 1) Pars plicata 2) Pars plana 3) Ciliary processes … A) Secrete aqueous B) Flat part; most avascular in uvea C) Pleated part",
+      "opts": ["1-A, 2-C, 3-B", "1-C, 2-A, 3-B", "1-C, 2-B, 3-A", "1-B, 2-C, 3-A"],
+      "ans": 2,
+      "exp": "Ciliary body: pars plicata (pleated), pars plana (flat) — most avascular in uvea; the ciliary processes secrete aqueous. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-024",
+      "sec": "Structural anatomy — chambers & segments",
+      "page": 1,
+      "fmt": "recall",
+      "q": "Which part of the ciliary body is pleated?",
+      "opts": ["Pars plana", "Pars plicata", "Ciliary processes", "Zonules"],
+      "ans": 1,
+      "exp": "Ciliary body parts: pars plicata (pleated) and pars plana (flat, most avascular in uvea); the ciliary processes secrete aqueous. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-025",
+      "sec": "Structural anatomy — chambers & segments",
+      "page": 1,
+      "fmt": "fillup",
+      "q": "Fill up: The pars plana is described as ______ in the uvea.",
+      "opts": ["Most vascular", "Most avascular", "Pleated", "Refractive"],
+      "ans": 1,
+      "exp": "Pars plana (flat) — most avascular in uvea; the pleated part is the pars plicata. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-026",
+      "sec": "Structural anatomy — chambers & segments",
+      "page": 1,
+      "fmt": "scenario",
+      "q": "During a slit-lamp teaching session a junior asks which structure secretes the aqueous humour. The book's answer is:",
+      "opts": ["Choroid", "Corneal epithelium", "Ciliary processes", "Retinal pigment epithelium"],
+      "ans": 2,
+      "exp": "In the structural anatomy diagram the ciliary processes are annotated with 'secrete aqueous' — the source of aqueous humour. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-027",
+      "sec": "Structural anatomy — chambers & segments",
+      "page": 1,
+      "fmt": "numeric",
+      "q": "The vitreous contains ______ hyaluronic acid, with a gel-like consistency.",
+      "opts": ["1%", "10%", "25%", "50%"],
+      "ans": 0,
+      "exp": "Posterior segment: contains vitreous → 1% hyaluronic acid, gel-like consistency. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-028",
+      "sec": "Structural anatomy — chambers & segments",
+      "page": 1,
+      "fmt": "oddoneout",
+      "q": "All of the following are labelled in the 'Structural anatomy of eyeball' diagram EXCEPT:",
+      "opts": ["Zonules (ciliary zonules)", "Corneal endothelium", "Angle of AC", "Pupil"],
+      "ans": 1,
+      "exp": "The diagram labels the angle of AC, iris, pupil, zonules/ciliary zonules, lens, ciliary body (pars plicata, pars plana), ciliary processes, AC, PC, anterior segment, sclera, choroid and retina; the corneal endothelium is not labelled. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-029",
+      "sec": "Structural anatomy — chambers & segments",
+      "page": 1,
+      "fmt": "match",
+      "q": "Match each segment/chamber of the eyeball with its description — 1) Anterior chamber (AC) 2) Anterior segment (AS) 3) Posterior segment … A) Contains vitreous (1% hyaluronic acid, gel-like) B) Between cornea and iris C) Contains aqueous humour",
+      "opts": ["1-B, 2-C, 3-A", "1-C, 2-B, 3-A", "1-B, 2-A, 3-C", "1-A, 2-C, 3-B"],
+      "ans": 0,
+      "exp": "AC: between cornea and iris; anterior segment (AS): contains aqueous humour; posterior segment: contains vitreous (1% hyaluronic acid, gel-like consistency). (Book p1)"
+    },
+    {
+      "id": "OPH-C1-030",
+      "sec": "Structural anatomy — chambers & segments",
+      "page": 1,
+      "fmt": "recall",
+      "q": "In the structural anatomy diagram, the zonules (ciliary zonules) are shown attached to the:",
+      "opts": ["Cornea", "Sclera", "Lens", "Iris"],
+      "ans": 2,
+      "exp": "The cross-section labels 'Zonules/ciliary zonules' spanning the ciliary body to the lens, suspending it behind the iris and pupil. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-031",
+      "sec": "Structural anatomy — chambers & segments",
+      "page": 1,
+      "fmt": "truefalse",
+      "q": "Which statement about the eye segments is TRUE?",
+      "opts": ["The anterior segment contains the vitreous", "The posterior chamber lies between the cornea and iris", "The posterior segment contains the aqueous humour", "The anterior segment contains the aqueous humour"],
+      "ans": 3,
+      "exp": "Anterior segment (AS): contains aqueous humour; the anterior chamber (not the posterior chamber) lies between cornea and iris; the posterior segment contains the vitreous. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-032",
+      "sec": "Structural anatomy — chambers & segments",
+      "page": 1,
+      "fmt": "recall",
+      "q": "In the diagram, the vitreous contained in the posterior segment is annotated with which pair of features?",
+      "opts": ["25% hyaluronic acid and a fluid consistency", "1% hyaluronic acid and a gel-like consistency", "No hyaluronic acid and a solid consistency", "1% hyaluronic acid and a fluid consistency"],
+      "ans": 1,
+      "exp": "Posterior segment: contains vitreous → 1% hyaluronic acid, gel-like consistency — the exact annotation in the structural anatomy diagram. (Book p1)"
+    },
+    {
+      "id": "OPH-C1-033",
+      "sec": "Aqueous humour",
+      "page": 2,
+      "fmt": "numeric",
+      "q": "The rate of aqueous humour secretion is:",
+      "opts": ["0.25 µL/minute", "3 mm/minute", "2.3 µL/minute", "6 ml/minute"],
+      "ans": 2,
+      "exp": "Aqueous humour — rate of secretion: 2.3 µL/minute; 0.25 µL/min/mm Hg is the outflow value and 6 ml is the eyeball volume. (Book p2)"
+    },
+    {
+      "id": "OPH-C1-034",
+      "sec": "Aqueous humour",
+      "page": 2,
+      "fmt": "numeric",
+      "q": "Aqueous outflow is:",
+      "opts": ["2.3 µL/minute", "0.25 µL/min/mm Hg", "0.25 µL/minute", "2.3 µL/min/mm Hg"],
+      "ans": 1,
+      "exp": "Aqueous outflow: 0.25 µL/min/mm Hg — note the unit differs from secretion (2.3 µL/minute); outflow is pressure-dependent, hence per mm Hg. (Book p2)"
+    },
+    {
+      "id": "OPH-C1-035",
+      "sec": "Aqueous humour",
+      "page": 2,
+      "fmt": "management",
+      "q": "The function of aqueous humour is to exert the intraocular pressure (IOP). IOP is measured by:",
+      "opts": ["Tonography", "Tonometry", "Gonioscopy", "Ophthalmoscopy"],
+      "ans": 1,
+      "exp": "Aqueous humour function: exerts intraocular pressure (IOP) — measured by tonometry; tonography is reserved for aqueous outflow. (Book p2)"
+    },
+    {
+      "id": "OPH-C1-036",
+      "sec": "Aqueous humour",
+      "page": 2,
+      "fmt": "management",
+      "q": "Aqueous outflow is measured by:",
+      "opts": ["Tonometry", "Perimetry", "Tonography", "Gonioscopy"],
+      "ans": 2,
+      "exp": "Aqueous outflow (0.25 µL/min/mm Hg) is measured by tonography, whereas the IOP it helps generate is measured by tonometry — the classic exam distinction. (Book p2)"
+    },
+    {
+      "id": "OPH-C1-037",
+      "sec": "Aqueous humour",
+      "page": 2,
+      "fmt": "scenario",
+      "q": "Aqueous outflow occurs via the ______, whose depth is 3 mm (range 2.5–4.4 mm).",
+      "opts": ["Limbus of the outer coat", "Angle of the anterior chamber", "Corneal endothelium", "Ciliary zonules"],
+      "ans": 1,
+      "exp": "Aqueous outflow: 0.25 µL/min/mm Hg, via the angle of the AC — depth 3 mm (2.5 mm – 4.4 mm). (Book p2)"
+    },
+    {
+      "id": "OPH-C1-038",
+      "sec": "Aqueous humour",
+      "page": 2,
+      "fmt": "numeric",
+      "q": "The depth of the anterior chamber, the route of aqueous outflow, is:",
+      "opts": ["1.5 mm (range 1–2 mm)", "5 mm (range 4–6 mm)", "3 mm (range 2.5–4.4 mm)", "10 mm (range 8–12 mm)"],
+      "ans": 2,
+      "exp": "Via angle of AC → depth: 3 mm (2.5 mm – 4.4 mm), measured by tonography in the aqueous outflow block. (Book p2)"
+    },
+    {
+      "id": "OPH-C1-039",
+      "sec": "Aqueous humour",
+      "page": 2,
+      "fmt": "fillup",
+      "q": "Fill up: Aqueous humour is a fluid secreted from the ______.",
+      "opts": ["Ciliary processes", "Ciliary muscle", "Choroid", "Retina"],
+      "ans": 0,
+      "exp": "Aqueous humour: fluid secreted from the ciliary processes — the same structures annotated 'secrete aqueous' in the structural anatomy diagram. (Book p2)"
+    },
+    {
+      "id": "OPH-C1-040",
+      "sec": "Aqueous humour",
+      "page": 2,
+      "fmt": "match",
+      "q": "Match each aqueous humour parameter with its value — 1) Rate of secretion 2) Outflow 3) AC depth (route of outflow) … A) 3 mm (2.5–4.4 mm) B) 0.25 µL/min/mm Hg C) 2.3 µL/minute",
+      "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-C, 2-B, 3-A", "1-C, 2-A, 3-B"],
+      "ans": 2,
+      "exp": "Rate of secretion 2.3 µL/minute; aqueous outflow 0.25 µL/min/mm Hg via the angle of AC, whose depth is 3 mm (2.5–4.4 mm). (Book p2)"
+    }
+  ],
+  "units": [
+    {
+      "id": "OPH-U1-1",
+      "ch": 1,
+      "n": 1,
+      "title": "Basic anatomy of the eyeball — shape, volume, site, axial length and the orbit",
+      "sec": "Basic Anatomy of Eye · p1",
+      "guide": "The chapter opens with four headline values of the eyeball: shape is aspherical (oblate spheroid), volume 6 ml, site the orbit (a bony cage), and axial length/antroposterior diameter 24 mm (2.4 cm). The 'Orbit containing eyeball' figure labels four structures of the orbit — the roof, the lateral wall, the medial wall and the floor — around the globe.",
+      "qs": ["OPH-C1-001", "OPH-C1-002", "OPH-C1-003", "OPH-C1-004", "OPH-C1-005", "OPH-C1-006"]
+    },
+    {
+      "id": "OPH-U1-2",
+      "ch": 1,
+      "n": 2,
+      "title": "Outermost coat — cornea, limbus and sclera",
+      "sec": "Basic Anatomy of Eye · p1",
+      "guide": "The outermost layer has three components: the anterior 1/6th is the cornea (transparent, convex shaped, refractive power present), the limbus is the corneo-scleral junction, and the posterior 5/6th is the sclera (white, opaque, covered by the conjunctiva — a transparent mucous membrane). The anterior eye photograph labels the sclera, limbus and the iris with the pupil, both 'seen below cornea'.",
+      "qs": ["OPH-C1-007", "OPH-C1-008", "OPH-C1-009", "OPH-C1-010", "OPH-C1-011", "OPH-C1-012", "OPH-C1-013", "OPH-C1-014"]
+    },
+    {
+      "id": "OPH-U1-3",
+      "ch": 1,
+      "n": 3,
+      "title": "Uveal tract and retina — middle and innermost coats",
+      "sec": "Basic Anatomy of Eye · p1",
+      "guide": "The middle layer is the uveal tract — explicitly labelled the vascular layer — with parts (anterior and posterior): a. iris, b. ciliary body, c. choroid. The innermost layer is the retina, a neurosensory layer that is present only posteriorly, not over the whole globe.",
+      "qs": ["OPH-C1-015", "OPH-C1-016", "OPH-C1-017", "OPH-C1-018", "OPH-C1-019", "OPH-C1-020"]
+    },
+    {
+      "id": "OPH-U1-4",
+      "ch": 1,
+      "n": 4,
+      "title": "Structural anatomy — chambers, ciliary body and eye segments",
+      "sec": "Basic Anatomy of Eye · p1",
+      "guide": "The 'Structural anatomy of eyeball' cross-section labels the angle of AC, iris, pupil, zonules (ciliary zonules) and lens. The ciliary body has a pleated pars plicata, a flat pars plana (most avascular in uvea) and ciliary processes that secrete aqueous. The anterior chamber (AC) lies between cornea and iris, the anterior segment (AS) contains aqueous humour, and the posterior segment contains the vitreous — 1% hyaluronic acid with a gel-like consistency.",
+      "qs": ["OPH-C1-021", "OPH-C1-022", "OPH-C1-023", "OPH-C1-024", "OPH-C1-025", "OPH-C1-026", "OPH-C1-027", "OPH-C1-028", "OPH-C1-029", "OPH-C1-030", "OPH-C1-031", "OPH-C1-032"]
+    },
+    {
+      "id": "OPH-U1-5",
+      "ch": 1,
+      "n": 5,
+      "title": "Aqueous humour — secretion, outflow and IOP",
+      "sec": "Basic Anatomy of Eye · p2",
+      "guide": "Aqueous humour is a fluid secreted from the ciliary processes at 2.3 µL/minute. Its function is to exert the intraocular pressure (IOP), measured by tonometry. Aqueous outflow is 0.25 µL/min/mm Hg, occurs via the angle of the AC (depth 3 mm, range 2.5–4.4 mm) and is measured by tonography — the tonometry-versus-tonography distinction is the key exam trap on this page.",
+      "qs": ["OPH-C1-033", "OPH-C1-034", "OPH-C1-035", "OPH-C1-036", "OPH-C1-037", "OPH-C1-038", "OPH-C1-039", "OPH-C1-040"]
+    }
+  ]
+}

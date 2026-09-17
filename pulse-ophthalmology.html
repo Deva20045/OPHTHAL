@@ -1,0 +1,882 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0e0a14">
+<title>PULSE · Ophthalmology — Marrow Edition 8 Companion</title>
+<style>
+  :root{
+    --bg:#0e0a14; --card:#1c1528; --card2:#251c34; --line:#3d3156;
+    --txt:#f7f2fc; --mut:#a898bf; --pink:#e0607e; --gold:#d4a85a;
+    --teal:#5fd0b5; --good:#3ddc84; --bad:#ff5d6c;
+    --serif:Georgia,'Iowan Old Style','Palatino Linotype',Palatino,'Times New Roman',serif;
+    --sans:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  *{box-sizing:border-box; -webkit-tap-highlight-color:transparent;}
+  html{color-scheme:dark; scroll-behavior:smooth;}
+  body{margin:0; font-family:var(--sans); color:var(--txt); min-height:100vh;
+    background:
+      radial-gradient(920px 460px at 50% -120px,#3a2154 0%,transparent 62%),
+      radial-gradient(640px 280px at 100% 110%,#1a1230 0%,transparent 55%),
+      var(--bg);
+    padding-bottom:env(safe-area-inset-bottom);}
+  .wrap{max-width:620px; margin:0 auto; padding:0 18px 88px;}
+  header.top{position:sticky; top:0; z-index:20; display:flex; align-items:center; gap:10px;
+    padding:12px 16px; max-width:620px; margin:0 auto;
+    background:#0e0a14d9; backdrop-filter:blur(16px); -webkit-backdrop-filter:blur(16px);
+    border-bottom:1px solid var(--line);}
+  header.top .brand{font-weight:800; font-size:18px; letter-spacing:.2px; flex:1;}
+  header.top .back{font-size:26px; cursor:pointer; color:var(--mut); padding:2px 8px 2px 0; line-height:1;}
+  .hstat{font-weight:800; font-size:12.5px; white-space:nowrap;
+    background:var(--card); border:1px solid var(--line); padding:6px 10px; border-radius:999px;}
+  .hidden{display:none !important;}
+  .hero{background:linear-gradient(165deg,#3c2550 0%,#221830 58%,#1a1326 100%);
+    border:1px solid var(--line); border-radius:24px; padding:28px 22px; margin:16px 0;
+    box-shadow:0 18px 40px #0004;}
+  .hero .kick{font-size:11px; letter-spacing:2.6px; color:var(--gold); font-weight:800;}
+  .hero h1{font-family:var(--serif); font-size:44px; margin:8px 0 10px; line-height:1.02; letter-spacing:-.6px;}
+  .hero p{color:#d4c8e6; font-size:15px; line-height:1.55; margin:0 0 12px;}
+  .hero a{color:var(--pink); font-weight:700; text-decoration:none; font-size:15px; cursor:pointer;}
+  .stats{display:grid; grid-template-columns:repeat(3,1fr); gap:10px; margin:0 0 12px;}
+  .stat{background:var(--card); border:1px solid var(--line); border-radius:16px; padding:14px 6px; text-align:center;}
+  .stat b{font-size:22px; display:block; letter-spacing:-.3px;} .stat span{font-size:11.5px; color:var(--mut);}
+  .btn{display:block; width:100%; margin-top:12px; padding:15px; font-size:16px; font-weight:800;
+    color:#1a0f14; background:linear-gradient(135deg,#f0788f,var(--pink)); border:0; border-radius:14px;
+    cursor:pointer; letter-spacing:.2px; touch-action:manipulation;}
+  .btn:active{transform:scale(.98);}
+  .btn.ghost{background:transparent; color:var(--txt); border:1.5px solid var(--line);}
+  .btn.gold{background:linear-gradient(135deg,#e8c070,var(--gold)); color:#1d1405;}
+  h2.page{font-family:var(--serif); font-size:30px; margin:18px 0 2px; letter-spacing:-.3px;}
+  p.sub{color:var(--mut); margin:0 0 14px; font-size:14px;}
+  .chrow{display:flex; align-items:center; gap:12px; background:var(--card); border:1px solid var(--line);
+    border-radius:16px; padding:14px; margin:10px 0; cursor:pointer; transition:border-color .15s, transform .15s;}
+  .chrow:not(.locked):hover{border-color:#6a5488; transform:translateY(-1px);}
+  .chrow.locked{opacity:.45; cursor:default;}
+  .chnum{min-width:44px; height:44px; border-radius:13px; display:grid; place-items:center;
+    font-weight:800; font-size:17px; background:linear-gradient(135deg,#d96a84,#b34a62); color:#fff;}
+  .chrow.locked .chnum{background:#3a2f4d; color:var(--mut);}
+  .chrow .t{flex:1; font-weight:700; font-size:15.5px; line-height:1.35;}
+  .chrow .u{font-size:12.5px; color:var(--teal); white-space:nowrap; font-weight:700;}
+  .chrow.locked .u{color:var(--mut);}
+  .pathsec{text-align:center; color:var(--mut); font-size:11px; letter-spacing:2.5px; margin:26px 0 6px;
+    display:flex; align-items:center; gap:10px; font-weight:700;}
+  .pathsec::before,.pathsec::after{content:""; flex:1; height:1px; background:var(--line);}
+  .node{display:flex; flex-direction:column; align-items:center; position:relative; padding:10px 0 4px;}
+  .node:not(:last-child)::after{content:""; width:3px; height:26px; margin-top:10px; border-radius:2px;
+    background:repeating-linear-gradient(180deg,var(--line) 0 5px,transparent 5px 10px);}
+  .ball{width:86px; height:86px; border-radius:50%; display:grid; place-items:center;
+    font-size:30px; font-weight:800; cursor:pointer; border:4px solid transparent;}
+  .ball.done{background:#1d3a2a; border-color:var(--good); color:var(--good); font-size:32px;}
+  .ball.current{background:radial-gradient(circle at 35% 30%,#e8c070,var(--gold) 70%);
+    color:#fff; box-shadow:0 0 0 6px #d4a85a33, 0 8px 24px #d4a85a55; animation:pulse 2s infinite;}
+  @keyframes pulse{0%,100%{box-shadow:0 0 0 6px #d4a85a33;}50%{box-shadow:0 0 0 12px #d4a85a18;}}
+  .ball.locked{background:#241c33; border-color:#171224; color:#6f6386; cursor:default; font-size:30px;}
+  .ntitle{margin-top:8px; font-weight:700; font-size:14.5px; text-align:center; max-width:230px; line-height:1.35;}
+  .ncount{font-size:12px; color:var(--mut); margin-top:2px;}
+  .guide{background:linear-gradient(180deg,#2a203c,var(--card)); border:1px solid var(--line);
+    border-radius:22px; padding:24px 22px; margin-top:16px; box-shadow:0 18px 40px #0004;}
+  .guide .kick{font-size:11px; letter-spacing:2px; color:var(--gold); font-weight:800;}
+  .guide h2{font-family:var(--serif); font-size:26px; margin:8px 0 10px; line-height:1.25;}
+  .guide p{color:#d8cde9; line-height:1.65; font-size:15.5px;}
+  .gfrow{display:flex; flex-wrap:wrap; gap:6px; margin:4px 0 10px;}
+  .chip{font-size:11px; font-weight:800; letter-spacing:.4px; color:#e8dff5;
+    border:1px solid var(--line); background:#2a213c; border-radius:999px; padding:4px 10px;}
+  .qmeta{display:flex; align-items:baseline; justify-content:space-between; gap:12px; margin-top:14px;}
+  .qcount{font-size:11px; letter-spacing:2px; color:var(--mut); font-weight:800;}
+  .qhud{display:flex; gap:8px; flex-wrap:wrap; justify-content:flex-end;}
+  .qhud span{font-size:11.5px; font-weight:800; color:#dccff0; background:var(--card);
+    border:1px solid var(--line); border-radius:999px; padding:4px 8px;}
+  .qbar{height:8px; background:var(--card2); border:1px solid var(--line); border-radius:999px; overflow:hidden; margin:10px 0 8px;}
+  .qbar i{display:block; height:100%; width:0; border-radius:inherit;
+    background:linear-gradient(90deg,#f0788f,var(--gold)); box-shadow:0 0 12px #e0607e66;
+    transition:width .35s cubic-bezier(.2,.8,.2,1);}
+  .qdots{display:flex; gap:4px; margin:0 0 14px;}
+  .qdots i{flex:1; height:4px; border-radius:99px; background:#2a213c;}
+  .qdots i.now{background:var(--pink);}
+  .qdots i.ok{background:var(--good);}
+  .qdots i.no{background:var(--bad);}
+  .qpills{display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin:0 0 6px;}
+  .qfmt{display:inline-block; font-size:10.5px; font-weight:800; letter-spacing:1.4px; text-transform:uppercase;
+    color:#1d1405; background:linear-gradient(135deg,#e8c070,var(--gold)); border-radius:999px; padding:4px 10px;}
+  .qtag{display:inline-block; font-size:11.5px; color:var(--teal); border:1px solid #5fd0b555;
+    border-radius:999px; padding:3px 10px; font-weight:700;}
+  .qstage{animation:in .32s ease;}
+  @keyframes in{from{opacity:0; transform:translateY(8px);} to{opacity:1; transform:none;}}
+  .qtext{font-family:var(--serif); font-size:24px; line-height:1.38; margin:10px 0 16px; letter-spacing:-.25px;}
+  .qtext.hasboard{font-size:20px; color:#efe6f8; margin-bottom:12px;}
+  .qtext.clinical{background:linear-gradient(180deg,#261c36,#1c1528); border:1px solid var(--line);
+    border-left:3px solid var(--gold); border-radius:16px; padding:16px 16px 16px 18px; font-size:20px;}
+  .blank{display:inline-block; min-width:92px; height:.95em; margin:0 5px -2px; vertical-align:-2px;
+    border-bottom:2.5px solid var(--gold); background:linear-gradient(180deg,transparent 62%, #d4a85a2e 62%);
+    border-radius:2px;}
+  .qboard{display:grid; grid-template-columns:1fr 1fr; gap:10px; margin:0 0 16px;}
+  .mcol{background:var(--card); border:1px solid var(--line); border-radius:16px; padding:12px 12px 8px; min-width:0;}
+  .mhd{font-size:10.5px; letter-spacing:1.8px; font-weight:800; color:var(--gold); margin:0 0 8px;}
+  .mrow{display:flex; gap:8px; align-items:flex-start; font-size:13.5px; line-height:1.4;
+    padding:7px 0; border-top:1px solid #3a2d5233; color:#e9def6;}
+  .mrow:first-of-type{border-top:0;}
+  .mrow i{min-width:22px; height:22px; border-radius:7px; display:grid; place-items:center;
+    font-style:normal; font-weight:800; font-size:11px; background:#32284a; color:#f0e6fb; flex-shrink:0;}
+  .opt{display:flex; align-items:flex-start; gap:12px; width:100%; text-align:left; margin:9px 0; padding:14px 14px;
+    font-size:15.5px; color:var(--txt); background:var(--card); border:1.5px solid var(--line); border-radius:16px;
+    cursor:pointer; line-height:1.4; font-family:inherit; animation:optin .35s ease both;
+    transition:border-color .15s, background .15s, transform .15s, box-shadow .15s; touch-action:manipulation;}
+  @keyframes optin{from{opacity:0; transform:translateY(8px);} to{opacity:1; transform:none;}}
+  .opt:not(:disabled):hover{border-color:#6a5488; background:#241a34; transform:translateY(-1px);}
+  .opt:not(:disabled):active{border-color:var(--pink);}
+  .opt:disabled{cursor:default; opacity:.72;}
+  .opt.correct,.opt.wrong{opacity:1;}
+  .opt.correct{border-color:var(--good); background:#3ddc8418; box-shadow:0 0 0 1px #3ddc8466, 0 10px 24px #3ddc8420;}
+  .opt.wrong{border-color:var(--bad); background:#ff5d6c16; animation:shake .35s ease;}
+  @keyframes shake{0%,100%{transform:translateX(0);} 25%{transform:translateX(-5px);} 75%{transform:translateX(5px);}}
+  .okey{min-width:32px; height:32px; border-radius:10px; display:grid; place-items:center;
+    font-weight:800; font-size:13px; background:#2f2644; color:#d7cbe8; flex-shrink:0;}
+  .opt.correct .okey{background:#1d3a2a; color:var(--good);}
+  .opt.wrong .okey{background:#3a1a22; color:var(--bad);}
+  .otxt{flex:1; padding-top:4px; min-width:0;}
+  .mpair{display:inline-flex; align-items:center; gap:5px; margin:2px 8px 2px 0; padding:4px 8px;
+    background:#2a213c; border:1px solid var(--line); border-radius:999px; font-size:13px; font-weight:700;}
+  .mpair em{font-style:normal; color:var(--gold);}
+  .mpair span{color:var(--mut);}
+  .mpair b{color:var(--teal); font-weight:800;}
+  .fb{margin-top:12px; padding:0; border-radius:16px; font-size:14.5px; line-height:1.6; display:none; overflow:hidden;}
+  .fb.show{display:block; animation:in .28s ease;}
+  .fb.good{background:#3ddc8412; border:1px solid #3ddc8466;}
+  .fb.bad{background:#ff5d6c12; border:1px solid #ff5d6c66;}
+  .fbhd{font-weight:800; font-size:13px; letter-spacing:.3px; padding:11px 15px 0;}
+  .fb.good .fbhd{color:var(--good);}
+  .fb.bad .fbhd{color:var(--bad);}
+  .fbbd{padding:8px 15px 10px; color:#e9def6;}
+  .fbcite{display:inline-block; margin:0 15px 12px; font-size:11px; font-weight:800; letter-spacing:1.2px;
+    color:var(--gold); border:1px solid #d4a85a55; border-radius:999px; padding:3px 10px;}
+  #nextBtn{position:sticky; bottom:16px; z-index:8; box-shadow:0 12px 28px #0008, 0 0 0 6px #0e0a1488;}
+  .qkeys{text-align:center; color:var(--mut); font-size:12px; letter-spacing:.3px; margin-top:14px;}
+  .donebox{text-align:center; padding:22px 6px 10px;}
+  .donebox .big{font-size:64px;}
+  .donebox h2{font-family:var(--serif); font-size:30px; margin:10px 0 4px;}
+  .grade{font-weight:800; color:var(--gold); letter-spacing:.8px; font-size:13px; margin:0 0 6px;}
+  .ring{width:132px; height:132px; border-radius:50%; margin:8px auto 14px; padding:10px;
+    background:conic-gradient(var(--good) 0 0%, var(--card2) 0 100%);}
+  .ringin{width:100%; height:100%; border-radius:50%; background:var(--bg); display:flex;
+    flex-direction:column; align-items:center; justify-content:center; border:1px solid var(--line);}
+  .ringin b{font-size:28px; letter-spacing:-.5px; line-height:1;}
+  .ringin span{font-size:11px; color:var(--mut); margin-top:4px; font-weight:700;}
+  .rev{margin:8px 0; padding:14px 15px; border:1px solid var(--line); border-radius:14px;
+    font-size:13.5px; background:var(--card); line-height:1.5; text-align:left;}
+  .rev b{color:var(--good);}
+  .revq{font-weight:700; color:#efe6f8; margin-bottom:8px;}
+  .reva{color:var(--good); font-weight:700; margin-bottom:6px;}
+  .reve{color:#d8cde9;}
+  .revp{margin-top:8px; font-size:11px; font-weight:800; letter-spacing:1px; color:var(--gold);}
+  footer{text-align:center; color:var(--mut); font-size:12px; margin-top:22px; line-height:1.7;}
+  .float{position:fixed; font-weight:800; pointer-events:none; animation:rise 1s ease-out forwards; z-index:50;}
+  @keyframes rise{from{opacity:1; transform:translateY(0);} to{opacity:0; transform:translateY(-46px);}}
+  .conf{position:fixed; top:-10px; width:7px; height:11px; border-radius:2px; z-index:80;
+    pointer-events:none; animation:fall 1.35s ease-in forwards;}
+  @keyframes fall{to{transform:translateY(105vh) rotate(220deg); opacity:0;}}
+  @media (max-width:430px){
+    .qboard{grid-template-columns:1fr;}
+    .qtext{font-size:22px;}
+    .hero h1{font-size:38px;}
+  }
+  @media (prefers-reduced-motion:reduce){
+    *,*::before,*::after{animation:none !important; transition:none !important;}
+  }
+</style>
+
+</head>
+<body>
+<header class="top">
+  <span class="back hidden" id="backBtn" onclick="goBack()">‹</span>
+  <span class="brand" id="brand">PULSE</span>
+  <span class="hstat">🔥 <span id="hStreak">0</span></span>
+  <span class="hstat">✦ <span id="hXP">0</span></span>
+</header>
+<div class="wrap">
+
+  <!-- HOME -->
+  <div id="home">
+    <div class="hero">
+      <div class="kick">MARROW EDITION 8 · COMPANION</div>
+      <h1>Ophthalmology</h1>
+      <p id="heroSub"></p>
+      <a onclick="show('chapters')">Browse chapters →</a>
+    </div>
+    <div class="stats">
+      <div class="stat"><b id="sXP">0</b><span>Total XP</span></div>
+      <div class="stat"><b id="sStreak">0</b><span>Day streak</span></div>
+      <div class="stat"><b id="sUnits">0</b><span>Units done</span></div>
+    </div>
+    <button class="btn ghost" onclick="unlockAll()">🔓 Unlock all units (testing)</button>
+    <button class="btn" onclick="continueLearning()">▶ Continue learning</button>
+  </div>
+
+  <!-- CHAPTERS -->
+  <div id="chapters" class="hidden">
+    <h2 class="page">Chapters</h2>
+    <p class="sub" id="chSub"></p>
+    <div id="chList"></div>
+  </div>
+
+  <!-- PATH -->
+  <div id="path" class="hidden">
+    <p class="sub" id="pathKick" style="margin-top:16px;"></p>
+    <h2 class="page" id="pathTitle" style="margin-top:0;"></h2>
+    <p class="sub" id="pathSub"></p>
+    <div id="nodes"></div>
+  </div>
+
+  <!-- GUIDE -->
+  <div id="guide" class="hidden">
+    <div class="guide">
+      <div class="kick" id="gKick"></div>
+      <h2 id="gTitle"></h2>
+      <p id="gText"></p>
+      <div class="gfrow" id="gFmts"></div>
+      <p class="sub" id="gCount"></p>
+      <button class="btn gold" onclick="beginUnit()">Start unit →</button>
+    </div>
+  </div>
+
+  <!-- QUIZ -->
+  <div id="quiz" class="hidden">
+    <div class="qmeta">
+      <div class="qcount" id="qcount"></div>
+      <div class="qhud" id="qhud"></div>
+    </div>
+    <div class="qbar"><i id="qbar"></i></div>
+    <div class="qdots" id="qdots"></div>
+    <div class="qpills">
+      <span class="qfmt" id="qfmt"></span>
+      <span class="qtag" id="qtag"></span>
+    </div>
+    <div class="qstage" id="qstage">
+      <div class="qtext" id="qtext"></div>
+      <div class="qboard hidden" id="qboard"></div>
+    </div>
+    <div id="opts"></div>
+    <div class="fb" id="fb"></div>
+    <button class="btn hidden" id="nextBtn" onclick="nextQ()">Continue →</button>
+    <div class="qkeys" id="qkeys">Press 1 – 4 to answer</div>
+  </div>
+
+  <!-- UNIT DONE -->
+  <div id="unitdone" class="hidden">
+    <div class="donebox">
+      <div class="ring" id="dRing"></div>
+      <div class="grade" id="dGrade"></div>
+      <h2 id="dHead">Unit complete!</h2>
+      <p class="sub" id="dSub"></p>
+      <div class="stats">
+        <div class="stat"><b id="dScore">–</b><span>Score</span></div>
+        <div class="stat"><b id="dXP">–</b><span>XP earned</span></div>
+        <div class="stat"><b id="dAcc">–</b><span>Accuracy</span></div>
+      </div>
+      <div id="dRev"></div>
+      <button class="btn" onclick="afterUnit()">Continue →</button>
+      <button class="btn ghost" onclick="openGuide(curUnit)">↻ Redo unit</button>
+    </div>
+  </div>
+
+  <footer>PULSE · Ophthalmology · question order follows the book line-by-line<br>options shuffled every run · progress saved on this device</footer>
+</div>
+
+<script>
+const QUESTIONS = [{"id":"OPH-C1-001","sec":"Basic Anatomy of Eyeball","page":1,"fmt":"numeric","q":"The volume of the eyeball is:","opts":["15 ml","24 ml","6 ml","12 ml"],"ans":2,"exp":"The book lists the volume of the eyeball as 6 ml; 24 ml is a trap — 24 mm is the axial length, not the volume. (Book p1)"},{"id":"OPH-C1-002","sec":"Basic Anatomy of Eyeball","page":1,"fmt":"fillup","q":"Fill up: The eyeball is aspherical — specifically an ______.","opts":["Prolate spheroid","Oblate spheroid","Perfect sphere","Biconvex lens"],"ans":1,"exp":"Shape of the eyeball: aspherical (oblate spheroid) — a sphere flattened at the poles, not elongated as in a prolate spheroid. (Book p1)"},{"id":"OPH-C1-003","sec":"Basic Anatomy of Eyeball","page":1,"fmt":"scenario","q":"In the anatomy lab a student is asked for the site of the eyeball. Per the book, the eyeball is housed in the ______.","opts":["Sphenoid sinus","Temporal fossa","Infratemporal fossa","Orbit (bony cage)"],"ans":3,"exp":"Site of the eyeball: the orbit, a bony cage; the figure 'Orbit containing eyeball' labels its roof, lateral wall, medial wall and floor. (Book p1)"},{"id":"OPH-C1-004","sec":"Basic Anatomy of Eyeball","page":1,"fmt":"numeric","q":"The axial length (anteroposterior diameter) of the eyeball is:","opts":["2.4 cm (24 mm)","18 mm (1.8 cm)","34 mm (3.4 cm)","10 mm (1 cm)"],"ans":0,"exp":"Axial length/antroposterior diameter: 24 mm (2.4 cm) — one of the four headline values on the 'Basic Anatomy of Eyeball' block. (Book p1)"},{"id":"OPH-C1-005","sec":"Basic Anatomy of Eyeball","page":1,"fmt":"match","q":"Match each attribute of the eyeball with its value — 1) Volume 2) Site 3) Axial length … A) 24 mm (2.4 cm) B) Orbit (bony cage) C) 6 ml","opts":["1-B, 2-C, 3-A","1-C, 2-B, 3-A","1-C, 2-A, 3-B","1-A, 2-B, 3-C"],"ans":1,"exp":"The book's four basic facts: shape aspherical (oblate spheroid), volume 6 ml, site orbit (bony cage), axial length/antroposterior diameter 24 mm (2.4 cm). (Book p1)"},{"id":"OPH-C1-006","sec":"Basic Anatomy of Eyeball","page":1,"fmt":"oddoneout","q":"All of the following are labelled in the 'Orbit containing eyeball' figure EXCEPT:","opts":["Posterior wall","Roof","Medial wall","Floor"],"ans":0,"exp":"The figure labels four structures of the orbit — roof, lateral wall, medial wall and floor; a posterior wall is not among the labelled structures. (Book p1)"},{"id":"OPH-C1-007","sec":"Outermost coat — cornea, limbus, sclera","page":1,"fmt":"fillup","q":"Fill up: The cornea forms the anterior ______ of the outermost layer of the eyeball.","opts":["1/3rd","5/6th","1/2","1/6th"],"ans":3,"exp":"Layers → Outermost: anterior 1/6th is the cornea (transparent, convex shaped, refractive power present), the limbus is the corneo-scleral junction, and the posterior 5/6th is the sclera. (Book p1)"},{"id":"OPH-C1-008","sec":"Outermost coat — cornea, limbus, sclera","page":1,"fmt":"recall","q":"The posterior 5/6th of the outermost layer is formed by the:","opts":["Cornea","Limbus","Sclera","Choroid"],"ans":2,"exp":"Outermost layer: posterior 5/6th : Sclera — white (opaque) and covered by the conjunctiva (a transparent mucous membrane); the choroid belongs to the middle uveal tract. (Book p1)"},{"id":"OPH-C1-009","sec":"Outermost coat — cornea, limbus, sclera","page":1,"fmt":"oddoneout","q":"All of the following are stated about the cornea EXCEPT:","opts":["Transparent","White and opaque","Convex shaped","Refractive power present"],"ans":1,"exp":"The cornea is transparent, convex shaped and has refractive power; 'white (opaque)' is the description of the sclera, not the cornea. (Book p1)"},{"id":"OPH-C1-010","sec":"Outermost coat — cornea, limbus, sclera","page":1,"fmt":"match","q":"Match each structure of the outermost layer with its description — 1) Cornea 2) Limbus 3) Sclera … A) Corneo-scleral junction B) White (opaque), covered by conjunctiva C) Transparent, convex, refractive power present","opts":["1-A, 2-C, 3-B","1-C, 2-B, 3-A","1-B, 2-A, 3-C","1-C, 2-A, 3-B"],"ans":3,"exp":"Cornea: transparent, convex, refractive power present; limbus: corneo-scleral junction; sclera: white (opaque), covered by conjunctiva (transparent mucous membrane). (Book p1)"},{"id":"OPH-C1-011","sec":"Outermost coat — cornea, limbus, sclera","page":1,"fmt":"fillup","q":"Fill up: The sclera is covered by the ______, described as a transparent mucous membrane.","opts":["Conjunctiva","Iris","Cornea","Ciliary body"],"ans":0,"exp":"The sclera (posterior 5/6th of the outermost layer) is white (opaque) and covered by the conjunctiva — a transparent mucous membrane. (Book p1)"},{"id":"OPH-C1-012","sec":"Outermost coat — cornea, limbus, sclera","page":1,"fmt":"scenario","q":"During dissection, a trainee points at the limbus and asks for its identity. The correct reply is:","opts":["The angle of the anterior chamber","The corneo-scleral junction","The most avascular part of the uvea","The junction of iris and ciliary body"],"ans":1,"exp":"The limbus is defined in the layers flowchart as the corneo-scleral junction; the angle of the anterior chamber and the pars plana (most avascular in uvea) are separate structures. (Book p1)"},{"id":"OPH-C1-013","sec":"Outermost coat — cornea, limbus, sclera","page":1,"fmt":"truefalse","q":"Which of the following statements about the layers of the eyeball is TRUE?","opts":["The uveal tract is the innermost layer","The retina is present both anteriorly and posteriorly","The outermost layer consists of the cornea, limbus and sclera","The sclera is transparent"],"ans":2,"exp":"Outermost = cornea (anterior 1/6th) + limbus (corneo-scleral junction) + sclera (posterior 5/6th). The uveal tract is the middle (vascular) layer, the retina (neurosensory layer) is present only posteriorly, and the sclera is white and opaque. (Book p1)"},{"id":"OPH-C1-014","sec":"Outermost coat — cornea, limbus, sclera","page":1,"fmt":"recall","q":"Which part of the eyeball is described as 'white (opaque)' and covered by a transparent mucous membrane?","opts":["Cornea","Limbus","Iris","Sclera"],"ans":3,"exp":"Posterior 5/6th : Sclera — white (opaque), covered by conjunctiva (transparent mucous membrane); the iris belongs to the middle uveal tract. (Book p1)"},{"id":"OPH-C1-015","sec":"Uveal tract and retina","page":1,"fmt":"recall","q":"The middle layer of the eyeball is the:","opts":["Retina","Cornea","Conjunctiva","Uveal tract"],"ans":3,"exp":"Layers → Middle: uveal tract (vascular layer) with parts (anterior and posterior): a. iris, b. ciliary body, c. choroid; the retina is the innermost, neurosensory layer. (Book p1)"},{"id":"OPH-C1-016","sec":"Uveal tract and retina","page":1,"fmt":"oddoneout","q":"All of the following are parts of the uveal tract EXCEPT:","opts":["Sclera","Iris","Ciliary body","Choroid"],"ans":0,"exp":"Uveal tract parts (anterior and posterior): a. iris, b. ciliary body, c. choroid; the sclera is part of the outermost layer. (Book p1)"},{"id":"OPH-C1-017","sec":"Uveal tract and retina","page":1,"fmt":"fillup","q":"Fill up: The uveal tract is also referred to as the ______ layer.","opts":["Neurosensory","Refractive","Pigmented","Vascular"],"ans":3,"exp":"The book explicitly labels the middle uveal tract as the 'Vascular Layer'; the neurosensory layer is the innermost retina. (Book p1)"},{"id":"OPH-C1-018","sec":"Uveal tract and retina","page":1,"fmt":"recall","q":"The innermost layer of the eyeball is the retina, described in the book as the:","opts":["Vascular layer","Muscular layer","Neurosensory layer","Refractive layer"],"ans":2,"exp":"Innermost: Retina — a neurosensory layer, present only posteriorly; the vascular layer is the middle uveal tract. (Book p1)"},{"id":"OPH-C1-019","sec":"Uveal tract and retina","page":1,"fmt":"truefalse","q":"Which statement about the retina is TRUE?","opts":["It is present only posteriorly","It is the middle (vascular) layer","It forms the anterior 1/6th of the outer coat","It is the corneo-scleral junction"],"ans":0,"exp":"The retina is the innermost neurosensory layer and is present only posteriorly; the middle layer is the vascular uveal tract, the anterior 1/6th is the cornea, and the limbus is the corneo-scleral junction. (Book p1)"},{"id":"OPH-C1-020","sec":"Uveal tract and retina","page":1,"fmt":"scenario","q":"A medical student must recite the three parts of the uveal tract in the book's order (a, b, c). The correct sequence is:","opts":["Choroid, ciliary body, iris","Iris, ciliary body, choroid","Ciliary body, iris, choroid","Iris, choroid, ciliary body"],"ans":1,"exp":"Uveal tract — Parts (anterior and posterior): a. iris, b. ciliary body, c. choroid, in that order. (Book p1)"},{"id":"OPH-C1-021","sec":"Structural anatomy — chambers & segments","page":1,"fmt":"recall","q":"The anterior chamber (AC) is the space:","opts":["Between the cornea and the iris","Between the iris and the lens","Behind the lens","Inside the posterior segment"],"ans":0,"exp":"The structural anatomy diagram annotates 'Anterior chamber (AC): between cornea and iris'; the posterior chamber (PC) lies deeper, behind the iris. (Book p1)"},{"id":"OPH-C1-022","sec":"Structural anatomy — chambers & segments","page":1,"fmt":"fillup","q":"Fill up: The posterior segment of the eyeball contains the ______.","opts":["Vitreous","Aqueous humour","Cornea","Iris"],"ans":0,"exp":"Posterior segment: contains vitreous (1% hyaluronic acid, gel-like consistency); the aqueous humour is in the anterior segment. (Book p1)"},{"id":"OPH-C1-023","sec":"Structural anatomy — chambers & segments","page":1,"fmt":"match","q":"Match each part of the ciliary body with its feature — 1) Pars plicata 2) Pars plana 3) Ciliary processes … A) Secrete aqueous B) Flat part; most avascular in uvea C) Pleated part","opts":["1-A, 2-C, 3-B","1-C, 2-A, 3-B","1-C, 2-B, 3-A","1-B, 2-C, 3-A"],"ans":2,"exp":"Ciliary body: pars plicata (pleated), pars plana (flat) — most avascular in uvea; the ciliary processes secrete aqueous. (Book p1)"},{"id":"OPH-C1-024","sec":"Structural anatomy — chambers & segments","page":1,"fmt":"recall","q":"Which part of the ciliary body is pleated?","opts":["Pars plana","Pars plicata","Ciliary processes","Zonules"],"ans":1,"exp":"Ciliary body parts: pars plicata (pleated) and pars plana (flat, most avascular in uvea); the ciliary processes secrete aqueous. (Book p1)"},{"id":"OPH-C1-025","sec":"Structural anatomy — chambers & segments","page":1,"fmt":"fillup","q":"Fill up: The pars plana is described as ______ in the uvea.","opts":["Most vascular","Most avascular","Pleated","Refractive"],"ans":1,"exp":"Pars plana (flat) — most avascular in uvea; the pleated part is the pars plicata. (Book p1)"},{"id":"OPH-C1-026","sec":"Structural anatomy — chambers & segments","page":1,"fmt":"scenario","q":"During a slit-lamp teaching session a junior asks which structure secretes the aqueous humour. The book's answer is:","opts":["Choroid","Corneal epithelium","Ciliary processes","Retinal pigment epithelium"],"ans":2,"exp":"In the structural anatomy diagram the ciliary processes are annotated with 'secrete aqueous' — the source of aqueous humour. (Book p1)"},{"id":"OPH-C1-027","sec":"Structural anatomy — chambers & segments","page":1,"fmt":"numeric","q":"The vitreous contains ______ hyaluronic acid, with a gel-like consistency.","opts":["1%","10%","25%","50%"],"ans":0,"exp":"Posterior segment: contains vitreous → 1% hyaluronic acid, gel-like consistency. (Book p1)"},{"id":"OPH-C1-028","sec":"Structural anatomy — chambers & segments","page":1,"fmt":"oddoneout","q":"All of the following are labelled in the 'Structural anatomy of eyeball' diagram EXCEPT:","opts":["Zonules (ciliary zonules)","Corneal endothelium","Angle of AC","Pupil"],"ans":1,"exp":"The diagram labels the angle of AC, iris, pupil, zonules/ciliary zonules, lens, ciliary body (pars plicata, pars plana), ciliary processes, AC, PC, anterior segment, sclera, choroid and retina; the corneal endothelium is not labelled. (Book p1)"},{"id":"OPH-C1-029","sec":"Structural anatomy — chambers & segments","page":1,"fmt":"match","q":"Match each segment/chamber of the eyeball with its description — 1) Anterior chamber (AC) 2) Anterior segment (AS) 3) Posterior segment … A) Contains vitreous (1% hyaluronic acid, gel-like) B) Between cornea and iris C) Contains aqueous humour","opts":["1-B, 2-C, 3-A","1-C, 2-B, 3-A","1-B, 2-A, 3-C","1-A, 2-C, 3-B"],"ans":0,"exp":"AC: between cornea and iris; anterior segment (AS): contains aqueous humour; posterior segment: contains vitreous (1% hyaluronic acid, gel-like consistency). (Book p1)"},{"id":"OPH-C1-030","sec":"Structural anatomy — chambers & segments","page":1,"fmt":"recall","q":"In the structural anatomy diagram, the zonules (ciliary zonules) are shown attached to the:","opts":["Cornea","Sclera","Lens","Iris"],"ans":2,"exp":"The cross-section labels 'Zonules/ciliary zonules' spanning the ciliary body to the lens, suspending it behind the iris and pupil. (Book p1)"},{"id":"OPH-C1-031","sec":"Structural anatomy — chambers & segments","page":1,"fmt":"truefalse","q":"Which statement about the eye segments is TRUE?","opts":["The anterior segment contains the vitreous","The posterior chamber lies between the cornea and iris","The posterior segment contains the aqueous humour","The anterior segment contains the aqueous humour"],"ans":3,"exp":"Anterior segment (AS): contains aqueous humour; the anterior chamber (not the posterior chamber) lies between cornea and iris; the posterior segment contains the vitreous. (Book p1)"},{"id":"OPH-C1-032","sec":"Structural anatomy — chambers & segments","page":1,"fmt":"recall","q":"In the diagram, the vitreous contained in the posterior segment is annotated with which pair of features?","opts":["25% hyaluronic acid and a fluid consistency","1% hyaluronic acid and a gel-like consistency","No hyaluronic acid and a solid consistency","1% hyaluronic acid and a fluid consistency"],"ans":1,"exp":"Posterior segment: contains vitreous → 1% hyaluronic acid, gel-like consistency — the exact annotation in the structural anatomy diagram. (Book p1)"},{"id":"OPH-C1-033","sec":"Aqueous humour","page":2,"fmt":"numeric","q":"The rate of aqueous humour secretion is:","opts":["0.25 µL/minute","3 mm/minute","2.3 µL/minute","6 ml/minute"],"ans":2,"exp":"Aqueous humour — rate of secretion: 2.3 µL/minute; 0.25 µL/min/mm Hg is the outflow value and 6 ml is the eyeball volume. (Book p2)"},{"id":"OPH-C1-034","sec":"Aqueous humour","page":2,"fmt":"numeric","q":"Aqueous outflow is:","opts":["2.3 µL/minute","0.25 µL/min/mm Hg","0.25 µL/minute","2.3 µL/min/mm Hg"],"ans":1,"exp":"Aqueous outflow: 0.25 µL/min/mm Hg — note the unit differs from secretion (2.3 µL/minute); outflow is pressure-dependent, hence per mm Hg. (Book p2)"},{"id":"OPH-C1-035","sec":"Aqueous humour","page":2,"fmt":"management","q":"The function of aqueous humour is to exert the intraocular pressure (IOP). IOP is measured by:","opts":["Tonography","Tonometry","Gonioscopy","Ophthalmoscopy"],"ans":1,"exp":"Aqueous humour function: exerts intraocular pressure (IOP) — measured by tonometry; tonography is reserved for aqueous outflow. (Book p2)"},{"id":"OPH-C1-036","sec":"Aqueous humour","page":2,"fmt":"management","q":"Aqueous outflow is measured by:","opts":["Tonometry","Perimetry","Tonography","Gonioscopy"],"ans":2,"exp":"Aqueous outflow (0.25 µL/min/mm Hg) is measured by tonography, whereas the IOP it helps generate is measured by tonometry — the classic exam distinction. (Book p2)"},{"id":"OPH-C1-037","sec":"Aqueous humour","page":2,"fmt":"scenario","q":"Aqueous outflow occurs via the ______, whose depth is 3 mm (range 2.5–4.4 mm).","opts":["Limbus of the outer coat","Angle of the anterior chamber","Corneal endothelium","Ciliary zonules"],"ans":1,"exp":"Aqueous outflow: 0.25 µL/min/mm Hg, via the angle of the AC — depth 3 mm (2.5 mm – 4.4 mm). (Book p2)"},{"id":"OPH-C1-038","sec":"Aqueous humour","page":2,"fmt":"numeric","q":"The depth of the anterior chamber, the route of aqueous outflow, is:","opts":["1.5 mm (range 1–2 mm)","5 mm (range 4–6 mm)","3 mm (range 2.5–4.4 mm)","10 mm (range 8–12 mm)"],"ans":2,"exp":"Via angle of AC → depth: 3 mm (2.5 mm – 4.4 mm), measured by tonography in the aqueous outflow block. (Book p2)"},{"id":"OPH-C1-039","sec":"Aqueous humour","page":2,"fmt":"fillup","q":"Fill up: Aqueous humour is a fluid secreted from the ______.","opts":["Ciliary processes","Ciliary muscle","Choroid","Retina"],"ans":0,"exp":"Aqueous humour: fluid secreted from the ciliary processes — the same structures annotated 'secrete aqueous' in the structural anatomy diagram. (Book p2)"},{"id":"OPH-C1-040","sec":"Aqueous humour","page":2,"fmt":"match","q":"Match each aqueous humour parameter with its value — 1) Rate of secretion 2) Outflow 3) AC depth (route of outflow) … A) 3 mm (2.5–4.4 mm) B) 0.25 µL/min/mm Hg C) 2.3 µL/minute","opts":["1-A, 2-B, 3-C","1-B, 2-A, 3-C","1-C, 2-B, 3-A","1-C, 2-A, 3-B"],"ans":2,"exp":"Rate of secretion 2.3 µL/minute; aqueous outflow 0.25 µL/min/mm Hg via the angle of AC, whose depth is 3 mm (2.5–4.4 mm). (Book p2)"}];
+const UNITS = [{"id":"OPH-U1-1","ch":1,"n":1,"title":"Basic anatomy of the eyeball — shape, volume, site, axial length and the orbit","sec":"Basic Anatomy of Eye · p1","guide":"The chapter opens with four headline values of the eyeball: shape is aspherical (oblate spheroid), volume 6 ml, site the orbit (a bony cage), and axial length/antroposterior diameter 24 mm (2.4 cm). The 'Orbit containing eyeball' figure labels four structures of the orbit — the roof, the lateral wall, the medial wall and the floor — around the globe.","qs":["OPH-C1-001","OPH-C1-002","OPH-C1-003","OPH-C1-004","OPH-C1-005","OPH-C1-006"]},{"id":"OPH-U1-2","ch":1,"n":2,"title":"Outermost coat — cornea, limbus and sclera","sec":"Basic Anatomy of Eye · p1","guide":"The outermost layer has three components: the anterior 1/6th is the cornea (transparent, convex shaped, refractive power present), the limbus is the corneo-scleral junction, and the posterior 5/6th is the sclera (white, opaque, covered by the conjunctiva — a transparent mucous membrane). The anterior eye photograph labels the sclera, limbus and the iris with the pupil, both 'seen below cornea'.","qs":["OPH-C1-007","OPH-C1-008","OPH-C1-009","OPH-C1-010","OPH-C1-011","OPH-C1-012","OPH-C1-013","OPH-C1-014"]},{"id":"OPH-U1-3","ch":1,"n":3,"title":"Uveal tract and retina — middle and innermost coats","sec":"Basic Anatomy of Eye · p1","guide":"The middle layer is the uveal tract — explicitly labelled the vascular layer — with parts (anterior and posterior): a. iris, b. ciliary body, c. choroid. The innermost layer is the retina, a neurosensory layer that is present only posteriorly, not over the whole globe.","qs":["OPH-C1-015","OPH-C1-016","OPH-C1-017","OPH-C1-018","OPH-C1-019","OPH-C1-020"]},{"id":"OPH-U1-4","ch":1,"n":4,"title":"Structural anatomy — chambers, ciliary body and eye segments","sec":"Basic Anatomy of Eye · p1","guide":"The 'Structural anatomy of eyeball' cross-section labels the angle of AC, iris, pupil, zonules (ciliary zonules) and lens. The ciliary body has a pleated pars plicata, a flat pars plana (most avascular in uvea) and ciliary processes that secrete aqueous. The anterior chamber (AC) lies between cornea and iris, the anterior segment (AS) contains aqueous humour, and the posterior segment contains the vitreous — 1% hyaluronic acid with a gel-like consistency.","qs":["OPH-C1-021","OPH-C1-022","OPH-C1-023","OPH-C1-024","OPH-C1-025","OPH-C1-026","OPH-C1-027","OPH-C1-028","OPH-C1-029","OPH-C1-030","OPH-C1-031","OPH-C1-032"]},{"id":"OPH-U1-5","ch":1,"n":5,"title":"Aqueous humour — secretion, outflow and IOP","sec":"Basic Anatomy of Eye · p2","guide":"Aqueous humour is a fluid secreted from the ciliary processes at 2.3 µL/minute. Its function is to exert the intraocular pressure (IOP), measured by tonometry. Aqueous outflow is 0.25 µL/min/mm Hg, occurs via the angle of the AC (depth 3 mm, range 2.5–4.4 mm) and is measured by tonography — the tonometry-versus-tonography distinction is the key exam trap on this page.","qs":["OPH-C1-033","OPH-C1-034","OPH-C1-035","OPH-C1-036","OPH-C1-037","OPH-C1-038","OPH-C1-039","OPH-C1-040"]}];
+const CHAPTERS = [
+  {
+    "n": 1,
+    "t": "Layers and Structure of Eyeball",
+    "p": 1,
+    "live": true
+  },
+  {
+    "n": 2,
+    "t": "Anatomy of cornea, Anatomy of Sclera and its Pathologies",
+    "p": 3,
+    "live": false
+  },
+  {
+    "n": 3,
+    "t": "Anatomy of Uvea, Accomodation with its Anomalies",
+    "p": 8,
+    "live": false
+  },
+  {
+    "n": 4,
+    "t": "Anatomy of Retina",
+    "p": 13,
+    "live": false
+  },
+  {
+    "n": 5,
+    "t": "Ocular Routes of Drug Administration, Blood Supply of Eye and Embryology of Eye",
+    "p": 14,
+    "live": false
+  },
+  {
+    "n": 6,
+    "t": "Visual Pathway and Visual Field Defects",
+    "p": 21,
+    "live": false
+  },
+  {
+    "n": 7,
+    "t": "Pupillary Reflexes, Light Reflex and its Lesions",
+    "p": 26,
+    "live": false
+  },
+  {
+    "n": 8,
+    "t": "Optic Atrophy: Optic Neuritis, Optic Neuropathies and Papilledema",
+    "p": 32,
+    "live": false
+  },
+  {
+    "n": 9,
+    "t": "Congenital Anomalies of Optic Disc and Colour Blindness",
+    "p": 40,
+    "live": false
+  },
+  {
+    "n": 10,
+    "t": "Squint : Extraocular Muscles and Binocular Single Vision",
+    "p": 43,
+    "live": false
+  },
+  {
+    "n": 11,
+    "t": "Squint : Classifications and Directions",
+    "p": 46,
+    "live": false
+  },
+  {
+    "n": 12,
+    "t": "Squint : Investigations",
+    "p": 48,
+    "live": false
+  },
+  {
+    "n": 13,
+    "t": "Paralytic Squint",
+    "p": 54,
+    "live": false
+  },
+  {
+    "n": 14,
+    "t": "Gaze Defects",
+    "p": 59,
+    "live": false
+  },
+  {
+    "n": 15,
+    "t": "Restrictive Squint and Comitant Squint",
+    "p": 63,
+    "live": false
+  },
+  {
+    "n": 16,
+    "t": "Pseudo-strabismus and Ocular Myopathies",
+    "p": 66,
+    "live": false
+  },
+  {
+    "n": 17,
+    "t": "Anatomy and Metabolism",
+    "p": 68,
+    "live": false
+  },
+  {
+    "n": 18,
+    "t": "Acquired Cataract : Types",
+    "p": 73,
+    "live": false
+  },
+  {
+    "n": 19,
+    "t": "Acquired Cataract : Senile Cataract",
+    "p": 76,
+    "live": false
+  },
+  {
+    "n": 20,
+    "t": "Cataract Surgery",
+    "p": 80,
+    "live": false
+  },
+  {
+    "n": 21,
+    "t": "Complications of Cataract Surgery",
+    "p": 83,
+    "live": false
+  },
+  {
+    "n": 22,
+    "t": "Congenital Cataract, Ectopia lentis and Miscellaneous",
+    "p": 87,
+    "live": false
+  },
+  {
+    "n": 23,
+    "t": "Glaucoma : What and How?",
+    "p": 90,
+    "live": false
+  },
+  {
+    "n": 24,
+    "t": "Investigations for Glaucoma",
+    "p": 94,
+    "live": false
+  },
+  {
+    "n": 25,
+    "t": "Primary open angle glaucoma",
+    "p": 102,
+    "live": false
+  },
+  {
+    "n": 26,
+    "t": "Primary Angle Closure Glaucoma",
+    "p": 109,
+    "live": false
+  },
+  {
+    "n": 27,
+    "t": "Secondary Glaucoma(s) and Congenital Glaucoma",
+    "p": 113,
+    "live": false
+  },
+  {
+    "n": 28,
+    "t": "Tests for Vision and Normal Optics of Eyes",
+    "p": 117,
+    "live": false
+  },
+  {
+    "n": 29,
+    "t": "Myopia and Hypermetropia",
+    "p": 122,
+    "live": false
+  },
+  {
+    "n": 30,
+    "t": "Astigmatism, Reading of Spectacle Prescription and Binocular Errors",
+    "p": 130,
+    "live": false
+  },
+  {
+    "n": 31,
+    "t": "Refraction : How to prescribe glasses and Aphakia",
+    "p": 135,
+    "live": false
+  },
+  {
+    "n": 32,
+    "t": "Anatomy and Investigations of Retina",
+    "p": 142,
+    "live": false
+  },
+  {
+    "n": 33,
+    "t": "Retinoblastoma and Macular Disorders",
+    "p": 148,
+    "live": false
+  },
+  {
+    "n": 34,
+    "t": "Dystrophies of Fundus : Retinitis Pigmentosa and others",
+    "p": 156,
+    "live": false
+  },
+  {
+    "n": 35,
+    "t": "Retinal Vascular Disorders : Part 1",
+    "p": 160,
+    "live": false
+  },
+  {
+    "n": 36,
+    "t": "Retinal Vascular Disorders : Part 2",
+    "p": 164,
+    "live": false
+  },
+  {
+    "n": 37,
+    "t": "Retinal Detachment",
+    "p": 169,
+    "live": false
+  },
+  {
+    "n": 38,
+    "t": "Special Investigations for Cornea",
+    "p": 172,
+    "live": false
+  },
+  {
+    "n": 39,
+    "t": "Corneal Ulcer and Keratitis",
+    "p": 175,
+    "live": false
+  },
+  {
+    "n": 40,
+    "t": "Corneal Dystrophies, Keratoconus and Miscellaneous Disorders",
+    "p": 180,
+    "live": false
+  },
+  {
+    "n": 41,
+    "t": "Anterior Uveitis",
+    "p": 185,
+    "live": false
+  },
+  {
+    "n": 42,
+    "t": "Intermediate, Posterior, Pan-uveitis and Miscellaneous Disorders",
+    "p": 191,
+    "live": false
+  },
+  {
+    "n": 43,
+    "t": "Anatomy of Conjunctiva, Types of Conjunctivitis and Pterygium",
+    "p": 195,
+    "live": false
+  },
+  {
+    "n": 44,
+    "t": "Eyelids : Anatomy and Pathologies",
+    "p": 206,
+    "live": false
+  },
+  {
+    "n": 45,
+    "t": "Anatomy of Orbit and Proptosis",
+    "p": 209,
+    "live": false
+  },
+  {
+    "n": 46,
+    "t": "Lacrimal apparatus : Anatomy, Watering eye and Dry eye",
+    "p": 215,
+    "live": false
+  },
+  {
+    "n": 47,
+    "t": "Ocular Trauma",
+    "p": 220,
+    "live": false
+  },
+  {
+    "n": 48,
+    "t": "Community Ophthalmology",
+    "p": 223,
+    "live": false
+  },
+  {
+    "n": 49,
+    "t": "Lasers In Ophthalmology",
+    "p": 228,
+    "live": false
+  },
+  {
+    "n": 50,
+    "t": "Physiology of Vision",
+    "p": 229,
+    "live": false
+  }
+];
+const QBYID = {}; QUESTIONS.forEach(q=>QBYID[q.id]=q);
+const $=id=>document.getElementById(id);
+const FMT_LABEL = {
+  recall:'Recall', fillup:'Fill up', match:'Match', truefalse:'True / False',
+  scenario:'Clinical', oddoneout:'Odd one out', numeric:'Numeric', management:'Management'
+};
+function store(k,v){try{if(v===undefined){const r=localStorage.getItem(k);return r==null?null:JSON.parse(r);}localStorage.setItem(k,JSON.stringify(v));}catch(e){return v===undefined?null:undefined;}}
+const S = {
+  get xp(){return store('pulseOph_xp')||0;}, set xp(v){store('pulseOph_xp',v);},
+  get done(){return store('pulseOph_done')||[];}, set done(v){store('pulseOph_done',v);},
+  get unlock(){return !!store('pulseOph_unlock');}, set unlock(v){store('pulseOph_unlock',v);},
+  streak(){const t=store('pulseOph_streak')||{n:0,day:''};return t;},
+  bumpStreak(){const today=new Date().toISOString().slice(0,10);let s=this.streak();
+    if(s.day===today)return s.n;
+    const y=new Date(Date.now()-864e5).toISOString().slice(0,10);
+    s={n:(s.day===y?s.n+1:1),day:today};store('pulseOph_streak',s);return s.n;}
+};
+const nav={stack:['home']};
+function show(id){nav.stack.push(id);render();}
+function goBack(){if(nav.stack.length>1)nav.stack.pop();render();}
+function render(){
+  const cur=nav.stack[nav.stack.length-1];
+  ['home','chapters','path','guide','quiz','unitdone'].forEach(s=>$(s).classList.toggle('hidden',s!==cur));
+  $('backBtn').classList.toggle('hidden',cur==='home');
+  if(cur==='quiz' && curUnit) $('brand').textContent='Unit '+curUnit.n;
+  else if(cur==='guide' && curUnit) $('brand').textContent='Unit '+curUnit.n;
+  else if(cur==='path') $('brand').textContent='Ch '+curCh;
+  else if(cur==='unitdone') $('brand').textContent='Done';
+  else $('brand').textContent='PULSE';
+  refreshStats();
+  if(cur==='home')renderHome();
+  if(cur==='chapters')renderChapters();
+  if(cur==='path')renderPath();
+}
+function refreshStats(){
+  $('hXP').textContent=S.xp; $('hStreak').textContent=S.streak().n;
+  $('sXP').textContent=S.xp; $('sStreak').textContent=S.streak().n; $('sUnits').textContent=S.done.length;
+}
+function renderHome(){
+  const live=CHAPTERS.filter(c=>c.live).length;
+  $('heroSub').textContent=live+' of '+CHAPTERS.length+' chapters built so far — original questions, guides, and unit-by-unit mastery for each.';
+}
+function unitsOf(ch){return UNITS.filter(u=>u.ch===ch).sort((a,b)=>a.n-b.n);}
+function renderChapters(){
+  $('chSub').textContent=CHAPTERS.length+' chapters · Full chapter-by-chapter exam pass';
+  const box=$('chList'); box.innerHTML='';
+  CHAPTERS.forEach(c=>{
+    const us=c.live?unitsOf(c.n):[];
+    const dn=us.filter(u=>S.done.includes(u.id)).length;
+    const d=document.createElement('div');
+    d.className='chrow'+(c.live?'':' locked');
+    d.innerHTML='<div class="chnum">'+c.n+'</div><div class="t">'+escapeHtml(c.t)+'</div><div class="u">'+(c.live?dn+'/'+us.length+' units':'Soon')+'</div>';
+    if(c.live)d.onclick=()=>{curCh=c.n;show('path');};
+    box.appendChild(d);
+  });
+}
+let curCh=1, curUnit=null;
+function unitState(u,us){
+  if(S.done.includes(u.id))return 'done';
+  if(S.unlock)return 'current';
+  const i=us.findIndex(x=>x.id===u.id);
+  if(i===0)return 'current';
+  return S.done.includes(us[i-1].id)?'current':'locked';
+}
+function renderPath(){
+  const c=CHAPTERS.find(x=>x.n===curCh), us=unitsOf(curCh);
+  $('pathKick').textContent='CHAPTER '+c.n;
+  $('pathTitle').textContent=c.t;
+  $('pathSub').textContent=us.filter(u=>S.done.includes(u.id)).length+' of '+us.length+' units done · in book order';
+  const box=$('nodes'); box.innerHTML='';
+  let lastSec='';
+  us.forEach(u=>{
+    if(u.sec!==lastSec){lastSec=u.sec;
+      const s=document.createElement('div');s.className='pathsec';s.textContent=u.sec;box.appendChild(s);}
+    const st=unitState(u,us);
+    const d=document.createElement('div');d.className='node';
+    d.innerHTML='<div class="ball '+st+'">'+(st==='done'?'✓':st==='locked'?'🔒':u.n)+'</div><div class="ntitle">'+escapeHtml(u.title)+'</div><div class="ncount">'+u.qs.length+' questions</div>';
+    if(st!=='locked')d.querySelector('.ball').onclick=()=>openGuide(u);
+    box.appendChild(d);
+  });
+}
+function openGuide(u){curUnit=u;
+  $('gKick').textContent='CHAPTER '+u.ch+' · UNIT '+u.n+' · '+u.sec.toUpperCase();
+  $('gTitle').textContent=u.title;
+  $('gText').textContent=u.guide;
+  $('gCount').textContent=u.qs.length+' questions · follows the book line-by-line';
+  const gf=$('gFmts');
+  if(gf){
+    const fmts=[];
+    u.qs.forEach(id=>{const f=(QBYID[id]||{}).fmt; if(f && fmts.indexOf(f)<0) fmts.push(f);});
+    gf.innerHTML=fmts.map(f=>'<span class="chip">'+escapeHtml(FMT_LABEL[f]||f)+'</span>').join('');
+  }
+  show('guide');
+}
+let order=[],idx=0,xpGain=0,streak=0,correct=0,wrongList=[],locked=false,verdict=[];
+function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+function beginUnit(){
+  // FIXED book order — only options shuffle (anti-bias)
+  order=curUnit.qs.map(id=>{const q=QBYID[id];return {q,opts:shuffle(q.opts.map((t,i)=>({t,ok:i===q.ans})))};});
+  idx=0;xpGain=0;streak=0;correct=0;wrongList=[];verdict=[];
+  show('quiz');renderQ();
+}
+function parseMatch(stem){
+  const m=String(stem).match(/^(.*?)\s+[—–-]\s+1\)\s+([\s\S]+?)\s+(?:…|\.{3})\s+A\)\s+([\s\S]+)$/);
+  if(!m) return null;
+  const left=('1) '+m[2]).split(/\s+(?=\d+\))\s*/).map(x=>x.replace(/^\d+\)\s*/,'').trim()).filter(Boolean);
+  const right=('A) '+m[3]).split(/\s+(?=[A-C]\))\s*/).map(x=>x.replace(/^[A-C]\)\s*/,'').trim()).filter(Boolean);
+  if(left.length<2||right.length<2) return null;
+  return {prompt:m[1].trim(), left, right};
+}
+function fillupHtml(stem){
+  return escapeHtml(String(stem).replace(/^Fill up:\s*/i,'')).replace(/_{3,}/g,'<span class="blank"></span>');
+}
+function matchOptHtml(text){
+  const parts=String(text).split(/\s*,\s*/);
+  if(!parts.length || !/^\d\s*[-–]/.test(parts[0])) return escapeHtml(text);
+  return parts.map(p=>{
+    const mm=p.match(/(\d)\s*[-–]\s*([A-Z])/);
+    if(!mm) return escapeHtml(p);
+    return '<span class="mpair"><em>'+mm[1]+'</em><span>→</span><b>'+mm[2]+'</b></span>';
+  }).join('');
+}
+function splitExp(exp){
+  const m=String(exp).match(/^(.*?)\s*\(Book p(\d+)\)\s*$/);
+  if(!m) return {body:exp, page:null};
+  return {body:m[1], page:m[2]};
+}
+function paintDots(){
+  const box=$('qdots'); if(!box) return;
+  box.innerHTML='';
+  order.forEach((_,i)=>{
+    const s=document.createElement('i');
+    if(verdict[i]===1) s.className='ok';
+    else if(verdict[i]===0) s.className='no';
+    else if(i===idx) s.className='now';
+    box.appendChild(s);
+  });
+}
+function paintHud(){
+  const hud=$('qhud'); if(!hud) return;
+  const answered=verdict.filter(v=>v===0||v===1).length;
+  const ok=verdict.filter(v=>v===1).length;
+  const acc=answered?Math.round(ok/answered*100)+'%':'—';
+  hud.innerHTML='<span>🔥 '+streak+'</span><span>✦ '+xpGain+' XP</span><span>'+acc+'</span>';
+}
+function paintBar(){
+  const n=order.length||1;
+  $('qbar').style.width=((locked?idx+1:idx)/n*100)+'%';
+}
+function renderBoard(parsed){
+  const box=$('qboard'); if(!box) return;
+  if(!parsed){box.classList.add('hidden'); box.innerHTML=''; return;}
+  const col=(title,items,letters)=>{
+    let h='<div class="mcol"><div class="mhd">'+title+'</div>';
+    items.forEach((t,i)=>{h+='<div class="mrow"><i>'+letters[i]+'</i><span>'+escapeHtml(t)+'</span></div>';});
+    return h+'</div>';
+  };
+  box.innerHTML=col('List I', parsed.left, parsed.left.map((_,i)=>String(i+1)))+col('List II', parsed.right, ['A','B','C','D']);
+  box.classList.remove('hidden');
+}
+function renderQ(){
+  locked=false;
+  const cur=order[idx],q=cur.q;
+  paintBar();
+  $('qcount').textContent='QUESTION '+(idx+1)+' OF '+order.length;
+  $('qtag').textContent=q.sec+' · Book p'+q.page;
+  const fmtEl=$('qfmt');
+  if(fmtEl) fmtEl.textContent=FMT_LABEL[q.fmt]||'Recall';
+  const parsed=(q.fmt==='match')?parseMatch(q.q):null;
+  const qt=$('qtext');
+  qt.className='qtext'+(parsed?' hasboard':'')+(q.fmt==='scenario'?' clinical':'');
+  if(parsed){ qt.textContent=parsed.prompt; }
+  else if(q.fmt==='fillup'){ qt.innerHTML=fillupHtml(q.q); }
+  else { qt.textContent=q.q; }
+  renderBoard(parsed);
+  const box=$('opts'); box.innerHTML='';
+  cur.opts.forEach((o,i)=>{
+    const b=document.createElement('button');
+    b.type='button';
+    b.className='opt';
+    b.style.animationDelay=(i*0.045)+'s';
+    const body=(q.fmt==='match')?matchOptHtml(o.t):escapeHtml(o.t);
+    b.innerHTML='<span class="okey">'+'ABCD'[i]+'</span><span class="otxt">'+body+'</span>';
+    b.onclick=()=>answer(o,b);
+    box.appendChild(b);
+  });
+  $('fb').className='fb'; $('fb').innerHTML='';
+  $('nextBtn').classList.add('hidden');
+  $('nextBtn').textContent=idx===order.length-1?'Finish ✓':'Continue →';
+  const keys=$('qkeys'); if(keys) keys.textContent='Press 1 – 4 to answer · Enter to continue';
+  paintDots(); paintHud();
+  if(typeof window!=='undefined' && typeof window.scrollTo==='function') window.scrollTo(0,0);
+  const stage=$('qstage');
+  if(stage && stage.classList){ stage.classList.remove('in'); void stage.offsetWidth; stage.classList.add('in'); }
+}
+function escapeHtml(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+function answer(o,btn){
+  if(locked)return;locked=true;
+  const cur=order[idx],q=cur.q,btns=$('opts').children;
+  const rightIdx=cur.opts.findIndex(x=>x.ok);
+  [...btns].forEach(b=>b.disabled=true);
+  btns[rightIdx].classList.add('correct');
+  const rightKey=btns[rightIdx].querySelector && btns[rightIdx].querySelector('.okey');
+  if(rightKey) rightKey.textContent='✓';
+  const fb=$('fb');
+  const exp=splitExp(q.exp);
+  const cite=exp.page?'<div class="fbcite">BOOK P'+exp.page+'</div>':'';
+  if(o.ok){correct++;streak++;
+    verdict[idx]=1;
+    const gain=10+Math.min(streak*2,10);xpGain+=gain;S.xp=S.xp+gain;
+    floatText(btn,'+'+gain+' XP','#e0607e');
+    fb.className='fb show good';
+    fb.innerHTML='<div class="fbhd">Correct · +'+gain+' XP'+(streak>1?' · '+streak+' streak':'')+'</div><div class="fbbd">'+escapeHtml(exp.body)+'</div>'+cite;
+  }else{btn.classList.add('wrong');streak=0;
+    verdict[idx]=0;
+    const wrongKey=btn.querySelector && btn.querySelector('.okey');
+    if(wrongKey) wrongKey.textContent='✕';
+    wrongList.push(q);
+    fb.className='fb show bad';
+    fb.innerHTML='<div class="fbhd">Not quite</div><div class="fbbd"><b>'+escapeHtml(cur.opts[rightIdx].t)+'</b><br>'+escapeHtml(exp.body)+'</div>'+cite;
+  }
+  refreshStats();
+  paintBar(); paintDots(); paintHud();
+  $('nextBtn').classList.remove('hidden');
+  const keys=$('qkeys'); if(keys) keys.textContent='Press Enter to continue';
+  if($('nextBtn') && typeof $('nextBtn').focus==='function') $('nextBtn').focus();
+}
+function floatText(el,txt,color){
+  if(!el || typeof el.getBoundingClientRect!=='function') return;
+  const r=el.getBoundingClientRect(),s=document.createElement('div');
+  s.className='float';s.textContent=txt;s.style.color=color;
+  s.style.left=(r.left+r.width/2-24)+'px';s.style.top=(r.top-6+(window.scrollY||0))+'px';
+  document.body.appendChild(s);setTimeout(()=>s.remove(),1000);
+}
+function nextQ(){idx++;if(idx>=order.length)finishUnit();else renderQ();}
+function burst(){
+  const colors=['#e0607e','#d4a85a','#5fd0b5','#3ddc84','#f0788f'];
+  for(let i=0;i<16;i++){
+    const s=document.createElement('i');
+    s.className='conf';
+    s.style.left=(12+Math.random()*76)+'%';
+    s.style.background=colors[i%colors.length];
+    s.style.animationDelay=(Math.random()*0.35)+'s';
+    document.body.appendChild(s);
+    setTimeout(()=>s.remove(),1600);
+  }
+}
+function finishUnit(){
+  const d=S.done;if(!d.includes(curUnit.id)){d.push(curUnit.id);S.done=d;}
+  S.bumpStreak();
+  const pct=Math.round(correct/order.length*100);
+  const grade=pct===100?'Mastered':pct>=85?'Excellent':pct>=70?'Solid':'Review this unit';
+  $('dSub').textContent=curUnit.title+' · '+correct+'/'+order.length+' correct';
+  $('dScore').textContent=correct+'/'+order.length;
+  $('dXP').textContent='+'+xpGain;$('dAcc').textContent=pct+'%';
+  const head=$('dHead'); if(head) head.textContent=pct===100?'Perfect unit':'Unit complete';
+  const g=$('dGrade'); if(g) g.textContent=grade;
+  const ring=$('dRing');
+  if(ring){
+    ring.style.background='conic-gradient(var(--good) 0 '+pct+'%, #2b2139 '+pct+'% 100%)';
+    ring.innerHTML='<div class="ringin"><b>'+pct+'%</b><span>'+grade+'</span></div>';
+  }
+  const box=$('dRev');box.innerHTML='';
+  if(wrongList.length){const h=document.createElement('p');h.className='sub';h.textContent='Missed — worth another look';box.appendChild(h);}
+  else {const h=document.createElement('p');h.className='sub';h.textContent='No misses. Clean pass.';box.appendChild(h);}
+  wrongList.forEach(q=>{
+    const r=document.createElement('div');r.className='rev';
+    const exp=splitExp(q.exp);
+    r.innerHTML='<div class="revq">'+escapeHtml(q.q)+'</div><div class="reva">'+escapeHtml(q.opts[q.ans])+'</div><div class="reve">'+escapeHtml(exp.body)+'</div><div class="revp">BOOK P'+q.page+'</div>';
+    box.appendChild(r);
+  });
+  show('unitdone');
+  if(pct>=80) burst();
+}
+function afterUnit(){nav.stack=['home','chapters','path'];render();}
+function continueLearning(){
+  const c=CHAPTERS.find(x=>x.live);
+  if(!c)return;curCh=c.n;
+  const us=unitsOf(c.n);
+  const nxt=us.find(u=>unitState(u,us)==='current')||us[0];
+  curUnit=nxt;nav.stack=['home'];openGuide(nxt);
+}
+function unlockAll(){S.unlock=true;render();}
+document.addEventListener('keydown',e=>{
+  if($('quiz').classList.contains('hidden'))return;
+  const k=parseInt(e.key);
+  if(k>=1&&k<=4&&!locked){const b=$('opts').children[k-1];if(b)b.click();}
+  else if(e.key==='Enter'&&locked)nextQ();
+});
+render();
+</script>
+</body>
+</html>
