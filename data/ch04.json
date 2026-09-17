@@ -1,0 +1,253 @@
+{
+ "chapter": 4,
+ "title": "Anatomy of Retina",
+ "pageRange": "13-13",
+ "questions": [
+  {
+   "id": "OPH-C4-001",
+   "sec": "Optic disc — blind spot, dimensions and neuro-retinal rim",
+   "page": 13,
+   "fmt": "recall",
+   "q": "The retina is described in the book as the innermost layer of the eye and as a:",
+   "opts": [
+    "Neurosensory layer",
+    "Vascular tunic",
+    "Fibrous tunic",
+    "Pigment-free membrane"
+   ],
+   "ans": 0,
+   "exp": "The retina heading reads 'Retina - Innermost Layer of Eye' with the line 'Neurosensory layer'. (Book p13)"
+  },
+  {
+   "id": "OPH-C4-002",
+   "sec": "Optic disc — blind spot, dimensions and neuro-retinal rim",
+   "page": 13,
+   "fmt": "fillup",
+   "q": "Fill up: the optic disc is also called the blind spot of ______ because rods and cones are absent there.",
+   "opts": [
+    "Snellen",
+    "Purkinje",
+    "Hering",
+    "Marriot"
+   ],
+   "ans": 3,
+   "exp": "Optic disc is AKA blind spot of Marriot, where rods and cones are absent. (Book p13)"
+  },
+  {
+   "id": "OPH-C4-003",
+   "sec": "Optic disc — blind spot, dimensions and neuro-retinal rim",
+   "page": 13,
+   "fmt": "truefalse",
+   "q": "Which statement about the optic disc is FALSE per the book?",
+   "opts": [
+    "It is the point where the optic nerve leaves the eyeball",
+    "It contains the highest concentration of cones in the retina",
+    "All layers of the retina terminate at the optic disc except the nerve fibres",
+    "It is the first, only visible and intra-ocular part of the optic nerve"
+   ],
+   "ans": 1,
+   "exp": "The maximum concentration of cones belongs to the fovea, not the optic disc; the disc is rod- and cone-free (blind spot of Marriot). (Book p13)"
+  },
+  {
+   "id": "OPH-C4-004",
+   "sec": "Optic disc — blind spot, dimensions and neuro-retinal rim",
+   "page": 13,
+   "fmt": "numeric",
+   "q": "The book's optic-disc appearance block gives the disc diameter as:",
+   "opts": [
+    "5.5 mm (5500 µm)",
+    "1.5 mm (1500 µm)",
+    "0.5 mm (500 µm)",
+    "3.0 mm (3000 µm)"
+   ],
+   "ans": 1,
+   "exp": "Appearance of the optic disc: vertically oval, diameter 1.5 mm / 1500 µm, normal c/d ratio 0.3. (Book p13)"
+  },
+  {
+   "id": "OPH-C4-005",
+   "sec": "Optic disc — blind spot, dimensions and neuro-retinal rim",
+   "page": 13,
+   "fmt": "numeric",
+   "q": "The normal cup-to-disc ratio printed beside the optic disc figure is:",
+   "opts": [
+    "0.3",
+    "0.6",
+    "0.9",
+    "0.1"
+   ],
+   "ans": 0,
+   "exp": "Normal c/d ratio is given as 0.3 in the optic disc appearance list. (Book p13)"
+  },
+  {
+   "id": "OPH-C4-006",
+   "sec": "Optic disc — blind spot, dimensions and neuro-retinal rim",
+   "page": 13,
+   "fmt": "match",
+   "q": "Match the optic-disc relation printed in the figure — 1) d(OD) 2) NRR thickness order 3) Effect of glaucoma on the NRR … A) Inferior > Superior > Nasal > Temporal B) Cup plus neuro-retinal rim C) The rim becomes visibly thinner",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 3,
+   "exp": "The figure states d(OD) = C (optic cup) + NRR (neuro-retinal rim), which allows vessels to travel through; NRR thickness runs Inferior > Superior > Nasal > Temporal and becomes visibly thinner in glaucoma. (Book p13)"
+  },
+  {
+   "id": "OPH-C4-007",
+   "sec": "Optic disc — blind spot, dimensions and neuro-retinal rim",
+   "page": 13,
+   "fmt": "scenario",
+   "q": "A glaucoma suspect's disc photograph shows sectoral rim loss. Per the book's NRR thickness order, the rim sector that is normally the THICKEST — and therefore whose thinning is most telling — is the:",
+   "opts": [
+    "Superior rim",
+    "Nasal rim",
+    "Inferior rim",
+    "Temporal rim"
+   ],
+   "ans": 2,
+   "exp": "NRR thickness order is Inferior > Superior > Nasal > Temporal, and the rim becomes visibly thinner in glaucoma. (Book p13)"
+  },
+  {
+   "id": "OPH-C4-008",
+   "sec": "Macula lutea, fovea, foveola, umbo and ora serrata",
+   "page": 13,
+   "fmt": "recall",
+   "q": "The macula lutea is described as a yellowish spot situated:",
+   "opts": [
+    "At the centre of the optic disc",
+    "Temporal to the optic disc",
+    "Nasal to the optic disc",
+    "Superior to the ora serrata"
+   ],
+   "ans": 1,
+   "exp": "Macula lutea: yellowish spot, temporal to OD, diameter 5.5 mm. (Book p13)"
+  },
+  {
+   "id": "OPH-C4-009",
+   "sec": "Macula lutea, fovea, foveola, umbo and ora serrata",
+   "page": 13,
+   "fmt": "numeric",
+   "q": "The diameters of the macula lutea and of the fovea per the book are:",
+   "opts": [
+    "5.5 mm and 1.85 mm",
+    "1.85 mm and 5.5 mm",
+    "5.5 mm and 0.35 mm",
+    "3.5 mm and 1.5 mm"
+   ],
+   "ans": 0,
+   "exp": "Macula lutea diameter 5.5 mm; fovea diameter 1.85 mm with the highest/best visual acuity from the maximum concentration of cones (central vision). (Book p13)"
+  },
+  {
+   "id": "OPH-C4-010",
+   "sec": "Macula lutea, fovea, foveola, umbo and ora serrata",
+   "page": 13,
+   "fmt": "fillup",
+   "q": "Fill up: within the macula, the ______ is the zone that does not have a ganglionic layer.",
+   "opts": [
+    "Umbo",
+    "Perifoveal ring",
+    "Ora serrata",
+    "Foveola"
+   ],
+   "ans": 3,
+   "exp": "The macula figure labels the foveola as the area that does not have a ganglionic layer. (Book p13)"
+  },
+  {
+   "id": "OPH-C4-011",
+   "sec": "Macula lutea, fovea, foveola, umbo and ora serrata",
+   "page": 13,
+   "fmt": "recall",
+   "q": "The small bright spot seen when light is shone into the eye — the foveolar reflex — arises from which structure?",
+   "opts": [
+    "The peripheral retina beyond ora",
+    "The scleral spur at the angle",
+    "The umbo, a central depression",
+    "The optic cup of the disc"
+   ],
+   "ans": 2,
+   "exp": "Umbo is the small central depression; light shone upon the eye reflects and shines as a small bright spot — the foveolar reflex. (Book p13)"
+  },
+  {
+   "id": "OPH-C4-012",
+   "sec": "Macula lutea, fovea, foveola, umbo and ora serrata",
+   "page": 13,
+   "fmt": "match",
+   "q": "Match the posterior-pole structure with its book feature — 1) Fovea 2) Foveola 3) Umbo 4) Ora serrata … A) Small central depression producing the foveolar reflex B) Maximum cone concentration giving central vision C) Anterior termination of the retina at the ciliary body-choroid junction D) Zone without a ganglionic layer",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-D",
+    "1-B, 2-D, 3-A, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-B, 3-D, 4-C"
+   ],
+   "ans": 1,
+   "exp": "Fovea: 1.85 mm, maximum cones, central vision; foveola: no ganglionic layer; umbo: small central depression with the foveolar reflex; ora serrata: anterior termination of retina marking the ciliary body-choroid junction. (Book p13)"
+  },
+  {
+   "id": "OPH-C4-013",
+   "sec": "Macula lutea, fovea, foveola, umbo and ora serrata",
+   "page": 13,
+   "fmt": "recall",
+   "q": "The practical significance of the ora serrata given in the book is that it helps determine:",
+   "opts": [
+    "The site of intra-vitreal injection",
+    "The centre of the visual field",
+    "The depth of the anterior chamber in mm",
+    "The angle of the anterior chamber"
+   ],
+   "ans": 0,
+   "exp": "Ora serrata significance: helps determine the site of intra-vitreal injection; it is the anterior termination of the retina indicating the junction between ciliary body and choroid. (Book p13)"
+  },
+  {
+   "id": "OPH-C4-014",
+   "sec": "Macula lutea, fovea, foveola, umbo and ora serrata",
+   "page": 13,
+   "fmt": "oddoneout",
+   "q": "All of the following are labelled in the book's macula figure EXCEPT:",
+   "opts": [
+    "The foveola zone",
+    "The umbo depression",
+    "The fovea centralis",
+    "Pars plicata"
+   ],
+   "ans": 3,
+   "exp": "The macula figure labels foveola, fovea and umbo; pars plicata belongs to the ciliary body, not this figure. (Book p13)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U4-1",
+   "ch": 4,
+   "n": 1,
+   "title": "Optic disc — the blind spot, its dimensions and the neuro-retinal rim",
+   "sec": "Basic Anatomy of Eye · p13",
+   "guide": "The retina is the innermost, neurosensory layer of the eye. The optic disc (OD) is the blind spot of Marriot (rods and cones absent), where all retinal layers terminate except the nerve fibres; it is the first, only visible and intra-ocular part of the optic nerve and the point where the nerve leaves the eyeball. Appearance: vertically oval, 1.5 mm (1500 µm) across, normal c/d ratio 0.3. The figure relation d(OD) = C (optic cup) + NRR (neuro-retinal rim) allows vessels to travel through, and NRR thickness runs Inferior > Superior > Nasal > Temporal, becoming visibly thinner in glaucoma.",
+   "qs": [
+    "OPH-C4-001",
+    "OPH-C4-002",
+    "OPH-C4-003",
+    "OPH-C4-004",
+    "OPH-C4-005",
+    "OPH-C4-006",
+    "OPH-C4-007"
+   ]
+  },
+  {
+   "id": "OPH-U4-2",
+   "ch": 4,
+   "n": 2,
+   "title": "Macula lutea, fovea, foveola, umbo and the ora serrata",
+   "sec": "Basic Anatomy of Eye · p13",
+   "guide": "The macula lutea is a yellowish spot temporal to the optic disc, 5.5 mm across. Within it the fovea (1.85 mm) carries the maximum concentration of cones and therefore the highest/best visual acuity (central vision); the foveola lacks a ganglionic layer; the umbo is the small central depression whose reflection of shone light is the foveolar reflex. The ora serrata is the anterior termination of the retina, marking the junction between ciliary body and choroid, and its significance is helping determine the site of intra-vitreal injection.",
+   "qs": [
+    "OPH-C4-008",
+    "OPH-C4-009",
+    "OPH-C4-010",
+    "OPH-C4-011",
+    "OPH-C4-012",
+    "OPH-C4-013",
+    "OPH-C4-014"
+   ]
+  }
+ ]
+}

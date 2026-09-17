@@ -16,8 +16,13 @@ rest show a **Soon** badge.
 
 | Scope | Status |
 |---|---|
-| Ch 1 · Layers and Structure of Eyeball (p1–2) — 5 units, 40 questions | ✅ live on this branch |
-| Ch 2–50 (Anatomy, Neuro-Ophthal, Squint, Lens, Glaucoma, Optics, Retina, Cornea, Uvea, Conjunctiva, Adnexa, Miscellaneous) | 🚧 in progress |
+| Ch 1 · Layers and Structure of Eyeball (p1–2) — 5 units, 40 questions | ✅ live |
+| Ch 2 · Anatomy of cornea, Anatomy of Sclera and its Pathologies (p3–7) — 6 units, 40 questions | ✅ live on this branch |
+| Ch 3 · Anatomy of Uvea, Accomodation with its Anomalies (p8–12) — 5 units, 37 questions | ✅ live on this branch |
+| Ch 4 · Anatomy of Retina (p13) — 2 units, 14 questions | ✅ live on this branch |
+| Ch 5 · Ocular Routes of Drug Administration, Blood Supply of Eye and Embryology of Eye (p14–20) — 6 units, 47 questions | ✅ live on this branch |
+| Ch 6 · Visual Pathway and Visual Field Defects (p21–25) — 5 units, 42 questions | ✅ live on this branch |
+| Ch 7–50 (Neuro-Ophthal, Squint, Lens, Glaucoma, Optics, Retina, Cornea, Uvea, Conjunctiva, Adnexa, Miscellaneous) | 🚧 in progress |
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 50-chapter
 roadmap, data schema, per-chapter pipeline, and NEXT step.

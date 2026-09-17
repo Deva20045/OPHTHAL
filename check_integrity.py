@@ -21,6 +21,11 @@ TOTAL_ROADMAP_CHAPTERS = 50
 # expected unit count) when its data/chNN.json lands.
 LIVE_CHAPTERS = {
     1: ("Layers and Structure of Eyeball", 1, 2, 40, 5),
+    2: ("Anatomy of cornea, Anatomy of Sclera and its Pathologies", 3, 7, 40, 6),
+    3: ("Anatomy of Uvea, Accomodation with its Anomalies", 8, 12, 37, 5),
+    4: ("Anatomy of Retina", 13, 13, 14, 2),
+    5: ("Ocular Routes of Drug Administration, Blood Supply of Eye and Embryology of Eye", 14, 20, 47, 6),
+    6: ("Visual Pathway and Visual Field Defects", 21, 25, 42, 5),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain

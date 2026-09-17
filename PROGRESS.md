@@ -28,11 +28,11 @@ scope (Book p1–233) is converted into questions in strict book order.
 | # | Chapter | Book start | Status |
 |---|---|---|---|
 | 1 | Layers and Structure of Eyeball | p1 | **LIVE** |
-| 2 | Anatomy of cornea, Anatomy of Sclera and its Pathologies | p3 | SOON |
-| 3 | Anatomy of Uvea, Accomodation with its Anomalies | p8 | SOON |
-| 4 | Anatomy of Retina | p13 | SOON |
-| 5 | Ocular Routes of Drug Administration, Blood Supply of Eye and Embryology of Eye | p14 | SOON |
-| 6 | Visual Pathway and Visual Field Defects | p21 | SOON |
+| 2 | Anatomy of cornea, Anatomy of Sclera and its Pathologies | p3 | **LIVE** |
+| 3 | Anatomy of Uvea, Accomodation with its Anomalies | p8 | **LIVE** |
+| 4 | Anatomy of Retina | p13 | **LIVE** |
+| 5 | Ocular Routes of Drug Administration, Blood Supply of Eye and Embryology of Eye | p14 | **LIVE** |
+| 6 | Visual Pathway and Visual Field Defects | p21 | **LIVE** |
 | 7 | Pupillary Reflexes, Light Reflex and its Lesions | p26 | SOON |
 | 8 | Optic Atrophy: Optic Neuritis, Optic Neuropathies and Papilledema | p32 | SOON |
 | 9 | Congenital Anomalies of Optic Disc and Colour Blindness | p40 | SOON |
@@ -78,7 +78,7 @@ scope (Book p1–233) is converted into questions in strict book order.
 | 49 | Lasers In Ophthalmology | p228 | SOON |
 | 50 | Physiology of Vision | p229 | SOON |
 
-*(Status column: Ch 1 = **LIVE**; every other chapter = **SOON** — rendered in the app
+*(Status column: Ch 1-6 = **LIVE**; every other chapter = **SOON** — rendered in the app
 as a locked "Soon" row. Update this table as chapters go live.)*
 
 ### Section spans
@@ -141,11 +141,16 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] App skeleton + index redirect (all 50 chapters listed, rest "Soon")
 - [x] Tooling adapted from the PULSE Medicine template
 - [x] **Ch 1 "Layers and Structure of Eyeball" (p1–2): 5 units, 40 questions — BUILT & VERIFIED**
-- [ ] Ch 2–50 (per pipeline above)
+- [x] **Ch 2 "Anatomy of cornea, Anatomy of Sclera and its Pathologies" (p3–7): 6 units, 40 questions — BUILT & VERIFIED**
+- [x] **Ch 3 "Anatomy of Uvea, Accomodation with its Anomalies" (p8–12): 5 units, 37 questions — BUILT & VERIFIED**
+- [x] **Ch 4 "Anatomy of Retina" (p13): 2 units, 14 questions — BUILT & VERIFIED**
+- [x] **Ch 5 "Ocular Routes of Drug Administration, Blood Supply of Eye and Embryology of Eye" (p14–20): 6 units, 47 questions — BUILT & VERIFIED**
+- [x] **Ch 6 "Visual Pathway and Visual Field Defects" (p21–25): 5 units, 42 questions — BUILT & VERIFIED**
+- [ ] Ch 7–50 (per pipeline above)
 
 ## NEXT
-**Ch 2 "Anatomy of cornea, Anatomy of Sclera and its Pathologies" (p3–7)** —
-render Part 1 PDF pages 6–10, read line-by-line, author `data/ch02.json`,
+**Ch 7 "Pupillary Reflexes, Light Reflex and its Lesions" (p26–31)** —
+render Part 1 PDF pages 29–34, read line-by-line, author `data/ch07.json`,
 run build + checks + audit, commit + push.
 
 ## Live
