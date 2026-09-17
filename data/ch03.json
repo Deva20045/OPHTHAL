@@ -1,0 +1,651 @@
+{
+ "chapter": 3,
+ "title": "Anatomy of Uvea, Accomodation with its Anomalies",
+ "pageRange": "8-12",
+ "questions": [
+  {
+   "id": "OPH-C3-001",
+   "sec": "Components of uvea and anatomy of the iris",
+   "page": 8,
+   "fmt": "match",
+   "q": "Match the uveal component with its uveal part and its inflammation — 1) Iris with pars plicata of the ciliary body 2) Pars plana of the ciliary body 3) Choroid … A) Intermediate uvea / intermediate uveitis B) Anterior uvea / anterior uveitis C) Posterior uvea / posterior uveitis",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "The components-of-uvea table pairs iris plus ciliary body pars plicata with anterior uvea (anterior uveitis), pars plana with intermediate uvea (intermediate uveitis) and choroid with posterior uvea (posterior uveitis). (Book p8)"
+  },
+  {
+   "id": "OPH-C3-002",
+   "sec": "Components of uvea and anatomy of the iris",
+   "page": 8,
+   "fmt": "recall",
+   "q": "The iris is pigmented because of which cell?",
+   "opts": [
+    "Goblet cells",
+    "Fibroblasts of the stroma",
+    "Langerhans cells",
+    "Melanocytes"
+   ],
+   "ans": 3,
+   "exp": "Anatomy of the iris: increased vascularity, pigmentation d/t melanocytes, and variable thickness. (Book p8)"
+  },
+  {
+   "id": "OPH-C3-003",
+   "sec": "Components of uvea and anatomy of the iris",
+   "page": 8,
+   "fmt": "recall",
+   "q": "The thickest part of the iris, which marks the boundary between its pupillary and ciliary zones, is the:",
+   "opts": [
+    "Pupillary ruff",
+    "Ciliary border",
+    "Collarette",
+    "Root"
+   ],
+   "ans": 2,
+   "exp": "The iris figure labels the collarette as the thickest part and the boundary between the pupillary zone and the ciliary zone of the iris. (Book p8)"
+  },
+  {
+   "id": "OPH-C3-004",
+   "sec": "Components of uvea and anatomy of the iris",
+   "page": 8,
+   "fmt": "scenario",
+   "q": "After blunt ocular trauma a patient shows a tear at the peripheral iris where it looks thinnest on gonioscopy. The book names this detachment of the iris:",
+   "opts": [
+    "Iridectomy at the ciliary zone",
+    "Iridodialysis at the root",
+    "Iridoschisis at the collarette",
+    "Iridodonesis at the pupillary margin"
+   ],
+   "ans": 1,
+   "exp": "The thinnest part of the iris is the root, labelled the site of iridodialysis (detachment of iris). (Book p8)"
+  },
+  {
+   "id": "OPH-C3-005",
+   "sec": "Components of uvea and anatomy of the iris",
+   "page": 8,
+   "fmt": "match",
+   "q": "Match the iris muscle with its action and autonomic control — 1) Sphincter pupillae 2) Dilator pupillae … A) Mydriasis under sympathetic (excitatory) control B) Miosis under parasympathetic (inhibitory) control",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "Both are parasympathetic",
+    "Both are sympathetic"
+   ],
+   "ans": 0,
+   "exp": "Sphincter pupillae produces miosis under parasympathetic (inhibitory) control; dilator pupillae produces mydriasis under sympathetic (excitatory) control. (Book p8)"
+  },
+  {
+   "id": "OPH-C3-006",
+   "sec": "Components of uvea and anatomy of the iris",
+   "page": 8,
+   "fmt": "match",
+   "q": "Match the sympathetic relay station of the dilator pathway with its order — 1) First order 2) Second order 3) Third order … A) Superior cervical ganglion to the eye along the internal carotid, ending in the long ciliary nerve B) Hypothalamus to the spinal cord's ciliospinal centre (C8-T1) C) Ciliospinal centre to the superior cervical ganglion, crossing the lung parenchyma",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "The sympathetic chain for the dilator: hypothalamus → 1° spinal cord ciliospinal centre (C8-T1) → 2° crossing lung parenchyma to the superior cervical ganglion → 3° along the internal carotid as the long ciliary nerve. (Book p8)"
+  },
+  {
+   "id": "OPH-C3-007",
+   "sec": "Components of uvea and anatomy of the iris",
+   "page": 8,
+   "fmt": "scenario",
+   "q": "During resection of a Pancoast tumour the surgeon warns of damage to the sympathetic fibres heading to the superior cervical ganglion. Per the book's iris-supply table, the ocular consequence is:",
+   "opts": [
+    "Paralysis of the inferior oblique muscle",
+    "Anaesthesia of the cornea",
+    "Loss of sympathetic supply to the eye",
+    "Loss of parasympathetic supply to the sphincter"
+   ],
+   "ans": 2,
+   "exp": "The book flags resection of a Pancoast tumour as a risk of damage to SCG fibres at the second-order step, producing loss of sympathetic supply to the eye. (Book p8)"
+  },
+  {
+   "id": "OPH-C3-008",
+   "sec": "Components of uvea and anatomy of the iris",
+   "page": 8,
+   "fmt": "truefalse",
+   "q": "Which statement about the final nerve supply of the iris muscles is FALSE per the book?",
+   "opts": [
+    "The sphincter's final supply is the long ciliary nerve",
+    "The sphincter's post-ganglionic supply reaches it through the short ciliary nerve",
+    "The dilator's final supply is the long ciliary nerve",
+    "The parasympathetic route to the sphincter runs via the oculomotor nerve"
+   ],
+   "ans": 0,
+   "exp": "Final nerve supply per the table: sphincter pupillae — infraorbital branch (to inferior oblique muscle) then short ciliary nerve (post ganglion); dilator pupillae — long ciliary nerve. (Book p8)"
+  },
+  {
+   "id": "OPH-C3-009",
+   "sec": "Iris muscles, their autonomic supply and Horner's syndrome",
+   "page": 9,
+   "fmt": "oddoneout",
+   "q": "The book's oculomotor branch diagram lists the muscles of each division. All of the following are supplied by the INFERIOR branch of the oculomotor nerve EXCEPT:",
+   "opts": [
+    "Levator palpebrae superioris",
+    "Inferior rectus",
+    "Inferior oblique",
+    "None of these three is inferior-branch supplied"
+   ],
+   "ans": 0,
+   "exp": "Superior branch supplies superior rectus and levator palpebrae superioris; inferior branch supplies inferior rectus and inferior oblique. (Book p9)"
+  },
+  {
+   "id": "OPH-C3-010",
+   "sec": "Iris muscles, their autonomic supply and Horner's syndrome",
+   "page": 9,
+   "fmt": "recall",
+   "q": "Horner's syndrome is defined in the book as:",
+   "opts": [
+    "Oculoparasympathetic palsy of the ciliary ganglion (parasympathetic)",
+    "Bilateral third-nerve palsy with ptosis (motor)",
+    "Sensory loss over the ophthalmic division of the trigeminal (V1)",
+    "Oculossympathetic palsy (sympathetic paralysis)"
+   ],
+   "ans": 3,
+   "exp": "Horner's syndrome (HS) is oculosympathetic palsy, i.e. paralysis of the sympathetic supply to the eye. (Book p9)"
+  },
+  {
+   "id": "OPH-C3-011",
+   "sec": "Iris muscles, their autonomic supply and Horner's syndrome",
+   "page": 9,
+   "fmt": "match",
+   "q": "Match the Horner's neuron order with a listed cause — 1) First order (central) 2) Second order (preganglionic) 3) Third order (postganglionic) … A) Pancoast tumour, carotid and aortic aneurysm, neck lesions B) Cluster headache, internal carotid artery dissection, otitis media, cavernous sinus mass C) Brainstem lesions, syringomyelia, diabetic autonomic neuropathy, Wallenberg syndrome",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 2,
+   "exp": "First order (central, hypothalamus to ciliospinal centre C8-T1): brainstem lesions, syringomyelia, diabetic autonomic neuropathy, Wallenberg syndrome. Second order (preganglionic, to superior cervical ganglion): Pancoast tumour, carotid and aortic aneurysm, neck lesions. Third order (postganglionic, to dilator via long ciliary nerve): cluster headache, ICA dissection, otitis media, cavernous sinus mass. (Book p9)"
+  },
+  {
+   "id": "OPH-C3-012",
+   "sec": "Iris muscles, their autonomic supply and Horner's syndrome",
+   "page": 9,
+   "fmt": "scenario",
+   "q": "A 58-year-old diabetic presents with Horner's syndrome; MRI shows a lateral medullary infarct (Wallenberg syndrome). The book places this lesion at which neuron order?",
+   "opts": [
+    "The neuromuscular junction of the dilator",
+    "First order (central)",
+    "Second order (preganglionic)",
+    "Third order (postganglionic)"
+   ],
+   "ans": 1,
+   "exp": "Wallenberg syndrome and syringomyelia, brainstem lesions and diabetic autonomic neuropathy are listed under the first-order (central) neuron, hypothalamus to ciliospinal centre (C8-T1). (Book p9)"
+  },
+  {
+   "id": "OPH-C3-013",
+   "sec": "Iris muscles, their autonomic supply and Horner's syndrome",
+   "page": 9,
+   "fmt": "oddoneout",
+   "q": "The book's HI MAPLE mnemonic lists the clinical features of Horner's syndrome. All of the following belong to it EXCEPT:",
+   "opts": [
+    "Cyclical vomiting with photophobia",
+    "Heterochromia iridis with ipsilateral hypochromia",
+    "Anhydrosis — absence of ipsilateral sweating",
+    "Relative enophthalmos from the lid position"
+   ],
+   "ans": 0,
+   "exp": "HI MAPLE: Heterochromia Iridis, Inferior eyelid elevation, Miosis, Anhydrosis, Ptosis, Loss of ciliospinal reflex, Relative Enophthalmos. (Book p9)"
+  },
+  {
+   "id": "OPH-C3-014",
+   "sec": "Iris muscles, their autonomic supply and Horner's syndrome",
+   "page": 9,
+   "fmt": "truefalse",
+   "q": "Which statement about Horner's syndrome features is FALSE per the book?",
+   "opts": [
+    "Ptosis results from paralysis of Muller's muscle",
+    "Miosis results from paralysis of the dilator pupillae",
+    "The enophthalmos of Horner's syndrome is a true posterior displacement of the globe",
+    "Heterochromia iridis with ipsilateral hypochromia occurs only in congenital Horner's"
+   ],
+   "ans": 2,
+   "exp": "The book calls the enophthalmos relative — ptosis plus inferior eyelid elevation give a sunken appearance; it is not true enophthalmos. (Book p9)"
+  },
+  {
+   "id": "OPH-C3-015",
+   "sec": "Iris muscles, their autonomic supply and Horner's syndrome",
+   "page": 9,
+   "fmt": "recall",
+   "q": "Inferior eyelid elevation in Horner's syndrome is due to paralysis of which muscle?",
+   "opts": [
+    "Orbicularis oculi palpebral part",
+    "Capsulopalpebral fascia only",
+    "Inferior tarsal muscle",
+    "Inferior rectus"
+   ],
+   "ans": 2,
+   "exp": "Inferior eyelid elevation is paralysis of the inferior tarsal muscle, the analogue of Muller's muscle in the upper lid. (Book p9)"
+  },
+  {
+   "id": "OPH-C3-016",
+   "sec": "Iris muscles, their autonomic supply and Horner's syndrome",
+   "page": 9,
+   "fmt": "recall",
+   "q": "Loss of which reflex is listed among the clinical features of Horner's syndrome?",
+   "opts": [
+    "Consensual light reflex",
+    "Ciliospinal reflex",
+    "Corneal blink reflex",
+    "Accommodative reflex"
+   ],
+   "ans": 1,
+   "exp": "HI MAPLE includes loss of the ciliospinal reflex among Horner's features. (Book p9)"
+  },
+  {
+   "id": "OPH-C3-017",
+   "sec": "Diagnosis of Horner's syndrome — pharmacological tests",
+   "page": 10,
+   "fmt": "recall",
+   "q": "Which two structures does the book credit with elevation of the eyelid?",
+   "opts": [
+    "Muller's muscle (superior tarsal) and LPS supplied by CN III",
+    "Orbicularis oculi (lid closure) and levator palpebrae inferioris",
+    "Superior rectus (elevation) and superior oblique",
+    "Frontalis (brow lift) and orbicularis oculi"
+   ],
+   "ans": 0,
+   "exp": "The note pairs Muller's muscle / superior tarsal muscle with LPS (supplied by CN III) as the elevators of the eyelid. (Book p10)"
+  },
+  {
+   "id": "OPH-C3-018",
+   "sec": "Diagnosis of Horner's syndrome — pharmacological tests",
+   "page": 10,
+   "fmt": "truefalse",
+   "q": "Which statement about the cocaine test for Horner's syndrome is FALSE?",
+   "opts": [
+    "A normal pupil dilates because NE rises in the cleft",
+    "In Horner's there is no NE in the cleft, so no dilatation occurs",
+    "Failure to dilate after cocaine excludes Horner's syndrome",
+    "Cocaine blocks reuptake of norepinephrine"
+   ],
+   "ans": 2,
+   "exp": "Cocaine test: blockade of NE reuptake dilates a normal pupil; in Horner's no NE is released, so there is no dilatation — failure to dilate confirms, not excludes, the syndrome. (Book p10)"
+  },
+  {
+   "id": "OPH-C3-019",
+   "sec": "Diagnosis of Horner's syndrome — pharmacological tests",
+   "page": 10,
+   "fmt": "fillup",
+   "q": "Fill up: with 1% apraclonidine, a normal eye keeps ______ selectivity (miosis), whereas Horner's shows denervation hypersensitivity of α1 receptors and dilates.",
+   "opts": [
+    "β1 > β2",
+    "α1 = α2",
+    "α2 > α1",
+    "α1 > α2"
+   ],
+   "ans": 2,
+   "exp": "Apraclonidine (α agonist): normal selectivity α2 (miosis) > α1; in Horner's denervation hypersensitivity of α1 receptors (mushrooming) reverses selectivity to α1 > α2, dilating the pupil. (Book p10)"
+  },
+  {
+   "id": "OPH-C3-020",
+   "sec": "Diagnosis of Horner's syndrome — pharmacological tests",
+   "page": 10,
+   "fmt": "management",
+   "q": "To localise a confirmed Horner's syndrome the book uses 1% amphetamine (hydroxyamphetamine). No dilatation of the pupil after the test places the lesion:",
+   "opts": [
+    "At the hypothalamus",
+    "In the post-ganglionic (final) pathway",
+    "In the central (first-order) pathway",
+    "In the preganglionic (second-order) pathway"
+   ],
+   "ans": 1,
+   "exp": "Hydroxyamphetamine promotes release of NE into the post-synaptic cleft: dilatation means central or preganglionic disease, while no dilatation means the post-ganglionic (final) pathway is affected — post-ganglionic HS. (Book p10)"
+  },
+  {
+   "id": "OPH-C3-021",
+   "sec": "Diagnosis of Horner's syndrome — pharmacological tests",
+   "page": 10,
+   "fmt": "scenario",
+   "q": "A patient with right-eye ptosis and a smaller right pupil dilates after hydroxyamphetamine. Per the book's localisation tree, the lesion lies in:",
+   "opts": [
+    "The central or preganglionic pathway",
+    "The post-ganglionic pathway only",
+    "The neuromuscular junction of Muller's muscle",
+    "The optic nerve"
+   ],
+   "ans": 0,
+   "exp": "Dilatation of the pupil after the amphetamine test indicates a central pathway (central HS) or preganglionic pathway (preganglionic HS) lesion; only absence of dilatation localises post-ganglionically. (Book p10)"
+  },
+  {
+   "id": "OPH-C3-022",
+   "sec": "Diagnosis of Horner's syndrome — pharmacological tests",
+   "page": 10,
+   "fmt": "recall",
+   "q": "The photograph captioned in the Horner's section describes which combination?",
+   "opts": [
+    "Absolute enophthalmos with left eye ptosis",
+    "Proptosis with lid retraction",
+    "Ptosis with pupillary dilatation",
+    "Relative enophthalmos, right ptosis"
+   ],
+   "ans": 3,
+   "exp": "The clinical photograph is captioned 'Relative enophthalmos with right eye ptosis'. (Book p10)"
+  },
+  {
+   "id": "OPH-C3-023",
+   "sec": "Pupil size mnemonics, ciliary body and the near reflex",
+   "page": 11,
+   "fmt": "oddoneout",
+   "q": "The book's ITS COMB list gives causes of mydriasis. All of the following belong to it EXCEPT:",
+   "opts": [
+    "Closed-angle glaucoma",
+    "Belladonna poisoning",
+    "Organophosphate poisoning",
+    "Tonic pupil (Holmes-Adie pupil)"
+   ],
+   "ans": 2,
+   "exp": "ITS COMB (mydriasis): Internal ophthalmoplegia, Tonic pupil, Sympathomimetics, Closure angle glaucoma, Oculomotor 3rd nerve palsy, Mydriatics, Belladonna poisoning; organophosphates belong to the miosis list. (Book p11)"
+  },
+  {
+   "id": "OPH-C3-024",
+   "sec": "Pupil size mnemonics, ciliary body and the near reflex",
+   "page": 11,
+   "fmt": "oddoneout",
+   "q": "The HI COPS list gives causes of miosis. All of the following belong to it EXCEPT:",
+   "opts": [
+    "Clonidine",
+    "Tropicamide therapy",
+    "Pontine hemorrhage",
+    "Iridocyclitis (anterior uveitis)"
+   ],
+   "ans": 1,
+   "exp": "HI COPS (miosis): Horner's, Hemorrhage (pontine), Iridocyclitis, Clonidine, Carbolic acid, Organophosphates/Opioids, Parasympathomimetics, Sleep/Sedatives; tropicamide is a mydriatic in the ITS COMB list. (Book p11)"
+  },
+  {
+   "id": "OPH-C3-025",
+   "sec": "Pupil size mnemonics, ciliary body and the near reflex",
+   "page": 11,
+   "fmt": "recall",
+   "q": "Aqueous humour is secreted by which part of the uvea?",
+   "opts": [
+    "The ciliary processes",
+    "Pars plana of the ciliary body",
+    "Schlemm's canal at the angle",
+    "Iris stroma with melanocytes"
+   ],
+   "ans": 0,
+   "exp": "Ciliary body functions: secretion of aqueous through the ciliary processes. (Book p11)"
+  },
+  {
+   "id": "OPH-C3-026",
+   "sec": "Pupil size mnemonics, ciliary body and the near reflex",
+   "page": 11,
+   "fmt": "recall",
+   "q": "The book prefers the pars plana as the site of entry into the vitreous cavity because:",
+   "opts": [
+    "It is the thickest uveal tissue of the eye",
+    "It secretes the vitreous gel directly",
+    "It contains the ciliary muscles of accommodation",
+    "Relative avascularity lowers bleeding"
+   ],
+   "ans": 3,
+   "exp": "Pars plana is the site of entry into the vitreous cavity because relative avascularity reduces the chances of bleeding. (Book p11)"
+  },
+  {
+   "id": "OPH-C3-027",
+   "sec": "Pupil size mnemonics, ciliary body and the near reflex",
+   "page": 11,
+   "fmt": "truefalse",
+   "q": "Which statement about accommodation per the book is FALSE?",
+   "opts": [
+    "Accommodation tightens the zonules to flatten the lens",
+    "Accommodation helps near vision",
+    "Contraction of the ciliary muscles increases the power of the lens",
+    "Accommodation relaxes the zonules"
+   ],
+   "ans": 0,
+   "exp": "Accommodation = contraction of ciliary muscles → increased lens power with relaxation of zonules, helping near vision; zonular tightening belongs to the relaxed (far-vision) state. (Book p11)"
+  },
+  {
+   "id": "OPH-C3-028",
+   "sec": "Pupil size mnemonics, ciliary body and the near reflex",
+   "page": 11,
+   "fmt": "oddoneout",
+   "q": "The book lists three components of the near reflex. All of the following are components EXCEPT:",
+   "opts": [
+    "Miosis",
+    "Mydriasis",
+    "Accommodation",
+    "Convergence of both eyes"
+   ],
+   "ans": 1,
+   "exp": "Components of the near reflex: accommodation, convergence (inward movement of both eyes) and miosis. (Book p11)"
+  },
+  {
+   "id": "OPH-C3-029",
+   "sec": "Pupil size mnemonics, ciliary body and the near reflex",
+   "page": 11,
+   "fmt": "match",
+   "q": "Match the visual state with its lens-zonule configuration — 1) Far vision (relaxed state) 2) Near vision with accommodation … A) Ciliary muscles contracted with reduced ring diameter, zonules slack, increased curvature of the anterior surface, increased A-P diameter and increased lens power B) Ciliary muscles relaxed, zonules tense, flat anterior surface",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "Both configurations are identical",
+    "Zonules are tense in both states"
+   ],
+   "ans": 0,
+   "exp": "The two figures: far vision shows relaxed ciliary muscles with tense zonules and a flat anterior surface; near vision shows contracted muscles (reduced ring diameter), slack zonules, increased anterior curvature, increased A-P diameter and increased lens power. (Book p11)"
+  },
+  {
+   "id": "OPH-C3-030",
+   "sec": "Anomalies of accommodation — presbyopia and spasm of accommodation",
+   "page": 12,
+   "fmt": "fillup",
+   "q": "Fill up: presbyopia is the ______ insufficiency of accommodation, producing difficulty with near vision.",
+   "opts": [
+    "Pathological",
+    "Pharmacological",
+    "Post-surgical",
+    "Physiological"
+   ],
+   "ans": 3,
+   "exp": "Presbyopia is defined as physiological insufficiency of accommodation causing difficulty in near vision such as using phones or reading newspaper. (Book p12)"
+  },
+  {
+   "id": "OPH-C3-031",
+   "sec": "Anomalies of accommodation — presbyopia and spasm of accommodation",
+   "page": 12,
+   "fmt": "numeric",
+   "q": "Per the book's age rule for presbyopic correction, the add power required at 50 years of age is:",
+   "opts": [
+    "+2 D",
+    "+2.5 D",
+    "+1 D",
+    "+1.5 D"
+   ],
+   "ans": 0,
+   "exp": "At 40 years +1 D is required and every additional 5 years adds +0.5 D: 45 years +1.5 D, 50 years +2 D. (Book p12)"
+  },
+  {
+   "id": "OPH-C3-032",
+   "sec": "Anomalies of accommodation — presbyopia and spasm of accommodation",
+   "page": 12,
+   "fmt": "numeric",
+   "q": "The book states presbyopia typically begins around which age?",
+   "opts": [
+    "60 years",
+    "30 years",
+    "40 years",
+    "50 years"
+   ],
+   "ans": 2,
+   "exp": "Onset of presbyopia: around 40 years of age. (Book p12)"
+  },
+  {
+   "id": "OPH-C3-033",
+   "sec": "Anomalies of accommodation — presbyopia and spasm of accommodation",
+   "page": 12,
+   "fmt": "recall",
+   "q": "The book's preference order for presbyopic spectacles is:",
+   "opts": [
+    "Progressives > D-bifocals > executive",
+    "Executive lenses > D-bifocals > progressives",
+    "D-bifocals > progressives > executive lenses",
+    "Monofocals > progressives > D-bifocals"
+   ],
+   "ans": 0,
+   "exp": "Rx: convex (+) spectacles with the preference progressives > D-bifocals >>> executive lenses; power depends on age. (Book p12)"
+  },
+  {
+   "id": "OPH-C3-034",
+   "sec": "Anomalies of accommodation — presbyopia and spasm of accommodation",
+   "page": 12,
+   "fmt": "match",
+   "q": "Match the spectacle type with its book description — 1) Monofocal 2) Progressive lenses 3) D-bifocals 4) Executive bifocals … A) Cosmetically unappealing with no provision for intermediate vision B) Power restricted to a central hourglass configuration with no power in the peripheries, giving a restricted field of view C) Pupil bisected by the line between the lenses; obsolete except in paediatric aphakia D) Cosmetically appealing with seamless transition, covering near, intermediate and far vision",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-B, 2-D, 3-A, 4-C"
+   ],
+   "ans": 3,
+   "exp": "Monofocal (only near-vision patients): power restricted to centre hourglass, no power in peripheries, restricted field of view. Progressives: seamless, cosmetically appealing, cover near/intermediate/far. D-bifocals: cosmetically unappealing, no intermediate provision. Executive bifocals: pupil bisected by the line between lenses, obsolete except paediatric aphakia. (Book p12)"
+  },
+  {
+   "id": "OPH-C3-035",
+   "sec": "Anomalies of accommodation — presbyopia and spasm of accommodation",
+   "page": 12,
+   "fmt": "scenario",
+   "q": "A 46-year-old tailor who has never worn glasses complains that threading a needle and reading his phone have become difficult, while distance vision is fine. The book's first-line correction for him is:",
+   "opts": [
+    "Executive bifocals (flat-top)",
+    "Contact lenses (soft) for near work",
+    "Monofocal convex (+) spectacles",
+    "Progressive lenses (seamless)"
+   ],
+   "ans": 2,
+   "exp": "Patients only needing near-vision lenses (no existing distance glasses) are given monofocal spectacles; progressives/bifocals are for patients already using glasses for far vision. (Book p12)"
+  },
+  {
+   "id": "OPH-C3-036",
+   "sec": "Anomalies of accommodation — presbyopia and spasm of accommodation",
+   "page": 12,
+   "fmt": "recall",
+   "q": "Spasm of accommodation produces which functional loss, and under what name?",
+   "opts": [
+    "Loss of peripheral vision — pseudoglaucoma",
+    "Loss of far vision — pseudomyopia",
+    "Loss of near vision — pseudohypermetropia",
+    "Loss of colour vision — pseudochromatopsia"
+   ],
+   "ans": 1,
+   "exp": "Spasm of accommodation is a continuous state of contraction of the ciliary muscles causing loss of far vision, labelled pseudomyopia. (Book p12)"
+  },
+  {
+   "id": "OPH-C3-037",
+   "sec": "Anomalies of accommodation — presbyopia and spasm of accommodation",
+   "page": 12,
+   "fmt": "management",
+   "q": "The book treats spasm of accommodation with cycloplegia. Which drug group does it list?",
+   "opts": [
+    "Atropine, homatropine, cyclopentolate",
+    "Miotics — pilocarpine and carbachol eye drops",
+    "Beta blockers — timolol eye drops twice daily",
+    "Prostaglandin analogues — latanoprost at night"
+   ],
+   "ans": 0,
+   "exp": "Treatment is cycloplegia (relaxation of ciliary muscles) with drugs: mydriatics and cycloplegics — atropine, homatropine, cyclopentolate. (Book p12)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U3-1",
+   "ch": 3,
+   "n": 1,
+   "title": "Components of the uvea and the anatomy of the iris",
+   "sec": "Basic Anatomy of Eye · p8",
+   "guide": "The uvea table splits iris plus ciliary-body pars plicata into anterior uvea (anterior uveitis), pars plana into intermediate uvea (intermediate uveitis) and choroid into posterior uvea (posterior uveitis). The iris is highly vascular, pigmented d/t melanocytes and of variable thickness; its thickest part is the collarette (boundary of pupillary and ciliary zones) and its thinnest part the root — the site of iridodialysis. Sphincter pupillae (miosis, parasympathetic inhibitory via CN III, final short ciliary nerve) opposes dilator pupillae (mydriasis, sympathetic excitatory: hypothalamus → C8-T1 ciliospinal centre → superior cervical ganglion → long ciliary nerve), with Pancoast tumour resection flagged as a risk to the SCG fibres.",
+   "qs": [
+    "OPH-C3-001",
+    "OPH-C3-002",
+    "OPH-C3-003",
+    "OPH-C3-004",
+    "OPH-C3-005",
+    "OPH-C3-006",
+    "OPH-C3-007",
+    "OPH-C3-008"
+   ]
+  },
+  {
+   "id": "OPH-U3-2",
+   "ch": 3,
+   "n": 2,
+   "title": "Oculomotor branches, Horner's syndrome — neuron orders and HI MAPLE features",
+   "sec": "Basic Anatomy of Eye · p9",
+   "guide": "The oculomotor nerve's superior branch supplies superior rectus and levator palpebrae superioris; the inferior branch supplies inferior rectus and inferior oblique. Horner's syndrome is oculosympathetic palsy. First-order (central) causes: brainstem lesions, syringomyelia, diabetic autonomic neuropathy, Wallenberg syndrome; second-order (preganglionic): Pancoast tumour, carotid and aortic aneurysm, neck lesions; third-order (postganglionic): cluster headache, ICA dissection, otitis media, cavernous sinus mass. Features run by the mnemonic HI MAPLE — heterochromia iridis (ipsilateral hypochromia, congenital cases only), inferior eyelid elevation (inferior tarsal muscle), miosis, anhydrosis, ptosis (Muller's muscle), loss of ciliospinal reflex and relative enophthalmos.",
+   "qs": [
+    "OPH-C3-009",
+    "OPH-C3-010",
+    "OPH-C3-011",
+    "OPH-C3-012",
+    "OPH-C3-013",
+    "OPH-C3-014",
+    "OPH-C3-015",
+    "OPH-C3-016"
+   ]
+  },
+  {
+   "id": "OPH-U3-3",
+   "ch": 3,
+   "n": 3,
+   "title": "Diagnosing and localising Horner's syndrome — cocaine, apraclonidine and amphetamine tests",
+   "sec": "Basic Anatomy of Eye · p10",
+   "guide": "Muller's (superior tarsal) muscle and the CN III-supplied LPS elevate the eyelid. Detection: the cocaine test blocks NE reuptake — a normal pupil dilates, Horner's does not (no NE released); 1% apraclonidine keeps normal α2 > α1 selectivity but dilates Horner's through α1 denervation hypersensitivity (mushrooming). Localisation: 1% amphetamine (hydroxyamphetamine) releases NE into the cleft — dilatation places the lesion centrally or preganglionically, no dilatation post-ganglionically. The section photograph shows relative enophthalmos with right eye ptosis.",
+   "qs": [
+    "OPH-C3-017",
+    "OPH-C3-018",
+    "OPH-C3-019",
+    "OPH-C3-020",
+    "OPH-C3-021",
+    "OPH-C3-022"
+   ]
+  },
+  {
+   "id": "OPH-U3-4",
+   "ch": 3,
+   "n": 4,
+   "title": "Pupil-size mnemonics, ciliary body functions and the mechanics of accommodation",
+   "sec": "Basic Anatomy of Eye · p11",
+   "guide": "Mydriasis causes run ITS COMB (internal ophthalmoplegia, tonic pupil/Holmes-Adie, sympathomimetics, closure-angle glaucoma, oculomotor palsy, mydriatics, belladonna poisoning); miosis causes run HI COPS (Horner's, pontine hemorrhage, iridocyclitis, clonidine, carbolic acid, organophosphates/opioids, parasympathomimetics, sleep/sedatives). The ciliary body secretes aqueous through its ciliary processes, offers the relatively avascular pars plana as the vitreous entry site, and accomplishes accommodation by contracting its muscles (↑ lens power) while relaxing the zonules. The near reflex = accommodation + convergence + miosis; far vision keeps muscles relaxed with tense zonules and a flat anterior surface, near vision contracts the muscles (↓ ring diameter), slackens zonules and raises anterior curvature, A-P diameter and lens power.",
+   "qs": [
+    "OPH-C3-023",
+    "OPH-C3-024",
+    "OPH-C3-025",
+    "OPH-C3-026",
+    "OPH-C3-027",
+    "OPH-C3-028",
+    "OPH-C3-029"
+   ]
+  },
+  {
+   "id": "OPH-U3-5",
+   "ch": 3,
+   "n": 5,
+   "title": "Anomalies of accommodation — presbyopia, spectacle types and spasm of accommodation",
+   "sec": "Basic Anatomy of Eye · p12",
+   "guide": "Presbyopia is physiological insufficiency of accommodation with onset around 40 years; correction is convex (+) spectacles, +1 D at 40 years and +0.5 D for every further 5 years, preferring progressives > D-bifocals >>> executive lenses. Monofocals suit patients needing only near vision (central hourglass power, restricted field), progressives give seamless near-intermediate-far coverage, D-bifocals lack intermediate vision and executive bifocals bisect the pupil and survive only in paediatric aphakia. Spasm of accommodation — continuous ciliary contraction — causes loss of far vision (pseudomyopia) and is treated with cycloplegic mydriatics: atropine, homatropine, cyclopentolate.",
+   "qs": [
+    "OPH-C3-030",
+    "OPH-C3-031",
+    "OPH-C3-032",
+    "OPH-C3-033",
+    "OPH-C3-034",
+    "OPH-C3-035",
+    "OPH-C3-036",
+    "OPH-C3-037"
+   ]
+  }
+ ]
+}

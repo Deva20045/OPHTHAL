@@ -1,0 +1,709 @@
+{
+ "chapter": 2,
+ "title": "Anatomy of cornea, Anatomy of Sclera and its Pathologies",
+ "pageRange": "3-7",
+ "questions": [
+  {
+   "id": "OPH-C2-001",
+   "sec": "Neurovascular supply of cornea and the corneal blink reflex",
+   "page": 3,
+   "fmt": "numeric",
+   "q": "The converging (refractive) power of the cornea printed in the book is:",
+   "opts": [
+    "+20D to +24D",
+    "+43D to +48D",
+    "+53D to +58D",
+    "+33D to +38D"
+   ],
+   "ans": 1,
+   "exp": "The book lists the corneal refractive power as +43D to +48D and labels it the converging power; the cornea is avascular, which is why it is transparent. (Book p3)"
+  },
+  {
+   "id": "OPH-C2-002",
+   "sec": "Neurovascular supply of cornea and the corneal blink reflex",
+   "page": 3,
+   "fmt": "fillup",
+   "q": "Fill up: the relative refractive index of the cornea is ______.",
+   "opts": [
+    "1.406",
+    "1.376",
+    "1.536",
+    "1.336"
+   ],
+   "ans": 1,
+   "exp": "Relative index of the cornea is 1.376 as printed beside the avascularity-transparency arrow on the neurovascular supply block. (Book p3)"
+  },
+  {
+   "id": "OPH-C2-003",
+   "sec": "Neurovascular supply of cornea and the corneal blink reflex",
+   "page": 3,
+   "fmt": "match",
+   "q": "Match the limb of the corneal blink reflex with its structure — 1) Afferent (sensory) 2) Nucleus relaying to the motor limb 3) Efferent (motor) 4) Effector … A) Facial nucleus B) Orbicularis oculi C) Trigeminal nerve (CN V) D) Facial nerve (CN VII)",
+   "opts": [
+    "1-A, 2-B, 3-D, 4-C",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-A, 2-B, 3-C, 4-D"
+   ],
+   "ans": 2,
+   "exp": "The book's reflex chain runs: stimulus → afferent trigeminal (CN V) → trigeminal nucleus → facial nucleus → efferent facial nerve (CN VII) → effector orbicularis oculi → response blinking. (Book p3)"
+  },
+  {
+   "id": "OPH-C2-004",
+   "sec": "Neurovascular supply of cornea and the corneal blink reflex",
+   "page": 3,
+   "fmt": "scenario",
+   "q": "A 52-year-old man with Bell's palsy has his cornea touched with a cotton wisp: sensation is felt but no blink follows, and he cannot close the eye voluntarily. Which lesion site and sign does the book attach to this picture?",
+   "opts": [
+    "Trigeminal nucleus with loss of conjunctival sensation",
+    "Afferent limb (CN V) with corneal anaesthesia",
+    "Efferent limb (CN VII) with lagophthalmos",
+    "Effector orbicularis with upper-lid ptosis"
+   ],
+   "ans": 2,
+   "exp": "Bell's palsy breaks the efferent (motor) facial nerve limb of the blink reflex; the book pairs a failed facial nerve with Bell's palsy and the inability to close the eye, lagophthalmos. (Book p3)"
+  },
+  {
+   "id": "OPH-C2-005",
+   "sec": "Neurovascular supply of cornea and the corneal blink reflex",
+   "page": 3,
+   "fmt": "truefalse",
+   "q": "Which statement about the corneal blink reflex is FALSE per the book?",
+   "opts": [
+    "Its stimulus is touching the cornea with a cotton wisp",
+    "Its afferent limb travels in the trigeminal nerve (CN V)",
+    "It tests corneal motor power, not sensation",
+    "Its efferent limb travels in the facial nerve (CN VII)"
+   ],
+   "ans": 2,
+   "exp": "The book defines the corneal blink reflex as the test of corneal sensation, not of motor power; the stimulus is touching the cornea with a cotton wisp and the response is blinking. (Book p3)"
+  },
+  {
+   "id": "OPH-C2-006",
+   "sec": "Neurovascular supply of cornea and the corneal blink reflex",
+   "page": 3,
+   "fmt": "oddoneout",
+   "q": "The book lists causes of corneal anaesthesia (the no-blinking pathway). All of the following appear in that list EXCEPT:",
+   "opts": [
+    "Topical medication such as timolol",
+    "Vitamin A deficiency",
+    "Acanthamoeba keratitis",
+    "Leprosy"
+   ],
+   "ans": 1,
+   "exp": "Listed causes of corneal anaesthesia are herpes keratitis (m/c), diabetes, leprosy, topical medications (ex. timolol), Acanthamoeba keratitis, contact lens wear and surgical trauma; vitamin A deficiency is not in the list. (Book p3)"
+  },
+  {
+   "id": "OPH-C2-007",
+   "sec": "Neurovascular supply of cornea and the corneal blink reflex",
+   "page": 3,
+   "fmt": "recall",
+   "q": "The commonest (m/c) cause of corneal anaesthesia in the book's list is:",
+   "opts": [
+    "Leprosy",
+    "Contact lens wear",
+    "Diabetes mellitus",
+    "Herpes keratitis"
+   ],
+   "ans": 3,
+   "exp": "Herpes keratitis is flagged m/c among the causes of corneal anaesthesia; diabetes and leprosy follow in the same list. (Book p3)"
+  },
+  {
+   "id": "OPH-C2-008",
+   "sec": "Neurovascular supply of cornea and the corneal blink reflex",
+   "page": 3,
+   "fmt": "fillup",
+   "q": "Fill up the sensory chain to the cornea: Trigeminal → Ophthalmic → ______ → Cornea.",
+   "opts": [
+    "The ciliary ganglion relay",
+    "Frontal nerve",
+    "Lacrimal nerve",
+    "Nasociliary nerve"
+   ],
+   "ans": 3,
+   "exp": "Sensory nerve supply of the cornea runs Trigeminal → Ophthalmic → Nasociliary → Cornea as printed in the neurovascular supply block. (Book p3)"
+  },
+  {
+   "id": "OPH-C2-009",
+   "sec": "Layers of the cornea — epithelial histology and layer thicknesses",
+   "page": 3,
+   "fmt": "match",
+   "q": "Match the corneal epithelial layer of the histology figure with its cells — 1) Superficial layer 2) Middle layer 3) Basal layer … A) Wing-shaped cells B) Columnar cells that undergo mitosis and regenerate C) Squamous cells bearing microvilli for tear-film adhesion",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Corneal epithelial histology: superficial squamous cells carry microvilli for adhesion of the tear film, the middle layer is wing-shaped cells, and the basal layer of columnar cells can undergo mitosis and regenerate. (Book p3)"
+  },
+  {
+   "id": "OPH-C2-010",
+   "sec": "Layers of the cornea — epithelial histology and layer thicknesses",
+   "page": 4,
+   "fmt": "fillup",
+   "q": "Fill up: histologically the anterior (outermost) layer of the cornea, the epithelium, is a ______.",
+   "opts": [
+    "Non-keratinized stratified squamous epithelium",
+    "Simple columnar epithelium",
+    "Pseudostratified ciliated epithelium (respiratory)",
+    "Keratinized stratified squamous epithelium"
+   ],
+   "ans": 0,
+   "exp": "The book prints the epithelial histology as non-keratinized stratified squamous epithelium under heading 1, Anterior (Outermost) Layer – Epithelium. (Book p4)"
+  },
+  {
+   "id": "OPH-C2-011",
+   "sec": "Layers of the cornea — epithelial histology and layer thicknesses",
+   "page": 4,
+   "fmt": "match",
+   "q": "Match each corneal layer with the thickness printed in the 'Layers of cornea' figure — 1) Epithelium 2) Bowman's layer 3) Stroma 4) Descemet's membrane … A) 8-14 µm B) 490 µm C) 50-80 µm D) 10-12 µm",
+   "opts": [
+    "1-A, 2-B, 3-D, 4-C",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-C, 2-A, 3-B, 4-D",
+    "1-A, 2-B, 3-C, 4-D"
+   ],
+   "ans": 2,
+   "exp": "Figure values: epithelium 50-80 µm, Bowman's layer 8-14 µm, stroma 490 µm, Descemet's membrane 10-12 µm (endothelium 5 µm, Dua's layer 0.5-13.9 µm). (Book p4)"
+  },
+  {
+   "id": "OPH-C2-012",
+   "sec": "Layers of the cornea — epithelial histology and layer thicknesses",
+   "page": 4,
+   "fmt": "truefalse",
+   "q": "Per the book's outermost/innermost table, judged with respect to the centre of the eyeball, which pairing is CORRECT?",
+   "opts": [
+    "Retina — outermost layer lies anteriorly",
+    "Cornea — outermost layer lies posteriorly",
+    "Retina — innermost layer lies anteriorly",
+    "Cornea — innermost layer lies anteriorly"
+   ],
+   "ans": 2,
+   "exp": "The table reads: cornea outermost lies anteriorly and innermost lies posteriorly; retina outermost lies posteriorly and innermost lies anteriorly. (Book p4)"
+  },
+  {
+   "id": "OPH-C2-013",
+   "sec": "Layers of the cornea — epithelial histology and layer thicknesses",
+   "page": 4,
+   "fmt": "recall",
+   "q": "One corneal layer is described as acellular, unable to regenerate, healing by scar formation with corneal opacity and loss of vision. That layer is:",
+   "opts": [
+    "Bowman's membrane",
+    "Descemet's membrane",
+    "Corneal epithelium",
+    "Dua's layer"
+   ],
+   "ans": 0,
+   "exp": "Bowman's membrane is acellular, cannot regenerate, heals by scar formation producing corneal opacity and LOV (loss of vision); epithelium and Descemet's membrane are the regenerating layers. (Book p4)"
+  },
+  {
+   "id": "OPH-C2-014",
+   "sec": "Layers of the cornea — epithelial histology and layer thicknesses",
+   "page": 4,
+   "fmt": "oddoneout",
+   "q": "All of the following are labelled in the 'Layers of cornea' figure EXCEPT:",
+   "opts": [
+    "Dua's layer",
+    "Lamina fusca",
+    "Descemet's membrane",
+    "Epithelial basement membrane"
+   ],
+   "ans": 1,
+   "exp": "The figure labels epithelium, epithelial basement membrane, Bowman's layer, stroma, Dua's layer, Descemet's membrane and endothelium; lamina fusca belongs to the sclera, not this figure. (Book p4)"
+  },
+  {
+   "id": "OPH-C2-015",
+   "sec": "Layers of the cornea — epithelial histology and layer thicknesses",
+   "page": 4,
+   "fmt": "recall",
+   "q": "The note beneath the epithelium heading states that 'outermost' and 'innermost' are judged with respect to:",
+   "opts": [
+    "The limbal junction",
+    "The visual axis of the globe",
+    "The centre of the eyeball",
+    "The optic disc margin"
+   ],
+   "ans": 2,
+   "exp": "The book's note reads: with respect to the centre of the eyeball — the reference point for the outermost/innermost table of cornea and retina. (Book p4)"
+  },
+  {
+   "id": "OPH-C2-016",
+   "sec": "Bowman's membrane and corneal opacities",
+   "page": 4,
+   "fmt": "truefalse",
+   "q": "Which statement about Bowman's membrane is FALSE?",
+   "opts": [
+    "It is acellular under light microscopy",
+    "It is not a true basement membrane of the epithelium",
+    "It is not stained by PAS reagent in sections",
+    "It regenerates completely without scarring"
+   ],
+   "ans": 3,
+   "exp": "Bowman's membrane is not a true basement membrane, is not stained by PAS, is acellular and cannot regenerate — injury heals by scar formation, not by complete regeneration. (Book p4)"
+  },
+  {
+   "id": "OPH-C2-017",
+   "sec": "Bowman's membrane and corneal opacities",
+   "page": 4,
+   "fmt": "fillup",
+   "q": "Fill up: Bowman's membrane is PAS-negative; the book expands PAS as ______.",
+   "opts": [
+    "Periodic Acid Schiff reagent",
+    "Peracetic Acid Stain",
+    "Phosphatic Acid Serum",
+    "Periodic Alkaline Silver stain"
+   ],
+   "ans": 0,
+   "exp": "PAS is expanded in the book as Periodic Acid Schiff reagent; Bowman's membrane is not stained by it because it is not a true basement membrane. (Book p4)"
+  },
+  {
+   "id": "OPH-C2-018",
+   "sec": "Bowman's membrane and corneal opacities",
+   "page": 4,
+   "fmt": "match",
+   "q": "Match the corneal opacity with its bedside features — 1) Nebular (faint) 2) Macular 3) Leukomatous (most dense) … A) Pupillary margin visible, iris details not visible B) Pupillary margin and iris details both visible C) Pupillary margin and iris details both not visible",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 3,
+   "exp": "Corneal opacities table: nebular — pupillary margin visible (macroscopic) and iris details visible (microscopic); macular — pupillary margin visible, iris details not visible; leukomatous — both not visible. (Book p4)"
+  },
+  {
+   "id": "OPH-C2-019",
+   "sec": "Bowman's membrane and corneal opacities",
+   "page": 4,
+   "fmt": "scenario",
+   "q": "A child is brought with a faint corneal scar: the pupillary margin and the iris details are both still seen behind it, and the book attributes distortion of the image to diffraction across such an opacity. The grade of opacity is:",
+   "opts": [
+    "Nebular",
+    "Band-shaped",
+    "Macular",
+    "Leukomatous"
+   ],
+   "ans": 0,
+   "exp": "Nebular (faint) opacity shows maximum distribution of visible light with a visible pupillary margin and visible iris details; diffraction through it causes distortion of the image. (Book p4)"
+  },
+  {
+   "id": "OPH-C2-020",
+   "sec": "Bowman's membrane and corneal opacities",
+   "page": 4,
+   "fmt": "recall",
+   "q": "In a leukomatous opacity the book says visible-light distribution is minimum because:",
+   "opts": [
+    "The pupillary margin reflects the light back",
+    "Light rays do not cross the dense opacity",
+    "Diffraction spreads the incoming light maximally",
+    "Iris details magnify the transmitted light"
+   ],
+   "ans": 1,
+   "exp": "For leukomatous (most dense) opacity the figure shows light rays that don't cross the opacity, giving minimum light distribution and loss of vision. (Book p4)"
+  },
+  {
+   "id": "OPH-C2-021",
+   "sec": "Stroma, Dua's layer, Descemet's membrane and endothelium",
+   "page": 5,
+   "fmt": "recall",
+   "q": "The glycosaminoglycan flagged m/c in the corneal stroma is:",
+   "opts": [
+    "Keratan sulfate",
+    "Dermatan sulfate",
+    "Heparan sulfate",
+    "Hyaluronic acid"
+   ],
+   "ans": 0,
+   "exp": "Stromal composition per the book: type I collagen fibres and glycosaminoglycans, with keratan sulfate marked m/c. (Book p5)"
+  },
+  {
+   "id": "OPH-C2-022",
+   "sec": "Stroma, Dua's layer, Descemet's membrane and endothelium",
+   "page": 5,
+   "fmt": "numeric",
+   "q": "The stroma occupies what share of corneal thickness per the book?",
+   "opts": [
+    "70%",
+    "90%",
+    "99%",
+    "50%"
+   ],
+   "ans": 1,
+   "exp": "The stroma is the thickest corneal layer, 90% of corneal thickness (490 µm in the layers figure). (Book p5)"
+  },
+  {
+   "id": "OPH-C2-023",
+   "sec": "Stroma, Dua's layer, Descemet's membrane and endothelium",
+   "page": 5,
+   "fmt": "recall",
+   "q": "The book names the strongest corneal layer as:",
+   "opts": [
+    "Descemet's membrane (endothelial product)",
+    "Anterior stromal lamellae (keratocytes)",
+    "Dua's layer (pre-Descemet's membrane)",
+    "Bowman's layer (sub-epithelial band)"
+   ],
+   "ans": 2,
+   "exp": "Heading 4 states Dua's layer / pre-Descemet's membrane is the strongest corneal layer; the layers figure also tags it 'strongest'. (Book p5)"
+  },
+  {
+   "id": "OPH-C2-024",
+   "sec": "Stroma, Dua's layer, Descemet's membrane and endothelium",
+   "page": 5,
+   "fmt": "truefalse",
+   "q": "Which statement about Descemet's membrane is FALSE?",
+   "opts": [
+    "Schwalbe's line is its peripheral termination at the limbus near the anterior position of the trabecular meshwork",
+    "It is secreted continuously by the underlying endothelial cells",
+    "It can regenerate",
+    "It is secreted by the corneal epithelium and cannot regenerate"
+   ],
+   "ans": 3,
+   "exp": "Descemet's membrane is secreted continuously by the underlying endothelial cells and can regenerate; Schwalbe's line is its peripheral termination at the limbus near the anterior trabecular meshwork. (Book p5)"
+  },
+  {
+   "id": "OPH-C2-025",
+   "sec": "Stroma, Dua's layer, Descemet's membrane and endothelium",
+   "page": 5,
+   "fmt": "recall",
+   "q": "The corneal endothelium maintains transparency chiefly because:",
+   "opts": [
+    "Zona occludens block aqueous entry",
+    "It is the thickest corneal layer",
+    "It secretes the collagen fibrils of the stroma",
+    "It reflects ultraviolet light away from the retina"
+   ],
+   "ans": 0,
+   "exp": "Endothelium with zona occludens prevents entry of aqueous into the cornea and maintains transparency; if injured or breached, corneal oedema and haze/opacity follow. (Book p5)"
+  },
+  {
+   "id": "OPH-C2-026",
+   "sec": "Stroma, Dua's layer, Descemet's membrane and endothelium",
+   "page": 5,
+   "fmt": "numeric",
+   "q": "On specular microscopy the book pairs corneal decompensation — irregularities with a large cavity — with which endothelial cell count?",
+   "opts": [
+    "2400 cells/mm²",
+    "1800 cells/mm²",
+    "500 cells/mm²",
+    "3000 cells/mm²"
+   ],
+   "ans": 2,
+   "exp": "The specular microscopy timeline: 3000 cells/mm² normal hexagonal endothelium, 2400 cells/mm² small breach with compensation, 500 cells/mm² irregularities and large cavity with corneal decompensation. (Book p5)"
+  },
+  {
+   "id": "OPH-C2-027",
+   "sec": "Stroma, Dua's layer, Descemet's membrane and endothelium",
+   "page": 5,
+   "fmt": "fillup",
+   "q": "Fill up: at 2400 cells/mm² the small endothelial breach is compensated by ______ (increase in cell size) together with polymorphism (change in shape).",
+   "opts": [
+    "Hyperplasia",
+    "Anisocoria",
+    "Polymegathism",
+    "Metaplasia of endothelium"
+   ],
+   "ans": 2,
+   "exp": "The book's compensation row lists polymegathism (increase in size) and polymorphism (change in shape), which maintain tight-junction integrity and corneal transparency. (Book p5)"
+  },
+  {
+   "id": "OPH-C2-028",
+   "sec": "Stroma, Dua's layer, Descemet's membrane and endothelium",
+   "page": 5,
+   "fmt": "scenario",
+   "q": "A long-term soft contact-lens wearer presents with a hazy cornea; specular microscopy shows irregularities and a large cavity in the endothelial mosaic. The book's label for this state is:",
+   "opts": [
+    "Anterior stromal dystrophy (granular)",
+    "Nebular opacity from old keratitis",
+    "Keratoconus with acute hydrops",
+    "Corneal decompensation from lens wear"
+   ],
+   "ans": 3,
+   "exp": "The 500 cells/mm² column of the specular microscopy figure is annotated corneal decompensation d/t extended contact lens wear with a hazy cornea. (Book p5)"
+  },
+  {
+   "id": "OPH-C2-029",
+   "sec": "Sclera — anatomy, layers and its pathologies",
+   "page": 6,
+   "fmt": "recall",
+   "q": "The sclera is the outermost covering of which fraction of the eyeball?",
+   "opts": [
+    "Posterior 5/6th",
+    "Posterior 2/3rd",
+    "Posterior 4/5th",
+    "Posterior 1/6th"
+   ],
+   "ans": 0,
+   "exp": "The sclera heading opens with: outermost covering of posterior 5/6th of eyeball. (Book p6)"
+  },
+  {
+   "id": "OPH-C2-030",
+   "sec": "Sclera — anatomy, layers and its pathologies",
+   "page": 6,
+   "fmt": "numeric",
+   "q": "The scleral thickness at the limbus in the book's 'variable thickness of sclera' figure is:",
+   "opts": [
+    "0.83 mm",
+    "1.03 mm",
+    "0.38 mm",
+    "0.53 mm"
+   ],
+   "ans": 0,
+   "exp": "The figure annotates the limbus with a scleral thickness of 0.83 mm; thinnest is posterior to the insertion of recti and thickest around the optic nerve. (Book p6)"
+  },
+  {
+   "id": "OPH-C2-031",
+   "sec": "Sclera — anatomy, layers and its pathologies",
+   "page": 6,
+   "fmt": "match",
+   "q": "Match the scleral site with its thickness feature — 1) Limbus 2) Posterior to insertion of recti 3) Around the optic nerve … A) Thinnest B) 0.83 mm C) Thickest",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 2,
+   "exp": "Variable thickness of sclera: limbus 0.83 mm, posterior to insertion of recti thinnest, around the optic nerve thickest. (Book p6)"
+  },
+  {
+   "id": "OPH-C2-032",
+   "sec": "Sclera — anatomy, layers and its pathologies",
+   "page": 6,
+   "fmt": "match",
+   "q": "Match the scleral layer with its description — 1) Episclera 2) Sclera propria 3) Lamina fusca … A) Avascular layer of collagen fibres B) Innermost layer C) Outermost layer with superficial and deep vascular plexuses that merges with Tenon's capsule about 3 mm posterior to the limbus",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 1,
+   "exp": "Scleral layers: episclera (outermost, highly vascular with two plexuses — superficial and deep near sclera proper — merging with Tenon's capsule ~3 mm posterior to limbus), sclera propria (avascular, collagen fibres), lamina fusca (innermost). (Book p6)"
+  },
+  {
+   "id": "OPH-C2-033",
+   "sec": "Sclera — anatomy, layers and its pathologies",
+   "page": 6,
+   "fmt": "truefalse",
+   "q": "Which statement about scleral inflammation is FALSE?",
+   "opts": [
+    "Scleritis is inflammation of the deep vascular plexus of the episclera",
+    "Episcleritis is inflammation of the superficial vascular plexus",
+    "Scleritis is a misnomer as sclera propria inflames",
+    "The commonest cause of episcleritis is idiopathic"
+   ],
+   "ans": 2,
+   "exp": "Scleritis is labelled a misnomer precisely because it is inflammation of the deep vascular plexus of the episclera, not of the sclera proper; episcleritis involves the superficial plexus and is idiopathic m/c. (Book p6)"
+  },
+  {
+   "id": "OPH-C2-034",
+   "sec": "Sclera — anatomy, layers and its pathologies",
+   "page": 6,
+   "fmt": "scenario",
+   "q": "A red eye is instilled with 2.5% phenylephrine during the vasoconstrictor test and the redness disappears with blanching. Per the book this result indicates:",
+   "opts": [
+    "Episcleritis, because superficial vessels constrict",
+    "Conjunctival foreign body, because the redness is localised",
+    "Acute angle closure, because the pupil is mid-dilated",
+    "Scleritis, because deep vessels do not constrict"
+   ],
+   "ans": 0,
+   "exp": "In episcleritis the superficial vessels constrict, so after the test redness disappears and blanching occurs; in scleritis redness remains because inflamed deep vessels do not constrict. Reagent: 2.5% phenylephrine eye drops. (Book p6)"
+  },
+  {
+   "id": "OPH-C2-035",
+   "sec": "Sclera — anatomy, layers and its pathologies",
+   "page": 6,
+   "fmt": "management",
+   "q": "The book's management of episcleritis is:",
+   "opts": [
+    "Self-resolving; supportive NSAIDs, low-dose steroids",
+    "Topical antibiotics alone for six weeks then review",
+    "Immediate high-dose systemic steroids with a slow taper",
+    "Scleral buckling with cryotherapy to the episclera"
+   ],
+   "ans": 0,
+   "exp": "Episcleritis management per the book: self resolving, resolves fast; supportive treatment with NSAIDs and low dose steroids. (Book p6)"
+  },
+  {
+   "id": "OPH-C2-036",
+   "sec": "Types of scleritis and the limbus",
+   "page": 7,
+   "fmt": "oddoneout",
+   "q": "All of the following describe scleromalacia perforans in the book EXCEPT:",
+   "opts": [
+    "No pain and no congestion",
+    "Severe ocular pain with photophobia",
+    "m/c in women with long-standing rheumatoid arthritis",
+    "Only deep (bluish) vessels are seen"
+   ],
+   "ans": 1,
+   "exp": "Scleromalacia perforans (necrotizing scleritis without inflammation) shows atrophy d/t inflammation, only deep bluish vessels, no pain and no congestion; it is m/c in women with long-standing rheumatoid arthritis. (Book p7)"
+  },
+  {
+   "id": "OPH-C2-037",
+   "sec": "Types of scleritis and the limbus",
+   "page": 7,
+   "fmt": "scenario",
+   "q": "A 60-year-old woman with long-standing rheumatoid arthritis has a quiet, uncongested eye; examination shows scleral atrophy with only deep bluish vessels and no pain. The book's diagnosis is:",
+   "opts": [
+    "Necrotizing scleritis with signs of inflammation (painful)",
+    "Necrotizing without inflammation (scleromalacia)",
+    "Non-necrotizing scleritis (diffuse)",
+    "Episcleritis (superficial)"
+   ],
+   "ans": 1,
+   "exp": "The types-of-scleritis tree puts scleromalacia perforans under necrotizing scleritis without inflammation, m/c in women with long-standing rheumatoid arthritis. (Book p7)"
+  },
+  {
+   "id": "OPH-C2-038",
+   "sec": "Types of scleritis and the limbus",
+   "page": 7,
+   "fmt": "recall",
+   "q": "Limbal stem cells sit in which structure per the book?",
+   "opts": [
+    "Schwalbe's line (peripheral termination)",
+    "Scleral spur (muscle insertion site)",
+    "Conjunctival fornix (goblet-cell rich)",
+    "Palisades of Vogt (crypts)"
+   ],
+   "ans": 3,
+   "exp": "Site of limbal stem cells: limbal basal epithelial cells forming the palisades of Vogt (elevations and crypts); the limbus is the corneo-scleral junction that contains stem cells. (Book p7)"
+  },
+  {
+   "id": "OPH-C2-039",
+   "sec": "Types of scleritis and the limbus",
+   "page": 7,
+   "fmt": "fillup",
+   "q": "Fill up: the universal marker of stem cells is CD34, while the specific marker of limbal stem cells printed in the book is ______.",
+   "opts": [
+    "Ki-67",
+    "CD31",
+    "ABCG2",
+    "CD45"
+   ],
+   "ans": 2,
+   "exp": "The book lists universal marker of stem cell: CD34 and specific marker of limbal stem cell: ABCG2. (Book p7)"
+  },
+  {
+   "id": "OPH-C2-040",
+   "sec": "Types of scleritis and the limbus",
+   "page": 7,
+   "fmt": "management",
+   "q": "Deficiency of limbal stem cells causes pterygium, which the book attributes to environmental factors. Its treatment per the book is:",
+   "opts": [
+    "A scleral patch graft without conjunctival tissue",
+    "Excision with a limbal stem cell autograft",
+    "Topical antihistamines and mast-cell stabilisers",
+    "Cryotherapy to the conjunctiva alone"
+   ],
+   "ans": 1,
+   "exp": "Deficiency of LSC → pterygium, caused by environmental factors; Rx: excision and autograft with limbal stem cells. (Book p7)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U2-1",
+   "ch": 2,
+   "n": 1,
+   "title": "Neurovascular supply of the cornea and the corneal blink reflex",
+   "sec": "Basic Anatomy of Eye · p3",
+   "guide": "The chapter opens with the cornea's avascularity (hence transparency), relative index 1.376 and converging refractive power +43D to +48D, then the sensory chain Trigeminal → Ophthalmic → Nasociliary → Cornea. The corneal blink reflex (stimulus: touch cornea with cotton wisp) runs afferent CN V → trigeminal nucleus → facial nucleus → efferent CN VII → orbicularis oculi → blinking; a broken efferent gives Bell's palsy with lagophthalmos, while no blinking marks corneal anaesthesia (causes: herpes keratitis m/c, diabetes, leprosy, topical medications ex. timolol, Acanthamoeba keratitis, contact lens wear, surgical trauma).",
+   "qs": [
+    "OPH-C2-001",
+    "OPH-C2-002",
+    "OPH-C2-003",
+    "OPH-C2-004",
+    "OPH-C2-005",
+    "OPH-C2-006",
+    "OPH-C2-007",
+    "OPH-C2-008"
+   ]
+  },
+  {
+   "id": "OPH-U2-2",
+   "ch": 2,
+   "n": 2,
+   "title": "Corneal epithelial histology, layer thicknesses and the outermost/innermost table",
+   "sec": "Basic Anatomy of Eye · p3-4",
+   "guide": "The epithelial histology figure gives superficial squamous cells with microvilli (tear-film adhesion), middle wing-shaped cells and basal columnar cells that undergo mitosis and regenerate. The layers figure prints epithelium 50-80 µm, epithelial basement membrane, Bowman's layer 8-14 µm, stroma 490 µm, Dua's layer 0.5-13.9 µm, Descemet's membrane 10-12 µm and endothelium 5 µm, tagged can-regenerate (epithelium, Descemet's), thickest (stroma), strongest (Dua's). The epithelium is non-keratinized stratified squamous, and the outermost/innermost table is read with respect to the centre of the eyeball: cornea outermost anteriorly/innermost posteriorly, retina the reverse.",
+   "qs": [
+    "OPH-C2-009",
+    "OPH-C2-010",
+    "OPH-C2-011",
+    "OPH-C2-012",
+    "OPH-C2-013",
+    "OPH-C2-014",
+    "OPH-C2-015"
+   ]
+  },
+  {
+   "id": "OPH-U2-3",
+   "ch": 2,
+   "n": 3,
+   "title": "Bowman's membrane and the three grades of corneal opacity",
+   "sec": "Basic Anatomy of Eye · p4",
+   "guide": "Bowman's membrane is not a true basement membrane (so PAS — Periodic Acid Schiff — negative), is acellular, cannot regenerate and heals by scar formation causing corneal opacity and loss of vision. The opacity table grades nebular (faint: pupillary margin and iris details visible, maximum light, diffraction with distortion of image), macular (pupillary margin visible, iris details not visible) and leukomatous (most dense: both not visible, minimum light, rays don't cross the opacity, loss of vision).",
+   "qs": [
+    "OPH-C2-016",
+    "OPH-C2-017",
+    "OPH-C2-018",
+    "OPH-C2-019",
+    "OPH-C2-020"
+   ]
+  },
+  {
+   "id": "OPH-U2-4",
+   "ch": 2,
+   "n": 4,
+   "title": "Stroma, Dua's layer, Descemet's membrane, endothelium and specular microscopy",
+   "sec": "Basic Anatomy of Eye · p5",
+   "guide": "Stroma: thickest layer (90% of corneal thickness), type I collagen with keratan sulfate as the m/c GAG. Dua's layer / pre-Descemet's membrane is the strongest layer. Descemet's membrane is secreted continuously by endothelial cells and can regenerate; Schwalbe's line is its peripheral termination at the limbus near the anterior trabecular meshwork. Endothelium is the most metabolically active layer; zona occludens block aqueous entry, and breach causes oedema with haze/opacity. Specular microscopy: 3000 cells/mm² normal hexagonal mosaic, 2400 cells/mm² small breach compensated by polymegathism and polymorphism, 500 cells/mm² irregularities and large cavity = corneal decompensation from extended contact lens wear.",
+   "qs": [
+    "OPH-C2-021",
+    "OPH-C2-022",
+    "OPH-C2-023",
+    "OPH-C2-024",
+    "OPH-C2-025",
+    "OPH-C2-026",
+    "OPH-C2-027",
+    "OPH-C2-028"
+   ]
+  },
+  {
+   "id": "OPH-U2-5",
+   "ch": 2,
+   "n": 5,
+   "title": "Sclera — extent, variable thickness, layers, scleritis versus episcleritis",
+   "sec": "Basic Anatomy of Eye · p6",
+   "guide": "The sclera covers the posterior 5/6th of the eyeball and is white d/t irregular collagen arrangement. Thickness varies: limbus 0.83 mm, thinnest posterior to the insertion of recti, thickest around the optic nerve. Layers: episclera (outermost, two vascular plexuses, merges with Tenon's capsule ~3 mm posterior to limbus), sclera propria (avascular collagen), lamina fusca (innermost). Scleritis (a misnomer) inflames the deep vascular plexus of the episclera with a bluish/violaceous hue and redness that remains after 2.5% phenylephrine; episcleritis inflames the superficial plexus, is idiopathic m/c, reddish, blanches on the test, and is managed supportively with NSAIDs and low-dose steroids.",
+   "qs": [
+    "OPH-C2-029",
+    "OPH-C2-030",
+    "OPH-C2-031",
+    "OPH-C2-032",
+    "OPH-C2-033",
+    "OPH-C2-034",
+    "OPH-C2-035"
+   ]
+  },
+  {
+   "id": "OPH-U2-6",
+   "ch": 2,
+   "n": 6,
+   "title": "Types of scleritis, scleromalacia perforans and the limbus",
+   "sec": "Basic Anatomy of Eye · p7",
+   "guide": "Scleritis splits into non-necrotizing and necrotizing; necrotizing further divides into with inflammation and without inflammation — the latter being scleromalacia perforans (m/c in women with long-standing rheumatoid arthritis, atrophy d/t inflammation, only deep bluish vessels, no pain, no congestion). The limbus is the corneo-scleral junction holding pleuripotent limbal stem cells (universal marker CD34, specific marker ABCG2) in the palisades of Vogt; their deficiency causes pterygium, treated by excision with a limbal stem cell autograft.",
+   "qs": [
+    "OPH-C2-036",
+    "OPH-C2-037",
+    "OPH-C2-038",
+    "OPH-C2-039",
+    "OPH-C2-040"
+   ]
+  }
+ ]
+}

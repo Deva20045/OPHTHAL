@@ -1,0 +1,821 @@
+{
+ "chapter": 5,
+ "title": "Ocular Routes of Drug Administration, Blood Supply of Eye and Embryology of Eye",
+ "pageRange": "14-20",
+ "questions": [
+  {
+   "id": "OPH-C5-001",
+   "sec": "Routes of ocular drug administration",
+   "page": 14,
+   "fmt": "match",
+   "q": "Match the lens status with the book's intravitreal injection site — 1) Aphakia (absence of lens) 2) Pseudophakia 3) Phakia (normal crystalline lens) … A) 3.5 mm posterior to the limbus B) 3 mm posterior to the limbus C) 4 mm posterior to the limbus",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Intravitreal injection site table: aphakia 3 mm, pseudophakia 3.5 mm, phakia 4 mm posterior to the limbus. (Book p14)"
+  },
+  {
+   "id": "OPH-C5-002",
+   "sec": "Routes of ocular drug administration",
+   "page": 14,
+   "fmt": "recall",
+   "q": "An intravitreal injection pierces which two structures on its way to the vitreous?",
+   "opts": [
+    "Cornea and iris",
+    "Tenon's capsule and conjunctiva",
+    "Sclera and optic nerve sheath",
+    "Sclera and pars plana"
+   ],
+   "ans": 3,
+   "exp": "The book states the injection pierces sclera and pars plana. (Book p14)"
+  },
+  {
+   "id": "OPH-C5-003",
+   "sec": "Routes of ocular drug administration",
+   "page": 14,
+   "fmt": "management",
+   "q": "Arrange the book's intravitreal injection procedure in order: which step immediately follows sterilising the sclera infero-temporally?",
+   "opts": [
+    "Marking the injection site with a caliper",
+    "Inserting the 30G needle through sclera",
+    "Asking the patient to look up/in",
+    "Opening the eyes with a speculum first"
+   ],
+   "ans": 2,
+   "exp": "Procedure order: speculum to open eyes → sterilise sclera infero-temporally → ask patient to look upwards/inwards → mark site with caliper → 30G needle inserted through sclera with slow twisting movements to reach the vitreous. (Book p14)"
+  },
+  {
+   "id": "OPH-C5-004",
+   "sec": "Routes of ocular drug administration",
+   "page": 14,
+   "fmt": "numeric",
+   "q": "The needle gauge the book specifies for intravitreal injection is:",
+   "opts": [
+    "16G",
+    "30G",
+    "18G",
+    "24G"
+   ],
+   "ans": 1,
+   "exp": "Injection with a 30G needle is inserted through the sclera with slow, twisting movements to reach the vitreous. (Book p14)"
+  },
+  {
+   "id": "OPH-C5-005",
+   "sec": "Routes of ocular drug administration",
+   "page": 14,
+   "fmt": "recall",
+   "q": "The visible landmark used to measure the intravitreal injection site behind the limbus is:",
+   "opts": [
+    "The limbus",
+    "The ora serrata",
+    "The scleral spur",
+    "The conjunctival fornix"
+   ],
+   "ans": 0,
+   "exp": "The figure labels the limbus as the visible landmark, with the intra-vitreal injection placed behind it. (Book p14)"
+  },
+  {
+   "id": "OPH-C5-006",
+   "sec": "Routes of ocular drug administration",
+   "page": 14,
+   "fmt": "scenario",
+   "q": "A 66-year-old pseudophakic man is booked for an intravitreal anti-VEGF injection. Measured from the limbus, the book's entry site for his lens status is:",
+   "opts": [
+    "3 mm posterior to the limbus only",
+    "4 mm posterior to the limbus",
+    "5 mm posterior to the limbus",
+    "3.5 mm posterior to the limbus"
+   ],
+   "ans": 3,
+   "exp": "Pseudophakia takes the 3.5 mm posterior-to-limbus site; aphakia 3 mm and phakia 4 mm. (Book p14)"
+  },
+  {
+   "id": "OPH-C5-007",
+   "sec": "Routes of ocular drug administration",
+   "page": 15,
+   "fmt": "recall",
+   "q": "An intracameral injection is defined by the book as an injection into:",
+   "opts": [
+    "The sub-Tenon's space below Tenon's capsule",
+    "The episcleral space above the sclera",
+    "The anterior chamber (cataract incision)",
+    "The vitreous cavity behind the crystalline lens"
+   ],
+   "ans": 2,
+   "exp": "Intracameral injection: injection into the anterior chamber (AC), e.g. after the incision during cataract surgery. (Book p15)"
+  },
+  {
+   "id": "OPH-C5-008",
+   "sec": "Routes of ocular drug administration",
+   "page": 15,
+   "fmt": "truefalse",
+   "q": "Which statement about topical ocular therapy is FALSE per the book?",
+   "opts": [
+    "Ointment is given before drops for absorption",
+    "Topical application is the most commonly used route",
+    "Eye drops are administered before ointment",
+    "Eye ointment is administered at least 3 minutes after drops"
+   ],
+   "ans": 0,
+   "exp": "Topical is m/c used; eyedrops are administered before ointment, and ointment at least 3 minutes after drops because it provides a longer time of contact. (Book p15)"
+  },
+  {
+   "id": "OPH-C5-009",
+   "sec": "Routes of ocular drug administration",
+   "page": 15,
+   "fmt": "recall",
+   "q": "The posterior sub-Tenon (PST, parabulbar) injection is placed below which structure, and for which condition does the book use it?",
+   "opts": [
+    "Below Tenon's capsule, used in intermediate uveitis",
+    "Below the conjunctiva, used in conjunctivitis treatment",
+    "Below the sclera, used in scleritis",
+    "Below the choroid, used in posterior uveitis"
+   ],
+   "ans": 0,
+   "exp": "Parabulbar or posterior sub-Tenon (PST) injection lies below Tenon's capsule (Nozik technique) and is used in intermediate uveitis. (Book p15)"
+  },
+  {
+   "id": "OPH-C5-010",
+   "sec": "Routes of ocular drug administration",
+   "page": 15,
+   "fmt": "fillup",
+   "q": "Fill up: to keep a longer time of contact, eye ointment is administered at least ______ after the drops.",
+   "opts": [
+    "30 seconds",
+    "10 minutes",
+    "1 hour",
+    "3 minutes"
+   ],
+   "ans": 3,
+   "exp": "Eye ointment is administered ≥3 minutes after drops and provides a longer time of contact; drops always precede ointment. (Book p15)"
+  },
+  {
+   "id": "OPH-C5-011",
+   "sec": "Routes of ocular drug administration",
+   "page": 15,
+   "fmt": "numeric",
+   "q": "In the injection-layers figure, the episclera and Tenon's capsule fuse at what distance behind the limbus?",
+   "opts": [
+    "6 mm",
+    "10 mm",
+    "3 mm",
+    "1 mm"
+   ],
+   "ans": 2,
+   "exp": "The figure shows episclera and Tenon's capsule fusing 3 mm posterior to the limbus. (Book p15)"
+  },
+  {
+   "id": "OPH-C5-012",
+   "sec": "Local routes of ocular anaesthesia and the orbital spaces",
+   "page": 15,
+   "fmt": "recall",
+   "q": "The book's site for local ocular anaesthesia is through the lower eyelid at:",
+   "opts": [
+    "The lateral canthus only",
+    "Middle 1/3 and lateral 1/3 junction",
+    "The junction of the medial 1/3 and middle 1/3",
+    "The centre of the lower lid margin"
+   ],
+   "ans": 1,
+   "exp": "Site: through the lower eyelid at the junction of middle 1/3 and lateral 1/3. (Book p15)"
+  },
+  {
+   "id": "OPH-C5-013",
+   "sec": "Local routes of ocular anaesthesia and the orbital spaces",
+   "page": 15,
+   "fmt": "numeric",
+   "q": "The needle gauge and anaesthetic volume in the book's local anaesthesia procedure are:",
+   "opts": [
+    "24-25G with 5 ml",
+    "30G needle with 0.5 ml of drug",
+    "18G needle with 10 ml of drug",
+    "27G needle with 1 ml of drug"
+   ],
+   "ans": 0,
+   "exp": "Procedure: pull the lower lid down and insert a 24-25G needle through the lid along the floor of the eye, aspirate to rule out vessel injury, insert 5 ml of anaesthetic, then compress. (Book p15)"
+  },
+  {
+   "id": "OPH-C5-014",
+   "sec": "Local routes of ocular anaesthesia and the orbital spaces",
+   "page": 15,
+   "fmt": "management",
+   "q": "Why does the book aspirate before injecting the local anaesthetic, and what follows the injection?",
+   "opts": [
+    "To test the pH; compression spreads the drug into the vitreous",
+    "To estimate the depth; compression prevents ptosis",
+    "To check for reflux; compression prevents corneal anaesthesia",
+    "Rule out vessel injury; compression limits IOP rise"
+   ],
+   "ans": 3,
+   "exp": "Aspirate: rule out vessel injury; after inserting 5 ml of anaesthetic, post-injection compression over the eye avoids a rise of intra-ocular pressure. (Book p15)"
+  },
+  {
+   "id": "OPH-C5-015",
+   "sec": "Local routes of ocular anaesthesia and the orbital spaces",
+   "page": 16,
+   "fmt": "fillup",
+   "q": "Fill up: peribulbar anaesthesia is injected into the ______ space, the route the book calls better.",
+   "opts": [
+    "Subarachnoid",
+    "Epidural",
+    "Extraconal",
+    "Intraconal"
+   ],
+   "ans": 2,
+   "exp": "Peribulbar (or) extraconal space is labelled the better route; retrobulbar occupies the intraconal space. (Book p16)"
+  },
+  {
+   "id": "OPH-C5-016",
+   "sec": "Local routes of ocular anaesthesia and the orbital spaces",
+   "page": 16,
+   "fmt": "truefalse",
+   "q": "Which statement comparing the two ocular anaesthesia spaces is FALSE per the book?",
+   "opts": [
+    "The retrobulbar (intraconal) route is labelled the better route",
+    "Peribulbar anaesthesia enters the extraconal (outside-cone) space",
+    "Retrobulbar anaesthesia enters the intraconal (within-cone) space",
+    "The peribulbar route is labelled the better (safer) route"
+   ],
+   "ans": 0,
+   "exp": "The routes figure labels peribulbar (extraconal space) as the better route; retrobulbar is the intraconal space. (Book p16)"
+  },
+  {
+   "id": "OPH-C5-017",
+   "sec": "Local routes of ocular anaesthesia and the orbital spaces",
+   "page": 16,
+   "fmt": "recall",
+   "q": "The base of the orbit is quadrangular and, per the book, carries which surgical risk?",
+   "opts": [
+    "It holds blood vessels, raising hemorrhage risk",
+    "It contains the optic canal, risking blindness",
+    "It contains the lacrimal gland, risking dry eye",
+    "It contains the annulus of Zinn, risking ophthalmoplegia"
+   ],
+   "ans": 0,
+   "exp": "Base of orbit: quadrangular shaped, contains blood vessels → increased chance of hemorrhage; apex of orbit is conical shaped. (Book p16)"
+  },
+  {
+   "id": "OPH-C5-018",
+   "sec": "Local routes of ocular anaesthesia and the orbital spaces",
+   "page": 16,
+   "fmt": "oddoneout",
+   "q": "The annulus of Zinn is the common origin of all extraocular muscles EXCEPT:",
+   "opts": [
+    "Superior rectus muscle",
+    "Medial rectus",
+    "Lateral rectus",
+    "Inferior oblique"
+   ],
+   "ans": 3,
+   "exp": "Annulus of Zinn: tendinous ring, common origin for all EOMs except the inferior oblique. (Book p16)"
+  },
+  {
+   "id": "OPH-C5-019",
+   "sec": "Local routes of ocular anaesthesia and the orbital spaces",
+   "page": 16,
+   "fmt": "match",
+   "q": "Match the orbital angle label of the anaesthesia figure with its definition — 1) X 2) Y … A) Angle between both lateral walls of the orbit B) Angle between the medial and lateral walls of the orbit",
+   "opts": [
+    "Both measure the same angle",
+    "X is the angle of the optic canal",
+    "1-B, 2-A",
+    "1-A, 2-B"
+   ],
+   "ans": 2,
+   "exp": "Figure keys: X = angle between medial and lateral walls of orbit; Y = angle between both lateral walls of orbit. (Book p16)"
+  },
+  {
+   "id": "OPH-C5-020",
+   "sec": "Optic nerve — parts and lengths",
+   "page": 16,
+   "fmt": "recall",
+   "q": "The optic nerve is defined in the book as a collection of:",
+   "opts": [
+    "Axons of photoreceptors",
+    "Axons of retinal ganglion cells",
+    "Axons of bipolar cells of retina",
+    "Dendrites of amacrine cells"
+   ],
+   "ans": 1,
+   "exp": "Optic nerve: a collection of axons of retinal ganglion cells, total length 47-50 mm. (Book p16)"
+  },
+  {
+   "id": "OPH-C5-021",
+   "sec": "Optic nerve — parts and lengths",
+   "page": 16,
+   "fmt": "numeric",
+   "q": "The total length of the optic nerve per the book is:",
+   "opts": [
+    "47-50 mm",
+    "25-30 mm",
+    "10-15 mm",
+    "70-75 mm"
+   ],
+   "ans": 0,
+   "exp": "Total length of the optic nerve: 47-50 mm. (Book p16)"
+  },
+  {
+   "id": "OPH-C5-022",
+   "sec": "Optic nerve — parts and lengths",
+   "page": 16,
+   "fmt": "match",
+   "q": "Match the optic nerve part with its length — 1) Intraocular (disc) 2) Intraorbital 3) Intracanalicular 4) Intracranial … A) 25 to 30 mm B) 1 mm C) 10 to 15 mm D) 9 mm",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 3,
+   "exp": "Parts and lengths: intraocular (disc) 1 mm, intraorbital 25 to 30 mm, intracanalicular 9 mm, intracranial 10 to 15 mm. (Book p16)"
+  },
+  {
+   "id": "OPH-C5-023",
+   "sec": "Optic nerve — parts and lengths",
+   "page": 16,
+   "fmt": "truefalse",
+   "q": "Which statement about the optic nerve parts is FALSE per the book?",
+   "opts": [
+    "The second part acquires the myelin sheath",
+    "The third part (canal) is the longest",
+    "The first (intraocular) part is the shortest",
+    "The second (intraorbital) part is the longest"
+   ],
+   "ans": 1,
+   "exp": "The third part lies within the optic canal, but the longest part is the second (intraorbital); the first is the shortest and the second acquires the myelin sheath. (Book p16)"
+  },
+  {
+   "id": "OPH-C5-024",
+   "sec": "Optic nerve — parts and lengths",
+   "page": 16,
+   "fmt": "numeric",
+   "q": "The central retinal artery and vein enter the optic nerve at what distance behind the eye, and in which direction?",
+   "opts": [
+    "5 mm behind the eye, superonasally",
+    "10 mm behind the eye, inferomedially",
+    "1 mm behind the eye, superolaterally",
+    "25 mm behind the eye, medially"
+   ],
+   "ans": 1,
+   "exp": "In the second part the central retinal artery and vein enter 10 mm behind the eye, inferomedially. (Book p16)"
+  },
+  {
+   "id": "OPH-C5-025",
+   "sec": "Blood supply of the eye",
+   "page": 17,
+   "fmt": "match",
+   "q": "Match the branch of the ophthalmic artery with its book territory — 1) Central retinal artery 2) Short posterior ciliary artery 3) Anterior ciliary artery … A) Sclera, choroid and outer layer of retina B) Inner 6 layers of the retina, entering the optic nerve C) Anterior portion of sclera, ciliary process, iris and conjunctiva",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Central retinal artery supplies the inner 6 layers of retina and enters the ON; short posterior ciliary arteries pierce around the ON supplying sclera, choroid and outer retina; anterior ciliary arteries supply anterior sclera, ciliary process, iris and conjunctiva. (Book p17)"
+  },
+  {
+   "id": "OPH-C5-026",
+   "sec": "Blood supply of the eye",
+   "page": 17,
+   "fmt": "recall",
+   "q": "The long posterior ciliary artery pierces the sclera:",
+   "opts": [
+    "Around the optic nerve, piercing with it",
+    "At the limbus, beneath the conjunctiva",
+    "Through the optic canal with the nerve",
+    "Away from the ON, sclera-choroid route"
+   ],
+   "ans": 3,
+   "exp": "Long posterior ciliary artery pierces the sclera away from the ON, travels between sclera and choroid, reaches the ciliary body and supplies the ciliary muscle before passing anteriorly to the iris. (Book p17)"
+  },
+  {
+   "id": "OPH-C5-027",
+   "sec": "Blood supply of the eye",
+   "page": 17,
+   "fmt": "match",
+   "q": "Match the arterial circle of the iris with its supply — 1) Major arterial circle 2) Minor arterial circle … A) Pupillary zone of the iris B) Ciliary process of the iris",
+   "opts": [
+    "Both supply the pupillary zone",
+    "Both supply the ciliary process",
+    "1-B, 2-A",
+    "1-A, 2-B"
+   ],
+   "ans": 2,
+   "exp": "Travelling anteriorly, the long posterior ciliary artery forms the major arterial circle supplying the ciliary process of the iris and the minor arterial circle supplying the pupillary zone of the iris. (Book p17)"
+  },
+  {
+   "id": "OPH-C5-028",
+   "sec": "Blood supply of the eye",
+   "page": 17,
+   "fmt": "numeric",
+   "q": "The muscular branches to the recti number seven. The book's distribution is:",
+   "opts": [
+    "3 for MR, 2 for SR, 1 for IR, 1 for LR",
+    "2 for SR, 2 for MR, 2 for IR, 1 for LR",
+    "2 for SR, 2 for LR, 2 for IR, 1 for MR",
+    "1 for each rectus plus 3 spare"
+   ],
+   "ans": 1,
+   "exp": "Muscular branches to recti: 7 in number — 2 for SR, 2 for MR, 2 for IR, 1 for LR; the medial rectus branches form the anterior ciliary artery. (Book p17)"
+  },
+  {
+   "id": "OPH-C5-029",
+   "sec": "Blood supply of the eye",
+   "page": 17,
+   "fmt": "recall",
+   "q": "The anterior ciliary artery pierces the sclera:",
+   "opts": [
+    "Anteriorly, posterior to the limbus",
+    "Posteriorly, around the optic nerve",
+    "At the equator of the globe",
+    "Through the pars plana"
+   ],
+   "ans": 0,
+   "exp": "Anterior ciliary artery pierces the sclera anteriorly, posterior to the limbus. (Book p17)"
+  },
+  {
+   "id": "OPH-C5-030",
+   "sec": "Blood supply of the eye",
+   "page": 17,
+   "fmt": "oddoneout",
+   "q": "All of the following are supplied by the anterior ciliary artery per the book EXCEPT:",
+   "opts": [
+    "The anterior portion of the sclera",
+    "The ciliary process",
+    "The conjunctiva",
+    "The choroid"
+   ],
+   "ans": 3,
+   "exp": "Anterior ciliary artery supplies anterior portion of sclera, ciliary process, iris and conjunctiva; the choroid is supplied by the short posterior ciliary arteries. (Book p17)"
+  },
+  {
+   "id": "OPH-C5-031",
+   "sec": "Development of the eye and its embryological derivatives",
+   "page": 18,
+   "fmt": "numeric",
+   "q": "Development of the eye begins on which day of gestation per the book?",
+   "opts": [
+    "Day 27, the end of the 4th week",
+    "Day 33, the end of the 5th week",
+    "Day 22, the end of the 3rd week",
+    "Day 14, the end of the 2nd week"
+   ],
+   "ans": 2,
+   "exp": "Development of the eye begins on Day 22 / end of the 3rd week of gestation. (Book p18)"
+  },
+  {
+   "id": "OPH-C5-032",
+   "sec": "Development of the eye and its embryological derivatives",
+   "page": 18,
+   "fmt": "recall",
+   "q": "The earliest indication of development of the eye in utero is the:",
+   "opts": [
+    "Optic stalk",
+    "Optic groove/sulcus",
+    "The lens vesicle cavity",
+    "Choroidal fissure"
+   ],
+   "ans": 1,
+   "exp": "Downward growth produces elevations and deepening; the optic groove/sulcus is the earliest indication of development of the eye in utero, then evagination gives the optic vesicles. (Book p18)"
+  },
+  {
+   "id": "OPH-C5-033",
+   "sec": "Development of the eye and its embryological derivatives",
+   "page": 18,
+   "fmt": "numeric",
+   "q": "Lateral growth with lens formation begins on day 27; the choroidal fissure closes by:",
+   "opts": [
+    "The 6th-7th week of gestation",
+    "The 3rd-4th week of gestation",
+    "The 10th-12th week of gestation",
+    "The 20th week of gestation"
+   ],
+   "ans": 0,
+   "exp": "The choroidal fissure is a shallow groove that closes by the 6-7th week of gestation. (Book p18)"
+  },
+  {
+   "id": "OPH-C5-034",
+   "sec": "Development of the eye and its embryological derivatives",
+   "page": 18,
+   "fmt": "recall",
+   "q": "In the day-27 diagram, the thickened surface ectoderm opposite the optic vesicle is the:",
+   "opts": [
+    "Lens vesicle",
+    "Optic stalk",
+    "Neural crest ridge",
+    "Lens placode"
+   ],
+   "ans": 3,
+   "exp": "The figure labels surface ectoderm and lens placode (LP) with OV (optic vesicle) and OS (optic stalk); the lens vesicle depression is then engulfed by the OV and the lens placode pinches off. (Book p18)"
+  },
+  {
+   "id": "OPH-C5-035",
+   "sec": "Development of the eye and its embryological derivatives",
+   "page": 19,
+   "fmt": "match",
+   "q": "Match the mesenchymal source with its derivative — 1) Surface ectoderm 2) Neural ectoderm 3) Neural crest cells 4) Mesoderm … A) Optic nerve, retina, vitreous, epithelium of iris and ciliary body, sphincter and dilator pupillae B) Lens, skin of eyelids, epithelium of cornea and conjunctiva, tarsal/Meibomian glands C) Extraocular muscles and endothelial lining of blood vessels D) Uvea, sclera, Descemet's membrane and ciliary muscle",
+   "opts": [
+    "1-A, 2-C, 3-B, 4-D",
+    "1-A, 2-C, 3-D, 4-B",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-B, 3-D, 4-C"
+   ],
+   "ans": 2,
+   "exp": "Derivatives: surface ectoderm — lens, eyelid skin, corneal and conjunctival epithelium, tarsal/Meibomian glands; neural ectoderm — optic nerve, retina, vitreous, iris+CB epithelium and iris muscles; neural crest — uvea, sclera, Descemet's membrane, ciliary muscle; mesoderm — extraocular muscles and vessel endothelium. (Book p19)"
+  },
+  {
+   "id": "OPH-C5-036",
+   "sec": "Development of the eye and its embryological derivatives",
+   "page": 19,
+   "fmt": "oddoneout",
+   "q": "All of the following are neural-crest derivatives of the eye per the book EXCEPT:",
+   "opts": [
+    "The ciliary muscle",
+    "The lens",
+    "The sclera",
+    "Descemet's membrane of the cornea"
+   ],
+   "ans": 1,
+   "exp": "Neural crest cells form the uvea (vascular layer), sclera, Descemet's membrane and ciliary muscle; the lens is a surface-ectoderm derivative. (Book p19)"
+  },
+  {
+   "id": "OPH-C5-037",
+   "sec": "Development of the eye and its embryological derivatives",
+   "page": 19,
+   "fmt": "recall",
+   "q": "The mesenchyme of the eye is formed by which two sources, and how does the neural-crest contribution divide?",
+   "opts": [
+    "Mesoderm + neural crest; crest gives fibrous and vascular mesenchyme",
+    "Ectoderm and endoderm; crest gives only sclera (fibrous)",
+    "Mesoderm and endoderm; crest gives only uvea (vascular)",
+    "Neural ectoderm and surface ectoderm; crest gives the lens (transparent)"
+   ],
+   "ans": 0,
+   "exp": "Mesenchyme of the eye is formed by mesoderm and neural crest cells, the crest dividing into superficial (fibrous mesenchyme) and deep (vascular mesenchyme). (Book p19)"
+  },
+  {
+   "id": "OPH-C5-038",
+   "sec": "Coloboma — eyeball, eyelid and lens",
+   "page": 19,
+   "fmt": "recall",
+   "q": "The word coloboma means, per its etymology in the book:",
+   "opts": [
+    "An extra, duplicated part",
+    "A displaced part",
+    "A transparent part",
+    "A missing, mutilated part"
+   ],
+   "ans": 3,
+   "exp": "Etymology of coloboma: missing, mutilated part. (Book p19)"
+  },
+  {
+   "id": "OPH-C5-039",
+   "sec": "Coloboma — eyeball, eyelid and lens",
+   "page": 19,
+   "fmt": "recall",
+   "q": "Eyeball coloboma is a congenital malformation due to:",
+   "opts": [
+    "Failure of the optic vesicle to evaginate",
+    "Persistence of the hyaloid artery",
+    "Non-closure of the choroidal fissure",
+    "Overgrowth of the lens placode"
+   ],
+   "ans": 2,
+   "exp": "Eye ball coloboma: congenital malformation d/t non-closure of the choroidal fissure. (Book p19)"
+  },
+  {
+   "id": "OPH-C5-040",
+   "sec": "Coloboma — eyeball, eyelid and lens",
+   "page": 19,
+   "fmt": "recall",
+   "q": "The pupil shape produced by an infero-nasal iris coloboma is described as:",
+   "opts": [
+    "Scalloped around the whole circumference",
+    "Pear-shaped / key hole pupil",
+    "Slit-shaped",
+    "Oval and vertically stretched"
+   ],
+   "ans": 1,
+   "exp": "The iris photograph shows an infero-nasal iris coloboma giving a pear-shaped pupil / key hole pupil. (Book p19)"
+  },
+  {
+   "id": "OPH-C5-041",
+   "sec": "Coloboma — eyeball, eyelid and lens",
+   "page": 20,
+   "fmt": "match",
+   "q": "Match the coloboma detail with the book's statement — 1) Structures affected from deep mesenchyme 2) Structures affected from OV and OS 3) Typical coloboma 4) Atypical coloboma … A) Any quadrant other than the infero-nasal B) Iris (and ciliary body) C) Choroid, retina and optic nerve D) Infero-nasal quadrant",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-A",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-A, 2-C, 3-B, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Structures affected: deep mesenchyme derivatives — iris (ciliary body); from OV and OS — choroid, retina, optic nerve; typical coloboma — infero-nasal quadrant; atypical — any other quadrant. (Book p20)"
+  },
+  {
+   "id": "OPH-C5-042",
+   "sec": "Coloboma — eyeball, eyelid and lens",
+   "page": 20,
+   "fmt": "recall",
+   "q": "A retino-choroidal (fundal) coloboma matters clinically because it increases the incidence of:",
+   "opts": [
+    "Senile cataract",
+    "Primary open-angle glaucoma",
+    "Corneal opacity",
+    "Retinal detachment"
+   ],
+   "ans": 3,
+   "exp": "Retino-choroidal / fundal coloboma: increased incidence of retinal detachment; its types follow the Ida Mann classification, and the photo shows yellowish sclera seen through an oval defect. (Book p20)"
+  },
+  {
+   "id": "OPH-C5-043",
+   "sec": "Coloboma — eyeball, eyelid and lens",
+   "page": 20,
+   "fmt": "truefalse",
+   "q": "Which statement about eyelid coloboma is FALSE per the book?",
+   "opts": [
+    "Its commonest site is the upper eyelid between the middle and medial thirds",
+    "It occurs via choroidal fissure non-closure",
+    "It does not occur due to choroidal/fetal fissure non-closure",
+    "It is an incomplete form of facial cleft / cryptophthalmos"
+   ],
+   "ans": 1,
+   "exp": "Eyelid coloboma explicitly does NOT occur due to choroidal/fetal fissure non-closure; it is an incomplete form of facial cleft/cryptophthalmos, m/c on the upper eyelid between middle 1/3 and medial 1/3. (Book p20)"
+  },
+  {
+   "id": "OPH-C5-044",
+   "sec": "Coloboma — eyeball, eyelid and lens",
+   "page": 20,
+   "fmt": "oddoneout",
+   "q": "Eyelid coloboma is associated with all of the following syndromes in the book EXCEPT:",
+   "opts": [
+    "Treacher Collins syndrome",
+    "Down syndrome",
+    "Fraser syndrome",
+    "Goldenhar syndrome"
+   ],
+   "ans": 1,
+   "exp": "Associated syndromes: Fraser, Goldenhar and Treacher Collins; Down syndrome is not listed. (Book p20)"
+  },
+  {
+   "id": "OPH-C5-045",
+   "sec": "Coloboma — eyeball, eyelid and lens",
+   "page": 20,
+   "fmt": "management",
+   "q": "The complications of eyelid coloboma (cosmetic blemish, exposure keratopathy, amblyopia) are prevented by:",
+   "opts": [
+    "Eyelid reconstruction",
+    "Long-term lubricants alone",
+    "Patch therapy alone",
+    "Corneal transplantation"
+   ],
+   "ans": 0,
+   "exp": "Complications — cosmetic blemish, exposure keratopathy, amblyopia (from keratopathy, refractive errors or dermoid in Goldenhar) — are prevented by Rx: eyelid reconstruction. (Book p20)"
+  },
+  {
+   "id": "OPH-C5-046",
+   "sec": "Coloboma — eyeball, eyelid and lens",
+   "page": 20,
+   "fmt": "scenario",
+   "q": "A newborn is noted to have an infero-nasal key-hole pupil; funduscopy shows an oval defect with yellowish sclera visible through it. The book attributes this eyeball defect to failure of closure of which embryonic structure?",
+   "opts": [
+    "The lens placode (surface ectoderm)",
+    "The optic stalk (neural tube)",
+    "The surface ectoderm (epithelial)",
+    "The choroidal (fetal) fissure"
+   ],
+   "ans": 3,
+   "exp": "Eyeball coloboma is d/t non-closure of the choroidal fissure; the fundal photo shows yellowish sclera through an oval defect and the iris coloboma gives the key-hole/pear-shaped pupil. (Book p20)"
+  },
+  {
+   "id": "OPH-C5-047",
+   "sec": "Coloboma — eyeball, eyelid and lens",
+   "page": 20,
+   "fmt": "truefalse",
+   "q": "Which statement about lens coloboma is FALSE per the book?",
+   "opts": [
+    "Defective development of zonules produces a notch-shaped inferior defect",
+    "It results from choroidal fissure non-closure",
+    "It is not a true coloboma",
+    "The lens placode is too large to pass through the choroidal fissure"
+   ],
+   "ans": 1,
+   "exp": "Lens coloboma is not a true coloboma: the lens placode is large and cannot go through the choroidal fissure; defective zonular development gives a notch-shaped inferior defect in the lens. (Book p20)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U5-1",
+   "ch": 5,
+   "n": 1,
+   "title": "Routes of ocular drug administration — intravitreal, intracameral, topical, subconjunctival and sub-Tenon's",
+   "sec": "Basic Anatomy of Eye · p14-15",
+   "guide": "Intravitreal injection site depends on lens status: aphakia 3 mm, pseudophakia 3.5 mm, phakia 4 mm posterior to the limbus (the visible landmark), piercing sclera and pars plana; the procedure runs speculum → sterilise sclera infero-temporally → look upwards/inwards → caliper marking → 30G needle with slow twisting movements. Intracameral injection enters the anterior chamber (e.g. after a cataract incision). Topical is m/c used: drops before ointment, ointment ≥3 minutes after drops for longer contact. Subconjunctival and parabulbar/posterior sub-Tenon (PST, Nozik technique, below Tenon's capsule, used in intermediate uveitis) complete the list; episclera and Tenon's capsule fuse 3 mm posterior to the limbus.",
+   "qs": [
+    "OPH-C5-001",
+    "OPH-C5-002",
+    "OPH-C5-003",
+    "OPH-C5-004",
+    "OPH-C5-005",
+    "OPH-C5-006",
+    "OPH-C5-007",
+    "OPH-C5-008",
+    "OPH-C5-009",
+    "OPH-C5-010",
+    "OPH-C5-011"
+   ]
+  },
+  {
+   "id": "OPH-U5-2",
+   "ch": 5,
+   "n": 2,
+   "title": "Local ocular anaesthesia — lower-lid route, peribulbar versus retrobulbar, orbital anatomy",
+   "sec": "Basic Anatomy of Eye · p15-16",
+   "guide": "Local anaesthesia enters through the lower eyelid at the junction of its middle and lateral thirds: pull the lid down, pass a 24-25G needle along the floor of the eye, aspirate to rule out vessel injury, inject 5 ml and compress to avoid an IOP rise. Peribulbar (extraconal) is the better route; retrobulbar is intraconal. The orbital base is quadrangular and vessel-rich (hemorrhage risk) while the apex is conical; the annulus of Zinn is the tendinous ring origin of all EOMs except the inferior oblique; angles X (medial-lateral walls) and Y (both lateral walls) complete the figure.",
+   "qs": [
+    "OPH-C5-012",
+    "OPH-C5-013",
+    "OPH-C5-014",
+    "OPH-C5-015",
+    "OPH-C5-016",
+    "OPH-C5-017",
+    "OPH-C5-018",
+    "OPH-C5-019"
+   ]
+  },
+  {
+   "id": "OPH-U5-3",
+   "ch": 5,
+   "n": 3,
+   "title": "Optic nerve — definition, total length and the four parts",
+   "sec": "Basic Anatomy of Eye · p16",
+   "guide": "The optic nerve collects the axons of retinal ganglion cells and measures 47-50 mm. Its parts: intraocular (disc) 1 mm — the shortest; intraorbital 25-30 mm — the longest, acquiring the myelin sheath and receiving the central retinal artery and vein 10 mm behind the eye inferomedially; intracanalicular 9 mm within the optic canal; intracranial 10-15 mm.",
+   "qs": [
+    "OPH-C5-020",
+    "OPH-C5-021",
+    "OPH-C5-022",
+    "OPH-C5-023",
+    "OPH-C5-024"
+   ]
+  },
+  {
+   "id": "OPH-U5-4",
+   "ch": 5,
+   "n": 4,
+   "title": "Blood supply of the eye — ophthalmic artery branches and the arterial circles",
+   "sec": "Basic Anatomy of Eye · p17",
+   "guide": "Internal carotid → ophthalmic artery → central retinal artery (inner 6 retinal layers, enters the ON); posterior ciliary arteries split into long posterior ciliary (pierces away from the ON, runs between sclera and choroid to the ciliary body and ciliary muscle, then anteriorly to the iris forming the major arterial circle for the ciliary process and the minor circle for the pupillary zone) and short posterior ciliary (pierce around the ON, supplying sclera, choroid and outer retina); seven muscular branches (2 SR, 2 MR, 2 IR, 1 LR) whose medial rectus branches form the anterior ciliary artery, piercing anteriorly behind the limbus to supply anterior sclera, ciliary process, iris and conjunctiva.",
+   "qs": [
+    "OPH-C5-025",
+    "OPH-C5-026",
+    "OPH-C5-027",
+    "OPH-C5-028",
+    "OPH-C5-029",
+    "OPH-C5-030"
+   ]
+  },
+  {
+   "id": "OPH-U5-5",
+   "ch": 5,
+   "n": 5,
+   "title": "Development of the eye — timing, optic vesicle and lens placode, and the four derivative lists",
+   "sec": "Basic Anatomy of Eye · p18-19",
+   "guide": "Eye development begins on day 22 (end of week 3): downward growth gives elevations, deepening and the optic groove/sulcus (earliest indication), then evagination to optic vesicles. From day 27 lateral growth and lens formation begin: surface ectoderm thickens into the lens placode, the lens vesicle depresses and is engulfed by the optic vesicle, the placode pinches off, and the choroidal fissure closes by the 6th-7th week. Mesenchyme comes from mesoderm plus neural crest (superficial fibrous and deep vascular). Derivatives: surface ectoderm (lens, eyelid skin, corneal/conjunctival epithelium, tarsal glands), neural ectoderm (optic nerve, retina, vitreous, iris+CB epithelium, sphincter and dilator), neural crest (uvea, sclera, Descemet's, ciliary muscle), mesoderm (EOMs, vessel endothelium).",
+   "qs": [
+    "OPH-C5-031",
+    "OPH-C5-032",
+    "OPH-C5-033",
+    "OPH-C5-034",
+    "OPH-C5-035",
+    "OPH-C5-036",
+    "OPH-C5-037"
+   ]
+  },
+  {
+   "id": "OPH-U5-6",
+   "ch": 5,
+   "n": 6,
+   "title": "Coloboma — eyeball, eyelid and lens variants",
+   "sec": "Basic Anatomy of Eye · p19-20",
+   "guide": "Coloboma etymologically means a missing, mutilated part. Eyeball coloboma is a congenital malformation from non-closure of the choroidal fissure, affecting deep-mesenchyme derivatives (iris, ciliary body) and OV/OS derivatives (choroid, retina, optic nerve); typical coloboma lies infero-nasally (pear-shaped/key hole pupil) and atypical elsewhere; retino-choroidal (fundal) coloboma raises retinal-detachment risk and follows the Ida Mann classification. Eyelid coloboma is NOT fissure-related — an incomplete facial cleft/cryptophthalmos, m/c on the upper lid between middle and medial thirds, associated with Fraser, Goldenhar and Treacher Collins syndromes, and prevented from causing cosmetic blemish, exposure keratopathy and amblyopia by eyelid reconstruction. Lens coloboma is not a true coloboma: a large lens placode cannot pass the fissure and defective zonules notch the inferior lens.",
+   "qs": [
+    "OPH-C5-038",
+    "OPH-C5-039",
+    "OPH-C5-040",
+    "OPH-C5-041",
+    "OPH-C5-042",
+    "OPH-C5-043",
+    "OPH-C5-044",
+    "OPH-C5-045",
+    "OPH-C5-046",
+    "OPH-C5-047"
+   ]
+  }
+ ]
+}
