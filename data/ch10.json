@@ -1,0 +1,423 @@
+{
+ "chapter": 10,
+ "title": "Squint : Extraocular Muscles and Binocular Single Vision",
+ "pageRange": "43-45",
+ "questions": [
+  {
+   "id": "OPH-C10-001",
+   "sec": "Squint — definition, overview and causes",
+   "page": 43,
+   "fmt": "recall",
+   "q": "Squint per the book is a:",
+   "opts": [
+    "Deviation from binocular vision",
+    "Defect of the lens capsule",
+    "Pupil inequality (anisocoria)",
+    "Media opacity of the cornea"
+   ],
+   "ans": 0,
+   "exp": "Squint: deviation from binocular vision. (Book p43)"
+  },
+  {
+   "id": "OPH-C10-002",
+   "sec": "Squint — definition, overview and causes",
+   "page": 43,
+   "fmt": "fillup",
+   "q": "Fill up: the overview of squint in the book is deviation of direction of ______ in one/both eyes and impairment in ocular movement.",
+   "opts": [
+    "The visual axis only",
+    "Vessels",
+    "The iris",
+    "Tears"
+   ],
+   "ans": 1,
+   "exp": "Overview: deviation of direction of vessels in one/both eyes and impairment in ocular movement. (Book p43)"
+  },
+  {
+   "id": "OPH-C10-003",
+   "sec": "Squint — definition, overview and causes",
+   "page": 43,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed musclar disorder causes of squint in the book EXCEPT:",
+   "opts": [
+    "Myasthenia gravis",
+    "Atrophy",
+    "Dystrophy",
+    "Diabetic retinopathy"
+   ],
+   "ans": 3,
+   "exp": "Muscular disorders: myasthenia gravis, atrophy, dystrophy; cranial nerve lesions give the rest. (Book p43)"
+  },
+  {
+   "id": "OPH-C10-004",
+   "sec": "Squint — definition, overview and causes",
+   "page": 43,
+   "fmt": "match",
+   "q": "Match the cranial nerve with the muscle it supplies in the book — 1) CN IV 2) CN VI 3) CN III … A) Lateral rectus B) Other extraocular muscles C) Superior oblique",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-C, 2-B, 3-D",
+    "1-A, 2-C, 3-D",
+    "1-B, 2-C, 3-D"
+   ],
+   "ans": 0,
+   "exp": "CN IV supplies superior oblique; CN VI supplies lateral rectus; CN III supplies other extraocular muscles (mnemonic SO4LR6O3). (Book p43)"
+  },
+  {
+   "id": "OPH-C10-005",
+   "sec": "EOM — anatomical actions and the clinical action rule",
+   "page": 43,
+   "fmt": "recall",
+   "q": "Per the book, anatomical actions of the EOM are the ability to be free from neural control, based on:",
+   "opts": [
+    "The direction of the tendons",
+    "The direction of the blood supply",
+    "The colour of the muscle",
+    "The size of the pupil"
+   ],
+   "ans": 0,
+   "exp": "Anatomical actions: ability to be free from neural control; based on direction of tendons. (Book p43)"
+  },
+  {
+   "id": "OPH-C10-006",
+   "sec": "EOM — anatomical actions and the clinical action rule",
+   "page": 43,
+   "fmt": "match",
+   "q": "Match the muscle with its primary (1°) action in the book's table — 1) Superior rectus 2) Inferior rectus 3) Superior oblique 4) Inferior oblique … A) Intorsion B) Elevation C) Depression D) Extorsion",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-A",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-D, 2-A, 3-B, 4-C"
+   ],
+   "ans": 1,
+   "exp": "1° actions: SR — elevation; IR — depression; SO — intorsion; IO — extorsion. (Book p43)"
+  },
+  {
+   "id": "OPH-C10-007",
+   "sec": "EOM — anatomical actions and the clinical action rule",
+   "page": 43,
+   "fmt": "oddoneout",
+   "q": "The book's 3° actions of the recti and obliques include all of the following EXCEPT:",
+   "opts": [
+    "Adduction (SR, IR)",
+    "Abduction (SO, IO)",
+    "Intorsion of the lateral rectus",
+    "Elevation of the inferior oblique"
+   ],
+   "ans": 2,
+   "exp": "3° actions: adduction (SR and IR), abduction (SO and IO); 2° actions are intorsion (SR), extorsion (IR), depression (SO), elevation (IO). The lateral rectus has no intorsion action. (Book p43)"
+  },
+  {
+   "id": "OPH-C10-008",
+   "sec": "EOM — anatomical actions and the clinical action rule",
+   "page": 43,
+   "fmt": "fillup",
+   "q": "Fill up: the clinically invisible ocular movements in the book are intorsion (inward/nasal rotation) and ______ (outward/temporal rotation).",
+   "opts": [
+    "Abduction",
+    "Elevation",
+    "Depression",
+    "Extorsion"
+   ],
+   "ans": 3,
+   "exp": "Clinically visible: adduction, abduction, elevation, depression; clinically invisible: intorsion (inward/nasal rotation), extorsion (outward/temporal rotation). (Book p43)"
+  },
+  {
+   "id": "OPH-C10-009",
+   "sec": "EOM — anatomical actions and the clinical action rule",
+   "page": 43,
+   "fmt": "recall",
+   "q": "The rule for clinical actions in the book is: 1° actions predominate in the ______ eye.",
+   "opts": [
+    "Adducted",
+    "Abducted",
+    "Elevated",
+    "Depressed"
+   ],
+   "ans": 1,
+   "exp": "Rule: 1° actions predominate in the abducted eye; 2° actions predominate in the adducted eye. Use: to test actions of individual muscles. (Book p43)"
+  },
+  {
+   "id": "OPH-C10-010",
+   "sec": "EOM — anatomical actions and the clinical action rule",
+   "page": 43,
+   "fmt": "truefalse",
+   "q": "Which statement about single-eye actions in the book's table is FALSE?",
+   "opts": [
+    "Medial rectus: inward movement (adduction)",
+    "Lateral rectus: outward movement (abduction)",
+    "Levator palpebrae superioris: elevation of the upper eyelid",
+    "Superior oblique: 1° elevation"
+   ],
+   "ans": 3,
+   "exp": "SO's 1° action is intorsion (2° depression, 3° abduction); LPS elevates the upper eyelid; MR adducts; LR abducts. (Book p43)"
+  },
+  {
+   "id": "OPH-C10-011",
+   "sec": "Visual and orbital axes — why SR is a pure elevator",
+   "page": 44,
+   "fmt": "numeric",
+   "q": "Per the book's visual and orbital axes diagram, the visual axis makes an angle of ______ with the orbital axis, and the SR/IR muscle axes run parallel to the orbital axis at ______ with the sagittal plane.",
+   "opts": [
+    "45° and 23°",
+    "23° and 45°",
+    "23° and 23°",
+    "45° and 45°"
+   ],
+   "ans": 2,
+   "exp": "Visual axis–orbital axis 23°; SR and IR–muscle axes parallel to the orbital axis at 23° with the sagittal plane; LR–muscle axis −45° with the sagittal plane; MR axis parallel to the sagittal plane. (Book p44)"
+  },
+  {
+   "id": "OPH-C10-012",
+   "sec": "Visual and orbital axes — why SR is a pure elevator",
+   "page": 44,
+   "fmt": "scenario",
+   "q": "When the eye abducts by 23°, the visual axis and the SR's orbital axis coincide. Per the book the consequence is:",
+   "opts": [
+    "Vertical action predominates, making the SR a pure elevator",
+    "The SR acts as a pure depressor in that position",
+    "The SR loses all its action in that position",
+    "The LR becomes the pure elevator in that position"
+   ],
+   "ans": 0,
+   "exp": "If the eye abducts by 23°, the visual axis and the muscle orbital axis coincide → vertical action predominates → SR → pure elevator. (Book p44)"
+  },
+  {
+   "id": "OPH-C10-013",
+   "sec": "Visual and orbital axes — why SR is a pure elevator",
+   "page": 44,
+   "fmt": "match",
+   "q": "Match the clinical function in the book's diagram with its muscle — 1) Pure elevation 2) Pure depression 3) Elevation in abduction 4) Depression in abduction … A) SO B) SR + IO C) SO + IR D) SR",
+   "opts": [
+    "1-B, 2-C, 3-D, 4-A",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-C, 2-B, 3-D, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Pure elevation: SR + IO; pure depression: SO + IR; elevation in abduction: SR; depression in abduction: SO. (Book p44)"
+  },
+  {
+   "id": "OPH-C10-014",
+   "sec": "Binocular single vision — grades and formation",
+   "page": 44,
+   "fmt": "recall",
+   "q": "Binocular single vision (BSV) per the book is the:",
+   "opts": [
+    "Loss of fusion of the two images",
+    "Formation of a composite image using both eyes",
+    "Unilateral macular perception",
+    "Suppression of the deviated eye"
+   ],
+   "ans": 1,
+   "exp": "BSV: formation of a composite image using both the eyes. (Book p44)"
+  },
+  {
+   "id": "OPH-C10-015",
+   "sec": "Binocular single vision — grades and formation",
+   "page": 44,
+   "fmt": "match",
+   "q": "Match the BSV grade with its definition in the book — 1) Grade 1 2) Grade 2 3) Grade 3 … A) Stereopsis, binocular depth perception B) Simultaneous macular perception C) Fusion of similar images with minute retinal differences",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-D, 2-B, 3-C",
+    "1-A, 2-B, 3-D",
+    "1-D, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Grade 1: simultaneous macular perception; Grade 2: fusion of similar images with minute retinal differences; Grade 3: stereopsis, binocular depth perception. (Book p44)"
+  },
+  {
+   "id": "OPH-C10-016",
+   "sec": "Binocular single vision — grades and formation",
+   "page": 44,
+   "fmt": "fillup",
+   "q": "Fill up: synergistic muscles in the book are 2 muscles with the same action in the same eye, e.g. right SR + right IO (both cause ______).",
+   "opts": [
+    "Abduction",
+    "Depression",
+    "Adduction",
+    "Elevation"
+   ],
+   "ans": 3,
+   "exp": "Synergistic muscles: 2 muscles with the same action in the same eye — eg right SR + right IO (both cause elevation). (Book p44)"
+  },
+  {
+   "id": "OPH-C10-017",
+   "sec": "Binocular single vision — grades and formation",
+   "page": 44,
+   "fmt": "recall",
+   "q": "Yoke muscles (CN synergists) in the book are a pair of muscles, one from each eye, enabling both eyeballs to move in the same direction — a ______ movement.",
+   "opts": [
+    "Vergence",
+    "Version",
+    "Pursuit",
+    "Saccade"
+   ],
+   "ans": 1,
+   "exp": "Yoke muscles/CN synergists: a pair of muscles, one from each eye, enabling both eyeballs to move in the same direction — version movement. (Book p44)"
+  },
+  {
+   "id": "OPH-C10-018",
+   "sec": "Binocular single vision — grades and formation",
+   "page": 44,
+   "fmt": "truefalse",
+   "q": "Which statement about antagonistic muscles is FALSE per the book?",
+   "opts": [
+    "They are 2 muscles with opposite action in the same eye",
+    "Example: right LR and right MR (abduction and adduction)",
+    "Example: right SR and left IO",
+    "A lesion of the yoke or antagonist muscles can produce squint"
+   ],
+   "ans": 2,
+   "exp": "Antagonistic: 2 muscles with opposite action in the same eye (eg right LR and right MR). Right SR + left IO are yoke (version) muscles. (Book p44)"
+  },
+  {
+   "id": "OPH-C10-019",
+   "sec": "Yoke muscle pairs, Hering's and Sherrington's laws",
+   "page": 45,
+   "fmt": "match",
+   "q": "Match the yoke muscle pair with its net action in the book's table — 1) Left LR + right MR 2) Right LR + left MR 3) Right SR + left IO 4) Right IR + left SO … A) Levoversion B) Dextro-elevation C) Dextro-depression D) Dextroversion",
+   "opts": [
+    "1-A, 2-D, 3-B, 4-C",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-C, 2-B, 3-D, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Left LR + right MR — levoversion; right LR + left MR — dextroversion; right SR + left IO — dextro-elevation; right IR + left SO — dextro-depression. (Book p45)"
+  },
+  {
+   "id": "OPH-C10-020",
+   "sec": "Yoke muscle pairs, Hering's and Sherrington's laws",
+   "page": 45,
+   "fmt": "oddoneout",
+   "q": "All of the following yoke pairs in the book's table produce depression or elevation movements EXCEPT:",
+   "opts": [
+    "Right SO + left IR (levo-depression)",
+    "Right IO + left SR (levo-elevation)",
+    "Right SR + right IO and left SR + left IO (B/L elevation: sursumversion)",
+    "Left LR + right MR (levoversion)"
+   ],
+   "ans": 3,
+   "exp": "Right SO + left IR — levo-depression; right IO + left SR — levo-elevation; right SR + right IO and left SR + left IO — B/L elevation: sursumversion; right IR + right SO and left IR + left SO — B/L depression: deorsumversion. Levoversion (left LR + right MR) is a horizontal movement. (Book p45)"
+  },
+  {
+   "id": "OPH-C10-021",
+   "sec": "Yoke muscle pairs, Hering's and Sherrington's laws",
+   "page": 45,
+   "fmt": "recall",
+   "q": "Hering's law of equal innervation in the book states:",
+   "opts": [
+    "Equal innervation to a pair of yoke muscles",
+    "The antagonist always receives less innervation",
+    "Only one eye is innervated during version",
+    "Innervation decreases with the distance of gaze"
+   ],
+   "ans": 0,
+   "exp": "Hering's law of equal innervation: equal innervation to a pair of yoke muscles during any binocular movement (similar timing, amount of nerve impulses, simultaneous contraction). (Book p45)"
+  },
+  {
+   "id": "OPH-C10-022",
+   "sec": "Yoke muscle pairs, Hering's and Sherrington's laws",
+   "page": 45,
+   "fmt": "oddoneout",
+   "q": "The book lists applications of Hering's law. All of the following belong EXCEPT:",
+   "opts": [
+    "Secondary deviation",
+    "Inhibitional palsy",
+    "Forced duction test",
+    "Equal and simultaneous innervation through yoke muscles"
+   ],
+   "ans": 2,
+   "exp": "Applications: secondary deviation or inhibitional palsy; note: Hering's law — equal and simultaneous innervation flows through yoke muscles. The forced duction test is not an application of Hering's law. (Book p45)"
+  },
+  {
+   "id": "OPH-C10-023",
+   "sec": "Yoke muscle pairs, Hering's and Sherrington's laws",
+   "page": 45,
+   "fmt": "fillup",
+   "q": "Fill up: Sherrington's law of reciprocal inhibition in the book is the relaxation of the yoke ______.",
+   "opts": [
+    "Synergists",
+    "Antagonists",
+    "Nuclei",
+    "Cortical fields"
+   ],
+   "ans": 1,
+   "exp": "Sherrington's law of reciprocal inhibition: relaxation of yoke muscle antagonists (eg right MR contracted while right LR relaxed, and the yoke partner mirrors it). (Book p45)"
+  },
+  {
+   "id": "OPH-C10-024",
+   "sec": "Yoke muscle pairs, Hering's and Sherrington's laws",
+   "page": 45,
+   "fmt": "numeric",
+   "q": "Per the book's BSV formation note, maintaining single vision requires ______ muscles — a yoke pair plus their antagonists; a lesion produces:",
+   "opts": [
+    "8; strabismus fixus",
+    "2; diplopia only",
+    "6; amblyopia",
+    "4; squint"
+   ],
+   "ans": 3,
+   "exp": "Formation of BSV: 4 muscles required — a yoke + antagonists; lesions → squint. (Book p45)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U10-1",
+   "ch": 10,
+   "n": 1,
+   "title": "Squint — definition, causes and the EOM action tables",
+   "sec": "Squint · p43",
+   "guide": "Squint: deviation from binocular vision; overview — deviation of direction of vessels in one/both eyes and impairment in ocular movement. Causes: muscular disorders (myasthenia gravis, atrophy, dystrophy) and cranial nerve lesions (CN IV → superior oblique, CN VI → lateral rectus, CN III → other extraocular muscles; mnemonic SO4LR6O3). Anatomical actions: ability to be free from neural control, based on direction of tendons. Table: LPS — elevation of upper eyelid; MR — inward movement (adduction); LR — outward movement (abduction); cycloducts' 1°/2°/3° actions — SR elevation/intorsion/adduction, IR depression/extorsion/adduction, SO intorsion/depression/abduction, IO extorsion/elevation/abduction. Clinically visible: adduction, abduction, elevation, depression; invisible: intorsion (inward/nasal rotation), extorsion (outward/temporal rotation). Clinical actions: 1° actions predominate in the abducted eye, 2° in the adducted eye; use — to test actions of individual muscles.",
+   "qs": [
+    "OPH-C10-001",
+    "OPH-C10-002",
+    "OPH-C10-003",
+    "OPH-C10-004",
+    "OPH-C10-005",
+    "OPH-C10-006",
+    "OPH-C10-007",
+    "OPH-C10-008",
+    "OPH-C10-009",
+    "OPH-C10-010"
+   ]
+  },
+  {
+   "id": "OPH-U10-2",
+   "ch": 10,
+   "n": 2,
+   "title": "Visual and orbital axes; BSV grades and formation",
+   "sec": "Squint · p44",
+   "guide": "Visual and orbital axes: visual axis–orbital axis 23°; SR and IR muscle axes parallel to the orbital axis at 23° with the sagittal plane; LR muscle axis −45° with the sagittal plane; MR axis parallel to the sagittal plane. If the eye abducts by 23°, the visual axis and the muscle orbital axis coincide → vertical action predominates → SR → pure elevator. Clinical functions: pure elevation SR + IO; pure depression SO + IR; elevation in abduction SR; depression in abduction SO. BSV: formation of a composite image using both the eyes. Grades: 1 — simultaneous macular perception; 2 — fusion of similar images with minute retinal differences; 3 — stereopsis, binocular depth perception. Formation: synergistic muscles (same action, same eye — eg right SR + right IO, both elevation); yoke muscles/CN synergists (one from each eye, same direction — version); antagonistic muscles (opposite action, same eye — eg right LR and right MR).",
+   "qs": [
+    "OPH-C10-011",
+    "OPH-C10-012",
+    "OPH-C10-013",
+    "OPH-C10-014",
+    "OPH-C10-015",
+    "OPH-C10-016",
+    "OPH-C10-017",
+    "OPH-C10-018"
+   ]
+  },
+  {
+   "id": "OPH-U10-3",
+   "ch": 10,
+   "n": 3,
+   "title": "Yoke pairs in action, Hering's and Sherrington's laws",
+   "sec": "Squint · p45",
+   "guide": "Yoke pairs and net actions: left LR + right MR — levoversion; right LR + left MR — dextroversion; right SR + left IO — dextro-elevation; right IR + left SO — dextro-depression; right SO + left IR — levo-depression; right IO + left SR — levo-elevation; right SR + right IO and left SR + left IO — B/L elevation (sursumversion); right IR + right SO and left IR + left SO — B/L depression (deorsumversion). Hering's law of equal innervation: equal innervation to a pair of yoke muscles during any binocular movement (similar timing, amount of impulses, simultaneous contraction); applications — secondary deviation or inhibitional palsy. Sherrington's law of reciprocal inhibition: relaxation of yoke muscle antagonists. Formation of BSV: 4 muscles required (a yoke + antagonists); lesions → squint.",
+   "qs": [
+    "OPH-C10-019",
+    "OPH-C10-020",
+    "OPH-C10-021",
+    "OPH-C10-022",
+    "OPH-C10-023",
+    "OPH-C10-024"
+   ]
+  }
+ ]
+}

@@ -26,6 +26,15 @@ LIVE_CHAPTERS = {
     4: ("Anatomy of Retina", 13, 13, 14, 2),
     5: ("Ocular Routes of Drug Administration, Blood Supply of Eye and Embryology of Eye", 14, 20, 47, 6),
     6: ("Visual Pathway and Visual Field Defects", 21, 25, 42, 5),
+    7: ("Pupillary Reflexes, Light Reflex and its Lesions", 26, 31, 40, 5),
+    8: ("Optic Atrophy: Optic Neuritis, Optic Neuropathies and Papilledema", 32, 39, 48, 6),
+    9: ("Congenital Anomalies of Optic Disc and Colour Blindness", 40, 42, 24, 3),
+    10: ("Squint : Extraocular Muscles and Binocular Single Vision", 43, 45, 24, 3),
+    11: ("Squint : Classifications and Directions", 46, 47, 20, 2),
+    12: ("Squint : Investigations", 48, 53, 38, 5),
+    13: ("Paralytic Squint", 54, 58, 40, 5),
+    14: ("Gaze Defects", 59, 62, 33, 4),
+    15: ("Restrictive Squint and Comitant Squint", 63, 65, 24, 3),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain

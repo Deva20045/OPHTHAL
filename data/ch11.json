@@ -1,0 +1,349 @@
+{
+ "chapter": 11,
+ "title": "Squint : Classifications and Directions",
+ "pageRange": "46-47",
+ "questions": [
+  {
+   "id": "OPH-C11-001",
+   "sec": "Classification of squint and the comitant/incomitant comparison",
+   "page": 46,
+   "fmt": "fillup",
+   "q": "Fill up: in the book's classification tree, apparent deviation of squint is called ______.",
+   "opts": [
+    "Pseudostabismus",
+    "Heterophoria",
+    "Heterotropia",
+    "Anisocoria"
+   ],
+   "ans": 0,
+   "exp": "Classification: squint divides into apparent deviation (pseudostabismus) and true deviation. (Book p46)"
+  },
+  {
+   "id": "OPH-C11-002",
+   "sec": "Classification of squint and the comitant/incomitant comparison",
+   "page": 46,
+   "fmt": "match",
+   "q": "Match the true-deviation type with its definition in the book — 1) Heterophoria (latent squint) 2) Heterotropia (manifest squint) … A) Visible always B) Deviation manifests under ocular stress (excessive near work)",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "Both are visible always",
+    "Both manifest only under stress"
+   ],
+   "ans": 1,
+   "exp": "Heterophoria (latent squint): deviation manifests under ocular stress (excessive near work); heterotropia (manifest squint): visible always. (Book p46)"
+  },
+  {
+   "id": "OPH-C11-003",
+   "sec": "Classification of squint and the comitant/incomitant comparison",
+   "page": 46,
+   "fmt": "oddoneout",
+   "q": "Heterotropia (manifest squint) in the book's tree splits into constant/concomitant and incomitant squint. All of the following statements about them are correct EXCEPT:",
+   "opts": [
+    "Concomitant: deviation remains constant in all directions of gaze",
+    "Incomitant: deviation varies in different directions of gaze",
+    "Incomitant: deviation is largest in primary gaze and zero in others",
+    "Concomitant: 1° deviation equals 2° deviation"
+   ],
+   "ans": 2,
+   "exp": "Constant/concomitant squint: deviation remains constant in all directions of gaze; incomitant: deviation varies in different directions of gaze. (Book p46)"
+  },
+  {
+   "id": "OPH-C11-004",
+   "sec": "Classification of squint and the comitant/incomitant comparison",
+   "page": 46,
+   "fmt": "truefalse",
+   "q": "Which row of the book's comitant vs incomitant table is FALSE?",
+   "opts": [
+    "Deviation: comitant — 1° deviation = 2° deviation; incomitant — 1° < 2°",
+    "Ocular movements: comitant — restriction absent; incomitant — restriction present",
+    "Sensory anomalies: comitant — present; incomitant — absent",
+    "Diplopia: comitant — present; incomitant — absent"
+   ],
+   "ans": 3,
+   "exp": "Table: diplopia — comitant absent, incomitant present; head posturing — comitant absent, incomitant present; sensory anomalies — comitant present, incomitant absent. (Book p46)"
+  },
+  {
+   "id": "OPH-C11-005",
+   "sec": "Classification of squint and the comitant/incomitant comparison",
+   "page": 46,
+   "fmt": "scenario",
+   "q": "A 7-year-old with a recent CN VI palsy complains of double vision and tilts his head. In the book's comparison table this pattern (diplopia present, restriction present, head posturing present, sensory anomalies absent) fits:",
+   "opts": [
+    "Comitant squint",
+    "Incomitant squint",
+    "Pseudostabismus",
+    "Heterophoria"
+   ],
+   "ans": 1,
+   "exp": "Incomitant squint: deviation varies with gaze, restriction present, diplopia present, head posturing present, sensory anomalies absent. (Book p46)"
+  },
+  {
+   "id": "OPH-C11-006",
+   "sec": "Classification of squint and the comitant/incomitant comparison",
+   "page": 46,
+   "fmt": "fillup",
+   "q": "Fill up: in the book's diagrams, the 1° deviation is seen when the ______ eye fixates on an object, and the 2° deviation is seen when the deviated eye fixates.",
+   "opts": [
+    "Normal",
+    "Deviated",
+    "Weaker",
+    "Covered"
+   ],
+   "ans": 0,
+   "exp": "1° deviation: deviation seen when the normal eye fixates on an object; 2° deviation: deviation seen when the deviated eye fixates on an object. (Book p46)"
+  },
+  {
+   "id": "OPH-C11-007",
+   "sec": "Classification of squint and the comitant/incomitant comparison",
+   "page": 46,
+   "fmt": "recall",
+   "q": "The note under the book's comparison table restates Hering's law as:",
+   "opts": [
+    "Antagonists receive greater innervation",
+    "Only the fixating eye is innervated",
+    "Equal and simultaneous innervation flows through yoke muscles",
+    "Innervation is cut off in manifest squint"
+   ],
+   "ans": 2,
+   "exp": "Note: Hering's law — equal and simultaneous innervation flows through yoke muscles. (Book p46)"
+  },
+  {
+   "id": "OPH-C11-008",
+   "sec": "Classification of squint and the comitant/incomitant comparison",
+   "page": 46,
+   "fmt": "match",
+   "q": "Match the incomitant squint type with its forced duction test result in the book — 1) Paralytic squint 2) Restrictive squint … A) Positive — diagnostic (eye does not move) B) Negative (eye moves)",
+   "opts": [
+    "1-A, 2-B",
+    "Both negative",
+    "Both positive",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "Types of incomitant squint: paralytic — forced duction test negative (eye moves); restrictive — forced duction test positive: diagnostic (eye does not move). (Book p46)"
+  },
+  {
+   "id": "OPH-C11-009",
+   "sec": "Classification of squint and the comitant/incomitant comparison",
+   "page": 46,
+   "fmt": "scenario",
+   "q": "Under anesthesia, forceps hold the limbus of a patient's eye and the examiner attempts to move it. Per the book this is the forced duction test, and a positive (diagnostic) result means:",
+   "opts": [
+    "The eye does not move (restriction)",
+    "The eye moves normally (paralysis)",
+    "The pupil dilates",
+    "The lens subluxates"
+   ],
+   "ans": 0,
+   "exp": "Forced duction test: try to move the eyeball being held at the limbus by forceps; positive = eye does not move (restrictive, diagnostic). (Book p46)"
+  },
+  {
+   "id": "OPH-C11-010",
+   "sec": "Direction of deviation and the consequences of squint",
+   "page": 47,
+   "fmt": "match",
+   "q": "Match the deviation direction with its name in the book — 1) Inward 2) Outward 3) Upward 4) Downward … A) Exo (exotropia) B) ESO (esotropia) C) Hypo (hypotropia) D) Hyper (hypertropia)",
+   "opts": [
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-C, 2-D, 3-B, 4-A"
+   ],
+   "ans": 1,
+   "exp": "Direction of deviation: ESO — inward (esotropia); EXO — outward (exotropia); HYPER — upward (hypertropia); HYPO — downward (hypotropia). (Book p47)"
+  },
+  {
+   "id": "OPH-C11-011",
+   "sec": "Direction of deviation and the consequences of squint",
+   "page": 47,
+   "fmt": "oddoneout",
+   "q": "The book's rotational deviation pair includes incyclo (inward/nasal rotation) and excyclo (outward/temporal rotation). Which of the following is NOT a listed direction of deviation?",
+   "opts": [
+    "ESO (inward)",
+    "EXCyclo (outward/temporal rotation)",
+    "Torsional exophoria of the macula",
+    "HYPO (downward)"
+   ],
+   "ans": 2,
+   "exp": "Listed directions: ESO (inward), EXO (outward), HYPER (upward), HYPO (downward), INCYCLO (inward/nasal rotation), EXCYCLO (outward/temporal rotation). (Book p47)"
+  },
+  {
+   "id": "OPH-C11-012",
+   "sec": "Direction of deviation and the consequences of squint",
+   "page": 47,
+   "fmt": "fillup",
+   "q": "Fill up: in the book's figures, INCYCLO deviation is inward/nasal rotation, shown as the superior limbus rotating ______, while EXCYCLO deviation shows it rotating temporally.",
+   "opts": [
+    "Superiorly",
+    "Temporally",
+    "Inferiorly",
+    "Nasally"
+   ],
+   "ans": 3,
+   "exp": "INCyclo deviation — inward/nasal rotation (superior limbus rotates nasally); EXCyclo deviation — outward/temporal rotation (superior limbus rotates temporally). (Book p47)"
+  },
+  {
+   "id": "OPH-C11-013",
+   "sec": "Direction of deviation and the consequences of squint",
+   "page": 47,
+   "fmt": "recall",
+   "q": "Per the book's consequences table, diplopia as a consequence of squint is seen in:",
+   "opts": [
+    "Large angle squint",
+    "Small angle squint",
+    "Pseudostabismus",
+    "Latent nystagmus"
+   ],
+   "ans": 1,
+   "exp": "Consequences of squint: diplopia — seen in small angle squint; confusion — seen in large angle squint. (Book p47)"
+  },
+  {
+   "id": "OPH-C11-014",
+   "sec": "Direction of deviation and the consequences of squint",
+   "page": 47,
+   "fmt": "match",
+   "q": "Match the consequence with its image formation in the book's table — 1) Diplopia 2) Confusion … A) Images of a different object d/t both eyes looking at different objects B) Images of the same object formed at non-corresponding points in both retinae",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "Both form images of the same object",
+    "Both look at different objects"
+   ],
+   "ans": 0,
+   "exp": "Diplopia: images of the same object formed at non-corresponding points in both retinae (corresponding point of LE: nasal → temporal); confusion: images of a different object d/t both eyes looking at different objects. (Book p47)"
+  },
+  {
+   "id": "OPH-C11-015",
+   "sec": "Direction of deviation and the consequences of squint",
+   "page": 47,
+   "fmt": "recall",
+   "q": "The motor adaptation of diplopia in small angle squint per the book is:",
+   "opts": [
+    "Amblyopia of the deviated eye, with no treatment",
+    "Suppression of the visual sensory impulse from the deviated eye",
+    "Fusion — extra work by the extraocular muscle to overcome the small angle",
+    "Anomalous retinal correspondence with deviation up to 5°"
+   ],
+   "ans": 2,
+   "exp": "Motor adaptations: diplopia (small angle) — fusion, extra work performed by the extraocular muscle to overcome the small angle deviation; confusion (large angle) — change in head posture. (Book p47)"
+  },
+  {
+   "id": "OPH-C11-016",
+   "sec": "Direction of deviation and the consequences of squint",
+   "page": 47,
+   "fmt": "numeric",
+   "q": "Per the book, ARC (anomalous retinal correspondence) — formation of new correspondence points — occurs with deviation up to ______ degrees.",
+   "opts": [
+    "3°",
+    "15°",
+    "10°",
+    "5°"
+   ],
+   "ans": 3,
+   "exp": "Sensory adaptation in small angle squint: ARC — anomalous retinal correspondence, formation of new correspondence points with deviation up to 5°. (Book p47)"
+  },
+  {
+   "id": "OPH-C11-017",
+   "sec": "Direction of deviation and the consequences of squint",
+   "page": 47,
+   "fmt": "oddoneout",
+   "q": "The sensory adaptations of large angle squint in the book's table include suppression of the visual sensory impulse from the deviated eye. This leads to amblyopia (lazy eye). All of the following describe it EXCEPT:",
+   "opts": [
+    "Loss of vision without organic cause",
+    "No treatment",
+    "It is a motor adaptation",
+    "It follows suppression"
+   ],
+   "ans": 2,
+   "exp": "Amblyopia (lazy eye): loss of vision without organic cause — no treatment; it is a sensory adaptation (after suppression), not a motor adaptation. (Book p47)"
+  },
+  {
+   "id": "OPH-C11-018",
+   "sec": "Direction of deviation and the consequences of squint",
+   "page": 47,
+   "fmt": "scenario",
+   "q": "A 3-year-old with a large angle congenital squint does not complain of double vision. Per the book's table the explanation is:",
+   "opts": [
+    "Confusion with suppression of the deviated eye",
+    "Diplopia with fusion effort by the EOM",
+    "ARC with deviation up to 5°",
+    "A change in head posture alone"
+   ],
+   "ans": 0,
+   "exp": "Large angle squint gives confusion (images of different objects); the motor adaptation is a change in head posture and the sensory adaptation is suppression of the visual sensory impulse from the deviated eye → amblyopia. (Book p47)"
+  },
+  {
+   "id": "OPH-C11-019",
+   "sec": "Direction of deviation and the consequences of squint",
+   "page": 47,
+   "fmt": "truefalse",
+   "q": "Which statement about the consequences table is FALSE per the book?",
+   "opts": [
+    "Diplopia — image formation: images of the same object at non-corresponding retinal points",
+    "Diplopia — motor adaptation: change in head posture",
+    "Confusion — image formation: images of different objects",
+    "Confusion — sensory adaptation: suppression of the deviated eye"
+   ],
+   "ans": 1,
+   "exp": "Change in head posture is the motor adaptation of CONFUSION (large angle), not of diplopia; diplopia's motor adaptation is fusion (extra EOM work). (Book p47)"
+  },
+  {
+   "id": "OPH-C11-020",
+   "sec": "Direction of deviation and the consequences of squint",
+   "page": 47,
+   "fmt": "fillup",
+   "q": "Fill up: in the book's note on the diplopia column, the corresponding point of the left eye shifts from nasal to ______.",
+   "opts": [
+    "Central",
+    "Inferior",
+    "Superior",
+    "Temporal"
+   ],
+   "ans": 3,
+   "exp": "Diplopia image formation note: corresponding point of LE: nasal → temporal. (Book p47)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U11-1",
+   "ch": 11,
+   "n": 1,
+   "title": "Classification of squint; comitant versus incomitant",
+   "sec": "Squint · p46",
+   "guide": "Tree: squint → apparent deviation (pseudostabismus) and true deviation. True deviation → heterophoria (latent squint: deviation manifests under ocular stress, excessive near work) and heterotropia (manifest squint: visible always). Heterotropia → constant/concomitant (deviation remains constant in all directions of gaze) and incomitant (deviation varies in different directions of gaze). Table — comitant: 1° = 2° deviation, restriction absent, diplopia absent, head posturing absent, sensory anomalies present; incomitant: 1° < 2°, restriction present, diplopia present, head posturing present, sensory anomalies absent. 1° deviation: seen when the normal eye fixates; 2°: seen when the deviated eye fixates. Note: Hering's law — equal and simultaneous innervation flows through yoke muscles. Types of incomitant: paralytic (forced duction test negative — eye moves) and restrictive (forced duction test positive: diagnostic — eye does not move); forced duction test = try to move the eyeball being held at the limbus by forceps.",
+   "qs": [
+    "OPH-C11-001",
+    "OPH-C11-002",
+    "OPH-C11-003",
+    "OPH-C11-004",
+    "OPH-C11-005",
+    "OPH-C11-006",
+    "OPH-C11-007",
+    "OPH-C11-008",
+    "OPH-C11-009"
+   ]
+  },
+  {
+   "id": "OPH-U11-2",
+   "ch": 11,
+   "n": 2,
+   "title": "Direction of deviation and the consequences of squint",
+   "sec": "Squint · p47",
+   "guide": "Direction of deviation: ESO — inward (esotropia); EXO — outward (exotropia); HYPER — upward (hypertropia); HYPO — downward (hypotropia); INCYCLO — inward/nasal rotation (superior limbus rotates nasally); EXCYCLO — outward/temporal rotation (superior limbus rotates temporally). Consequences: diplopia (small angle squint) — images of the same object at non-corresponding retinal points (corresponding point of LE: nasal → temporal); motor adaptation — fusion (extra EOM work); sensory adaptation — ARC (new correspondence points, deviation up to 5°). Confusion (large angle squint) — images of different objects d/t both eyes looking at different objects; motor adaptation — change in head posture; sensory adaptation — suppression of the visual sensory impulse from the deviated eye → amblyopia (lazy eye): loss of vision without organic cause, no treatment.",
+   "qs": [
+    "OPH-C11-010",
+    "OPH-C11-011",
+    "OPH-C11-012",
+    "OPH-C11-013",
+    "OPH-C11-014",
+    "OPH-C11-015",
+    "OPH-C11-016",
+    "OPH-C11-017",
+    "OPH-C11-018",
+    "OPH-C11-019",
+    "OPH-C11-020"
+   ]
+  }
+ ]
+}

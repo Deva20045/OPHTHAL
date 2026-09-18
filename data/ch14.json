@@ -1,0 +1,577 @@
+{
+ "chapter": 14,
+ "title": "Gaze Defects",
+ "pageRange": "59-62",
+ "questions": [
+  {
+   "id": "OPH-C14-001",
+   "sec": "Supranuclear control of ocular movements and vestibular tests",
+   "page": 59,
+   "fmt": "recall",
+   "q": "The FEF and PEF of the frontal cortex in the book initiate which ocular movements?",
+   "opts": [
+    "Pursuits (slow following movements)",
+    "Saccades — rapid, fixating movements",
+    "VOR",
+    "Optokinetic nystagmus"
+   ],
+   "ans": 1,
+   "exp": "Frontal cortex: FEF (frontal eye field), PEF (parietal eye field) — initiates saccades: rapid, fixating movements. (Book p59)"
+  },
+  {
+   "id": "OPH-C14-002",
+   "sec": "Supranuclear control of ocular movements and vestibular tests",
+   "page": 59,
+   "fmt": "match",
+   "q": "Match the cortical centre with its control of gaze in the book — 1) Frontal cortex (FEF/PEF) 2) Occipital cortex … A) Initiates pursuits, slow following movements — controlled ipsilaterally B) Initiates saccades — horizontal controlled contralaterally, vertical controlled bilaterally",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "Both controlled ipsilaterally",
+    "Both controlled contralaterally"
+   ],
+   "ans": 0,
+   "exp": "Frontal cortex: saccades; horizontal controlled C/L, vertical B/L. Occipital cortex: initiates pursuits (slow following movements), controlled I/L. (Book p59)"
+  },
+  {
+   "id": "OPH-C14-003",
+   "sec": "Supranuclear control of ocular movements and vestibular tests",
+   "page": 59,
+   "fmt": "fillup",
+   "q": "Fill up: the vestibular apparatus in the book is located in the ______, maintaining movement of the head along with the eye.",
+   "opts": [
+    "Cerebellum",
+    "Midbrain",
+    "Ear",
+    "Orbit"
+   ],
+   "ans": 2,
+   "exp": "Vestibular apparatus: in the ear, to maintain movement of head along with the eye. (Book p59)"
+  },
+  {
+   "id": "OPH-C14-004",
+   "sec": "Supranuclear control of ocular movements and vestibular tests",
+   "page": 59,
+   "fmt": "fillup",
+   "q": "Fill up: the vestibular apparatus gives rise to the VOR and the ______ reflex.",
+   "opts": [
+    "Caloric test",
+    "Doll's eyes",
+    "Corneal reflex",
+    "Optokinetic"
+   ],
+   "ans": 3,
+   "exp": "Vestibular apparatus → VOR (vestibulo ocular reflex) and optokinetic reflex. (Book p59)"
+  },
+  {
+   "id": "OPH-C14-005",
+   "sec": "Supranuclear control of ocular movements and vestibular tests",
+   "page": 59,
+   "fmt": "recall",
+   "q": "The oculo-cephalic reflex in the book is AKA:",
+   "opts": [
+    "Doll's reflex",
+    "Caloric reflex",
+    "VOR",
+    "Pursuit reflex"
+   ],
+   "ans": 0,
+   "exp": "Oculo-cephalic reflex: AKA Doll's reflex — tests CN III, VI, VIII; eyes move opposite to the movement of head (in coma patients). (Book p59)"
+  },
+  {
+   "id": "OPH-C14-006",
+   "sec": "Supranuclear control of ocular movements and vestibular tests",
+   "page": 59,
+   "fmt": "match",
+   "q": "Match the vestibular test with its finding in the book — 1) Oculo-cephalic (Doll's) reflex 2) Caloric test — cold water 3) Caloric test — warm water … A) Opposite side nystagmus B) Tests CN III, VI, VIII — eyes move opposite to head movement (in coma patients) C) Same side nystagmus",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-D",
+    "1-B, 2-D, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Doll's reflex tests CN III, VI, VIII with eyes moving opposite to head movement in coma; caloric test (injection of water into ear): cold water → opposite side nystagmus; warm water → same side nystagmus. (Book p59)"
+  },
+  {
+   "id": "OPH-C14-007",
+   "sec": "Supranuclear control of ocular movements and vestibular tests",
+   "page": 59,
+   "fmt": "scenario",
+   "q": "In a comatose patient, rapidly rotating the head makes the eyes dart opposite to the head movement. Per the book this Doll's reflex is used to test:",
+   "opts": [
+    "CN II alone",
+    "CN IV and V",
+    "CN III, VI, VIII",
+    "CN IX and X"
+   ],
+   "ans": 2,
+   "exp": "Oculo-cephalic (Doll's) reflex: test CN III, VI, VIII; eyes move opposite to the movement of head (in coma patients). (Book p59)"
+  },
+  {
+   "id": "OPH-C14-008",
+   "sec": "Supranuclear control of ocular movements and vestibular tests",
+   "page": 59,
+   "fmt": "truefalse",
+   "q": "Which statement about the caloric test is FALSE per the book?",
+   "opts": [
+    "It involves injection of water into the ear",
+    "Cold water produces opposite side nystagmus",
+    "Warm water produces same side nystagmus",
+    "Cold water produces same side nystagmus"
+   ],
+   "ans": 3,
+   "exp": "Caloric test: cold water → opposite side nystagmus; warm water → same side nystagmus. (Book p59)"
+  },
+  {
+   "id": "OPH-C14-009",
+   "sec": "The horizontal gaze pathway",
+   "page": 60,
+   "fmt": "fillup",
+   "q": "Fill up: the centre for horizontal gaze in the book is the ______ PPRF.",
+   "opts": [
+    "Ipsilateral",
+    "Contralateral",
+    "Bilateral",
+    "Midline"
+   ],
+   "ans": 0,
+   "exp": "Horizontal gaze: centre — ipsilateral PPRF; saccadic movements to look towards the left/right side. (Book p60)"
+  },
+  {
+   "id": "OPH-C14-010",
+   "sec": "The horizontal gaze pathway",
+   "page": 60,
+   "fmt": "fillup",
+   "q": "Fill up: in the book's pathway of left gaze, PPRF stands for ______.",
+   "opts": [
+    "Medial longitudinal fasciculus",
+    "Parapontine reticular formation",
+    "Pretectal relay field",
+    "Pons pontine reticular field"
+   ],
+   "ans": 1,
+   "exp": "PPRF: paraporentine (paramedian pontine) reticular formation; MLF: medial longitudinal fasciculus. (Book p60)"
+  },
+  {
+   "id": "OPH-C14-011",
+   "sec": "The horizontal gaze pathway",
+   "page": 60,
+   "fmt": "match",
+   "q": "Match the station in the book's pathway of left gaze with its role — 1) C/L FEF (right) 2) I/L PPRF (left) 3) I/L 6th nerve nucleus 4) C/L MLF → C/L 3rd nerve nucleus … A) Centre — drives the left LR B) Initiates the gaze C) Drives the left lateral rectus D) Drives the right MR (yoke muscle)",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-B, 2-C, 3-A, 4-D"
+   ],
+   "ans": 2,
+   "exp": "Pathway of left gaze: initiation — C/L FEF; centre — I/L PPRF; I/L 6th nucleus → left LR; C/L MLF → C/L 3rd nucleus → right MR. (Book p60)"
+  },
+  {
+   "id": "OPH-C14-012",
+   "sec": "The horizontal gaze pathway",
+   "page": 60,
+   "fmt": "recall",
+   "q": "In the book's left gaze circuit, the signal that crosses the midline to activate the contralateral 3rd nerve nucleus travels through the:",
+   "opts": [
+    "Frontal eye field (FEF)",
+    "Pretectal nucleus",
+    "Annulus of Zinn",
+    "Medial longitudinal fasciculus"
+   ],
+   "ans": 3,
+   "exp": "The C/L MLF carries the gaze signal to the C/L 3rd nerve nucleus, which drives the yoke (right MR). (Book p60)"
+  },
+  {
+   "id": "OPH-C14-013",
+   "sec": "The horizontal gaze pathway",
+   "page": 60,
+   "fmt": "recall",
+   "q": "Horizontal gaze per the book produces:",
+   "opts": [
+    "Pursuit movements following a moving target",
+    "Saccadic movements to look towards the left/right side",
+    "Convergence movements towards a near object",
+    "Intorsion movements of the cycloducts"
+   ],
+   "ans": 1,
+   "exp": "Horizontal gaze: saccadic movements to look towards left/right side. (Book p60)"
+  },
+  {
+   "id": "OPH-C14-014",
+   "sec": "The horizontal gaze pathway",
+   "page": 60,
+   "fmt": "fillup",
+   "q": "Fill up: in the book's left gaze diagram, MLF stands for ______.",
+   "opts": [
+    "Medial longitudinal fasciculus",
+    "Medial lemniscus front",
+    "Midline longitudinal field",
+    "Medial lateral fascicle"
+   ],
+   "ans": 0,
+   "exp": "MLF: medial longitudinal fasciculus. (Book p60)"
+  },
+  {
+   "id": "OPH-C14-015",
+   "sec": "The horizontal gaze pathway",
+   "page": 60,
+   "fmt": "truefalse",
+   "q": "Which statement about the horizontal gaze circuit is FALSE per the book?",
+   "opts": [
+    "The centre is the ipsilateral PPRF",
+    "Initiation comes from the contralateral FEF",
+    "The 6th nucleus drives the ipsilateral lateral rectus",
+    "The 6th nucleus drives the contralateral lateral rectus"
+   ],
+   "ans": 3,
+   "exp": "The 6th nerve nucleus innervates the IPSILATERAL lateral rectus; the contralateral MR is driven via the C/L MLF to the 3rd nucleus. (Book p60)"
+  },
+  {
+   "id": "OPH-C14-016",
+   "sec": "Horizontal gaze palsy and the one-and-a-half syndrome",
+   "page": 61,
+   "fmt": "recall",
+   "q": "In the book's horizontal gaze palsy table, the lesion that produces internuclear ophthalmoplegia is at the:",
+   "opts": [
+    "C/L FEF",
+    "I/L PPRF",
+    "C/L MLF",
+    "I/L MLF"
+   ],
+   "ans": 2,
+   "exp": "C/L MLF lesion: internuclear ophthalmoplegia — m/c cause multiple sclerosis. (Book p61)"
+  },
+  {
+   "id": "OPH-C14-017",
+   "sec": "Horizontal gaze palsy and the one-and-a-half syndrome",
+   "page": 61,
+   "fmt": "recall",
+   "q": "The m/c cause of internuclear ophthalmoplegia per the book is:",
+   "opts": [
+    "Diabetes",
+    "Trauma",
+    "Multiple sclerosis",
+    "Miller Fisher syndrome"
+   ],
+   "ans": 2,
+   "exp": "C/L MLF: internuclear ophthalmoplegia; m/c cause: multiple sclerosis. (Book p61)"
+  },
+  {
+   "id": "OPH-C14-018",
+   "sec": "Horizontal gaze palsy and the one-and-a-half syndrome",
+   "page": 61,
+   "fmt": "fillup",
+   "q": "Fill up: in the C/L MLF row of the book's table, the I/L LR ______ contract while the C/L MR fails to contract.",
+   "opts": [
+    "Can",
+    "Cannot",
+    "Partially cannot",
+    "Never"
+   ],
+   "ans": 0,
+   "exp": "C/L MLF (INO): I/L LR can contract (abduction present); C/L MR fails to contract (adduction absent) → left gaze defect: I/L adduction absent, C/L abduction present. (Book p61)"
+  },
+  {
+   "id": "OPH-C14-019",
+   "sec": "Horizontal gaze palsy and the one-and-a-half syndrome",
+   "page": 61,
+   "fmt": "scenario",
+   "q": "A 32-year-old with multiple sclerosis shows a left gaze defect: the left eye fails to adduct, but the right eye abducts normally. Per the book this pattern is:",
+   "opts": [
+    "A complete left gaze palsy",
+    "Internuclear ophthalmoplegia",
+    "A one-and-a-half syndrome",
+    "A comitant squint"
+   ],
+   "ans": 1,
+   "exp": "INO: I/L adduction absent, C/L abduction present — the book's left gaze defect of the C/L MLF row. (Book p61)"
+  },
+  {
+   "id": "OPH-C14-020",
+   "sec": "Horizontal gaze palsy and the one-and-a-half syndrome",
+   "page": 61,
+   "fmt": "recall",
+   "q": "A lesion of the C/L FEF or the I/L PPRF in the book's table produces:",
+   "opts": [
+    "Bitemporal hemianopia with a chiasmal lesion",
+    "INO with I/L adduction absent and C/L abduction present",
+    "A head tilt with chin down and facial turn",
+    "Left gaze palsy — I/L LR and C/L MR both fail to contract"
+   ],
+   "ans": 3,
+   "exp": "C/L FEF or I/L PPRF lesion: I/L LR fails to contract and C/L MR fails to contract → left gaze palsy. (Book p61)"
+  },
+  {
+   "id": "OPH-C14-021",
+   "sec": "Horizontal gaze palsy and the one-and-a-half syndrome",
+   "page": 61,
+   "fmt": "fillup",
+   "q": "The book's combined I/L MLF + I/L PPRF lesion pattern is named the ______ syndrome.",
+   "opts": [
+    "One-and-a-half",
+    "Two-and-a-half",
+    "Whole-gaze",
+    "Half-gaze"
+   ],
+   "ans": 0,
+   "exp": "One and a half syndrome: I/L MLF → C/L gaze defect + I/L PPRF → I/L gaze palsy = 1½ defect. (Book p61)"
+  },
+  {
+   "id": "OPH-C14-022",
+   "sec": "Horizontal gaze palsy and the one-and-a-half syndrome",
+   "page": 61,
+   "fmt": "fillup",
+   "q": "Fill up: in the book's one-and-a-half figure, right gaze (defect) from a left MLF lesion shows ______ loss of left gaze, while left gaze (palsy) from a left PPRF lesion shows ______ loss of left gaze.",
+   "opts": [
+    "Complete; partial",
+    "Partial; complete",
+    "Total; total",
+    "No; complete"
+   ],
+   "ans": 1,
+   "exp": "Figure: primary gaze normal; right gaze (defect) due to lesion of left MLF — partial loss of left gaze; left gaze (palsy) due to lesion of left PPRF — completely loss of left gaze. (Book p61)"
+  },
+  {
+   "id": "OPH-C14-023",
+   "sec": "Horizontal gaze palsy and the one-and-a-half syndrome",
+   "page": 61,
+   "fmt": "truefalse",
+   "q": "Which statement about the horizontal gaze palsy table is FALSE?",
+   "opts": [
+    "A C/L FEF lesion → left gaze palsy in the table",
+    "An I/L PPRF lesion → left gaze palsy in the table",
+    "In the C/L MLF row, I/L LR fails while C/L MR can contract",
+    "INO is the m/c problem due to multiple sclerosis"
+   ],
+   "ans": 2,
+   "exp": "In the C/L MLF (INO) row the I/L LR CAN contract and the C/L MR fails to contract — the reverse of the false option. (Book p61)"
+  },
+  {
+   "id": "OPH-C14-024",
+   "sec": "Vertical gaze pathway and etiologies of vertical gaze palsy",
+   "page": 62,
+   "fmt": "recall",
+   "q": "The 1° centre of the vertical gaze pathway in the book is the:",
+   "opts": [
+    "INC",
+    "PPRF",
+    "Posterior commissure",
+    "rimLF"
+   ],
+   "ans": 3,
+   "exp": "Vertical gaze pathway: 1° centre — rimLF; 2° centre — INC. (Book p62)"
+  },
+  {
+   "id": "OPH-C14-025",
+   "sec": "Vertical gaze pathway and etiologies of vertical gaze palsy",
+   "page": 62,
+   "fmt": "recall",
+   "q": "The 2° centre of the vertical gaze pathway in the book is the:",
+   "opts": [
+    "Interstitial nucleus of Cajal (INC)",
+    "rimLF (rostral interstitial medial longitudinal fasciculus)",
+    "Superior colliculus",
+    "Trochlear nucleus"
+   ],
+   "ans": 0,
+   "exp": "2° centre — INC (interstitial nucleus of Cajal). (Book p62)"
+  },
+  {
+   "id": "OPH-C14-026",
+   "sec": "Vertical gaze pathway and etiologies of vertical gaze palsy",
+   "page": 62,
+   "fmt": "fillup",
+   "q": "Fill up: in the book, rimLF stands for ______.",
+   "opts": [
+    "Retinal interstitial medial lemniscus",
+    "Rostral interstitial medial longitudinal fasciculus",
+    "Rostral internal medial longitudinal field",
+    "Rostro-interpeduncular longitudinal fascicle"
+   ],
+   "ans": 1,
+   "exp": "rimLF: rostral interstitial medial longitudinal fasciculus; INC: interstitial nucleus of Cajal. (Book p62)"
+  },
+  {
+   "id": "OPH-C14-027",
+   "sec": "Vertical gaze pathway and etiologies of vertical gaze palsy",
+   "page": 62,
+   "fmt": "match",
+   "q": "Match the vertical gaze structure with its labelled role in the book's diagram — 1) Frontal and occipital centres 2) rimLF 3) INC … A) Cortical input to the pathway B) 1° centre C) 2° centre",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-D, 2-A, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-D"
+   ],
+   "ans": 0,
+   "exp": "Diagram: frontal and occipital centres (input) → rimLF (1° centre) and INC (2° centre), with superior colliculus and posterior commissure relaying to the trochlear and oculomotor nerve nuclei. (Book p62)"
+  },
+  {
+   "id": "OPH-C14-028",
+   "sec": "Vertical gaze pathway and etiologies of vertical gaze palsy",
+   "page": 62,
+   "fmt": "recall",
+   "q": "The m/c etiology of vertical gaze palsy per the book is:",
+   "opts": [
+    "Pinealoma",
+    "Hydrocephalus",
+    "Progressive supranuclear palsy",
+    "Distal basilar artery ischaemia"
+   ],
+   "ans": 3,
+   "exp": "Etiology of vertical gaze palsy: 1. distal basilar artery ischaemia (m/c) — supplies rimLF. (Book p62)"
+  },
+  {
+   "id": "OPH-C14-029",
+   "sec": "Vertical gaze pathway and etiologies of vertical gaze palsy",
+   "page": 62,
+   "fmt": "scenario",
+   "q": "An 80-year-old man gradually loses downgaze, then upgaze, then all ocular movements, and finally convergence. Per the book the diagnosis is:",
+   "opts": [
+    "Parinaud's dorsal midbrain syndrome",
+    "Progressive supranuclear palsy",
+    "Distal basilar artery ischaemia",
+    "Internuclear ophthalmoplegia"
+   ],
+   "ans": 1,
+   "exp": "Progressive supranuclear palsy: palsy — downgaze → upgaze → global → convergence; occurs in old age. (Book p62)"
+  },
+  {
+   "id": "OPH-C14-030",
+   "sec": "Vertical gaze pathway and etiologies of vertical gaze palsy",
+   "page": 62,
+   "fmt": "match",
+   "q": "Match the Parinaud syndrome feature with its description in the book — 1) Collier's sign 2) Convergence 3) Light-near dissociation … A) Upper eyelid retraction B) Light reflex absent and near reflex present C) Retraction nystagmus",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Parinaud clinical features: upgaze palsy (supranuclear); Collier's sign — upper eyelid retraction; convergence — retraction nystagmus; light-near dissociation — light reflex absent and near reflex present. (Book p62)"
+  },
+  {
+   "id": "OPH-C14-031",
+   "sec": "Vertical gaze pathway and etiologies of vertical gaze palsy",
+   "page": 62,
+   "fmt": "recall",
+   "q": "Parinaud's dorsal midbrain syndrome per the book: the site of lesion is the ______, and the m/c cause is ______.",
+   "opts": [
+    "Superior colliculus; meningioma",
+    "MLF; meningioma",
+    "Posterior commissure; pinealoma",
+    "Red nucleus; stroke"
+   ],
+   "ans": 2,
+   "exp": "Parinaud's dorsal midbrain syndrome: site of lesion — posterior commissure; most common cause — pinealoma > hydrocephalus. (Book p62)"
+  },
+  {
+   "id": "OPH-C14-032",
+   "sec": "Vertical gaze pathway and etiologies of vertical gaze palsy",
+   "page": 62,
+   "fmt": "truefalse",
+   "q": "Which statement about vertical gaze palsy is FALSE per the book?",
+   "opts": [
+    "Parinaud's upgaze palsy is supranuclear",
+    "Collier's sign is upper eyelid retraction",
+    "Progressive supranuclear palsy occurs in old age",
+    "Light-near dissociation: light reflex present and near reflex absent"
+   ],
+   "ans": 3,
+   "exp": "Light-near dissociation is the opposite: light reflex ABSENT and near reflex PRESENT. (Book p62)"
+  },
+  {
+   "id": "OPH-C14-033",
+   "sec": "Vertical gaze pathway and etiologies of vertical gaze palsy",
+   "page": 62,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed in the book as structures of the vertical gaze pathway diagram EXCEPT:",
+   "opts": [
+    "Superior colliculus",
+    "Posterior commissure",
+    "Trochlear nerve nucleus",
+    "Lateral geniculate body"
+   ],
+   "ans": 3,
+   "exp": "Diagram structures: frontal and occipital centres, superior colliculus, rimLF, INC, posterior commissure, trochlear nerve nucleus, oculomotor nerve nucleus. (Book p62)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U14-1",
+   "ch": 14,
+   "n": 1,
+   "title": "Supranuclear control of ocular movements and vestibular tests",
+   "sec": "Squint · p59",
+   "guide": "Cerebral cortex: frontal cortex (FEF — frontal eye field, PEF — parietal eye field) initiates saccades (rapid, fixating movements) — horizontal controlled contralaterally, vertical bilaterally; occipital cortex initiates pursuits (slow following movements), controlled ipsilaterally. Both feed the brainstem cranial nerve nuclei. Vestibular apparatus (in the ear) maintains movement of head along with the eye → VOR (vestibulo ocular reflex) and optokinetic reflex. Tests: oculo-cephalic reflex (AKA Doll's reflex) — tests CN III, VI, VIII; eyes move opposite to the movement of head (in coma patients). Caloric test (injection of water into ear): cold water → opposite side nystagmus; warm water → same side nystagmus.",
+   "qs": [
+    "OPH-C14-001",
+    "OPH-C14-002",
+    "OPH-C14-003",
+    "OPH-C14-004",
+    "OPH-C14-005",
+    "OPH-C14-006",
+    "OPH-C14-007",
+    "OPH-C14-008"
+   ]
+  },
+  {
+   "id": "OPH-U14-2",
+   "ch": 14,
+   "n": 2,
+   "title": "The horizontal gaze pathway",
+   "sec": "Squint · p60",
+   "guide": "Horizontal gaze: centre — ipsilateral PPRF; saccadic movements to look towards the left/right side. Pathway of left gaze: initiation — C/L FEF (right) → I/L PPRF (left, centre) → I/L 6th nerve nucleus (drives the left LR) and via the C/L MLF → C/L 3rd nerve nucleus (drives the right MR yoke). PPRF: paraporentine/paramedian pontine reticular formation; MLF: medial longitudinal fasciculus.",
+   "qs": [
+    "OPH-C14-009",
+    "OPH-C14-010",
+    "OPH-C14-011",
+    "OPH-C14-012",
+    "OPH-C14-013",
+    "OPH-C14-014",
+    "OPH-C14-015"
+   ]
+  },
+  {
+   "id": "OPH-U14-3",
+   "ch": 14,
+   "n": 3,
+   "title": "Horizontal gaze palsy and the one-and-a-half syndrome",
+   "sec": "Squint · p61",
+   "guide": "Table: C/L FEF — I/L LR fails to contract, C/L MR fails to contract → left gaze palsy; I/L PPRF — same → left gaze palsy; C/L MLF — internuclear ophthalmoplegia (m/c cause multiple sclerosis): I/L LR can contract, C/L MR fails to contract → left gaze defect: I/L adduction absent, C/L abduction present. One and a half syndrome: I/L MLF → C/L gaze defect + I/L PPRF → I/L gaze palsy = 1½ defect; figure: primary gaze normal; right gaze (defect) d/t left MLF — partial loss of left gaze; left gaze (palsy) d/t left PPRF — completely loss of left gaze.",
+   "qs": [
+    "OPH-C14-016",
+    "OPH-C14-017",
+    "OPH-C14-018",
+    "OPH-C14-019",
+    "OPH-C14-020",
+    "OPH-C14-021",
+    "OPH-C14-022",
+    "OPH-C14-023"
+   ]
+  },
+  {
+   "id": "OPH-U14-4",
+   "ch": 14,
+   "n": 4,
+   "title": "Vertical gaze pathway and etiologies of vertical gaze palsy",
+   "sec": "Squint · p62",
+   "guide": "Vertical gaze (upgaze/downgaze) pathway: frontal and occipital centres → superior colliculus, rimLF, INC, posterior commissure → trochlear and oculomotor nerve nuclei. 1° centre — rimLF (rostral interstitial medial longitudinal fasciculus); 2° centre — INC (interstitial nucleus of Cajal). Etiology of vertical gaze palsy: 1. distal basilar artery ischaemia (m/c) — supplies rimLF; a. progressive supranuclear palsy — palsy: downgaze → upgaze → global → convergence, occurs in old age; 3. Parinaud's dorsal midbrain syndrome — site: posterior commissure; m/c cause: pinealoma > hydrocephalus; features: upgaze palsy (supranuclear), Collier's sign (upper eyelid retraction), convergence — retraction nystagmus, light-near dissociation (light reflex absent and near reflex present).",
+   "qs": [
+    "OPH-C14-024",
+    "OPH-C14-025",
+    "OPH-C14-026",
+    "OPH-C14-027",
+    "OPH-C14-028",
+    "OPH-C14-029",
+    "OPH-C14-030",
+    "OPH-C14-031",
+    "OPH-C14-032",
+    "OPH-C14-033"
+   ]
+  }
+ ]
+}
