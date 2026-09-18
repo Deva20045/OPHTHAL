@@ -1,0 +1,327 @@
+{
+ "chapter": 22,
+ "title": "Congenital Cataract, Ectopia lentis and Miscellaneous",
+ "pageRange": "87-89",
+ "questions": [
+  {
+   "id": "OPH-C22-001",
+   "sec": "Congenital cataract classification",
+   "page": 87,
+   "fmt": "match",
+   "q": "Match congenital cataract classification per p87 table — 1) Infantile Primary Congenital 2) Developmental … A) Age at birth no progression Presentation within 1 year B) Presentation >1 year minimal loss vision wait & watch C) Severe loss vision interference foveal fixation",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-C, 2-A",
+    "1-A, 2-C"
+   ],
+   "ans": 0,
+   "exp": "Classification Age of onset At birth no progression Presentation Within 1 year vs >1 year Symptoms Severe loss vision D/t interference foveal fixation vs minimal loss Management Surgery upon diagnosis within 12 weeks vs Wait & watch. (Book p87)"
+  },
+  {
+   "id": "OPH-C22-002",
+   "sec": "Congenital cataract symptoms",
+   "page": 87,
+   "fmt": "recall",
+   "q": "Severe loss of vision in infantile congenital cataract is due to:",
+   "opts": [
+    "Interference foveal fixation → failure fixation → sensory deprivation amblyopia without organic cause, fixation at fovea 3-4 months",
+    "Only refractive error causing mild blur, no amblyopia, fixation develops normally by 6 months age",
+    "Only congenital glaucoma causing buphthalmos, fixation unaffected, amblyopia not expected",
+    "Only retinal detachment causing field loss, foveal fixation intact, no sensory deprivation"
+   ],
+   "ans": 0,
+   "exp": "Severe loss vision D/t interference with foveal fixation Foveal fixation Brain ascertains best image formed on retina at foveal point by 3-4 months Failure fixation Sensory deprivation amblyopia without organic cause. (Book p87)"
+  },
+  {
+   "id": "OPH-C22-003",
+   "sec": "Congenital cataract types",
+   "page": 87,
+   "fmt": "match",
+   "q": "Match type with association per p87 — 1) Lamellar/Zonular m/c 2) Blue-dot m/c 3) Posterior polar … A) Autosomal dominant inheritance Congenital rubella Vitamin D deficiency B) Associated Down syndrome C) Associated Mittendorf dots remnants hyaloid/Tunica vasculosa lentis PHPV",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Types Lamellar/Zonular m/c Autosomal dominant Congenital rubella Vitamin D deficiency; Blue-dot m/c Associated Down syndrome; Posterior polar Associated Mittendorf dots remnants hyaloid artery/Tunica vasculosa lentis PHPV persistent hyperplastic primary vitreous. (Book p87)"
+  },
+  {
+   "id": "OPH-C22-004",
+   "sec": "Congenital cataract appearance",
+   "page": 87,
+   "fmt": "fillup",
+   "q": "Fill up: Lamellar cataract appearance shows spoke-like opacities: Riders and opacity in ___ nucleus.",
+   "opts": [
+    "fetal",
+    "adult",
+    "embryonic",
+    "infantile"
+   ],
+   "ans": 0,
+   "exp": "Appearance Spoke-like opacities Riders Opacity in fetal nucleus vs Onion ring/whirled whorled appearance Posterior capsule Anterior capsule. (Book p87)"
+  },
+  {
+   "id": "OPH-C22-005",
+   "sec": "Congenital cataract appearance developmental",
+   "page": 87,
+   "fmt": "recall",
+   "q": "Developmental cataract appearance per the book for posterior polar type shows:",
+   "opts": [
+    "Onion ring/whirled appearance with posterior and anterior capsule labels as per diagram",
+    "Spoke-like riders with fetal nucleus opacity only, no onion ring pattern observed",
+    "Sunflower cataract with polychromatic petals in anterior capsule region",
+    "Rosette cataract with star-shaped opacity after blunt trauma to lens"
+   ],
+   "ans": 0,
+   "exp": "Developmental cataract onion ring/whirled whorled appearance Posterior capsule Anterior capsule. (Book p87)"
+  },
+  {
+   "id": "OPH-C22-006",
+   "sec": "Congenital cataract treatment",
+   "page": 87,
+   "fmt": "management",
+   "q": "Treatment of congenital cataract per the book includes:",
+   "opts": [
+    "Lens aspiration soft + posterior capsulorhexis avoid PSCC + anterior vitrectomy avoid mixing, >2y IOL",
+    "Only topical steroids and atropine, no surgery, wait till adult age for intervention",
+    "Only YAG capsulotomy for all ages, no lens aspiration or vitrectomy required",
+    "No surgery at all, only spectacles and patching, lens left in situ lifelong"
+   ],
+   "ans": 0,
+   "exp": "TREATMENT Lens aspiration (d/t soft lens) + Posterior capsulorhexis (to avoid PSCC future) + Anterior vitrectomy (to avoid mixing aqueous/vitreous) Usually >2y IOL implantation. (Book p87)"
+  },
+  {
+   "id": "OPH-C22-007",
+   "sec": "Congenital cataract IOL undercorrection",
+   "page": 87,
+   "fmt": "numeric",
+   "q": "IOL undercorrection required in congenital cataract because power increases with age, Power at Birth 2-3D → Hypermetropia: <2yrs undercorrection by ___, 2-8yr by ___.",
+   "opts": [
+    "20%, 10%",
+    "10%, 20%",
+    "5%, 15%",
+    "30%, 20%"
+   ],
+   "ans": 0,
+   "exp": "IOL undercorrection required as power of lens increases with age Power at Birth 2-3D → Hypermetropia <2yrs undercorrection by 20% 2-8yr undercorrection by 10%. If done <2yr small IOL may lead to lens dislocation as size eyeball increases with age. (Book p87)"
+  },
+  {
+   "id": "OPH-C22-008",
+   "sec": "Congenital rubella syndrome note",
+   "page": 88,
+   "fmt": "match",
+   "q": "Match CRS details per p88 note — 1) Occurrence 2) Ocular manifestations 3) Axial length at birth and ~7yr … A) 1st trimester pregnancy B) Nuclear pearly cataract m/c in CRS micro-ophthalmus salt & pepper retinopathy C) At birth 17mm ~7yr 24mm adult size",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Note Congenital rubella syndrome Occurrence 1st trimester pregnancy Ocular manifestation Nuclear pearly cataract m/c cataract in CRS micro-ophthalmus Salt & pepper retinopathy Axial length At birth 17mm ~7yr 24mm adult size. (Book p88)"
+  },
+  {
+   "id": "OPH-C22-009",
+   "sec": "Ectopia lentis definition",
+   "page": 88,
+   "fmt": "recall",
+   "q": "Ectopia lentis per the book is displacement of lens, partial subluxation, complete dislocation, monocular diplopia may occur, image shows zero D, iris, golden reddish crescent, lens, inferior dislocation +16D. Most common cause is:",
+   "opts": [
+    "Blunt trauma m/c d/t break in zonules",
+    "Congenital rubella",
+    "Vitamin D deficiency",
+    "Down syndrome"
+   ],
+   "ans": 0,
+   "exp": "Causes: Blunt trauma (m/c) d/t break in zonules. (Book p88)"
+  },
+  {
+   "id": "OPH-C22-010",
+   "sec": "Ectopia lentis causes",
+   "page": 88,
+   "fmt": "oddoneout",
+   "q": "All are causes of ectopia lentis per p88 EXCEPT:",
+   "opts": [
+    "Familial autosomal dominant inheritance",
+    "Ectopia lentis et pupillae congenital bilateral lens & pupil move opposite",
+    "Aniridia absence iris",
+    "Retinitis pigmentosa"
+   ],
+   "ans": 3,
+   "exp": "Causes: Blunt trauma m/c, Familial AD, Ectopia lentis et pupillae congenital bilateral opposite directions, Aniridia, Marfan's m/c systemic association, Homocystinuria, Weill-Marchesani, Sulfite oxidase deficiency, Hyperlysinemia, Ehlers-Danlos. (Book p88)"
+  },
+  {
+   "id": "OPH-C22-011",
+   "sec": "Ectopia lentis — Marfan's",
+   "page": 88,
+   "fmt": "match",
+   "q": "Match Marfan's ocular associations per p88 — 1) Ectopia lentis direction 2) Cornea 3) Retina 4) Pupil … A) Superotemporal ectopia lentis m/c systemic association B) Cornea plana & megalocornea flat & large C) Lattice degeneration + Axial myopia D/t ↑ axial length D) Dilator pupillae hypoplasia",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-B, 3-A, 4-D",
+    "1-A, 2-C, 3-B, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Marfan's syndrome m/c systemic association Superotemporal ectopia lentis Cornea plana & megalocornea flat & large cornea Lattice degeneration retina Axial myopia D/t ↑ axial length Dilator pupillae hypoplasia. (Book p88)"
+  },
+  {
+   "id": "OPH-C22-012",
+   "sec": "Ectopia lentis — homocystinuria",
+   "page": 88,
+   "fmt": "scenario",
+   "q": "A child with tall stature, developmental delay, inferior lens subluxation inferonasal ectopia lentis, zonular disintegration due to homocysteine methionine accumulation from cysteine deficiency, cyanide nitroprusside test positive. Per the book this is:",
+   "opts": [
+    "Homocystinuria with inferonasal ectopia lentis",
+    "Marfan's with superotemporal ectopia",
+    "Weill-Marchesani with anterior ectopia",
+    "Ectopia lentis et pupillae"
+   ],
+   "ans": 0,
+   "exp": "Homocystinuria Deficiency cysteine → Accumulation homocysteine & methionine → Zonular disintegration → ectopia lentis Inferonasal ectopia lentis Diagnosis Cyanide nitroprusside test. (Book p88)"
+  },
+  {
+   "id": "OPH-C22-013",
+   "sec": "Ectopia lentis — Weill-Marchesani",
+   "page": 88,
+   "fmt": "match",
+   "q": "Match Weill-Marchesani features per p88 — 1) Ectopia direction 2) Stature 3) Fingers … A) Forward/Anterior ectopia lentis B) Short stature C) Small stubby fingers",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Weill-Marchesani syndrome Forward/Anterior ectopia lentis Short stature Small stubby fingers. (Book p88)"
+  },
+  {
+   "id": "OPH-C22-014",
+   "sec": "Ectopia lentis — management",
+   "page": 89,
+   "fmt": "management",
+   "q": "Management of ectopia lentis per p89:",
+   "opts": [
+    "Partial subluxation spectacles, clinically significant subluxation surgery refixate lens ECCE/ICCE+IOL",
+    "Only YAG laser iridotomy for all cases, no spectacles or surgical refixation needed",
+    "Only topical steroids and antiglaucoma drops, no surgical or spectacle correction",
+    "No treatment required, observation lifelong, lens will spontaneously recenter"
+   ],
+   "ans": 0,
+   "exp": "Management: Partial Subluxation Spectacles Clinically significant Subluxation Surgery Refixate lens ECCE/ICCE + IOL implantation. (Book p89)"
+  },
+  {
+   "id": "OPH-C22-015",
+   "sec": "Lenticonus",
+   "page": 89,
+   "fmt": "recall",
+   "q": "Lenticonus is cone-shaped lens. Anterior lenticonus associated with mnemonic SAW includes:",
+   "opts": [
+    "Spina Bifida, Alport syndrome SNHL + abnormal glomerular BM, Wardenburg syndrome",
+    "Lowe syndrome oculorenal X-linked",
+    "Down syndrome",
+    "Rubella syndrome"
+   ],
+   "ans": 0,
+   "exp": "LENTICONUS Cone-shaped lens Anterior lenticonus Associated mnemonic SAW Spina Bifida Alport syndrome SNHL + abnormal glomerular BM Wardenburg syndrome. (Book p89)"
+  },
+  {
+   "id": "OPH-C22-016",
+   "sec": "Lenticonus posterior",
+   "page": 89,
+   "fmt": "match",
+   "q": "Match posterior lenticonus per p89 — Association and features — 1) Association 2) Features … A) Lowe syndrome AKA oculorenal X-linked B) Congenital cataract Congenital glaucoma Microphakia",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Posterior lenticonus Associated Lowe syndrome AKA oculorenal syndrome X-linked inheritance Features Congenital cataract Congenital glaucoma Microphakia. (Book p89)"
+  },
+  {
+   "id": "OPH-C22-017",
+   "sec": "Microspherophakia",
+   "page": 89,
+   "fmt": "recall",
+   "q": "Microspherophakia per the book:",
+   "opts": [
+    "Congenital small ↑curvature → myopia spherical → dislocation → 2° ACG Association Marfan Weill-Marchesani",
+    "Acquired defect due to trauma only, lens normal size, no myopia or glaucoma association",
+    "Cone-shaped lens only anterior lenticonus, no microspherophakia features present",
+    "Flat lens only with decreased curvature, hyperopia, no dislocation or glaucoma risk"
+   ],
+   "ans": 0,
+   "exp": "MICROSPHEROPHAKIA Congenital defect Lens Small → ↑curvature → myopia Spherical → dislocation → 2° Angle-closure glaucoma Association Marfan's Weill Marchesani syndrome. (Book p89)"
+  },
+  {
+   "id": "OPH-C22-018",
+   "sec": "Ectopia lentis miscellaneous",
+   "page": 89,
+   "fmt": "oddoneout",
+   "q": "All are listed as causes of ectopia lentis per p88 last lines EXCEPT:",
+   "opts": [
+    "Sulfite oxidase deficiency",
+    "Hyperlysinemia",
+    "Ehlers-Danlos syndrome",
+    "Retinitis pigmentosa"
+   ],
+   "ans": 3,
+   "exp": "Causes: Sulfite oxidase deficiency, Hyperlysinemia, Ehlers-Danlos syndrome. (Book p89)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U22-1",
+   "ch": 22,
+   "n": 1,
+   "title": "Congenital cataract — classification and types",
+   "sec": "Lens · p87",
+   "guide": "Classification Infantile Primary Congenital At birth no progression Within 1 year Severe loss vision interference foveal fixation foveal fixation brain ascertains best image fovea 3-4 months Failure sensory deprivation amblyopia without organic cause vs Developmental >1 year minimal loss wait & watch Types Lamellar/Zonular m/c AD Congenital rubella Vitamin D deficiency vs Blue-dot m/c Down syndrome Posterior polar Mittendorf dots remnants hyaloid/Tunica vasculosa lentis PHPV Appearance Spoke-like Riders opacity fetal nucleus vs Onion ring whirled whorled posterior anterior capsule Treatment Lens aspiration soft + Posterior capsulorhexis avoid PSCC + Anterior vitrectomy avoid mixing aqueous/vitreous Usually >2y IOL implantation undercorrection power increases with age Power Birth 2-3D Hypermetropia <2yrs 20% 2-8yr 10% If <2yr small IOL dislocation size eyeball increases.",
+   "qs": [
+    "OPH-C22-001",
+    "OPH-C22-002",
+    "OPH-C22-003",
+    "OPH-C22-004",
+    "OPH-C22-005",
+    "OPH-C22-006",
+    "OPH-C22-007"
+   ]
+  },
+  {
+   "id": "OPH-U22-2",
+   "ch": 22,
+   "n": 2,
+   "title": "Congenital rubella and ectopia lentis causes",
+   "sec": "Lens · p88",
+   "guide": "Note CRS Occurrence 1st trimester Ocular Nuclear pearly cataract m/c CRS micro-ophthalmus Salt & pepper retinopathy Axial length birth 17mm ~7yr 24mm adult size; Ectopia lentis Displacement Partial subluxation Complete dislocation Monocular diplopia may occur image zero D iris golden reddish crescent lens inferior dislocation +16D Causes Blunt trauma m/c break zonules Familial AD Ectopia lentis et pupillae congenital bilateral lens & pupil opposite Aniridia absence Iris Marfan m/c systemic association Superotemporal ectopia lentis Cornea plana megalocornea flat large Lattice degeneration retina Axial myopia ↑ axial length Dilator pupillae hypoplasia Homocystinuria Deficiency cysteine → accumulation homocysteine methionine → zonular disintegration ectopia lentis Inferonasal diagnosis cyanide nitroprusside Weill-Marchesani Forward Anterior short stature small stubby fingers Sulfite oxidase deficiency Hyperlysinemia Ehlers-Danlos.",
+   "qs": [
+    "OPH-C22-008",
+    "OPH-C22-009",
+    "OPH-C22-010",
+    "OPH-C22-011",
+    "OPH-C22-012",
+    "OPH-C22-013"
+   ]
+  },
+  {
+   "id": "OPH-U22-3",
+   "ch": 22,
+   "n": 3,
+   "title": "Ectopia lentis management, lenticonus, microspherophakia",
+   "sec": "Lens · p89",
+   "guide": "Management Partial subluxation Spectacles Clinically significant Surgery Refixate lens ECCE/ICCE + IOL; Lenticonus Cone-shaped lens Anterior associated SAW Spina Bifida Alport SNHL abnormal glomerular BM Wardenburg vs Posterior Lowe oculorenal X-linked Features Congenital cataract Congenital glaucoma Microphakia Images Anterior posterior lenticonus; Microspherophakia Congenital defect Small ↑curvature myopia Spherical dislocation 2° Angle-closure glaucoma Association Marfan Weill Marchesani.",
+   "qs": [
+    "OPH-C22-014",
+    "OPH-C22-015",
+    "OPH-C22-016",
+    "OPH-C22-017",
+    "OPH-C22-018"
+   ]
+  }
+ ]
+}

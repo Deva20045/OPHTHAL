@@ -40,6 +40,11 @@ LIVE_CHAPTERS = {
     18: ("Acquired Cataract : Types", 73, 75, 28, 4),
     19: ("Acquired Cataract : Senile Cataract", 76, 79, 32, 4),
     20: ("Cataract Surgery", 80, 82, 28, 4),
+    21: ("Complications of Cataract Surgery", 83, 86, 26, 4),
+    22: ("Congenital Cataract, Ectopia lentis and Miscellaneous", 87, 89, 18, 3),
+    23: ("Glaucoma : What and How?", 90, 93, 19, 4),
+    24: ("Investigations for Glaucoma", 94, 101, 30, 6),
+    25: ("Primary Open Angle Glaucoma", 102, 108, 30, 6),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain

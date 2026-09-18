@@ -1,0 +1,549 @@
+{
+ "chapter": 25,
+ "title": "Primary Open Angle Glaucoma",
+ "pageRange": "102-108",
+ "questions": [
+  {
+   "id": "OPH-C25-001",
+   "sec": "Types of glaucoma",
+   "page": 102,
+   "fmt": "match",
+   "q": "Match glaucoma classification per p102 flowchart — 1) Acquired in adults Primary 2) Acquired Secondary 3) Congenital Primary 4) Congenital Secondary … A) POAG and PACG B) PXFG Pigmentary ICE syndrome malignant Lens induced C) D/t birth malformations D) Associated other congenital disease AKA developmental glaucoma",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Types Acquired in adults Primary POAG PACG Secondary PXFG Pigmentary ICE malignant Lens induced Congenital in children Primary D/t birth malformations Secondary Associated other congenital disease AKA developmental glaucoma. (Book p102)"
+  },
+  {
+   "id": "OPH-C25-002",
+   "sec": "POAG overview",
+   "page": 102,
+   "fmt": "recall",
+   "q": "POAG/Chronic Simple Glaucoma overview per p102:",
+   "opts": [
+    "Chronic disease Symptoms minimal Signs detectable m/c with age >50 yrs Can be hereditary",
+    "Acute disease with severe pain",
+    "Only in children",
+    "Only unilateral"
+   ],
+   "ans": 0,
+   "exp": "OVERVIEW Chronic disease Symptoms minimal Signs Detectable m/c with age >50 yrs Can be hereditary. (Book p102)"
+  },
+  {
+   "id": "OPH-C25-003",
+   "sec": "POAG contributory genes",
+   "page": 102,
+   "fmt": "oddoneout",
+   "q": "All are contributory genes for POAG per p102 EXCEPT:",
+   "opts": [
+    "Optineurin",
+    "WDR-36",
+    "MYOC myocilin gene Also implicated in cystic fibrosis",
+    "CFTR"
+   ],
+   "ans": 3,
+   "exp": "Contributory genes Optineurin WDR-36 MYOC myocilin gene Also implicated in cystic fibrosis. (Book p102)"
+  },
+  {
+   "id": "OPH-C25-004",
+   "sec": "POAG mechanism and symptoms",
+   "page": 102,
+   "fmt": "match",
+   "q": "Match POAG mechanism/symptoms per p102 — 1) Mechanism 2) Symptoms 3) Note frequent change glasses … A) Blockage of Tm Trabecular meshwork → Obstruction outflow B) Headache Difficulty/delay dark adaptation Frequent changes presbyopic glasses Non diagnostic C) Frequent change glasses seen in cataract d/t change refractory index lens",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Mechanism Blockage Tm Trabecular meshwork Obstruction outflow Symptoms 1 Headache 2 Difficulty/delay dark adaptation 3 Frequent changes presbyopic glasses Non diagnostic Note Frequent change glasses seen cataract d/t change refractory index lens. (Book p102)"
+  },
+  {
+   "id": "OPH-C25-005",
+   "sec": "Signs IOP",
+   "page": 103,
+   "fmt": "numeric",
+   "q": "IOP criteria for POAG per p103:",
+   "opts": [
+    ">21 mmHg Normal 11-21 or >5 mmHg difference b/w both eyes or >8 mmHg diurnal variation",
+    ">30 mmHg only",
+    ">10 mmHg difference both eyes",
+    ">15 mmHg diurnal"
+   ],
+   "ans": 0,
+   "exp": "1 IOP Intra Ocular Pressure >21 mmHg Normal range 11-21 or >5 mmHg difference b/w both eyes or >8 mmHg difference diurnal variation. (Book p103)"
+  },
+  {
+   "id": "OPH-C25-006",
+   "sec": "Normal tension glaucoma",
+   "page": 103,
+   "fmt": "match",
+   "q": "Match NTG per p103 — 1) Definition 2) Associated … A) If OD changes + VF changes + Normal IOP B) Raynaud phenomena migraine ↓ blood flow velocity ophthalmic artery",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Normal Tension Glaucoma NTG If OD changes + VF changes + Normal IOP Commonly a/w Raynaud phenomena migraine ↓ blood flow velocity ophthalmic artery. (Book p103)"
+  },
+  {
+   "id": "OPH-C25-007",
+   "sec": "OD changes — normal vs glaucomatous",
+   "page": 103,
+   "fmt": "match",
+   "q": "Match OD changes per p103 — 1) Normal c/d ratio 2) Vertical cupping 3) Nasalization 4) Bayonetting … A) 0.3 B) c/d ratio >0.5 Loss NRR Neuroretinal rim C) Nasalization blood vessels within optic cup D) Double angulation blood vessels",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Normal OD Normal c/d ratio =0.3 vertical cupping c/d ratio >0.5 Loss NRR Neuroretinal rim Glaucomatous optic atrophy Nasalization blood vessels within optic cup Bayonetting sign Double angulation blood vessels Loss NRR Inferotemporal part lost earliest → Polar Notching. (Book p103)"
+  },
+  {
+   "id": "OPH-C25-008",
+   "sec": "OD changes — polar notching",
+   "page": 103,
+   "fmt": "fillup",
+   "q": "Fill up: Loss of NRR Inferotemporal part lost earliest → ___ Notching per p103.",
+   "opts": [
+    "Polar",
+    "Nasal",
+    "Temporal",
+    "Central"
+   ],
+   "ans": 0,
+   "exp": "Loss NRR Inferotemporal part lost earliest → Polar Notching. (Book p103)"
+  },
+  {
+   "id": "OPH-C25-009",
+   "sec": "Laminar dot and peripapillary atrophy",
+   "page": 103,
+   "fmt": "match",
+   "q": "Match signs per p103 — 1) Laminar dot sign 2) Peri-papillary atrophy 3) Splinter hemorrhages 4) Beta zone … A) Fenestrations sclera Lamina cribrosa become visible → Dotted appearance base OC B) Atrophy around OD temporal side C) At OD D) Temporal myopic crescent Not specific OAG Acts confounding factor",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Laminar dot sign Fenestrations sclera Lamina cribrosa become visible Dotted appearance base OC Peri-papillary atrophy Atrophy around OD temporal side Splinter hemorrhages at OD β zone/Temporal myopic crescent Not specific OAG Acts confounding factor α zone Specific OAG. (Book p103)"
+  },
+  {
+   "id": "OPH-C25-010",
+   "sec": "Alpha zone vs beta zone",
+   "page": 103,
+   "fmt": "truefalse",
+   "q": "Which is TRUE about zones per p103?",
+   "opts": [
+    "β zone/Temporal myopic crescent Not specific for OAG Acts confounding factor α zone Specific for OAG",
+    "β zone specific OAG α not specific",
+    "Both specific OAG",
+    "Both not specific"
+   ],
+   "ans": 0,
+   "exp": "β zone/Temporal myopic crescent Not specific for OAG Acts confounding factor α zone Specific for OAG. (Book p103)"
+  },
+  {
+   "id": "OPH-C25-011",
+   "sec": "Visual field changes — isopteric",
+   "page": 104,
+   "fmt": "recall",
+   "q": "Earliest VF change in POAG per p104:",
+   "opts": [
+    "Isopteric contraction entire VF contraction Note Isopter → 2D plot 3D visual field earliest change",
+    "Paracentral scotoma earliest clinically significant VFD central 10° intact earliest change",
+    "Nasal step defects earliest due to unequal loss upper lower hemisphere peripheral type",
+    "Temporal island loss earliest most resistant last part to be affected earliest change"
+   ],
+   "ans": 0,
+   "exp": "3 Visual field VF changes Irreversible a Earliest VF change Isopteric contraction Entire VF contraction Note Isopter → 2 Dimensional plot 3D visual field. (Book p104)"
+  },
+  {
+   "id": "OPH-C25-012",
+   "sec": "Visual field — baring and paracentral",
+   "page": 104,
+   "fmt": "match",
+   "q": "Match VF changes per p104 — 1) Baring of blind spot 2) Paracentral scotoma 3) Seidel's scotoma … A) b Baring B) Earliest clinically significant VFD Central 10° intact C) Sickle shaped/comma shaped Fusion paracentral with blind spot",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "b Baring of blind spot c Paracentral scotoma Earliest clinically significant VFD Central 10° VF intact d Seidel's scotoma Sickle shaped/comma shaped Fusion paracentral scotoma with blind spot. (Book p104)"
+  },
+  {
+   "id": "OPH-C25-013",
+   "sec": "Arcuate scotoma",
+   "page": 104,
+   "fmt": "recall",
+   "q": "Arcuate/Bjerrum scotoma per p104 is:",
+   "opts": [
+    "Altitudinal visual field defect respects horizontal midline fovea spared inferior arcuate fibres destroyed",
+    "Central scotoma only involving papillomacular bundle with no respect to horizontal midline",
+    "Nasal step defects only due to unequal loss upper lower hemisphere peripheral and central",
+    "Temporal island only loss most resistant part VF last to be affected altitudinal not"
+   ],
+   "ans": 0,
+   "exp": "e Arcuate/Bjerrum scotoma Altitudinal visual field defect Respects horizontal midline Fovea spared Inferior arcuate fibres destroyed f Double Arcuate scotoma/Ring scotoma Arcuate fibres First to be affected OAG Damage contained Bjerrum's area Area VF containing arcuate fibres. (Book p104)"
+  },
+  {
+   "id": "OPH-C25-014",
+   "sec": "Arcuate fibres note",
+   "page": 104,
+   "fmt": "fillup",
+   "q": "Fill up: Arcuate fibres are first to be affected in OAG, damage contained in ___ area Area of VF containing arcuate fibres.",
+   "opts": [
+    "Bjerrum's",
+    "Macular",
+    "Papillary",
+    "Foveal"
+   ],
+   "ans": 0,
+   "exp": "Arcuate fibres First to be affected OAG Damage contained Bjerrum's area Area VF containing arcuate fibres. (Book p104)"
+  },
+  {
+   "id": "OPH-C25-015",
+   "sec": "Nasal step and temporal island",
+   "page": 105,
+   "fmt": "match",
+   "q": "Match VF defects per p105 — 1) Nasal step defects 2) Temporal island of vision … A) Occur d/t unequal loss nerve fibres/VF upper & lower hemisphere 2 types Peripheral Central Roenne's B) Most resistant part VF Last part to be affected",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "c Nasal step defects Occur d/t unequal loss nerve fibres/VF upper & lower hemisphere 2 types Peripheral Central Roenne's d vertical septal defects e Loss Central field f Loss Temporal island vision Temporal island most resistant part VF Last part to be affected. (Book p105)"
+  },
+  {
+   "id": "OPH-C25-016",
+   "sec": "Nerve fibres arrangement",
+   "page": 105,
+   "fmt": "recall",
+   "q": "Papillo macular bundle PMB and arcuate fibres arrangement per p105: When damage arcuate fibres occurs → PMB spread → Arc shaped defect VF, Superior radial fibres Inferior radial fibres, m macula OD optic disc.",
+   "opts": [
+    "Nerve fibres arranged fundus Superior radial Inferior radial PMB Superior arcuate Inferior arcuate When damage arcuate PMB spread Arc shaped defect m macula OD optic disc",
+    "Only PMB affected in glaucoma arcuate fibres spared no arc shaped defect occurs in fundus",
+    "Only radial fibres affected in glaucoma PMB and arcuate fibres not involved in field defect",
+    "Only macula affected in glaucoma optic disc and arcuate fibres remain normal throughout"
+   ],
+   "ans": 0,
+   "exp": "Papillo macular bundle PMB Superior radial fibres Inferior radial fibres OD Superior arcuate fibres Inferior arcuate fibres Nerve fibres arranged fundus When damage arcuate fibres occurs PMB spread Arc shaped defect VF m macula OD optic disc. (Book p105)"
+  },
+  {
+   "id": "OPH-C25-017",
+   "sec": "Medical Mx prostaglandin analogues",
+   "page": 105,
+   "fmt": "match",
+   "q": "Match prostaglandin F2α analogues per p105 — Drugs, MOA, side effects — 1) Drugs choice 2) MOA 3) Side effects … A) Latanoprost Bimatoprost Travoprost Tafluprost OD Good compliance B) ↑ uveoscleral outflow C) Hyperpigmentation iris Hypertrichosis ↑ growth eyelashes Bimatoprost FDA approved hypotrichosis Uveitis Cystoid macular edema Reactivation Herpes Keratitis Take h/o previous corneal/herpetic Iris cysts",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "a Prostaglandin Fαα PGFαα analogues Drugs choice Latanoprost Bimatoprost Travoprost Tafluprost OD Good compliance MOA ↑ uveoscleral outflow Side effects Hyperpigmentation iris Hypertrichosis ↑ growth eyelashes Bimatoprost FDA approved hypotrichosis Uveitis Cystoid macular edema Reactivation Herpes Keratitis Take h/o previous corneal/herpetic infections Iris cysts. (Book p105)"
+  },
+  {
+   "id": "OPH-C25-018",
+   "sec": "Beta blockers",
+   "page": 105,
+   "fmt": "match",
+   "q": "Match beta blockers per p105 — 1) Drugs 2) MOA 3) Side effects … A) Timolol Non selective β blocker Betaxolol Selective β blocker BD B) β receptor blocking ↓ Aqueous production C) Blepharoconjunctivitis inflammation conjunctiva eyelid margin NLD blockage Corneal anesthesia continuous use Especially Timolol Aphakic cystoid macular edema Specific Betaxolol",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "b β blockers Timolol Non selective β blocker Betaxolol Selective β blocker BD MOA β receptor blocking ↓ Aqueous production Side Blepharoconjunctivitis NLD blockage Corneal anesthesia continuous use Especially Timolol Aphakic cystoid macular edema Specific Betaxolol. (Book p105)"
+  },
+  {
+   "id": "OPH-C25-019",
+   "sec": "CAIs",
+   "page": 106,
+   "fmt": "match",
+   "q": "Match CAIs per p106 — 1) Drugs 2) MOA 3) Side … A) Acetazolamide Only orally Brinzolamide Dorzolamide Rx childhood glaucoma B) Inhibit CA II isoform sphincter pupillae & ciliary muscle ↓ Aqueous production C) Can cause hypersensitivity patients sulfa allergy",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "c Carbonic Anhydrase Inhibitors CAIs Acetazolamide Only available orally Brinzolamide Dorzolamide Rx childhood glaucoma MOA Inhibit CA II isoform sphincter pupillae & ciliary muscle ↓ Aqueous production Side Can cause hypersensitivity patients sulfa allergy. (Book p106)"
+  },
+  {
+   "id": "OPH-C25-020",
+   "sec": "Rho kinase inhibitors",
+   "page": 106,
+   "fmt": "match",
+   "q": "Match Netarsudil per p106 — 1) Dose 2) Dual action 3) Side effects … A) 0.02% OD B) ↓ Aqueous production ↑ Trabecular outflow by Promoting actin-myosin contraction ↓ Episcleral venous pressure C) Congestion/hyperemia Corneal verticillata Spindle shaped deposits Subconjunctival haemorrhage",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "d Rho Kinase Inhibitors Netarsudil Dose 0.02% OD Dual action drug 1 ↓ Aqueous production 2 ↑ Trabecular outflow by Promoting actin-myosin contraction ↓ Episcleral venous pressure Side Congestion/hyperemia Corneal verticillata Spindle shaped deposits Subconjunctival haemorrhage. (Book p106)"
+  },
+  {
+   "id": "OPH-C25-021",
+   "sec": "Alpha agonists apraclonidine",
+   "page": 106,
+   "fmt": "match",
+   "q": "Match Apraclonidine per p106 — 1) Preference 2) MOA 3) Side effects … A) more preferred agent glaucoma DOC post laser rise IOP B) ↓ Aqueous production + ↑ Trabecular outflow C) Eyelid retraction mydriasis D/t α2 > α1 agonism Follicular conjunctivitis",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "i Apraclonidine more preferred agent glaucoma DOC for post laser rise in IOP MOA ↓ Aqueous production + ↑ Trabecular outflow Side Eyelid retraction mydriasis D/t α2 > α1 agonism Follicular conjunctivitis. (Book p106)"
+  },
+  {
+   "id": "OPH-C25-022",
+   "sec": "Brimonidine",
+   "page": 106,
+   "fmt": "match",
+   "q": "Match Brimonidine per p106 — 1) Line 2) MOA 3) Side effects C/I children … A) 2nd line agent glaucoma B) ↓ Aqueous production + ↑ uveoscleral outflow C) CNS suppression D/t BBB crossing Drowsiness Depression Apnea Bradycardia C/I in children",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "ii Brimonidine 2nd line agent glaucoma MOA ↓ Aqueous production + ↑ uveoscleral outflow Side CNS suppression D/t BBB crossing Drowsiness Depression Apnea Bradycardia C/I in children iii Dipivefrin Not used Black conjunctival pigmentation. (Book p106)"
+  },
+  {
+   "id": "OPH-C25-023",
+   "sec": "Dipivefrin and NO donating analog",
+   "page": 106,
+   "fmt": "truefalse",
+   "q": "Which statement is TRUE per p106 bottom?",
+   "opts": [
+    "Dipivefrin not used Black conjunctival pigmentation; Latanoprostene bunod prodrug breaks Latanoprost ↑ uveoscleral Butadeniol unstable → 1,4 butadeniol + Nitric oxide → Relaxes Tm ↑ trabecular outflow",
+    "Dipivefrin is drug of choice for POAG with no pigmentation side effect and good compliance",
+    "Latanoprostene bunod only increases aqueous production with no effect on uveoscleral or trabecular",
+    "Nitric oxide constricts trabecular meshwork decreasing outflow and increasing IOP significantly"
+   ],
+   "ans": 0,
+   "exp": "Dipivefrin Not used Black conjunctival pigmentation f Nitric oxide donating prostaglandin analog Latanoprostene bunod Prodrug On administration breaks down Latanoprost ↑ uveoscleral outflow Butadeniol Unstable On breakdown 1,4 butadeniol Nitric oxide → Relaxes trabecular meshwork ↑ Trabecular outflow. (Book p106)"
+  },
+  {
+   "id": "OPH-C25-024",
+   "sec": "Note pilocarpine and mannitol",
+   "page": 107,
+   "fmt": "recall",
+   "q": "Note per p107: Pilocarpine → Constricts pupil → Not useful in POAG, mannitol → Emergency drug → Not useful for chronic symptoms.",
+   "opts": [
+    "Pilocarpine constricts pupil not useful POAG mannitol emergency drug not useful chronic symptoms",
+    "Pilocarpine is drug of choice in POAG constricts pupil and increases trabecular outflow",
+    "Mannitol is useful for chronic POAG management as first line topical therapy lifelong",
+    "Both pilocarpine and mannitol are first line useful in POAG chronic management"
+   ],
+   "ans": 0,
+   "exp": "Note Pilocarpine → Constricts pupil → Not useful in POAG mannitol → Emergency drug → Not useful for chronic symptoms. (Book p107)"
+  },
+  {
+   "id": "OPH-C25-025",
+   "sec": "Surgical Mx closed laser trabeculoplasty",
+   "page": 107,
+   "fmt": "match",
+   "q": "Match laser trabeculoplasty LT per p107 — 1) Argon LT wavelength 2) SLT wavelength 3) Mechanism 4) Remarks … A) 512 nm B) 532 nm Frequency doubled Nd-YAG laser C) Photocoagulation unaffected area Area photocoagulation laser Remaining portion expands Opening trabecular meshwork Contraction coagulated fibrosed part D) TOC prophylaxis OAG in other eye OAG bilateral",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Laser trabeculoplasty LT Wavelength Argon LT 512 nm SLT Selective LT 532 nm Frequency doubled Nd-YAG laser Mechanism Photocoagulation unaffected area Area photocoagulation by laser Remaining portion expands Opening trabecular meshwork Contraction coagulated fibrosed part Remarks TOC for prophylaxis OAG in other eye OAG is bilateral When medical Rx fails CLOSED SURGERY. (Book p107)"
+  },
+  {
+   "id": "OPH-C25-026",
+   "sec": "Open surgery",
+   "page": 107,
+   "fmt": "match",
+   "q": "Match open surgery per p107 — 1) Penetrating Trabeculectomy 2) Non-penetrating … A) Creating fistula b/w AC and subtenon space → Aqueous drainage B) Deep sclerectomy Viscocanalostomy",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "OPEN SURGERY If not controlled by closed Sx Penetrating surgery Trabeculectomy Creating fistula b/w AC and subtenon space → Aqueous drainage Non-penetrating Sx Deep sclerectomy Viscocanalostomy. (Book p107)"
+  },
+  {
+   "id": "OPH-C25-027",
+   "sec": "Surgery with implants Seton",
+   "page": 108,
+   "fmt": "match",
+   "q": "Match Seton Sx Bypass per p108 — 1) Purpose 2) Tube 3) Plate … A) Implant glaucoma drainage device Done resistant glaucoma B) Inserted into AC Sub-tenon or subconjunctivally → Enables outflow C) Positioned sub-tenon space → Collects fluid",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "SURGERY WITH IMPLANTS Done resistant glaucoma Seton Sx Bypass Implant glaucoma drainage device Parts 1 Tube → Inserted into AC Sub-tenon or subconjunctivally → Enables outflow 2 Plate → Positioned sub-tenon space → Collects fluid. (Book p108)"
+  },
+  {
+   "id": "OPH-C25-028",
+   "sec": "Drainage devices non-valved vs valved",
+   "page": 108,
+   "fmt": "match",
+   "q": "Match drainage device types per p108 — 1) Non-valved Continuous outflow 2) Valved Stops outflow when required … A) Express mini shunt made stainless steel Baerveldt device Molteno device Plate Tube B) Ahmed Glaucoma Valve AGV",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Types drainage device Non-valved Continuous outflow Express mini shunt made stainless steel Baerveldt device Molteno device Plate Tube Valved Stops outflow when required Ahmed Glaucoma Valve AGV. (Book p108)"
+  },
+  {
+   "id": "OPH-C25-029",
+   "sec": "MIGS",
+   "page": 108,
+   "fmt": "recall",
+   "q": "MIGS Minimally Invasive Glaucoma Sx per p108:",
+   "opts": [
+    "Stents through Tm enables outflow advantages small incision ↓ post-op infection Eg endophthalmitis MIGS",
+    "Large incision required for MIGS with extensive conjunctival dissection and suturing",
+    "↑ Chance of post-op infection with MIGS due to large implants and prolonged surgery",
+    "Only penetrating surgery considered MIGS always requires trabeculectomy fistula creation"
+   ],
+   "ans": 0,
+   "exp": "MIGS Minimally Invasive Glaucoma Sx Stents through Tm → Enables outflow Advantages Small incision ↓ Chance post operation infection Eg Endophthalmitis. (Book p108)"
+  },
+  {
+   "id": "OPH-C25-030",
+   "sec": "MIGS types",
+   "page": 108,
+   "fmt": "match",
+   "q": "Match MIGS procedure per p108 table — 1) iStent micro Bypass 2) CyPass micro-stent 3) XEN gel stent … A) Canal based Schlemm's canal Heparin-coated non-ferromagnetic titanium stent - B) Suprachoroidal Polyamide tube Elevated episcleral venous pressure C) Subconjunctival Gelatin Refractory glaucoma failed Sx treatments medically unresponsive POAG",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Types Procedure Site Insertion material Indication iStent micro Bypass Canal based Schlemm's canal Heparin-coated non-ferromagnetic titanium stent - CyPass micro-stent Suprachoroidal Polyamide tube Elevated episcleral venous pressure XEN gel stent Subconjunctival Gelatin Refractory glaucoma failed Sx treatments medically unresponsive POAG. (Book p108)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U25-1",
+   "ch": 25,
+   "n": 1,
+   "title": "Types of glaucoma and POAG overview",
+   "sec": "Glaucoma · p102",
+   "guide": "Types Acquired adults Primary POAG PACG Secondary PXFG Pigmentary ICE malignant Lens induced Congenital children Primary birth malformations Secondary other congenital AKA developmental; POAG Chronic Simple Glaucoma OVERVIEW Chronic Symptoms minimal Signs detectable m/c age >50 hereditary Contributory genes Optineurin WDR-36 MYOC myocilin also cystic fibrosis Mechanism Blockage Tm obstruction outflow Symptoms Headache Difficulty delay dark adaptation Frequent changes presbyopic glasses Non diagnostic Note Frequent change glasses seen cataract d/t refractory index lens.",
+   "qs": [
+    "OPH-C25-001",
+    "OPH-C25-002",
+    "OPH-C25-003",
+    "OPH-C25-004"
+   ]
+  },
+  {
+   "id": "OPH-U25-2",
+   "ch": 25,
+   "n": 2,
+   "title": "Signs — IOP, NTG, optic disc",
+   "sec": "Glaucoma · p103",
+   "guide": "1 IOP >21 Normal 11-21 or >5 difference both eyes or >8 diurnal variation Normal Tension Glaucoma NTG If OD changes + VF changes + Normal IOP a/w Raynaud migraine ↓ blood flow ophthalmic artery 2 OD changes Normal OD Temporal Nasal Normal c/d 0.3 vertical cupping >0.5 Loss NRR Neuroretinal rim Glaucomatous optic atrophy Nasalization blood vessels within cup Bayonetting Double angulation Loss NRR Inferotemporal earliest → Polar Notching Laminar dot sign Fenestrations sclera Lamina cribrosa visible Dotted base OC Peri-papillary atrophy temporal side Splinter hemorrhages OD β zone Temporal myopic crescent Not specific confounding α zone Specific OAG Peripapillary atrophy T N.",
+   "qs": [
+    "OPH-C25-005",
+    "OPH-C25-006",
+    "OPH-C25-007",
+    "OPH-C25-008",
+    "OPH-C25-009",
+    "OPH-C25-010"
+   ]
+  },
+  {
+   "id": "OPH-U25-3",
+   "ch": 25,
+   "n": 3,
+   "title": "Visual field changes",
+   "sec": "Glaucoma · p104",
+   "guide": "3 Visual field VF changes Irreversible a Earliest Isopteric contraction Entire VF Original VF Isopteric contraction Note Isopter 2D plot 3D VF Superior Inferior Nasal Temporal Fovea Blind spot Temporal maximum b Baring blind spot c Paracentral scotoma Earliest clinically significant VFD Central 10° intact Blind spot Fovea d Seidel scotoma Sickle comma Fusion paracentral with blind spot e Arcuate/Bjerrum Altitudinal respects horizontal midline Fovea spared Inferior arcuate destroyed f Double Arcuate/Ring scotoma Arcuate fibres First affected OAG Damage contained Bjerrum area Area VF containing arcuate fibres.",
+   "qs": [
+    "OPH-C25-011",
+    "OPH-C25-012",
+    "OPH-C25-013",
+    "OPH-C25-014"
+   ]
+  },
+  {
+   "id": "OPH-U25-4",
+   "ch": 25,
+   "n": 4,
+   "title": "Nasal step, nerve fibre arrangement, medical Mx prostaglandin and beta blockers",
+   "sec": "Glaucoma · p105",
+   "guide": "c Nasal step defects unequal loss nerve fibres VF upper lower hemisphere 2 types Peripheral Central Roenne's d vertical septal defects e Loss Central field f Loss Temporal island most resistant Last affected Papillo macular bundle PMB Superior radial Inferior radial OD m macula OD optic disc Nerve fibres fundus When damage arcuate PMB spread Arc shaped defect Medical Mx Topical Eye Drops Lifelong Rx a Prostaglandin F2α PGFαα analogues Drugs choice Latanoprost Bimatoprost Travoprost Tafluprost OD Good compliance MOA ↑ uveoscleral outflow Side Hyperpigmentation iris Hypertrichosis growth eyelashes Bimatoprost FDA approved hypotrichosis Uveitis Cystoid macular edema Reactivation Herpes Keratitis h/o previous corneal herpetic Iris cysts b β blockers Timolol Non selective Betaxolol Selective BD MOA β receptor blocking ↓ Aqueous production Side Blepharoconjunctivitis NLD blockage Corneal anesthesia continuous use Especially Timolol Aphakic cystoid macular edema Specific Betaxolol.",
+   "qs": [
+    "OPH-C25-015",
+    "OPH-C25-016",
+    "OPH-C25-017",
+    "OPH-C25-018"
+   ]
+  },
+  {
+   "id": "OPH-U25-5",
+   "ch": 25,
+   "n": 5,
+   "title": "Medical Mx CAIs, Rho kinase, alpha agonists, NO donating analog",
+   "sec": "Glaucoma · p106",
+   "guide": "c CAIs Acetazolamide Only orally Brinzolamide Dorzolamide Rx childhood glaucoma MOA Inhibit CA II isoform sphincter pupillae ciliary muscle ↓ Aqueous production Side hypersensitivity sulfa allergy d Rho Kinase Inhibitors Netarsudil Dose 0.02% OD Dual action ↓ Aqueous production ↑ Trabecular outflow Promoting actin-myosin contraction ↓ Episcleral venous pressure Side Congestion hyperemia Corneal verticillata Spindle shaped deposits Subconjunctival haemorrhage e α-agonists i Apraclonidine more preferred glaucoma DOC post laser rise IOP MOA ↓ Aqueous production + ↑ Trabecular outflow Side Eyelid retraction mydriasis α2>α1 agonism Follicular conjunctivitis ii Brimonidine 2nd line MOA ↓ Aqueous + ↑ uveoscleral outflow Side CNS suppression BBB crossing Drowsiness Depression Apnea Bradycardia C/I children iii Dipivefrin Not used Black conjunctival pigmentation f Nitric oxide donating prostaglandin analog Latanoprostene bunod Prodrug breaks Latanoprost ↑ uveoscleral Butadeniol Unstable breakdown 1,4 butadeniol + Nitric oxide → Relaxes trabecular meshwork ↑ Trabecular outflow.",
+   "qs": [
+    "OPH-C25-019",
+    "OPH-C25-020",
+    "OPH-C25-021",
+    "OPH-C25-022",
+    "OPH-C25-023"
+   ]
+  },
+  {
+   "id": "OPH-U25-6",
+   "ch": 25,
+   "n": 6,
+   "title": "Surgical management — laser, open, implants, MIGS",
+   "sec": "Glaucoma · p107-108",
+   "guide": "Note Pilocarpine Constricts pupil Not useful POAG mannitol Emergency drug Not useful chronic Surgical Mx POAG When medical Rx fails CLOSED SURGERY Laser trabeculoplasty LT Wavelength Argon LT 512 nm SLT Selective 532 nm Frequency doubled Nd-YAG Mechanism Photocoagulation unaffected area Area photocoagulation laser Remaining portion expands Opening trabecular meshwork Contraction coagulated fibrosed part Remarks TOC prophylaxis OAG other eye OAG bilateral OPEN SURGERY If not controlled closed Penetrating Trabeculectomy Creating fistula AC subtenon space Aqueous drainage Non-penetrating Deep sclerectomy Viscocanalostomy SURGERY WITH IMPLANTS Resistant glaucoma Seton Sx Bypass Implant glaucoma drainage device Parts Tube Inserted AC Sub-tenon subconjunctivally Enables outflow Plate Positioned sub-tenon Collects fluid Types Non-valved Continuous outflow Express mini shunt stainless steel Baerveldt Molteno Plate Tube Valved Stops outflow when required Ahmed Glaucoma Valve AGV MIGS Minimally Invasive Glaucoma Sx Stents through Tm Enables outflow Advantages Small incision ↓ Chance post operation infection Eg Endophthalmitis Types iStent micro Bypass Canal based Schlemm canal Heparin-coated non-ferromagnetic titanium stent - CyPass micro-stent Suprachoroidal Polyamide tube Elevated episcleral venous pressure XEN gel stent Subconjunctival Gelatin Refractory glaucoma failed Sx medically unresponsive POAG.",
+   "qs": [
+    "OPH-C25-024",
+    "OPH-C25-025",
+    "OPH-C25-026",
+    "OPH-C25-027",
+    "OPH-C25-028",
+    "OPH-C25-029",
+    "OPH-C25-030"
+   ]
+  }
+ ]
+}

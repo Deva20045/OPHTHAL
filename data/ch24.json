@@ -1,0 +1,549 @@
+{
+ "chapter": 24,
+ "title": "Investigations for Glaucoma",
+ "pageRange": "94-101",
+ "questions": [
+  {
+   "id": "OPH-C24-001",
+   "sec": "Normal IOP and corneal thickness",
+   "page": 94,
+   "fmt": "numeric",
+   "q": "Normal IOP per the book and diurnal variation maximum:",
+   "opts": [
+    "11-21 mmHg, maximum 8am-12pm mean 10pm",
+    "5-10 mmHg, maximum 10pm",
+    "21-30 mmHg, maximum midnight",
+    "0-10 mmHg, maximum 4pm"
+   ],
+   "ans": 0,
+   "exp": "Normal pressure = 11-21 mmHg Diurnal variation maximum 8am-12pm mean 10pm. (Book p94)"
+  },
+  {
+   "id": "OPH-C24-002",
+   "sec": "Normal IOP and corneal thickness",
+   "page": 94,
+   "fmt": "match",
+   "q": "Match corneal thickness effect on IOP measurement per p94 — 1) Thin cornea 2) Thick cornea … A) False low IOP Post refractive Sx cases B) False high IOP C) No effect",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-C, 2-A",
+    "1-A, 2-C"
+   ],
+   "ans": 0,
+   "exp": "Thin cornea False low IOP Post refractive Sx cases Thick cornea False high IOP. (Book p94)"
+  },
+  {
+   "id": "OPH-C24-003",
+   "sec": "Digital tonometry",
+   "page": 94,
+   "fmt": "recall",
+   "q": "Digital tonometry per the book:",
+   "opts": [
+    "By palpation downgaze on sclera, choice keratoprosthesis, Soft low Firm normal Hard high per book",
+    "Gold standard with slit lamp mounted area 3.06 mm2, uses fluorescein and cobalt blue light",
+    "Uses air puff pulsair screening OPD camps quick no contact sterilization not required",
+    "Measures through eyelid preferred corneal pathology Diaton Proview transpalpebral"
+   ],
+   "ans": 0,
+   "exp": "Digital Tonometry By palpation Performed in downgaze palpation on sclera Tonometry of choice in keratoprosthesis patients Findings Soft Low Firm Normal Hard High. (Book p94)"
+  },
+  {
+   "id": "OPH-C24-004",
+   "sec": "Indentation tonometry — Schiotz",
+   "page": 94,
+   "fmt": "match",
+   "q": "Match Schiotz tonometer part with function per p94 diagram — 1) Needle 2) Weights 3) Plunger 4) Footplate … A) Flickers and provides reading B) To apply force 5.5g 10g 7.5g 15g C) Displaces aqueous D) Contact with cornea",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Schiotz tonometer Hand held Patient supine Footplate Contact cornea Pressure applied Displaces aqueous measures IOP Needle flickers provides reading Weights 5.5g 10g 7.5g 15g Plunger Footplate. (Book p94)"
+  },
+  {
+   "id": "OPH-C24-005",
+   "sec": "Indentation tonometry — principle",
+   "page": 94,
+   "fmt": "fillup",
+   "q": "Fill up: Indentation tonometry principle is displacement of ___ used to calculate IOP.",
+   "opts": [
+    "fluid",
+    "air",
+    "blood",
+    "lens"
+   ],
+   "ans": 0,
+   "exp": "Principle of displacement of fluid used to calculate IOP. (Book p94)"
+  },
+  {
+   "id": "OPH-C24-006",
+   "sec": "Friedenwald normogram and drawbacks",
+   "page": 95,
+   "fmt": "match",
+   "q": "Match Friedenwald's Normogram parameters per p95 — 1) Ocular rigidity 2) Weight used 3) Needle reading … A) Chart to determine IOP parameters B) All three are parameters C) Only rigidity",
+   "opts": [
+    "1-B, 2-B, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Friedenwald's Normogram chart to determine IOP parameters Ocular rigidity Weight used Needle reading Drawbacks ↑Interobserver intraobserver variability ↑chances inaccurate measurement WHO recommended against use. (Book p95)"
+  },
+  {
+   "id": "OPH-C24-007",
+   "sec": "Rebound tonometry",
+   "page": 95,
+   "fmt": "recall",
+   "q": "Rebound tonometry per the book is instrument of choice for:",
+   "opts": [
+    "Self-monitoring IOP at home long term glaucoma patient plunger presses on eyes rebound",
+    "Screening in OPD camps only quick method no contact sterilization not required cross infection",
+    "Gold standard slit lamp mounted area 3.06 mm2 biprism touches cornea with fluorescein",
+    "Continuous IOP measurement choice pneumatic tonometry with probe on cornea"
+   ],
+   "ans": 0,
+   "exp": "Rebound Tonometry Instrument of choice for self-monitoring of IOP at home eg long term glaucoma patient Plunger presses on eyes. (Book p95)"
+  },
+  {
+   "id": "OPH-C24-008",
+   "sec": "Applanation tonometry principle",
+   "page": 95,
+   "fmt": "fillup",
+   "q": "Fill up: Applanation tonometry principle Imbert Fick law P=F/A where P is pressure in contained sphere (eyeball), F is force applied, A is area applanated/pressed.",
+   "opts": [
+    "P=F/A",
+    "F=P/A",
+    "A=P/F",
+    "P=F+A"
+   ],
+   "ans": 0,
+   "exp": "Principle Imbert Fick law P=F/A P Pressure in contained sphere eyeball F Force applied A Area applanated/pressed. (Book p95)"
+  },
+  {
+   "id": "OPH-C24-009",
+   "sec": "Applanation types",
+   "page": 95,
+   "fmt": "match",
+   "q": "Match applanation types per p95 — 1) Fixed Force not preferred 2) Fixed area … A) Maklakov Barraquer Tonomat B) Goldmann's AT Perkins AT Mackay marg Tonopen Pneumatic Pascal",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Fixed Force not preferred Maklakov Barraquer Tonomat Fixed area Goldmann's Perkins Mackay marg Tonopen Pneumatic Pascal. (Book p95)"
+  },
+  {
+   "id": "OPH-C24-010",
+   "sec": "Goldmann's AT",
+   "page": 95,
+   "fmt": "recall",
+   "q": "Goldmann's applanation tonometer per the book:",
+   "opts": [
+    "Gold standard slit lamp mounted area 3.06 mm2 body knob force neck slender biprism touches cornea",
+    "Hand held supine only footplate contact cornea displaces aqueous needle flickers Schiotz",
+    "Uses air puff compresses cornea measures IOP screening OPD camps no sterilization",
+    "Measures through eyelid preferred corneal pathology Diaton Proview not commonly used"
+   ],
+   "ans": 0,
+   "exp": "Goldmann's AT Gold standard tonometer Slit lamp mounted instrument Area 3.06 mm2 Parts Body contains knob Neck long slender Conical tip Biprism touches cornea. (Book p95)"
+  },
+  {
+   "id": "OPH-C24-011",
+   "sec": "Goldmann's AT procedure",
+   "page": 96,
+   "fmt": "match",
+   "q": "Match Goldmann procedure steps per p96 — 1) Step1 Topical anesthesia 2) Step2 Stain cornea 3) Step3 Illuminate cobalt blue 4) Step4 Tip advanced … A) Abolish corneal reflex proparacaine lower lid retracted 1 drop inferior fornix B) Fluorescein sodium orange strip lower palpebral conjunctiva lower fornix blink 4-5 times dye spread C) Green fluorescence produced D) Biprism splits into 2 mires adjust force inner margin both AT rings/mires touch",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Procedure Step1 Topical anesthesia Abolish corneal reflex Drug Proparacaine Lower lid retracted 1 drop inferior fornix Step2 Stain cornea fluorescein sodium ophthalmic strip orange strip Lower palpebral conjunctiva lower fornix Blink 4-5 times dye spread Step3 Illuminate cobalt blue green fluorescence Step4 Tip advanced Biprism splits light into 2 mires Hemispheres Adjust force Inner margin both AT rings/mires touch. (Book p96)"
+  },
+  {
+   "id": "OPH-C24-012",
+   "sec": "Perkins and Mackay-marg AT",
+   "page": 96,
+   "fmt": "match",
+   "q": "Match tonometer with preferred situation per p96 — 1) Perkins AT 2) Mackay-marg AT 3) Pneumatic AT 4) Pascal DCT … A) Children Bed ridden Anaesthetized B) Irregular edematous scarred corneas C) Continuous IOP measurement D) Influenced corneal curvature not thickness IOC post LASIK",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Perkins AT Preferred choice Children Bed ridden Anaesthetized patients Mackay-marg AT Preferred irregular edematous scarred corneas Pneumatic AT Choice continuous IOP Pascal AT dynamic contour tonometry DCT Influenced changes corneal curvature Not influenced thickness Investigation choice following refractive surgeries like LASIK. (Book p96)"
+  },
+  {
+   "id": "OPH-C24-013",
+   "sec": "Non-contact tonometry",
+   "page": 96,
+   "fmt": "recall",
+   "q": "Non-contact tonometry AKA pulsair/airpuff per the book is preferred for screening IOP in OPD camps because:",
+   "opts": [
+    "Quick method no contact sterilization not required cross infection risk puff air compresses cornea measures IOP screening OPD camps",
+    "Gold standard slit lamp mounted area 3.06 mm2 biprism touches cornea with fluorescein staining",
+    "Measures through eyelid preferred corneal pathology Diaton Proview transpalpebral tonometry",
+    "Hand held supine footplate contact cornea displaces aqueous measures IOP needle flickers"
+   ],
+   "ans": 0,
+   "exp": "Non contact tonometry AKA pulsair/airpuff tonometry Preferred choice screening IOP OPD camps Quick method No contact eye → sterilization not required cross infection risk Method Puff air exerted compresses cornea measures IOP. (Book p96)"
+  },
+  {
+   "id": "OPH-C24-014",
+   "sec": "Transpalpebral tonometry",
+   "page": 96,
+   "fmt": "fillup",
+   "q": "Fill up: Transpalpebral tonometry measuring IOP through eyelid, preferred in corneal pathology, instruments Diaton Tonometer and ___ Tonometer.",
+   "opts": [
+    "Proview",
+    "Goldmann",
+    "Schiotz",
+    "Pneumatic"
+   ],
+   "ans": 0,
+   "exp": "Transpalpebral tonometry Not commonly used Measuring IOP through eyelid Preferred corneal pathology Instrument Diaton Tonometer Proview Tonometer. (Book p96)"
+  },
+  {
+   "id": "OPH-C24-015",
+   "sec": "Visual field examination perimetry",
+   "page": 97,
+   "fmt": "match",
+   "q": "Match perimetry per p97 — 1) Kinetic 2) Static Supra Threshold 3) Static Threshold … A) Target moves monocular Goldmann Bjerrum tangent B) Used screening C) Used monitoring glaucoma Humphrey HFA m/c Octopus",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "KINETIC PERIMETRY Target moves monocular Goldmann Bjerrum tangent STATIC Target stationary Supra Threshold used screening Threshold used monitoring glaucoma Humphrey HFA m/c Octopus Perimeter. (Book p97)"
+  },
+  {
+   "id": "OPH-C24-016",
+   "sec": "Humphrey Field Analyzer",
+   "page": 97,
+   "fmt": "scenario",
+   "q": "HFA apparatus per p97 shows patient chin rest, curved screen white LEDs different points white background, patient clicks remote when LED visible, findings analyzed, sparse dots VF maybe defective ↑ density better vision, GHT Glaucoma Hemifield Test. This describes:",
+   "opts": [
+    "Humphrey Field Analyzer threshold perimetry m/c used",
+    "Goldmann kinetic perimetry",
+    "Schiotz tonometry",
+    "Gonioscopy"
+   ],
+   "ans": 0,
+   "exp": "Humphrey Field Analyzer HFA Patient chin rest Curved screen white LEDs different points white background Patient clicks remote when LED visible Findings analyzed VF Blind spot Sparse dots VF area maybe defective ↑ Density dots → better vision GHT Glaucoma Hemifield Test. (Book p97)"
+  },
+  {
+   "id": "OPH-C24-017",
+   "sec": "Testing patterns",
+   "page": 98,
+   "fmt": "match",
+   "q": "Match testing pattern per p98 — 1) 24-2 2) 30-2 3) 10-2 4) Full field 120 point … A) Central 24° VF 2 points separated 6° B) Central 30° 2 points 6° C) Central 10° VF tested D) Central & peripheral examined Eg Bitemporal hemianopia requires temporal most peripheral and central",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Testing patterns 24-2 Central 24° VF 2 points separated 6° 30-2 Central 30° 2 points 6° 10-2 Central 10° VF tested Full field 120 point testing Central & peripheral VF examined Eg Bitemporal hemianopia requires temporal most peripheral and central VF. (Book p98)"
+  },
+  {
+   "id": "OPH-C24-018",
+   "sec": "Other testing strategies",
+   "page": 98,
+   "fmt": "match",
+   "q": "Match strategy with stimuli/pathway per p98 — 1) SITA 2) SWAP 3) FDT 4) Ring perimetry … A) Swedish Interactive Threshold Algorithm B) Blue on yellow koniocellular C) Black white flickering magnocellular D) Peripheral vision parvocellular",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Other Testing Strategies SITA Swedish Interactive Threshold Algorithm SWAP Blue on yellow stimuli koniocellular pathway FDT Black white flickering stimuli magnocellular pathway Ring perimetry Tests peripheral vision parvocellular pathway. (Book p98)"
+  },
+  {
+   "id": "OPH-C24-019",
+   "sec": "Normal visual field",
+   "page": 98,
+   "fmt": "numeric",
+   "q": "Normal visual field shape and extent per p98:",
+   "opts": [
+    "Horizontally oval inferonasal notch Superior min 55° restriction frontal bone Temporal max 100° per book",
+    "Vertically oval 90° all around superior inferior temporal nasal equal extent",
+    "Circular 180° field with no notch superior 90° temporal 90° nasal restriction",
+    "Horizontally oval 50° all around superior temporal nasal inferior equal minimal variation"
+   ],
+   "ans": 0,
+   "exp": "NORMAL VISUAL FIELD Shape Horizontally oval with inferonasal notch Superior Minimum 55° d/t restriction frontal bone Temporal maximum 100° Nasal Nose Fovea Blind Spot. (Book p98)"
+  },
+  {
+   "id": "OPH-C24-020",
+   "sec": "Optic disc examination",
+   "page": 98,
+   "fmt": "recall",
+   "q": "Optic disc examination via slit lamp biomicroscopy uses hand held external lens power:",
+   "opts": [
+    "+90D convex lens m/c and +78D convex lens used for slit lamp biomicroscopy optic disc examination",
+    "+20D convex lens only used for indirect ophthalmoscopy optic disc examination",
+    "-90D concave lens only used for slit lamp biomicroscopy optic disc evaluation",
+    "+58D convex lens only used for fundus examination with slit lamp biomicroscope"
+   ],
+   "ans": 0,
+   "exp": "Slit lamp biomicroscopy Hand held external lens power +90D convex lens m/c +78D convex lens Ophthalmoscopy Direct used OD examination Indirect. (Book p98)"
+  },
+  {
+   "id": "OPH-C24-021",
+   "sec": "Other tests",
+   "page": 99,
+   "fmt": "oddoneout",
+   "q": "All are listed under other tests for glaucoma per p99 EXCEPT:",
+   "opts": [
+    "Confocal scanning laser tomography",
+    "Spectral domain OCT",
+    "Confocal scanning laser polarimetry SLP",
+    "B-scan ultrasonography"
+   ],
+   "ans": 3,
+   "exp": "Other tests: Confocal scanning laser tomography, Spectral domain OCT, Confocal scanning laser polarimetry SLP. (Book p99)"
+  },
+  {
+   "id": "OPH-C24-022",
+   "sec": "Oblique flashlight method",
+   "page": 99,
+   "fmt": "match",
+   "q": "Match oblique flashlight findings per p99 — 1) Nasal iris illuminated 2) Shadow over nasal iris … A) AC deep open Iris flat Entire iris illuminated Indicative OAG B) Iris moved forward shallow AC Indicative possible ACG Eclipse sign shadow over nasal iris",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "OBLIQUE FLASHLIGHT METHOD Eye illuminated temporally obliquely Temporal iris illuminated Findings Nasal iris illuminated AC deep open Iris flat Entire iris illuminated Indicative OAG vs Shadow over nasal iris Iris moved forward shallow AC Indicative possible ACG Eclipse sign shadow over nasal iris. (Book p99)"
+  },
+  {
+   "id": "OPH-C24-023",
+   "sec": "Van Herick's method",
+   "page": 99,
+   "fmt": "match",
+   "q": "Match Van Herick's grading per p99 — 1) Open angle Grade4 2) Angle closed Grade1 … A) PACD=CT ACD=CT Corneal thickness CT Anterior chamber depth ACD B) PACD<1/4 CT ACD<CT",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "VAN HERICK'S METHOD Slit lamp Compare PACD Peripheral anterior chamber depth to CT Corneal thickness PACD=CT ACD=CT Open angle Grade4 vs PACD<1/4 CT ACD<CT Angle closed Grade1 Corneal thickness CT Anterior chamber depth ACD. (Book p99)"
+  },
+  {
+   "id": "OPH-C24-024",
+   "sec": "Gonioscopy principle",
+   "page": 100,
+   "fmt": "recall",
+   "q": "Principle of gonioscopy per p100 is:",
+   "opts": [
+    "Overcoming Total internal reflection i=r light does not leave anterior chamber medium TIR principle",
+    "Overcoming refraction of cornea by using high refractive index lens to visualize angle",
+    "Total external reflection of light from iris to cornea preventing angle visualization",
+    "Diffraction of light through trabecular meshwork allowing angle structures to be seen"
+   ],
+   "ans": 0,
+   "exp": "Principle Overcoming Total internal reflection i=r light does not leave anterior chamber medium Total Internal Reflection Normal eye Cornea Angle AC Iris i Angle incidence r Angle reflection Gonioscope Same refractive index cornea Placed over cornea mirror Light reflected enters Examiner eye. (Book p100)"
+  },
+  {
+   "id": "OPH-C24-025",
+   "sec": "Gonioscopy contraindication and types",
+   "page": 100,
+   "fmt": "truefalse",
+   "q": "Which statement about gonioscopy is TRUE per p100?",
+   "opts": [
+    "Contraindicated dilated pupil iris near angle obscures; Direct goniolens Koeppe Swan Jacob Barkan children infants bedridden; Indirect gonioprism Zeiss Posner Goldmann 3 mirror superior inferior nasal temporal all quadrants",
+    "Gonioscopy done only in dilated pupil to better visualize angle structures with mydriasis",
+    "Direct gonioscopy uses gonioprism only sitting slit lamp based Zeiss 4 mirror Posner Goldmann",
+    "Indirect gonioscopy uses goniolens only children infants bedridden Koeppe Swan Jacob Barkan"
+   ],
+   "ans": 0,
+   "exp": "Gonioscopy contraindicated dilated pupil Dilated pupil → iris tissue collected near AC angle → structures obscured Types Direct using goniolens Koeppe Swan Jacob Barkan used Children Infants Bedridden Indirect using gonioprism Sitting slit lamp based Zeiss 4 mirror Posner 4 mirror Goldmann 3 mirror contains Superior Inferior nasal temporal mirrors All quadrants angle AC can be examined. (Book p100)"
+  },
+  {
+   "id": "OPH-C24-026",
+   "sec": "Structures in angle AC",
+   "page": 100,
+   "fmt": "recall",
+   "q": "Structures in angle of AC mnemonic Can't See This Stuff Posterior→Anterior per p100:",
+   "opts": [
+    "CBB Scleral Spur SS Trabecular meshwork Tm Schwalbe line termination descemet As iris moves forward structures serially obscured Can't See This Stuff Posterior→Anterior",
+    "Only trabecular meshwork visible in angle, other structures not seen in gonioscopy examination",
+    "Only Schwalbe line visible in angle, all other structures obscured even in open angle",
+    "Only CBB visible in angle, scleral spur and trabecular meshwork not visualized normally"
+   ],
+   "ans": 0,
+   "exp": "Structures angle AC mnemonic Can't See This Stuff Posterior Ciliary body band CBB Scleral Spur SS Trabecular meshwork Tm Schwalbe's line Peripheral termination descemet's membrane As iris moves forward structures AC serially get obscured. (Book p100)"
+  },
+  {
+   "id": "OPH-C24-027",
+   "sec": "Grading of gonioscopy — Scheie's",
+   "page": 101,
+   "fmt": "match",
+   "q": "Match Scheie's grading m/c per p101 — Based visible angle structures — 1) Grade I 2) Grade II 3) Grade III 4) Grade IV … A) All structures visible wide open B) CBB obscured C) CB SS posterior Tm obscured D) Only Schwalbe line visible closed Schematic Tm SS CBB cross",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Scheie's grading m/c Based visible angle structures Grade I All structures visible wide open Grade II CBB obscured Grade III CB SS posterior Tm obscured Grade IV Only Schwalbe line visible closed Schematic Representation Tm SS CBB. (Book p101)"
+  },
+  {
+   "id": "OPH-C24-028",
+   "sec": "Grading — Shaffer",
+   "page": 101,
+   "fmt": "match",
+   "q": "Match Shaffer grading based angular width per p101 — 1) Grade I 2) Grade II 3) Grade III 4) Grade IV … A) <10° closed B) 10°-20° C) 25°-35° D) 35°-45° wide open",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-C, 3-B, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Shaffer Grading Based angular width Grade I <10° closed Grade II 10°-20° Grade III 25°-35° Grade IV 35°-45° wide open. (Book p101)"
+  },
+  {
+   "id": "OPH-C24-029",
+   "sec": "Spaeth grading and overview",
+   "page": 101,
+   "fmt": "recall",
+   "q": "Spaeth grading based on per p101:",
+   "opts": [
+    "Angular width, Configuration peripheral iris, Iris root configuration as per Spaeth grading",
+    "Only angular width considered for grading, iris configuration not included in Spaeth",
+    "Only IOP measurement considered for grading, angle width not relevant for Spaeth",
+    "Only optic disc cupping considered for grading, angle examination not part of Spaeth"
+   ],
+   "ans": 0,
+   "exp": "Spaeth grading Based on Angular width Configuration peripheral iris Iris root configuration. Examination Overview table Optic disc Direct Slit Lamp Biomicroscopy CSLO Spectral Domain OCT SLP Visual field Kinetic Goldmann Bjerrum tangent Static Humphrey HFA Dicon octopus IOP Indentation Non-contact Transpalpebral Applanation Fixed force Maklakov Tonomat Barraquer Fixed Area Goldmann Perkins Pneumatic Draeger Mackay marg Tonopen PASCAL Examination angle Van Herick Oblique Flashlight Gonioscopy UBM ASOCT. (Book p101)"
+  },
+  {
+   "id": "OPH-C24-030",
+   "sec": "Examination overview table",
+   "page": 101,
+   "fmt": "oddoneout",
+   "q": "All are listed in Examination Overview table per p101 under IOP measurement Tonometry EXCEPT:",
+   "opts": [
+    "Indentation Tonometry",
+    "Non-contact Tonometry",
+    "Gonioscopy as tonometry",
+    "Applanation Tonometry Fixed force Maklakov Tonomat Barraquer Fixed Area Goldmann Perkins Pneumatic Draeger Mackay marg Tonopen PASCAL"
+   ],
+   "ans": 2,
+   "exp": "Overview table: IOP measurement Tonometry Indentation Non-contact Transpalpebral Applanation Fixed force Maklakov Tonomat Barraquer Fixed Area Goldmann Perkins Pneumatic Draeger Mackay marg Tonopen PASCAL Examination angle Van Herick Oblique Flashlight Gonioscopy UBM ASOCT. (Book p101)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U24-1",
+   "ch": 24,
+   "n": 1,
+   "title": "Normal IOP, corneal thickness, digital and indentation tonometry",
+   "sec": "Glaucoma · p94",
+   "guide": "Normal IOP 11-21 mmHg Diurnal variation max 8am-12pm mean 10pm Thin cornea false low post refractive thick false high; Types tonometry Digital by palpation downgaze sclera choice keratoprosthesis soft low firm normal hard high Indentation principle displaced fluid Schiotz hand held supine footplate contact cornea pressure displaces aqueous measures IOP needle flickers weights 5.5g 10g 7.5g 15g plunger footplate.",
+   "qs": [
+    "OPH-C24-001",
+    "OPH-C24-002",
+    "OPH-C24-003",
+    "OPH-C24-004",
+    "OPH-C24-005"
+   ]
+  },
+  {
+   "id": "OPH-U24-2",
+   "ch": 24,
+   "n": 2,
+   "title": "Friedenwald normogram, rebound and applanation principle",
+   "sec": "Glaucoma · p95",
+   "guide": "Friedenwald Normogram chart determine IOP ocular rigidity weight used needle reading drawbacks interobserver intraobserver variability inaccurate WHO recommended against use; Rebound tonometry self-monitoring home long term glaucoma plunger presses; Applanation principle Imbert Fick P=F/A pressure contained sphere eyeball force area applanated Types Fixed Force not preferred Maklakov Barraquer Tonomat Fixed area Goldmann Perkins Mackay marg Tonopen Pneumatic Pascal Goldmann Gold standard slit lamp mounted area 3.06 mm2 Body knob force Neck long slender Conical tip Biprism touches cornea.",
+   "qs": [
+    "OPH-C24-006",
+    "OPH-C24-007",
+    "OPH-C24-008",
+    "OPH-C24-009",
+    "OPH-C24-010"
+   ]
+  },
+  {
+   "id": "OPH-U24-3",
+   "ch": 24,
+   "n": 3,
+   "title": "Goldmann procedure, Perkins, Mackay-marg, pneumatic, Pascal, NCT, transpalpebral",
+   "sec": "Glaucoma · p96",
+   "guide": "Procedure Step1 Topical anesthesia abolish corneal reflex proparacaine lower lid retracted 1 drop inferior fornix Step2 Stain cornea fluorescein sodium orange strip lower palpebral conjunctiva lower fornix blink 4-5 times spread Step3 Illuminate cobalt blue green fluorescence Step4 Tip advanced contact Biprism splits 2 mires adjust force inner margin both AT rings/mires touch Cobalt blue light AT rings Perkins AT children bed ridden anaesthetized Mackay-marg irregular edematous scarred corneas Pneumatic continuous IOP Pascal DCT influenced corneal curvature not thickness IOC post LASIK Non contact pulsair airpuff screening OPD camps quick no contact sterilization not required cross infection puff air compresses measures IOP Transpalpebral not commonly used through eyelid preferred corneal pathology Diaton Proview.",
+   "qs": [
+    "OPH-C24-011",
+    "OPH-C24-012",
+    "OPH-C24-013",
+    "OPH-C24-014"
+   ]
+  },
+  {
+   "id": "OPH-U24-4",
+   "ch": 24,
+   "n": 4,
+   "title": "Visual field perimetry — kinetic, static, HFA",
+   "sec": "Glaucoma · p97",
+   "guide": "Visual Field Examination Perimetry KINETIC Target moves monocular Goldmann Bjerrum tangent STATIC Target stationary Supra Threshold screening Threshold monitoring glaucoma Humphrey HFA m/c Octopus HFA patient chin rest curved screen white LEDs different points white background clicks remote LED visible findings analyzed Apparatus Findings VF Blind spot Sparse dots VF area maybe defective ↑ Density better vision GHT Glaucoma Hemifield Test Density dots represented.",
+   "qs": [
+    "OPH-C24-015",
+    "OPH-C24-016"
+   ]
+  },
+  {
+   "id": "OPH-U24-5",
+   "ch": 24,
+   "n": 5,
+   "title": "Testing patterns, strategies, normal field, optic disc examination",
+   "sec": "Glaucoma · p98",
+   "guide": "Testing patterns 24-2 central 24° 2 points separated 6° 30-2 central 30° 2 points 6° 10-2 central 10° Full field 120 point central & peripheral Bitemporal hemianopia requires temporal most peripheral and central Other Testing Strategies SITA Swedish Interactive Threshold Algorithm SWAP Blue on yellow koniocellular FDT Black white flickering magnocellular Ring perimetry peripheral parvocellular NORMAL VISUAL FIELD Horizontally oval inferonasal notch Superior minimum 55° restriction frontal bone Temporal maximum 100° Nasal Nose Fovea Blind Spot Optic Disc Examination Ophthalmoscopy Direct used OD Indirect Slit lamp biomicroscopy Hand held external lens +90D m/c +78D Slit lamp image Examination with external lens.",
+   "qs": [
+    "OPH-C24-017",
+    "OPH-C24-018",
+    "OPH-C24-019",
+    "OPH-C24-020",
+    "OPH-C24-021"
+   ]
+  },
+  {
+   "id": "OPH-U24-6",
+   "ch": 24,
+   "n": 6,
+   "title": "Angle examination — oblique flashlight, Van Herick, gonioscopy, grading",
+   "sec": "Glaucoma · p99-101",
+   "guide": "Other tests CSLO Spectral domain OCT SLP Examination Angle Oblique Flashlight Method Eye illuminated temporally obliquely Temporal iris illuminated Findings Nasal iris illuminated Flash light AC deep open Iris flat Entire iris illuminated Indicative OAG vs Shadow over nasal iris Iris moved forward shallow AC possible ACG Eclipse sign shadow over nasal iris Van Herick's method Slit lamp Compare PACD peripheral anterior chamber depth to CT corneal thickness PACD=CT ACD=CT Open angle Grade4 vs PACD<1/4 CT ACD<CT Angle closed Grade1 Gonioscopy Visualize structures angle AC Principle Overcoming Total internal reflection i=r light does not leave anterior chamber Total Internal Reflection Normal eye Cornea Angle AC Iris i incidence r reflection Gonioscope Same refractive index cornea Placed over cornea mirror Light reflected enters examiner eye Contraindicated dilated pupil Dilated pupil iris near AC angle structures obscured Types Direct goniolens Koeppe Swan Jacob Barkan Children Infants Bedridden Indirect gonioprism Sitting slit lamp Zeiss 4 mirror Posner 4 mirror Goldmann 3 mirror Superior Inferior nasal temporal mirrors All quadrants Structures angle AC mnemonic Can't See This Stuff Posterior→Anterior Ciliary body band CBB Scleral Spur SS Trabecular meshwork Tm Schwalbe line Peripheral termination descemet As iris moves forward serially obscured Grading Scheie's m/c Based visible structures Grade I All visible wide open Grade II CBB obscured Grade III CB SS posterior Tm obscured Grade IV Only Schwalbe line visible closed Schematic Tm SS CBB cross Shaffer Based angular width Grade I <10° closed Grade II 10°-20° Grade III 25°-35° Grade IV 35°-45° wide open Spaeth Based Angular width Configuration peripheral iris Iris root configuration Examination Overview table.",
+   "qs": [
+    "OPH-C24-022",
+    "OPH-C24-023",
+    "OPH-C24-024",
+    "OPH-C24-025",
+    "OPH-C24-026",
+    "OPH-C24-027",
+    "OPH-C24-028",
+    "OPH-C24-029",
+    "OPH-C24-030"
+   ]
+  }
+ ]
+}
