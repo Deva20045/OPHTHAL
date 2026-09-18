@@ -31,7 +31,8 @@ rest show a **Soon** badge.
 | Ch 13 · Paralytic Squint (p54–58) — 5 units, 40 questions | ✅ live |
 | Ch 14 · Gaze Defects (p59–62) — 4 units, 33 questions | ✅ live |
 | Ch 15 · Restrictive Squint and Comitant Squint (p63–65) — 3 units, 24 questions | ✅ live |
-| Ch 16–50 (Lens, Glaucoma, Optics, Retina, Cornea, Uvea, Conjunctiva, Adnexa, Miscellaneous) | 🚧 in progress |
+| Ch 16 · Pseudo-strabismus and Ocular Myopathies (p66–67) — 3 units, 29 questions | ✅ live on this branch |
+| Ch 17–50 (Lens, Glaucoma, Optics, Retina, Cornea, Uvea, Conjunctiva, Adnexa, Miscellaneous) | 🚧 in progress |
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 50-chapter
 roadmap, data schema, per-chapter pipeline, and NEXT step.

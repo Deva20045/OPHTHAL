@@ -1,0 +1,503 @@
+{
+ "chapter": 16,
+ "title": "Pseudo-strabismus and Ocular Myopathies",
+ "pageRange": "66-67",
+ "questions": [
+  {
+   "id": "OPH-C16-001",
+   "sec": "Pseudo-strabismus — definition, types and causes",
+   "page": 66,
+   "fmt": "recall",
+   "q": "Per the book, pseudo-strabismus refers to:",
+   "opts": [
+    "An apparent deviation of the eyes",
+    "A true latent deviation shown only on cover test",
+    "A manifest deviation constant in all gazes",
+    "A paralytic deviation with diplopia"
+   ],
+   "ans": 0,
+   "exp": "Pseudo-strabismus: apparent deviation — the eyes only appear to deviate without true misalignment. (Book p66)"
+  },
+  {
+   "id": "OPH-C16-002",
+   "sec": "Pseudo-strabismus — definition, types and causes",
+   "page": 66,
+   "fmt": "fillup",
+   "q": "Fill up: the book divides pseudo-strabismus into two types — pseudoeso (apparent convergent squint) and ______.",
+   "opts": [
+    "Pseudohypertropia",
+    "Pseudocyclotropia",
+    "Pseudoexo",
+    "Pseudotropia"
+   ],
+   "ans": 2,
+   "exp": "Types of pseudo-strabismus: pseudoeso and pseudoexo. (Book p66)"
+  },
+  {
+   "id": "OPH-C16-003",
+   "sec": "Pseudo-strabismus — definition, types and causes",
+   "page": 66,
+   "fmt": "truefalse",
+   "q": "Which statement about telecanthus (the first cause in the book's pseudoeso list) is FALSE?",
+   "opts": [
+    "It shows an increased inter-canthal distance",
+    "The inter-pupillary distance remains normal",
+    "It produces an apparent convergent squint",
+    "It is a cause of apparent outward squint"
+   ],
+   "ans": 3,
+   "exp": "Telecanthus: ↑ICD + normal IPD — it is a cause of PSEUDOESO (apparent convergent squint), not pseudoexo. (Book p66)"
+  },
+  {
+   "id": "OPH-C16-004",
+   "sec": "Pseudo-strabismus — definition, types and causes",
+   "page": 66,
+   "fmt": "match",
+   "q": "Match the telecanthus measurement with its status in the book — 1) ICD (inter-canthal distance) 2) IPD (inter-pupillary distance) … A) Increased B) Normal",
+   "opts": [
+    "1-A, 2-A",
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-B, 2-B"
+   ],
+   "ans": 2,
+   "exp": "Telecanthus: ↑ ICD + normal IPD — the two distances are dissociated. (Book p66)"
+  },
+  {
+   "id": "OPH-C16-005",
+   "sec": "Pseudo-strabismus — definition, types and causes",
+   "page": 66,
+   "fmt": "scenario",
+   "q": "A 5-year-old appears to have a convergent squint. Measurement shows an increased inner canthal distance with a normal inter-pupillary distance and no true ocular deviation. Per the book this appearance is:",
+   "opts": [
+    "Hypertelorism",
+    "Telecanthus",
+    "Amblyopia",
+    "Cyclotropia"
+   ],
+   "ans": 1,
+   "exp": "Pseudoeso due to telecanthus: ↑ICD + normal IPD produces an apparent convergent squint. (Book p66)"
+  },
+  {
+   "id": "OPH-C16-006",
+   "sec": "Pseudo-strabismus — definition, types and causes",
+   "page": 66,
+   "fmt": "fillup",
+   "q": "Fill up: per the book, epicanthus is an extra (congenital) fold of skin connecting the ______ to the ______ in the medial part.",
+   "opts": [
+    "Upper eyelid; lower eyelid",
+    "Upper eyelid; eyebrow",
+    "Lower eyelid; cheek",
+    "Medial canthus; limbus"
+   ],
+   "ans": 0,
+   "exp": "Epicanthus: an extra (congenital) fold of skin connecting the upper eyelid to the lower eyelid in the medial part. (Book p66)"
+  },
+  {
+   "id": "OPH-C16-007",
+   "sec": "Pseudo-strabismus — definition, types and causes",
+   "page": 66,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed causes of pseudoeso (apparent convergent squint) in the book EXCEPT:",
+   "opts": [
+    "Telecanthus",
+    "Epicanthus",
+    "Myopia",
+    "Retinopathy of prematurity"
+   ],
+   "ans": 3,
+   "exp": "Pseudoeso causes: telecanthus, epicanthus, myopia. ROP causes PSEUDOEXO (via temporal displacement of the macula). (Book p66)"
+  },
+  {
+   "id": "OPH-C16-008",
+   "sec": "Pseudo-strabismus — definition, types and causes",
+   "page": 66,
+   "fmt": "recall",
+   "q": "Per the book, hypertelorism (the first cause of pseudoexo) shows an increased inter-canthal distance because of:",
+   "opts": [
+    "Temporal dragging of the macula",
+    "A folded nasal skin bridge",
+    "Wide-set orbits",
+    "A high hypermetropic error"
+   ],
+   "ans": 2,
+   "exp": "Hypertelorism: increased ICD — d/t wide-set orbits; causes apparent outward squint (pseudoexo). (Book p66)"
+  },
+  {
+   "id": "OPH-C16-009",
+   "sec": "Pseudo-strabismus — definition, types and causes",
+   "page": 66,
+   "fmt": "fillup",
+   "q": "Fill up: in the book's list of pseudoexo causes, ROP expands to ______.",
+   "opts": [
+    "Retro-orbital papilloedema",
+    "Retinopathy of prematurity",
+    "Recurrent orbital pseudotumour",
+    "Retinal orbitopathy of the periphery"
+   ],
+   "ans": 1,
+   "exp": "ROP: retinopathy of prematurity — a cause of pseudoexo due to temporal displacement of the macula. (Book p66)"
+  },
+  {
+   "id": "OPH-C16-010",
+   "sec": "Pseudo-strabismus — definition, types and causes",
+   "page": 66,
+   "fmt": "scenario",
+   "q": "A premature infant who developed retinal disease after birth now shows an outward-appearing deviation. Per the book, ROP produces pseudoexotropia by:",
+   "opts": [
+    "Temporal displacement of the macula",
+    "Nasal displacement of the macula",
+    "Fibrosis of the medial rectus",
+    "Weakness of the lateral rectus"
+   ],
+   "ans": 0,
+   "exp": "ROP → pseudoexo: d/t temporal displacement of the macula. (Book p66)"
+  },
+  {
+   "id": "OPH-C16-011",
+   "sec": "Pseudo-strabismus — definition, types and causes",
+   "page": 66,
+   "fmt": "truefalse",
+   "q": "Which statement about pseudoexotropia (apparent outward squint) is FALSE per the book?",
+   "opts": [
+    "Hypertelorism shows an increased ICD due to wide-set orbits",
+    "ROP acts by temporal displacement of the macula",
+    "Hypermetropia is one of its listed causes",
+    "Myopia is one of its listed causes"
+   ],
+   "ans": 3,
+   "exp": "Pseudoexo causes: hypertelorism, ROP, hypermetropia. Myopia causes PSEUDOESO. (Book p66)"
+  },
+  {
+   "id": "OPH-C16-012",
+   "sec": "Pseudo-strabismus — definition, types and causes",
+   "page": 66,
+   "fmt": "match",
+   "q": "Match the type of pseudo-strabismus with its third listed cause — 1) Pseudoeso 2) Pseudoexo … A) Myopia B) Hypermetropia",
+   "opts": [
+    "1-B, 2-A",
+    "Both myopia",
+    "1-A, 2-B",
+    "Both hypermetropia"
+   ],
+   "ans": 2,
+   "exp": "Pseudoeso causes: telecanthus, epicanthus, myopia; pseudoexo causes: hypertelorism, ROP, hypermetropia. (Book p66)"
+  },
+  {
+   "id": "OPH-C16-013",
+   "sec": "Ocular myopathies — Myasthenia gravis",
+   "page": 66,
+   "fmt": "recall",
+   "q": "Per the book, myasthenia gravis is most commonly seen in:",
+   "opts": [
+    "Elderly males",
+    "Young females",
+    "Young males",
+    "Prepubertal boys"
+   ],
+   "ans": 1,
+   "exp": "Myasthenia gravis: m/c in young females. (Book p66)"
+  },
+  {
+   "id": "OPH-C16-014",
+   "sec": "Ocular myopathies — Myasthenia gravis",
+   "page": 66,
+   "fmt": "fillup",
+   "q": "Fill up: the pathology of myasthenia gravis per the book is ______.",
+   "opts": [
+    "Increased Ach receptors",
+    "Reduced Ach receptors",
+    "Optic nerve demyelination",
+    "Congenital fibrosis of the extraocular muscles"
+   ],
+   "ans": 1,
+   "exp": "Pathology of myasthenia gravis: reduced Ach (acetylcholine) receptors. (Book p66)"
+  },
+  {
+   "id": "OPH-C16-015",
+   "sec": "Ocular myopathies — Myasthenia gravis",
+   "page": 66,
+   "fmt": "scenario",
+   "q": "A 24-year-old woman has bilateral ptosis and double vision that are barely present on waking but clearly worsen by evening and improve with rest. Per the book the diagnosis is:",
+   "opts": [
+    "Duane retraction syndrome",
+    "Brown's syndrome",
+    "Congenital fibrosis of the EOMs",
+    "Myasthenia gravis"
+   ],
+   "ans": 3,
+   "exp": "Myasthenia gravis: m/c in young females; fatigue worsens in the evening — the m/c feature. (Book p66)"
+  },
+  {
+   "id": "OPH-C16-016",
+   "sec": "Ocular myopathies — Myasthenia gravis",
+   "page": 66,
+   "fmt": "truefalse",
+   "q": "Which statement about myasthenia gravis is FALSE per the book?",
+   "opts": [
+    "It is m/c in young females",
+    "Its pathology is reduced Ach receptors",
+    "Fatigue, worsening in the evening, is its m/c feature",
+    "It characteristically spares the eyelids"
+   ],
+   "ans": 3,
+   "exp": "Ptosis — bilateral — is a hallmark ocular feature, so the eyelids are very much affected. (Book p66)"
+  },
+  {
+   "id": "OPH-C16-017",
+   "sec": "Ocular myopathies — Myasthenia gravis",
+   "page": 66,
+   "fmt": "fillup",
+   "q": "Fill up: the ptosis described in the book's ocular features of myasthenia gravis is:",
+   "opts": [
+    "Strictly unilateral",
+    "Associated with a dilated pupil",
+    "Bilateral",
+    "Present only on downgaze"
+   ],
+   "ans": 2,
+   "exp": "Ocular features of MG: a. Ptosis — B/L. (Book p66)"
+  },
+  {
+   "id": "OPH-C16-018",
+   "sec": "Ocular myopathies — Myasthenia gravis",
+   "page": 66,
+   "fmt": "recall",
+   "q": "Per the book, Cogan lid twitch sign is:",
+   "opts": [
+    "An upward twitch of the eyelid when changing gaze from down to up",
+    "A downward twitch when changing gaze from up to down",
+    "Retraction of the globe on adduction",
+    "Twitching of the brow on exposure to light"
+   ],
+   "ans": 0,
+   "exp": "Cogan lid twitch sign: upward twitch of eyelid when changing gaze from down to up. (Book p66)"
+  },
+  {
+   "id": "OPH-C16-019",
+   "sec": "Ocular myopathies — Myasthenia gravis",
+   "page": 66,
+   "fmt": "fillup",
+   "q": "Fill up: per the book, orbicularis oculi weakness in myasthenia gravis is tested by ______.",
+   "opts": [
+    "Forced closure of the open eyelids",
+    "Forced opening of closed eyelids",
+    "The cover-uncover test",
+    "The Hirschberg test"
+   ],
+   "ans": 1,
+   "exp": "Orbicularis oculi weakness: tested by forced opening of closed eyelids. (Book p66)"
+  },
+  {
+   "id": "OPH-C16-020",
+   "sec": "Ocular myopathies — Myasthenia gravis",
+   "page": 66,
+   "fmt": "match",
+   "q": "Match the ocular feature of myasthenia gravis with its description — 1) Ptosis 2) Diplopia 3) Cogan lid twitch 4) Orbicularis oculi weakness … A) Bilateral B) Double vision C) Upward twitch of eyelid when changing gaze from down to up D) Tested by forced opening of closed eyelids",
+   "opts": [
+    "1-A, 2-C, 3-D, 4-B",
+    "1-C, 2-A, 3-D, 4-B",
+    "1-D, 2-B, 3-C, 4-A",
+    "1-A, 2-B, 3-C, 4-D"
+   ],
+   "ans": 3,
+   "exp": "Ocular features: ptosis — B/L; diplopia; Cogan lid twitch — upward twitch on down-to-up gaze change; orbicularis oculi weakness — tested by forced opening of closed eyelids. (Book p66)"
+  },
+  {
+   "id": "OPH-C16-021",
+   "sec": "Ocular myopathies — Myasthenia gravis",
+   "page": 66,
+   "fmt": "oddoneout",
+   "q": "All of the following are ocular features of myasthenia gravis per the book EXCEPT:",
+   "opts": [
+    "Bilateral ptosis",
+    "Diplopia",
+    "Cogan lid twitch sign",
+    "A fixed dilated pupil"
+   ],
+   "ans": 3,
+   "exp": "MG ocular features: ptosis (B/L), diplopia, Cogan lid twitch sign, orbicularis oculi weakness — pupillary involvement is not one of them. (Book p66)"
+  },
+  {
+   "id": "OPH-C16-022",
+   "sec": "Diagnosis of myasthenia gravis — Tensilon and ice-pack tests",
+   "page": 67,
+   "fmt": "recall",
+   "q": "Per the book, the drug injected for the Tensilon test of myasthenia gravis is:",
+   "opts": [
+    "Atropine",
+    "Echothiophate",
+    "Edrophonium",
+    "Propranolol"
+   ],
+   "ans": 2,
+   "exp": "Tensilon test: injection of edrophonium. (Book p67)"
+  },
+  {
+   "id": "OPH-C16-023",
+   "sec": "Diagnosis of myasthenia gravis — Tensilon and ice-pack tests",
+   "page": 67,
+   "fmt": "numeric",
+   "q": "Per the book, the Tensilon test uses an intravenous injection of ______ of edrophonium.",
+   "opts": [
+    "0.05 mg",
+    "0.5 mg",
+    "5 mg",
+    "50 mg"
+   ],
+   "ans": 1,
+   "exp": "Tensilon test: Inj 0.5 mg of edrophonium. (Book p67)"
+  },
+  {
+   "id": "OPH-C16-024",
+   "sec": "Diagnosis of myasthenia gravis — Tensilon and ice-pack tests",
+   "page": 67,
+   "fmt": "fillup",
+   "q": "Fill up: edrophonium in the Tensilon test is an ______ agent, and it ______ the acetylcholine.",
+   "opts": [
+    "Anticholinesterase; increases",
+    "Anticholinergic; decreases",
+    "Sympathomimetic; increases",
+    "Muscarinic blocker; decreases"
+   ],
+   "ans": 0,
+   "exp": "Edrophonium is an anticholinesterase agent → ↑ Ach. (Book p67)"
+  },
+  {
+   "id": "OPH-C16-025",
+   "sec": "Diagnosis of myasthenia gravis — Tensilon and ice-pack tests",
+   "page": 67,
+   "fmt": "scenario",
+   "q": "A patient with suspected ocular myasthenia receives the Tensilon injection. Per the book, a positive test shows, after injection:",
+   "opts": [
+    "Worsening of the ptosis",
+    "A new afferent pupillary defect",
+    "Improvement of the ptosis",
+    "Retraction of the globe"
+   ],
+   "ans": 2,
+   "exp": "Tensilon test flow: before injection → after injection → improvement of ptosis. (Book p67)"
+  },
+  {
+   "id": "OPH-C16-026",
+   "sec": "Diagnosis of myasthenia gravis — Tensilon and ice-pack tests",
+   "page": 67,
+   "fmt": "recall",
+   "q": "Per the book, in the ice-pack test the ice pack is applied over the eye for:",
+   "opts": [
+    "5 minutes",
+    "30 seconds",
+    "1 minute",
+    "30 minutes"
+   ],
+   "ans": 0,
+   "exp": "Ice-pack test: ice pack application for 5 mins. (Book p67)"
+  },
+  {
+   "id": "OPH-C16-027",
+   "sec": "Diagnosis of myasthenia gravis — Tensilon and ice-pack tests",
+   "page": 67,
+   "fmt": "fillup",
+   "q": "Fill up: a positive ice-pack test per the book shows ______.",
+   "opts": [
+    "Pupillary dilatation",
+    "Ptosis improvement",
+    "Worsening of the ptosis",
+    "Globe retraction"
+   ],
+   "ans": 1,
+   "exp": "Ice-pack test: application for 5 minutes → ptosis improvement. (Book p67)"
+  },
+  {
+   "id": "OPH-C16-028",
+   "sec": "Diagnosis of myasthenia gravis — Tensilon and ice-pack tests",
+   "page": 67,
+   "fmt": "truefalse",
+   "q": "Which statement about diagnosing myasthenia gravis is FALSE per the book?",
+   "opts": [
+    "Edrophonium is an anticholinesterase agent",
+    "Edrophonium raises acetylcholine at the junction",
+    "The ice pack is applied for 5 minutes",
+    "In the book's Tensilon test, neostigmine is the injected drug"
+   ],
+   "ans": 3,
+   "exp": "The Tensilon test injects edrophonium (an anticholinesterase agent → ↑Ach), not neostigmine. (Book p67)"
+  },
+  {
+   "id": "OPH-C16-029",
+   "sec": "Diagnosis of myasthenia gravis — Tensilon and ice-pack tests",
+   "page": 67,
+   "fmt": "match",
+   "q": "Match the diagnostic test with its description — 1) Tensilon test 2) Ice-pack test … A) Injection of edrophonium → ↑Ach → improvement of ptosis B) Application over the eye for 5 minutes → improvement of ptosis",
+   "opts": [
+    "1-B, 2-A",
+    "Both are pharmacological",
+    "1-A, 2-B",
+    "Both are surgical"
+   ],
+   "ans": 2,
+   "exp": "Diagnosis: Tensilon test (edrophonium → ↑Ach → ptosis improvement); ice-pack test (5 minutes → ptosis improvement). (Book p67)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U16-1",
+   "ch": 16,
+   "n": 1,
+   "title": "Pseudo-strabismus — apparent deviation, its two types and causes",
+   "sec": "Squint · p66",
+   "guide": "Pseudo-strabismus = apparent deviation. Two types: pseudoeso (apparent convergent squint) and pseudoexo (apparent outward squint). Pseudoeso causes: 1. Telecanthus — ↑ICD + normal IPD; 2. Epicanthus — an extra (congenital) fold of skin connecting the upper eyelid to the lower eyelid in the medial part; 3. Myopia. Pseudoexo causes: 1. Hypertelorism — increased ICD d/t wide-set orbits; 2. ROP (retinopathy of prematurity) — d/t temporal displacement of the macula; 3. Hypermetropia.",
+   "qs": [
+    "OPH-C16-001",
+    "OPH-C16-002",
+    "OPH-C16-003",
+    "OPH-C16-004",
+    "OPH-C16-005",
+    "OPH-C16-006",
+    "OPH-C16-007",
+    "OPH-C16-008",
+    "OPH-C16-009",
+    "OPH-C16-010",
+    "OPH-C16-011",
+    "OPH-C16-012"
+   ]
+  },
+  {
+   "id": "OPH-U16-2",
+   "ch": 16,
+   "n": 2,
+   "title": "Ocular myopathies — Myasthenia gravis: pathology, fatigue and ocular features",
+   "sec": "Squint · p66",
+   "guide": "Ocular myopathies — Myasthenia gravis: m/c in young females. Pathology: reduced Ach receptors. Fatigue: worsens in the evening (m/c feature). Ocular features: a. Ptosis — B/L; b. Diplopia; c. Cogan lid twitch sign — upward twitch of eyelid when changing gaze from down to up; d. Orbicularis oculi weakness — tested by forced opening of closed eyelids.",
+   "qs": [
+    "OPH-C16-013",
+    "OPH-C16-014",
+    "OPH-C16-015",
+    "OPH-C16-016",
+    "OPH-C16-017",
+    "OPH-C16-018",
+    "OPH-C16-019",
+    "OPH-C16-020",
+    "OPH-C16-021"
+   ]
+  },
+  {
+   "id": "OPH-U16-3",
+   "ch": 16,
+   "n": 3,
+   "title": "Diagnosis of myasthenia gravis — Tensilon test and ice-pack test",
+   "sec": "Squint · p67",
+   "guide": "Diagnosis of myasthenia gravis: 1. Tensilon test — Inj 0.5 mg of edrophonium (an anticholinesterase agent) → ↑Ach; before injection → after injection → improvement of ptosis. 2. Ice-pack test — ice pack application for 5 mins → ptosis improvement.",
+   "qs": [
+    "OPH-C16-022",
+    "OPH-C16-023",
+    "OPH-C16-024",
+    "OPH-C16-025",
+    "OPH-C16-026",
+    "OPH-C16-027",
+    "OPH-C16-028",
+    "OPH-C16-029"
+   ]
+  }
+ ]
+}

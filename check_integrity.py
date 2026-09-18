@@ -35,6 +35,7 @@ LIVE_CHAPTERS = {
     13: ("Paralytic Squint", 54, 58, 40, 5),
     14: ("Gaze Defects", 59, 62, 33, 4),
     15: ("Restrictive Squint and Comitant Squint", 63, 65, 24, 3),
+    16: ("Pseudo-strabismus and Ocular Myopathies", 66, 67, 29, 3),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain
