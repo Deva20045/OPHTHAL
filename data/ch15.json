@@ -1,0 +1,423 @@
+{
+ "chapter": 15,
+ "title": "Restrictive Squint and Comitant Squint",
+ "pageRange": "63-65",
+ "questions": [
+  {
+   "id": "OPH-C15-001",
+   "sec": "Restrictive squint — causes and Duane retraction syndrome",
+   "page": 63,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed CONGENITAL causes of restrictive squint in the book EXCEPT:",
+   "opts": [
+    "DRS (Duane retraction syndrome)",
+    "Brown's syndrome",
+    "CFEOM (congenital fibrosis of the extraocular muscles)",
+    "Orbital trauma"
+   ],
+   "ans": 3,
+   "exp": "Congenital: DRS, Brown's syndrome, CFEOM; acquired: orbital trauma, orbital tumours. (Book p63)"
+  },
+  {
+   "id": "OPH-C15-002",
+   "sec": "Restrictive squint — causes and Duane retraction syndrome",
+   "page": 63,
+   "fmt": "recall",
+   "q": "The acquired causes of restrictive squint per the book are:",
+   "opts": [
+    "Brown's syndrome and CFEOM",
+    "Orbital trauma and orbital tumours",
+    "DRS and Brown's syndrome",
+    "Diabetes and hypertension"
+   ],
+   "ans": 1,
+   "exp": "Acquired causes: orbital trauma; orbital tumours. (Book p63)"
+  },
+  {
+   "id": "OPH-C15-003",
+   "sec": "Restrictive squint — causes and Duane retraction syndrome",
+   "page": 63,
+   "fmt": "match",
+   "q": "Match the DRS type with its limitation of movement in the book's table — 1) Type I 2) Type 2 3) Type 3 … A) Abduction and adduction B) Abduction C) Adduction",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-D",
+    "1-B, 2-D, 3-A",
+    "1-A, 2-D, 3-C"
+   ],
+   "ans": 0,
+   "exp": "DRS types: I — limitation of abduction; 2 — limitation of adduction; 3 — limitation of abduction and adduction. (Book p63)"
+  },
+  {
+   "id": "OPH-C15-004",
+   "sec": "Restrictive squint — causes and Duane retraction syndrome",
+   "page": 63,
+   "fmt": "match",
+   "q": "Match the DRS type with the globe retraction/palpebral fissure closure in the book's table — 1) Type I 2) Type 2 3) Type 3 … A) On abduction and adduction (d/t paradoxical innervation of both LR and MR) B) On adduction C) On abduction",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 2,
+   "exp": "Retraction of globe with closure of palpebral fissure: Type I — on adduction; Type 2 — on adduction; Type 3 — on abduction and adduction (d/t paradoxical innervation of both LR and MR). (Book p63)"
+  },
+  {
+   "id": "OPH-C15-005",
+   "sec": "Restrictive squint — causes and Duane retraction syndrome",
+   "page": 63,
+   "fmt": "recall",
+   "q": "In Type I DRS pathology per the book, the lateral rectus is supplied by the ______ nerve instead of the 6th nerve (paradoxical).",
+   "opts": [
+    "4th",
+    "3rd",
+    "6th",
+    "5th"
+   ],
+   "ans": 1,
+   "exp": "Type I DRS: LR gets supplied by the 3rd nerve instead of the 6th nerve (paradoxical). (Book p63)"
+  },
+  {
+   "id": "OPH-C15-006",
+   "sec": "Restrictive squint — causes and Duane retraction syndrome",
+   "page": 63,
+   "fmt": "scenario",
+   "q": "In the book's Type I DRS flowchart, on the impulse for abduction via the 6th nerve the lateral rectus does not act, so there is:",
+   "opts": [
+    "No abduction",
+    "Excess abduction",
+    "Limitation of adduction",
+    "Vertical deviation"
+   ],
+   "ans": 0,
+   "exp": "Type I DRS: on impulse for abduction via the 6th nerve the lateral rectus does not act — no abduction. (Book p63)"
+  },
+  {
+   "id": "OPH-C15-007",
+   "sec": "Restrictive squint — causes and Duane retraction syndrome",
+   "page": 63,
+   "fmt": "fillup",
+   "q": "Fill up: in Type I DRS, on the impulse for adduction via the 3rd nerve both the lateral rectus and medial rectus contract, producing retraction of the globe and ______.",
+   "opts": [
+    "Eversion of both the upper and lower lids",
+    "Dilation of the pupil with anisocoria",
+    "Closure of the palpebral fissure",
+    "Convergence excess"
+   ],
+   "ans": 2,
+   "exp": "On impulse for adduction via the 3rd nerve: both LR and MR contract → retraction of globe → closure of palpebral fissure. (Book p63)"
+  },
+  {
+   "id": "OPH-C15-008",
+   "sec": "Restrictive squint — DRS diagnosis and Brown's syndrome",
+   "page": 64,
+   "fmt": "scenario",
+   "q": "The book's Type I DRS (left eye) photograph series shows: right gaze — left eye adduction present but with closure of the left palpebral fissure; primary gaze — normal, no deviation; left gaze — left eye abduction limitation. The diagnosis of DRS is made by the:",
+   "opts": [
+    "Hirschberg test",
+    "Maddox rod test",
+    "Cover-uncover test",
+    "Forced duction test"
+   ],
+   "ans": 3,
+   "exp": "Diagnosis of DRS: force (forced) duction test. (Book p64)"
+  },
+  {
+   "id": "OPH-C15-009",
+   "sec": "Restrictive squint — DRS diagnosis and Brown's syndrome",
+   "page": 64,
+   "fmt": "recall",
+   "q": "Brown's syndrome per the book begins with a:",
+   "opts": [
+    "Congenitally tight superior oblique",
+    "Paralysed inferior oblique",
+    "Fibrosed lateral rectus",
+    "Congenitally tight medial rectus"
+   ],
+   "ans": 0,
+   "exp": "Brown's syndrome: congenitally tight superior oblique (SO). (Book p64)"
+  },
+  {
+   "id": "OPH-C15-010",
+   "sec": "Restrictive squint — DRS diagnosis and Brown's syndrome",
+   "page": 64,
+   "fmt": "fillup",
+   "q": "Fill up: in Brown's syndrome the tight SO restricts its movement through the ______ (bony hook).",
+   "opts": [
+    "Lamina cribrosa",
+    "Trochlea",
+    "Scleral spur",
+    "Annulus of Zinn"
+   ],
+   "ans": 1,
+   "exp": "↓ movement of SO through trochlea (bony hook) → contracture of SO. (Book p64)"
+  },
+  {
+   "id": "OPH-C15-011",
+   "sec": "Restrictive squint — DRS diagnosis and Brown's syndrome",
+   "page": 64,
+   "fmt": "match",
+   "q": "Match the Brown's syndrome step with the next event in the book's flow — 1) Contracture of the SO 2) SO fails to relax 3) Antagonist IO cannot relax … A) Restriction of elevation in adduction B) The antagonist inferior oblique is mechanically held C) The SO stays tight",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-D, 2-B, 3-A",
+    "1-B, 2-D, 3-A",
+    "1-D, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Flow: congenitally tight SO → ↓ movement through trochlea → contracture of SO → SO fails to relax → antagonist IO cannot relax → restriction of elevation in adduction. (Book p64)"
+  },
+  {
+   "id": "OPH-C15-012",
+   "sec": "Comitant squint — the accommodative types",
+   "page": 64,
+   "fmt": "recall",
+   "q": "The m/c presentation of comitant squint per the book is:",
+   "opts": [
+    "Exotropia (divergent squint)",
+    "Cycloptropia",
+    "Hypertropia",
+    "Esotropia (convergent squint)"
+   ],
+   "ans": 3,
+   "exp": "Comitant squint: m/c presentation — esotropia (convergent squint). (Book p64)"
+  },
+  {
+   "id": "OPH-C15-013",
+   "sec": "Comitant squint — the accommodative types",
+   "page": 64,
+   "fmt": "fillup",
+   "q": "Fill up: the refractive type of accommodative comitant squint in the book is esotropia associated with ______.",
+   "opts": [
+    "Hypermetropia",
+    "Myopia",
+    "Astigmatism",
+    "Presbyopia"
+   ],
+   "ans": 0,
+   "exp": "Accommodative squint: refractive — esotropia associated with hypermetropia; non-refractive — d/t high AC/A ratio. (Book p64)"
+  },
+  {
+   "id": "OPH-C15-014",
+   "sec": "Comitant squint — the accommodative types",
+   "page": 64,
+   "fmt": "recall",
+   "q": "In the book's AC/A note, AC and A stand for:",
+   "opts": [
+    "Acute ciliary atrophy and amblyopia",
+    "Accommodative convergence and accommodation",
+    "Anterior chamber and angle",
+    "Acute and acute convergence"
+   ],
+   "ans": 1,
+   "exp": "Non-refractive accommodative squint: d/t high AC/A ratio — d/t ↑ convergence or ↓ accommodation (AC: accommodative convergence, A: accommodation); 1 D of accommodation ~ 2° convergence. (Book p64)"
+  },
+  {
+   "id": "OPH-C15-015",
+   "sec": "Comitant squint — the accommodative types",
+   "page": 64,
+   "fmt": "numeric",
+   "q": "Per the book, 1 D of accommodation corresponds to approximately ______ of convergence.",
+   "opts": [
+    "1°",
+    "4°",
+    "2°",
+    "5°"
+   ],
+   "ans": 2,
+   "exp": "1 D of accommodation ~ 2° convergence. (Book p64)"
+  },
+  {
+   "id": "OPH-C15-016",
+   "sec": "Comitant squint — the accommodative types",
+   "page": 64,
+   "fmt": "management",
+   "q": "The book's treatment options for non-refractive accommodative esotropia (high AC/A) include all of the following EXCEPT:",
+   "opts": [
+    "Miotics (echothiophate)",
+    "Bifocal spectacles",
+    "Bimedial recession (weakening of B/L medial recti)",
+    "Intravenous methylprednisolone"
+   ],
+   "ans": 3,
+   "exp": "Treatment: miotics (echothiophate); bifocal spectacles; surgery: a. bimedial recession (weakening of B/L medial recti); b. Faden surgery. (Book p64)"
+  },
+  {
+   "id": "OPH-C15-017",
+   "sec": "Comitant squint — non-accommodative esotropia and its treatment",
+   "page": 65,
+   "fmt": "recall",
+   "q": "Non-accommodative esotropia in the book is AKA:",
+   "opts": [
+    "Essential infantile esotropia",
+    "Accommodative esotropia",
+    "Senile exotropia",
+    "Adult onset esotropia"
+   ],
+   "ans": 0,
+   "exp": "Non-accommodative esotropia: AKA essential infantile esotropia. (Book p65)"
+  },
+  {
+   "id": "OPH-C15-018",
+   "sec": "Comitant squint — non-accommodative esotropia and its treatment",
+   "page": 65,
+   "fmt": "numeric",
+   "q": "Per the book, essential infantile esotropia presents at:",
+   "opts": [
+    "8-10 months of age",
+    "4-6 months of age",
+    "18-24 months of age",
+    "2-3 years of age"
+   ],
+   "ans": 1,
+   "exp": "Presentation: 4-6 months of age; no refractory error; no neurological deficit. (Book p65)"
+  },
+  {
+   "id": "OPH-C15-019",
+   "sec": "Comitant squint — non-accommodative esotropia and its treatment",
+   "page": 65,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed as associated features of essential infantile esotropia in the book EXCEPT:",
+   "opts": [
+    "Latent horizontal nystagmus",
+    "Inferior oblique overaction",
+    "Dissociated vertical deviation",
+    "A central scotoma"
+   ],
+   "ans": 3,
+   "exp": "Associated with: latent horizontal nystagmus, inferior oblique overaction, dissociated vertical deviation, large angle deviation (≥15°/≥30 pd) → confusion → amblyopia of the deviated eye. (Book p65)"
+  },
+  {
+   "id": "OPH-C15-020",
+   "sec": "Comitant squint — non-accommodative esotropia and its treatment",
+   "page": 65,
+   "fmt": "scenario",
+   "q": "A 5-month-old with a large angle congenital squint (≥15°/≥30 pd) is at risk of amblyopia of the deviated eye, because the large angle produces:",
+   "opts": [
+    "Diplopia",
+    "ARC",
+    "Confusion",
+    "Pain"
+   ],
+   "ans": 2,
+   "exp": "Large angle deviation (≥15°/>30 pd) → confusion → amblyopia of the deviated eye. (Book p65)"
+  },
+  {
+   "id": "OPH-C15-021",
+   "sec": "Comitant squint — non-accommodative esotropia and its treatment",
+   "page": 65,
+   "fmt": "management",
+   "q": "For prevention of amblyopia, the book's occlusion therapy is:",
+   "opts": [
+    "Continuous patching of the deviated eye",
+    "Intermittent alternate patching of the normal eye",
+    "Patching both eyes permanently",
+    "Atropine in both eyes"
+   ],
+   "ans": 1,
+   "exp": "Occlusion therapy: intermittent alternate patching of the normal eye — patch the normal eye for x days and the deviated eye for (x: age in years) days. (Book p65)"
+  },
+  {
+   "id": "OPH-C15-022",
+   "sec": "Comitant squint — non-accommodative esotropia and its treatment",
+   "page": 65,
+   "fmt": "recall",
+   "q": "The book's penalization method for preventing amblyopia uses:",
+   "opts": [
+    "Atropine drops in the normal eye",
+    "Echothiophate in the deviated eye",
+    "Bifocals in the normal eye",
+    "Miotics in both eyes"
+   ],
+   "ans": 0,
+   "exp": "Penalization: use of atropine drops in the normal eye. (Book p65)"
+  },
+  {
+   "id": "OPH-C15-023",
+   "sec": "Comitant squint — non-accommodative esotropia and its treatment",
+   "page": 65,
+   "fmt": "numeric",
+   "q": "Per the book, prevention of amblyopia can be done till ______ of age, as the eyeball completes its development by 6-7 years.",
+   "opts": [
+    "3 years",
+    "9 years",
+    "6 years",
+    "12 years"
+   ],
+   "ans": 2,
+   "exp": "Note: prevention of amblyopia can be done till 6 years of age (eyeball completes development by 6-7 years). (Book p65)"
+  },
+  {
+   "id": "OPH-C15-024",
+   "sec": "Comitant squint — non-accommodative esotropia and its treatment",
+   "page": 65,
+   "fmt": "management",
+   "q": "Per the book, surgery (TOC) for essential infantile esotropia is usually done at ______, and for esotropia it involves:",
+   "opts": [
+    "2 years — recession of the B/L lateral recti only",
+    "6 months — resection of I/L MR + recession of I/L LR in the same eye",
+    "1 year of age — resection of the B/L medial recti only",
+    "1 year of age — recession of I/L MR (weakening) + resection of I/L LR (strengthening)"
+   ],
+   "ans": 3,
+   "exp": "Surgery (TOC): usually done at 1 year of age. In esotropia: recession of I/L MR (lengthening → weakening) + resection of I/L LR (shortening → strengthening). (Book p65)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U15-1",
+   "ch": 15,
+   "n": 1,
+   "title": "Restrictive squint — causes and Duane retraction syndrome",
+   "sec": "Squint · p63",
+   "guide": "Restrictive squint causes: congenital — DRS (Duane retraction syndrome), Brown's syndrome, CFEOM (congenital fibrosis of the extraocular muscles); acquired — orbital trauma, orbital tumours. DRS table: Type I — limitation of abduction; retraction of globe + closure of palpebral fissure on adduction. Type 2 — limitation of adduction; retraction + closure on adduction. Type 3 — limitation of abduction and adduction; retraction + closure on abduction and adduction (d/t paradoxical innervation of both LR and MR). Type I pathology: LR gets supplied by the 3rd nerve instead of the 6th (paradoxical) — on abduction impulse via the 6th the LR does not act (no abduction); on adduction impulse via the 3rd both LR and MR contract → retraction of globe → closure of palpebral fissure.",
+   "qs": [
+    "OPH-C15-001",
+    "OPH-C15-002",
+    "OPH-C15-003",
+    "OPH-C15-004",
+    "OPH-C15-005",
+    "OPH-C15-006",
+    "OPH-C15-007"
+   ]
+  },
+  {
+   "id": "OPH-U15-2",
+   "ch": 15,
+   "n": 2,
+   "title": "DRS diagnosis, Brown's syndrome and comitant (accommodative) squint",
+   "sec": "Squint · p64",
+   "guide": "DRS photograph series (Type I, left eye): right gaze — LE adduction present with closure of the left palpebral fissure; primary gaze — normal, no deviation; left gaze — LE abduction limitation. Diagnosis: forced duction test. Brown's syndrome: congenitally tight SO → ↓ movement of SO through the trochlea (bony hook) → contracture of SO → SO fails to relax → antagonist IO cannot relax → restriction of elevation in adduction. Comitant squint: m/c presentation — esotropia (convergent squint). Types: accommodative (refractive — esotropia associated with hypermetropia; non-refractive — d/t high AC/A ratio d/t ↑ convergence or ↓ accommodation, AC: accommodative convergence, A: accommodation; 1 D accommodation ~ 2° convergence) and non-accommodative. Non-refractive treatment: miotics (echothiophate), bifocal spectacles, surgery — bimedial recession (weakening of B/L medial recti), Faden surgery.",
+   "qs": [
+    "OPH-C15-008",
+    "OPH-C15-009",
+    "OPH-C15-010",
+    "OPH-C15-011",
+    "OPH-C15-012",
+    "OPH-C15-013",
+    "OPH-C15-014",
+    "OPH-C15-015",
+    "OPH-C15-016"
+   ]
+  },
+  {
+   "id": "OPH-U15-3",
+   "ch": 15,
+   "n": 3,
+   "title": "Essential infantile esotropia — prevention of amblyopia and surgery",
+   "sec": "Squint · p65",
+   "guide": "Non-accommodative esotropia: AKA essential infantile esotropia; presentation 4-6 months of age; no refractory error; no neurological deficit. Associated with: latent horizontal nystagmus, inferior oblique overaction, dissociated vertical deviation, large angle deviation (≥15°/≥30 pd) → confusion → amblyopia of the deviated eye. Prevention of amblyopia: occlusion therapy — intermittent alternate patching of the normal eye (patch normal eye for x days ↔ patch deviated eye for x days, x = age in years); penalization — atropine drops in the normal eye. Prevention possible till 6 years of age (eyeball completes development by 6-7 years). Surgery (TOC): usually done at 1 year of age; for esotropia — recession of I/L MR (lengthening → weakening) + resection of I/L LR (shortening → strengthening).",
+   "qs": [
+    "OPH-C15-017",
+    "OPH-C15-018",
+    "OPH-C15-019",
+    "OPH-C15-020",
+    "OPH-C15-021",
+    "OPH-C15-022",
+    "OPH-C15-023",
+    "OPH-C15-024"
+   ]
+  }
+ ]
+}

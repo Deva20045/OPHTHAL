@@ -1,0 +1,699 @@
+{
+ "chapter": 7,
+ "title": "Pupillary Reflexes, Light Reflex and its Lesions",
+ "pageRange": "26-31",
+ "questions": [
+  {
+   "id": "OPH-C7-001",
+   "sec": "Pupillary reflexes and light reflex overview",
+   "page": 26,
+   "fmt": "recall",
+   "q": "Per the book, the near reflex has three components. Which set is printed?",
+   "opts": [
+    "Accommodation, convergence and miosis",
+    "Accommodation, divergence and miosis",
+    "Accommodation, convergence and mydriasis",
+    "Convergence, divergence and miosis"
+   ],
+   "ans": 0,
+   "exp": "The near reflex (first of the four pupillary reflexes) has 3 parts: accommodation, convergence and miosis. (Book p26)"
+  },
+  {
+   "id": "OPH-C7-002",
+   "sec": "Pupillary reflexes and light reflex overview",
+   "page": 26,
+   "fmt": "fillup",
+   "q": "Fill up: the ciliospinal reflex is triggered by pain in the side of the neck or trunk, producing ______.",
+   "opts": [
+    "Contralateral pupil dilation",
+    "Ipsilateral pupil dilation",
+    "Bilateral pupil constriction",
+    "Ipsilateral pupil constriction"
+   ],
+   "ans": 1,
+   "exp": "Ciliospinal reflex: pain in side of neck/trunk → ipsilateral pupil dilation. (Book p26)"
+  },
+  {
+   "id": "OPH-C7-003",
+   "sec": "Pupillary reflexes and light reflex overview",
+   "page": 26,
+   "fmt": "oddoneout",
+   "q": "The book lists four pupillary reflexes. Which of the following is NOT among them?",
+   "opts": [
+    "Near reflex",
+    "Ciliospinal reflex",
+    "Vestibulo-ocular reflex",
+    "Psychosensory reflex"
+   ],
+   "ans": 2,
+   "exp": "The four pupillary reflexes: near (3 parts), ciliospinal, psychosensory and pupillary light reflex (PLR); VOR belongs to the vestibular apparatus, not this list. (Book p26)"
+  },
+  {
+   "id": "OPH-C7-004",
+   "sec": "Pupillary reflexes and light reflex overview",
+   "page": 26,
+   "fmt": "truefalse",
+   "q": "Which statement about the light reflex procedure is FALSE per the book?",
+   "opts": [
+    "It is a dark room procedure",
+    "The hand is placed between the eyes to separate visual fields",
+    "Low light causes dilation of the pupil",
+    "Bright light causes dilation of the pupil"
+   ],
+   "ans": 3,
+   "exp": "Procedure: dark room; hand between eyes → separate visual fields. Normal findings: bright light → constriction (not dilation); low light → dilation. (Book p26)"
+  },
+  {
+   "id": "OPH-C7-005",
+   "sec": "Pupillary reflexes and light reflex overview",
+   "page": 26,
+   "fmt": "scenario",
+   "q": "You test a patient's pupillary light reflex in a dark room and place your hand between his two eyes. Per the book the purpose is to:",
+   "opts": [
+    "Separate the visual fields of the two eyes",
+    "Block the consensual pathway to the opposite eye",
+    "Test the accommodation component simultaneously",
+    "Prevent convergence during the test"
+   ],
+   "ans": 0,
+   "exp": "The hand between the eyes separates the visual fields so each eye can be illuminated and read independently. (Book p26)"
+  },
+  {
+   "id": "OPH-C7-006",
+   "sec": "Pupillary reflexes and light reflex overview",
+   "page": 26,
+   "fmt": "match",
+   "q": "Match the event with the pupil response in the book's figure — 1) Light shone on the left eye 2) Illuminated (left) pupil 3) Non-illuminated (right) pupil … A) Constricts by the direct reflex B) Constricts by the consensual reflex C) Source of the stimulus",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 1,
+   "exp": "Left stimulus: the illuminated pupil constricts (direct reflex) and the contralateral non-illuminated pupil constricts (consensual reflex). (Book p26)"
+  },
+  {
+   "id": "OPH-C7-007",
+   "sec": "Pupillary reflexes and light reflex overview",
+   "page": 26,
+   "fmt": "fillup",
+   "q": "Fill up: the consensual reflex is the constriction of the ______ pupil, that is, the pupil that is not illuminated.",
+   "opts": [
+    "Ipsilateral",
+    "Superior",
+    "Contralateral",
+    "Inferior"
+   ],
+   "ans": 2,
+   "exp": "Direct reflex = constriction of the illuminated pupil; consensual reflex = constriction of the C/L (non-illuminated) pupil. (Book p26)"
+  },
+  {
+   "id": "OPH-C7-008",
+   "sec": "PLR pathway and the afferent–efferent lesion map",
+   "page": 27,
+   "fmt": "recall",
+   "q": "In the book's PLR pathway figure, where do the afferent fibres leave the visual pathway?",
+   "opts": [
+    "After relaying in the lateral geniculate body",
+    "At the optic chiasm",
+    "In the retina before the optic nerve",
+    "Before reaching the LGB, exiting from the optic tract"
+   ],
+   "ans": 3,
+   "exp": "Afferent (I/L) limb: light on one eye → optic nerve; PLR fibres exit from the optic tract before reaching the LGB and reach the pretectal centre. (Book p27)"
+  },
+  {
+   "id": "OPH-C7-009",
+   "sec": "PLR pathway and the afferent–efferent lesion map",
+   "page": 27,
+   "fmt": "match",
+   "q": "Match the PLR pathway station with its labelled role — 1) Pretectal nucleus 2) Internuncial neuron 3) Edinger-Westphal nucleus … A) Accessory nucleus for CN III B) Centre of the reflex in the midbrain C) Relay from the centre to the EWN",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Pretectal nucleus = centre; the internuncial (I/N) neuron relays to the B/L EWN; EWN = accessory nucleus for CN III. (Book p27)"
+  },
+  {
+   "id": "OPH-C7-010",
+   "sec": "PLR pathway and the afferent–efferent lesion map",
+   "page": 27,
+   "fmt": "fillup",
+   "q": "Fill up: the Edinger-Westphal nucleus supplies the sphincter pupillae and ciliary muscle and is the accessory nucleus of cranial nerve ______.",
+   "opts": [
+    "IV",
+    "III",
+    "VI",
+    "V"
+   ],
+   "ans": 1,
+   "exp": "EWN (accessory nucleus for CN III) supplies the sphincter pupillae and ciliary muscle. (Book p27)"
+  },
+  {
+   "id": "OPH-C7-011",
+   "sec": "PLR pathway and the afferent–efferent lesion map",
+   "page": 27,
+   "fmt": "truefalse",
+   "q": "Which statement about the PLR pathway is FALSE per the book?",
+   "opts": [
+    "ON, OC and OT are common to the PLR and the visual pathway",
+    "The PLR efferent neurons are primarily temporal",
+    "The reflex stays strictly on the illuminated side only",
+    "The short ciliary nerve carries the final efferent limb"
+   ],
+   "ans": 2,
+   "exp": "The efferent limb is B/L: from the centre via I/N neurons to both EWNs, giving direct and consensual responses; ON/OC/OT are common to both pathways; efferent neurons are primarily temporal. (Book p27)"
+  },
+  {
+   "id": "OPH-C7-012",
+   "sec": "PLR pathway and the afferent–efferent lesion map",
+   "page": 27,
+   "fmt": "recall",
+   "q": "Which nerve–muscle pairing is the final efferent step of the PLR per the book?",
+   "opts": [
+    "Long ciliary nerve to the sphincter pupillae",
+    "Short ciliary nerve to the ciliary muscle",
+    "Long ciliary nerve to the ciliary muscle",
+    "Short ciliary nerve to the sphincter pupillae"
+   ],
+   "ans": 3,
+   "exp": "B/L short ciliary nerves from the B/L ciliary ganglia supply the B/L sphincter pupillae, producing constriction. (Book p27)"
+  },
+  {
+   "id": "OPH-C7-013",
+   "sec": "PLR pathway and the afferent–efferent lesion map",
+   "page": 27,
+   "fmt": "oddoneout",
+   "q": "The book splits PLR lesions into afferent and efferent types. Which is NOT an efferent pathway lesion?",
+   "opts": [
+    "Marcus Gunn pupil",
+    "Tonic pupil",
+    "Argyll Robertson pupil",
+    "Pharmacological mydriasis"
+   ],
+   "ans": 0,
+   "exp": "Efferent pathway lesions: Argyll Robertson pupil, tonic pupil, pharmacological mydriasis; Marcus Gunn pupil (RAPD) is an afferent pathway lesion. (Book p27)"
+  },
+  {
+   "id": "OPH-C7-014",
+   "sec": "PLR pathway and the afferent–efferent lesion map",
+   "page": 27,
+   "fmt": "match",
+   "q": "Match the afferent pathway lesion with the book's label — 1) Total (absolute) afferent defect 2) Relative afferent defect 3) I/L optic tract lesion … A) Wernicke's pupil B) Absolute afferent pathway defect C) Marcus Gunn pupil (RAPD)",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 1,
+   "exp": "Afferent pathway lesions: total/absolute → AAPO; relative → Marcus Gunn pupil (RAPD); Wernicke's pupil is the optic-tract (hemianopic) pupil. (Book p27)"
+  },
+  {
+   "id": "OPH-C7-015",
+   "sec": "PLR pathway and the afferent–efferent lesion map",
+   "page": 27,
+   "fmt": "fillup",
+   "q": "Fill up: the book's efferent pathway lesion list is Argyll Robertson pupil, ______ pupil and pharmacological mydriasis.",
+   "opts": [
+    "Wernicke's",
+    "Marcus Gunn",
+    "Tonic",
+    "Holmes-Adie"
+   ],
+   "ans": 2,
+   "exp": "Efferent pathway lesions: Argyll Robertson pupil (ARP), tonic pupil, pharmacological mydriasis. (Book p27)"
+  },
+  {
+   "id": "OPH-C7-016",
+   "sec": "Afferent lesions — AAPO versus RAPD",
+   "page": 28,
+   "fmt": "recall",
+   "q": "Which cause does the book give for an absolute afferent pathway defect (AAPO)?",
+   "opts": [
+    "Optic neuritis and CRAO",
+    "Retinal detachment and end stage optic nerve disease",
+    "Retinal detachment and optic neuritis",
+    "Complete optic nerve lesion d/t trauma or end stage optic nerve disease"
+   ],
+   "ans": 3,
+   "exp": "AAPO: complete optic nerve lesion d/t trauma or end stage optic nerve disease. (Book p28)"
+  },
+  {
+   "id": "OPH-C7-017",
+   "sec": "Afferent lesions — AAPO versus RAPD",
+   "page": 28,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed causes of an incomplete optic nerve lesion producing RAPD EXCEPT:",
+   "opts": [
+    "Complete traumatic optic nerve avulsion",
+    "Central retinal artery occlusion (CRAO)",
+    "Retinal detachment, since the ON is a collection of retinal ganglion cell axons",
+    "Optic neuritis"
+   ],
+   "ans": 0,
+   "exp": "RAPD causes: optic neuritis, CRAO, retinal detachment (ON is a collection of retinal ganglion cell axons); a complete optic nerve lesion (e.g. trauma) gives AAPO, not RAPD. (Book p28)"
+  },
+  {
+   "id": "OPH-C7-018",
+   "sec": "Afferent lesions — AAPO versus RAPD",
+   "page": 28,
+   "fmt": "scenario",
+   "q": "A 30-year-old with left optic neuritis undergoes the swinging flashlight test. On repeated swings to the affected (fatigued) left eye the book expects:",
+   "opts": [
+    "B/L constriction of both pupils on every swing",
+    "B/L dilation of pupils when the eye with the lesion is stimulated",
+    "Only the right pupil dilates on each swing",
+    "No change in either pupil with repeated swings"
+   ],
+   "ans": 1,
+   "exp": "Swinging flashlight test in RAPD: on presentation B/L constricted; on stimulus B/L constrict on one eye; swinging to the other eye the pupils dilate in the meantime and constrict again; repeat (fatigue the lesioned ON) → B/L dilation when the lesion eye is stimulated. (Book p28)"
+  },
+  {
+   "id": "OPH-C7-019",
+   "sec": "Afferent lesions — AAPO versus RAPD",
+   "page": 28,
+   "fmt": "truefalse",
+   "q": "Which statement about the light reflex in AAPO is FALSE per the book's table?",
+   "opts": [
+    "Light on the lesion side produces no constriction of either pupil",
+    "The I/L direct light reflex is absent",
+    "The two pupils are anisocoric",
+    "The C/L consensual reflex is absent"
+   ],
+   "ans": 2,
+   "exp": "In AAPO light on the lesion side leaves both pupils un-constricted (I/L DLR and C/L DLR absent), yet the pupils remain always equal in size — isocoria. (Book p28)"
+  },
+  {
+   "id": "OPH-C7-020",
+   "sec": "Afferent lesions — AAPO versus RAPD",
+   "page": 28,
+   "fmt": "fillup",
+   "q": "Fill up: in both AAPO and RAPD the pupils are always equal in size, a condition the book names ______.",
+   "opts": [
+    "Anisocoria",
+    "Miosis",
+    "Mydriasis",
+    "Isocoria"
+   ],
+   "ans": 3,
+   "exp": "Pupils relative to each other: always equal in size — isocoria — in both afferent pathway lesions; anisocoria is the efferent hallmark. (Book p28)"
+  },
+  {
+   "id": "OPH-C7-021",
+   "sec": "Afferent lesions — AAPO versus RAPD",
+   "page": 28,
+   "fmt": "recall",
+   "q": "Per the symptom row of the book's comparison table, what accompanies AAPO?",
+   "opts": [
+    "I/L anopia d/t the optic nerve lesion",
+    "Loss of accommodation on near effort",
+    "Crossed diplopia with head tilt",
+    "No symptom is listed in the table"
+   ],
+   "ans": 0,
+   "exp": "Symptom row: AAPO — I/L anopia (d/t optic nerve lesion); RAPD — none (–). (Book p28)"
+  },
+  {
+   "id": "OPH-C7-022",
+   "sec": "Afferent lesions — AAPO versus RAPD",
+   "page": 28,
+   "fmt": "scenario",
+   "q": "A 68-year-old with acute left CRAO is examined. The book notes the ON is a collection of retinal ganglion cell axons. The expected pupillary finding is:",
+   "opts": [
+    "A relative afferent defect in the right eye",
+    "A relative afferent defect in the left eye",
+    "Anisocoria with a dilated left pupil",
+    "An absolute afferent defect in the left eye"
+   ],
+   "ans": 1,
+   "exp": "CRAO is an incomplete optic nerve lesion → RAPD in the affected eye; the pupils stay isocoric. (Book p28)"
+  },
+  {
+   "id": "OPH-C7-023",
+   "sec": "Afferent lesions — AAPO versus RAPD",
+   "page": 28,
+   "fmt": "match",
+   "q": "Match the finding with the lesion in the book's comparison — 1) I/L and C/L DLR absent when the lesion side is illuminated 2) Swinging flashlight test with dilation on the fatigued eye 3) Isocoric pupils in both lesions … A) Characteristic of RAPD B) Characteristic of AAPO C) Shared by AAPO and RAPD",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 2,
+   "exp": "The light reflex test (both DLRs absent on the lesion side) characterizes AAPO; the swinging flashlight test characterizes RAPD; isocoria is shared by both. (Book p28)"
+  },
+  {
+   "id": "OPH-C7-024",
+   "sec": "Wernicke's hemianopic pupil and the Argyll Robertson pupil",
+   "page": 29,
+   "fmt": "recall",
+   "q": "Which combination defines Wernicke's hemianopic pupil per the book?",
+   "opts": [
+    "Bitemporal hemianopia with a chiasmal lesion",
+    "Central scotoma with an optic nerve lesion",
+    "I/L homonymous hemianopia with an optic tract lesion",
+    "C/L homonymous hemianopia with an I/L optic tract lesion"
+   ],
+   "ans": 3,
+   "exp": "Wernicke's hemianopic pupil: site of lesion — I/L optic tract; presentation — C/L homonymous hemianopia. (Book p29)"
+  },
+  {
+   "id": "OPH-C7-025",
+   "sec": "Wernicke's hemianopic pupil and the Argyll Robertson pupil",
+   "page": 29,
+   "fmt": "scenario",
+   "q": "Light is shone on the hemianopic (invisible) half of the field in a patient with Wernicke's pupil. Per the book the expected response is:",
+   "opts": [
+    "No constriction",
+    "Strong B/L constriction",
+    "Only the consensual pupil constricts",
+    "Rapid dilation followed by constriction"
+   ],
+   "ans": 0,
+   "exp": "Light stimulus on the hemianopic/invisible VF → no constriction; light on the normal VF → pupil constriction. (Book p29)"
+  },
+  {
+   "id": "OPH-C7-026",
+   "sec": "Wernicke's hemianopic pupil and the Argyll Robertson pupil",
+   "page": 29,
+   "fmt": "truefalse",
+   "q": "Which statement about the Argyll Robertson pupil is FALSE per the book?",
+   "opts": [
+    "It is a feature of tertiary syphilis (neurosiphilis)",
+    "The pupil dilates with atropine",
+    "The accommodation/near reflex is present",
+    "The pupillary light reflex is B/L absent"
+   ],
+   "ans": 1,
+   "exp": "ARP causes: neurosiphilis (tertiary syphilis, may present with seizures and confusion), tabes dorsalis, aortic regurgitation; PLR B/L absent; accommodation present; NO dilation with atropine. (Book p29)"
+  },
+  {
+   "id": "OPH-C7-027",
+   "sec": "Wernicke's hemianopic pupil and the Argyll Robertson pupil",
+   "page": 29,
+   "fmt": "fillup",
+   "q": "Fill up: the book's mnemonic for ARP, 'ARP PRA', stands for Accommodation Reflex Present and ______.",
+   "opts": [
+    "Parasympathetic Reflex Abolished",
+    "Pupil Rapidly Adapts",
+    "Pupillary Reflex Absent",
+    "Periaqueductal Reflex Affected"
+   ],
+   "ans": 2,
+   "exp": "Mnemonic ARP PRA: Accommodation Reflex Present, Pupillary Reflex Absent. (Book p29)"
+  },
+  {
+   "id": "OPH-C7-028",
+   "sec": "Wernicke's hemianopic pupil and the Argyll Robertson pupil",
+   "page": 29,
+   "fmt": "match",
+   "q": "Match the ARP lesion site with the internuncial neurons it affects — 1) Periaqueductal grey 2) Posterior commissure … A) C/L internuncial neurons B) I/L internuncial neurons",
+   "opts": [
+    "1-A, 2-B",
+    "Both affect I/L neurons",
+    "Both affect C/L neurons",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "Periaqueductal grey affects I/L internuncial neurons; posterior commissure affects C/L internuncial neurons; lesions are usually B/L. (Book p29)"
+  },
+  {
+   "id": "OPH-C7-029",
+   "sec": "Wernicke's hemianopic pupil and the Argyll Robertson pupil",
+   "page": 29,
+   "fmt": "recall",
+   "q": "Per the book, ARP lesions are usually:",
+   "opts": [
+    "Bilateral",
+    "Unilateral and left-sided",
+    "Unilateral and right-sided",
+    "Confined to a single commissure"
+   ],
+   "ans": 0,
+   "exp": "Lesions in ARP are usually B/L. (Book p29)"
+  },
+  {
+   "id": "OPH-C7-030",
+   "sec": "Wernicke's hemianopic pupil and the Argyll Robertson pupil",
+   "page": 29,
+   "fmt": "scenario",
+   "q": "A 55-year-old with tertiary syphilis shows small constricted pupils that do not react to light but constrict on near effort. Per the book's postulate the presenting miosis persists because the EWN:",
+   "opts": [
+    "Is directly stimulated by the spirochaete",
+    "Receives neither excitatory nor inhibitory signals",
+    "Is hyperactive through the tectum",
+    "Is completely destroyed"
+   ],
+   "ans": 1,
+   "exp": "On presentation both pupils are constricted; postulate: the supra-nuclear pathway is destroyed through the periaqueductal area/tectum (–), so the EWN receives neither excitatory/inhibitory signals → miosis. (Book p29)"
+  },
+  {
+   "id": "OPH-C7-031",
+   "sec": "Wernicke's hemianopic pupil and the Argyll Robertson pupil",
+   "page": 29,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed causes of the Argyll Robertson pupil EXCEPT:",
+   "opts": [
+    "Tertiary syphilis (neurosiphilis)",
+    "Tabes dorsalis",
+    "Papilledema",
+    "Aortic regurgitation"
+   ],
+   "ans": 2,
+   "exp": "ARP causes: neurosiphilis (tertiary syphilis), tabes dorsalis, aortic regurgitation; papilledema is a cause of secondary optic atrophy, not of ARP. (Book p29)"
+  },
+  {
+   "id": "OPH-C7-032",
+   "sec": "Tonic pupil, pharmacological mydriasis and the anisocoria algorithm",
+   "page": 30,
+   "fmt": "match",
+   "q": "Match the efferent lesion with its site of lesion in the book's table — 1) Tonic/Adie's pupil 2) Pharmacological mydriasis … A) Drug action: supranuclear inhibition of the EWN B) Ciliary ganglion/short ciliary nerve",
+   "opts": [
+    "Both involve the EWN only",
+    "1-A, 2-B",
+    "Both involve the ciliary ganglion",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "Tonic/Adie's pupil: ciliary ganglion/short ciliary nerve; pharmacological mydriasis: drug action — supranuclear inhibition of the EWN (e.g. atropine). (Book p30)"
+  },
+  {
+   "id": "OPH-C7-033",
+   "sec": "Tonic pupil, pharmacological mydriasis and the anisocoria algorithm",
+   "page": 30,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed causes of the tonic pupil EXCEPT:",
+   "opts": [
+    "Horner syndrome",
+    "Peripheral neuropathy of diabetes/alcoholism",
+    "Trauma",
+    "Herpes zoster virus (HZV) ganglionitis"
+   ],
+   "ans": 0,
+   "exp": "Tonic pupil causes: HZV ganglionitis, diabetes/alcoholism → peripheral neuropathy, trauma; Holmes-Adie pupil = tonic pupil + ↓ deep tendon reflexes. Horner syndrome is not in this list. (Book p30)"
+  },
+  {
+   "id": "OPH-C7-034",
+   "sec": "Tonic pupil, pharmacological mydriasis and the anisocoria algorithm",
+   "page": 30,
+   "fmt": "recall",
+   "q": "Per the book, Holmes-Adie pupil is:",
+   "opts": [
+    "Argyll Robertson pupil with nystagmus",
+    "Tonic pupil with ↓ deep tendon reflexes",
+    "Tonic pupil with ptosis",
+    "Pharmacological mydriasis with miosis"
+   ],
+   "ans": 1,
+   "exp": "Holmes-Adie pupil: tonic pupil + ↓ deep tendon reflexes. (Book p30)"
+  },
+  {
+   "id": "OPH-C7-035",
+   "sec": "Tonic pupil, pharmacological mydriasis and the anisocoria algorithm",
+   "page": 30,
+   "fmt": "fillup",
+   "q": "Fill up: denervation hypersensitivity of the tonic pupil is demonstrated by constriction with ______ dilute pilocarpine.",
+   "opts": [
+    "1 percent solution",
+    "5 percent solution",
+    "0.125 percent solution",
+    "10 percent solution"
+   ],
+   "ans": 2,
+   "exp": "Denervation hypersensitivity: the denervated sphincter pupillae overexpresses receptors (mushrooming), so it hyperreacts and constricts with 0.125% dilute pilocarpine. (Book p30)"
+  },
+  {
+   "id": "OPH-C7-036",
+   "sec": "Tonic pupil, pharmacological mydriasis and the anisocoria algorithm",
+   "page": 30,
+   "fmt": "truefalse",
+   "q": "Which statement about the tonic pupil is FALSE per the book?",
+   "opts": [
+    "The I/L pupil does not constrict to light while the C/L pupil constricts",
+    "The near reflex is present with slow, vermiform dilating movements",
+    "It constricts to 0.125% pilocarpine",
+    "The two pupils are equal in size"
+   ],
+   "ans": 3,
+   "exp": "The tonic pupil shows anisocoria (unequal pupil size), which differentiates it from afferent pathway lesions (isocoria); I/L DLR ↓ and CLR absent, near reflex present (slow vermiform), denervation hypersensitivity to 0.125% pilocarpine. (Book p30)"
+  },
+  {
+   "id": "OPH-C7-037",
+   "sec": "Tonic pupil, pharmacological mydriasis and the anisocoria algorithm",
+   "page": 31,
+   "fmt": "scenario",
+   "q": "A 28-year-old's anisocoria is greater in the dark and the abnormal pupil is the smaller one. Per the book's algorithm the next test is:",
+   "opts": [
+    "1% apraclonidine test",
+    "1% pilocarpine",
+    "Forced duction test",
+    "0.125% pilocarpine"
+   ],
+   "ans": 0,
+   "exp": "Anisocoria greater in the dark → the lesion/abnormal pupil is the constricted one (the normal pupil can dilate in the dark, the abnormal one cannot) → 1% apraclonidine test. (Book p31)"
+  },
+  {
+   "id": "OPH-C7-038",
+   "sec": "Tonic pupil, pharmacological mydriasis and the anisocoria algorithm",
+   "page": 31,
+   "fmt": "match",
+   "q": "Match the anisocoria pattern with the book's diagnosis — 1) Greater in dark, small pupil, apraclonidine positive (abnormal pupil dilates) 2) Greater in dark, small pupil, apraclonidine negative 3) Greater in light, dilated pupil, constricts to 0.125% pilocarpine … A) Physiological anisocoria B) Horner's syndrome C) Tonic pupil",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-D, 2-A, 3-B",
+    "1-D, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Small pupil with dark > light: apraclonidine positive → Horner's syndrome; negative → physiological anisocoria (anisocoria only in dark). Dilated pupil with light > dark constricting to 0.125% pilocarpine → tonic pupil. (Book p31)"
+  },
+  {
+   "id": "OPH-C7-039",
+   "sec": "Tonic pupil, pharmacological mydriasis and the anisocoria algorithm",
+   "page": 31,
+   "fmt": "numeric",
+   "q": "The book defines anisocoria as a difference of at least ______ in pupil size between the two eyes.",
+   "opts": [
+    "0.2 mm",
+    "1.0 mm",
+    "0.4 mm",
+    "1.5 mm"
+   ],
+   "ans": 2,
+   "exp": "Anisocoria: difference ≥0.4 mm in pupil size between the two eyes. (Book p31)"
+  },
+  {
+   "id": "OPH-C7-040",
+   "sec": "Tonic pupil, pharmacological mydriasis and the anisocoria algorithm",
+   "page": 31,
+   "fmt": "scenario",
+   "q": "A 40-year-old farmer's anisocoria is greater in the light; the abnormal pupil is dilated with normal shape. It does not constrict to 0.125% pilocarpine and also not to 1% pilocarpine. Per the flowchart the diagnosis is:",
+   "opts": [
+    "3rd CN palsy",
+    "Tonic pupil",
+    "Horner's syndrome",
+    "Pharmacological mydriasis"
+   ],
+   "ans": 3,
+   "exp": "When the abnormal pupil does not constrict even with 1% pilocarpine, a weak agonist cannot reverse mydriasis by a strong antagonist like atropine → pharmacological mydriasis; a 3rd CN palsy pupil would constrict with 1%. (Book p31)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U7-1",
+   "ch": 7,
+   "n": 1,
+   "title": "The pupillary reflexes and the light reflex overview",
+   "sec": "Neuro-Ophthalmology · p26",
+   "guide": "Four pupillary reflexes: near (accommodation, convergence, miosis), ciliospinal (pain in side of neck/trunk → I/L pupil dilation), psychosensory (stress/emotion → dilation) and the pupillary light reflex (PLR). PLR overview: dark room procedure; hand between the eyes separates the visual fields. Normal: bright light → constriction, low light → dilation. Illuminating one eye constricts the illuminated pupil (direct reflex) and the non-illuminated C/L pupil (consensual reflex).",
+   "qs": [
+    "OPH-C7-001",
+    "OPH-C7-002",
+    "OPH-C7-003",
+    "OPH-C7-004",
+    "OPH-C7-005",
+    "OPH-C7-006",
+    "OPH-C7-007"
+   ]
+  },
+  {
+   "id": "OPH-U7-2",
+   "ch": 7,
+   "n": 2,
+   "title": "The PLR pathway and the afferent–efferent lesion map",
+   "sec": "Neuro-Ophthalmology · p27",
+   "guide": "Afferent (I/L) limb: light on one eye → optic nerve; PLR fibres exit the optic tract before reaching the LGB to the pretectal nucleus (centre); PLR efferent neurons are primarily temporal. Efferent (B/L) limb: centre → internuncial neuron → B/L EWN (accessory nucleus for CN III) → B/L CN III → B/L ciliary ganglion → B/L short ciliary nerve → B/L sphincter pupillae constriction. ON, OC, OT are common to both the PLR and the visual pathway. Lesions of PLR: afferent — absolute/total (AAPO), relative (Marcus Gunn/RAPD), Wernicke's pupil; efferent — Argyll Robertson pupil (ARP), tonic pupil, pharmacological mydriasis.",
+   "qs": [
+    "OPH-C7-008",
+    "OPH-C7-009",
+    "OPH-C7-010",
+    "OPH-C7-011",
+    "OPH-C7-012",
+    "OPH-C7-013",
+    "OPH-C7-014",
+    "OPH-C7-015"
+   ]
+  },
+  {
+   "id": "OPH-U7-3",
+   "ch": 7,
+   "n": 3,
+   "title": "Afferent pathway lesions — comparing AAPO and RAPD",
+   "sec": "Neuro-Ophthalmology · p28",
+   "guide": "AAPO (complete optic nerve lesion d/t trauma, end stage optic nerve disease): light reflex test shows I/L DLR and C/L DLR absent when the lesion side is illuminated; symptom I/L anopia. RAPD (incomplete ON lesion d/t optic neuritis, CRAO, retinal detachment — ON is a collection of retinal ganglion cell axons): swinging flashlight test — on presentation B/L constricted, on stimulus B/L constrict on one eye, pupils dilate in the meantime on swinging, constrict again; repeat fatigues the lesioned ON → B/L dilation when the lesion eye is stimulated; no symptom. In both, pupils are always equal in size: isocoria.",
+   "qs": [
+    "OPH-C7-016",
+    "OPH-C7-017",
+    "OPH-C7-018",
+    "OPH-C7-019",
+    "OPH-C7-020",
+    "OPH-C7-021",
+    "OPH-C7-022",
+    "OPH-C7-023"
+   ]
+  },
+  {
+   "id": "OPH-U7-4",
+   "ch": 7,
+   "n": 4,
+   "title": "Wernicke's hemianopic pupil and the Argyll Robertson pupil",
+   "sec": "Neuro-Ophthalmology · p29",
+   "guide": "Wernicke's hemianopic pupil: I/L optic tract lesion → C/L homonymous hemianopia; light on the hemianopic/invisible VF gives no constriction, light on the normal VF constricts. ARP (efferent): causes — neurosiphilis (tertiary syphilis, may present with seizures/confusion), tabes dorsalis, aortic regurgitation; site — periaqueductal grey (affects I/L internuncial neurons) > posterior commissure (C/L internuncial neurons), usually B/L. Features: PLR B/L absent, accommodation/near reflex present (dorsal EWN carrying near reflex fibres is normal), no dilation with atropine, both pupils constricted on presentation (EWN receives neither excitatory/inhibitory signals). Mnemonic ARP PRA = Accommodation Reflex Present, Pupillary Reflex Absent.",
+   "qs": [
+    "OPH-C7-024",
+    "OPH-C7-025",
+    "OPH-C7-026",
+    "OPH-C7-027",
+    "OPH-C7-028",
+    "OPH-C7-029",
+    "OPH-C7-030",
+    "OPH-C7-031"
+   ]
+  },
+  {
+   "id": "OPH-U7-5",
+   "ch": 7,
+   "n": 5,
+   "title": "Tonic pupil, pharmacological mydriasis and the anisocoria workup",
+   "sec": "Neuro-Ophthalmology · p30-31",
+   "guide": "Tonic/Adie's pupil: ciliary ganglion/short ciliary nerve; causes — HZV ganglionitis, diabetes/alcoholism peripheral neuropathy, trauma; Holmes-Adie pupil = tonic pupil + ↓ deep tendon reflexes. I/L DLR ↓, CLR absent; near reflex present with slow vermiform dilating movements; denervation hypersensitivity constricts with 0.125% dilute pilocarpine (sphincter denervated → overexpression of receptors). Pharmacological mydriasis: drug action (e.g. atropine) supranuclear inhibition of EWN; does not dilate even with 1% pilocarpine. Anisocoria (difference ≥0.4 mm): greater in dark → abnormal pupil is constricted → 1% apraclonidine (positive = Horner's, negative = physiological); greater in light → abnormal pupil is dilated → 0.125% pilocarpine (constricts = tonic pupil; no constriction → 1% pilocarpine: constricts = 3rd CN palsy, neither = pharmacological mydriasis); abnormal shape = iris damage.",
+   "qs": [
+    "OPH-C7-032",
+    "OPH-C7-033",
+    "OPH-C7-034",
+    "OPH-C7-035",
+    "OPH-C7-036",
+    "OPH-C7-037",
+    "OPH-C7-038",
+    "OPH-C7-039",
+    "OPH-C7-040"
+   ]
+  }
+ ]
+}

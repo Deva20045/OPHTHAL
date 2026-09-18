@@ -1,0 +1,667 @@
+{
+ "chapter": 12,
+ "title": "Squint : Investigations",
+ "pageRange": "48-53",
+ "questions": [
+  {
+   "id": "OPH-C12-001",
+   "sec": "Ocular movements, refraction, accommodative squint and fusional vergence",
+   "page": 48,
+   "fmt": "numeric",
+   "q": "Per the book, ocular movements are examined in how many directions of gaze?",
+   "opts": [
+    "6",
+    "9",
+    "8",
+    "12"
+   ],
+   "ans": 1,
+   "exp": "Examination of ocular movements: 9 directions of gaze, each with its acting muscle (1°, 2° and 3° gaze). (Book p48)"
+  },
+  {
+   "id": "OPH-C12-002",
+   "sec": "Ocular movements, refraction, accommodative squint and fusional vergence",
+   "page": 48,
+   "fmt": "match",
+   "q": "Match the gaze with its acting muscles in the book's 9-gaze figure — 1) Dextro-elevation 2) Sursumversion 3) Levo-depression … A) RSO + LIR B) RSR + RIO and LSR + LIO C) RSR + LIO",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-D, 2-A, 3-C",
+    "1-D, 2-C, 3-A",
+    "1-C, 2-B, 3-D"
+   ],
+   "ans": 0,
+   "exp": "Dextro-elevation: RSR + LIO; sursumversion (B/L elevation): RSR + RIO and LSR + LIO; levo-depression: RSO + LIR. (Book p48)"
+  },
+  {
+   "id": "OPH-C12-003",
+   "sec": "Ocular movements, refraction, accommodative squint and fusional vergence",
+   "page": 48,
+   "fmt": "fillup",
+   "q": "Fill up: in the book's 9-gaze chart, dextroversion is achieved by ______.",
+   "opts": [
+    "RIR + LSO",
+    "RSR + LIO",
+    "RLR + LMR",
+    "RSO + LIR"
+   ],
+   "ans": 2,
+   "exp": "Dextroversion: RLR + LMR; levoversion: RMR + LLR; deorsumversion: RIR + RSO and LIR + LSO. (Book p48)"
+  },
+  {
+   "id": "OPH-C12-004",
+   "sec": "Ocular movements, refraction, accommodative squint and fusional vergence",
+   "page": 48,
+   "fmt": "recall",
+   "q": "Per the book, visual acuity <6/6 on Snellen's chart indicates a refractory error, measured by the:",
+   "opts": [
+    "Keratometer",
+    "Tonometer",
+    "OCT",
+    "Retinoscope"
+   ],
+   "ans": 3,
+   "exp": "Measurement of refractory error: visual acuity — Snellen's chart (6/6 normal; <6/6: refractory error → measured by retinoscope). (Book p48)"
+  },
+  {
+   "id": "OPH-C12-005",
+   "sec": "Ocular movements, refraction, accommodative squint and fusional vergence",
+   "page": 48,
+   "fmt": "scenario",
+   "q": "A 5-year-old with uncorrected hypermetropia develops an inward deviation. Per the book the chain is loss of near vision → overaccommodation + overconvergence → esotropia. The treatment listed is:",
+   "opts": [
+    "Miotics",
+    "Use of spectacles",
+    "Botulinum toxin injection",
+    "Prism bar cover test alone"
+   ],
+   "ans": 1,
+   "exp": "Accommodative squint: uncorrected hypermetropia → loss of near vision → overaccommodation + overconvergence → inward deviation: esotropia; treatment — use of spectacles. (Book p48)"
+  },
+  {
+   "id": "OPH-C12-006",
+   "sec": "Ocular movements, refraction, accommodative squint and fusional vergence",
+   "page": 48,
+   "fmt": "fillup",
+   "q": "Fill up: fusional vergence in the book is the extra power of the extraocular muscles to keep ______ from manifesting.",
+   "opts": [
+    "Heterophoria",
+    "Anisocoria",
+    "Amaurosis fugax",
+    "Nystagmus"
+   ],
+   "ans": 0,
+   "exp": "Fusional vergence: extra power of extraocular muscles to keep heterophoria from manifesting. (Book p48)"
+  },
+  {
+   "id": "OPH-C12-007",
+   "sec": "Ocular movements, refraction, accommodative squint and fusional vergence",
+   "page": 48,
+   "fmt": "recall",
+   "q": "Among the book's tests for fusional vergence, the RAF (Royal Air Force) rule is the:",
+   "opts": [
+    "Most sensitive test",
+    "Only objective test",
+    "M/c used — a points measured",
+    "Test of stereopsis"
+   ],
+   "ans": 2,
+   "exp": "Tests for fusional vergence: Livingston gauge test, pencil test, synoptophore, RAF (Royal Air Force) rule — m/c used, a points measured. (Book p48)"
+  },
+  {
+   "id": "OPH-C12-008",
+   "sec": "Ocular movements, refraction, accommodative squint and fusional vergence",
+   "page": 48,
+   "fmt": "numeric",
+   "q": "Per the book's RAF ruler diagram, moving the ruler until the patient reports diplopia marks the near point of convergence, normal is ______; moving it until blurring marks the near point of accommodation (normal 20y: 8 cm, 50y: >46 cm).",
+   "opts": [
+    "<5 cm",
+    "<20 cm",
+    "<15 cm",
+    "<10 cm"
+   ],
+   "ans": 3,
+   "exp": "RAF ruler (placed on nose): move until blurring → near point of accommodation (normal 20y — 8cm, 50y >46cm); move until diplopia → near point of convergence (normal <10 cm). (Book p48)"
+  },
+  {
+   "id": "OPH-C12-009",
+   "sec": "Measuring ocular deviation — objective tests (Hirschberg, Bruckner)",
+   "page": 49,
+   "fmt": "match",
+   "q": "Match the deviation-measurement group with its tests in the book — 1) Objective test 2) Subjective — ophthalmoplegic principle 3) Subjective — haploscope principle … A) Lancaster RG test, synoptophore B) Maddox rod, Maddox wing C) Hirschberg, Bruckner, cover-uncover, prism-bar cover",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-C, 2-B, 3-D",
+    "1-A, 2-D, 3-B",
+    "1-D, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Objective: Hirschberg's, Bruckner's, cover-uncover, prism-bar cover. Subjective: based on the ophthalmoplegic principle — Maddox rod, Maddox wing; based on the haploscope principle — Lancaster RG test, synoptophore. (Book p49)"
+  },
+  {
+   "id": "OPH-C12-010",
+   "sec": "Measuring ocular deviation — objective tests (Hirschberg, Bruckner)",
+   "page": 49,
+   "fmt": "recall",
+   "q": "The Hirschberg test in the book is also called the:",
+   "opts": [
+    "Corneal reflection test",
+    "Red reflex test of infants",
+    "Cover-uncover test",
+    "Tonometric test"
+   ],
+   "ans": 0,
+   "exp": "Hirschberg (corneal reflection) test: a. diagnosis of direction of deviation; b. measurement of degree of deviation. (Book p49)"
+  },
+  {
+   "id": "OPH-C12-011",
+   "sec": "Measuring ocular deviation — objective tests (Hirschberg, Bruckner)",
+   "page": 49,
+   "fmt": "fillup",
+   "q": "Fill up: for Hirschberg direction of deviation the book's mnemonic DOOR stands for deviation ______ of reflection.",
+   "opts": [
+    "Adjacent",
+    "Identical",
+    "Opposite",
+    "Inferior"
+   ],
+   "ans": 2,
+   "exp": "Mnemonic: DOOR — deviation opposite of reflection (e.g. CR nasal to centre → 15° exodeviation at the pupillary margin). (Book p49)"
+  },
+  {
+   "id": "OPH-C12-012",
+   "sec": "Measuring ocular deviation — objective tests (Hirschberg, Bruckner)",
+   "page": 49,
+   "fmt": "numeric",
+   "q": "Per the book, 1 mm deviation of the corneal reflection from the centre of the pupil equals ______ of squint, i.e. 14 prism dioptres (1 pd = 1/2°).",
+   "opts": [
+    "14°",
+    "28°",
+    "3.5°",
+    "7°"
+   ],
+   "ans": 3,
+   "exp": "Measurement of degree of deviation: 1 mm deviation of CR from centre of pupil = 7° squint / 14 prism dioptres; 1° = 2 pd (1 pd = 1/2°). (Book p49)"
+  },
+  {
+   "id": "OPH-C12-013",
+   "sec": "Measuring ocular deviation — objective tests (Hirschberg, Bruckner)",
+   "page": 49,
+   "fmt": "numeric",
+   "q": "In the book's photographic degree-deviation chart, the CR at the pupillary margin equals 15°/30 Δ and the CR at the limbus equals:",
+   "opts": [
+    "30°/60 Δ",
+    "45°/90 Δ",
+    "90°/180 Δ",
+    "15°/30 Δ"
+   ],
+   "ans": 1,
+   "exp": "CR at pupillary margin = 15°/30 Δ; CR at limbus = 45°/90 Δ; the photograph series shows 15°, 30° and 45° for ESO and EXO (clinical rule HCRT). (Book p49)"
+  },
+  {
+   "id": "OPH-C12-014",
+   "sec": "Measuring ocular deviation — objective tests (Hirschberg, Bruckner)",
+   "page": 49,
+   "fmt": "recall",
+   "q": "Per the book, Bruckner's test is a:",
+   "opts": [
+    "Screening procedure in infants — examine the fundal red reflex",
+    "A subjective test for phoria at far fixation in adults",
+    "A test of stereopsis and depth perception",
+    "A test of colour vision in the pediatric age group"
+   ],
+   "ans": 0,
+   "exp": "Bruckner's test: screening procedure in infants; shine light on the eye through direct ophthalmoscope; examine fundal red reflex. (Book p49)"
+  },
+  {
+   "id": "OPH-C12-015",
+   "sec": "Measuring ocular deviation — objective tests (Hirschberg, Bruckner)",
+   "page": 50,
+   "fmt": "match",
+   "q": "Match the Bruckner red reflex photograph finding with its interpretation in the book — 1) Equal reflex b/w both eyes 2) Arc-like reflex 3) Unequal reflex (R darker, L lighter) … A) Unequal squint B) Refracting error C) Normal red reflex",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-C, 2-A, 3-D",
+    "1-D, 2-C, 3-B",
+    "1-D, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "i. Red reflex: normal, equal b/w both eyes; ii. Arc-like reflex: refracting error; iii. Unequal squint (one darker, one lighter). (Book p50)"
+  },
+  {
+   "id": "OPH-C12-016",
+   "sec": "Cover–uncover test and the prism bar cover test",
+   "page": 50,
+   "fmt": "match",
+   "q": "Match the cover test with its purpose in the book — 1) Cover test 2) Uncover test … A) Diagnose phoria B) Confirm tropia",
+   "opts": [
+    "1-A, 2-B",
+    "Both diagnose phoria",
+    "Both confirm tropia",
+    "1-B, 2-A"
+   ],
+   "ans": 3,
+   "exp": "Cover test: confirm tropia; uncover test: diagnose phoria. (Book p50)"
+  },
+  {
+   "id": "OPH-C12-017",
+   "sec": "Cover–uncover test and the prism bar cover test",
+   "page": 50,
+   "fmt": "fillup",
+   "q": "Fill up: the book's mnemonic for the cover-uncover test, DOOM, stands for deviation ______ of movement.",
+   "opts": [
+    "Opposite",
+    "Identical",
+    "Delayed",
+    "Perpendicular"
+   ],
+   "ans": 0,
+   "exp": "Mnemonic: DOOM — deviation opposite of movement. (Book p50)"
+  },
+  {
+   "id": "OPH-C12-018",
+   "sec": "Cover–uncover test and the prism bar cover test",
+   "page": 50,
+   "fmt": "scenario",
+   "q": "In the book's uncover test diagram, on presentation there is no deviation on stress; the affected exophoric eye is covered, deviation appears under cover, and on removal the eye moves back to normal. This test is used to:",
+   "opts": [
+    "Confirm a manifest tropia",
+    "Diagnose phoria",
+    "Measure cyclo deviation",
+    "Test the red reflex"
+   ],
+   "ans": 1,
+   "exp": "Uncover test: diagnose phoria — deviation under cover, movement of the eye back to normal on removal. (Book p50)"
+  },
+  {
+   "id": "OPH-C12-019",
+   "sec": "Cover–uncover test and the prism bar cover test",
+   "page": 50,
+   "fmt": "recall",
+   "q": "The prism bar cover test (PBCT) in the book is the best and most accurate test for:",
+   "opts": [
+    "Measuring phoria at far fixation",
+    "Assessing stereopsis",
+    "Measuring the degree of tropia",
+    "Detecting cyclo deviation"
+   ],
+   "ans": 2,
+   "exp": "PBCT: best and most accurate test for the measurement of degree of tropia. (Book p50)"
+  },
+  {
+   "id": "OPH-C12-020",
+   "sec": "Cover–uncover test and the prism bar cover test",
+   "page": 50,
+   "fmt": "fillup",
+   "q": "Fill up: the PBCT principle is neutralization — light passing through a prism deviates towards the ______.",
+   "opts": [
+    "Edge",
+    "Base",
+    "Centre",
+    "Apex"
+   ],
+   "ans": 3,
+   "exp": "PBCT principle: neutralization → light passing through a prism deviates towards the apex; goal — finding the power of prism at which the eye appears normal on cover-uncover test. (Book p50)"
+  },
+  {
+   "id": "OPH-C12-021",
+   "sec": "Cover–uncover test and the prism bar cover test",
+   "page": 50,
+   "fmt": "match",
+   "q": "Match the deviation with the prism orientation during the test in the book — 1) ESO 2) EXO 3) Hyper 4) Hypo … A) Base-in prism B) Base-down prism C) Base-up prism D) Base-out prism",
+   "opts": [
+    "1-D, 2-A, 3-B, 4-C",
+    "1-A, 2-D, 3-C, 4-B",
+    "1-D, 2-A, 3-C, 4-B",
+    "1-C, 2-B, 3-D, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Orientation of prism: ESO — base out prism; EXO — base in prism; Hyper — base down prism; Hypo — base up prism. Mnemonic DOOB: deviation opposite of base of prism. (Book p50)"
+  },
+  {
+   "id": "OPH-C12-022",
+   "sec": "Cover–uncover test and the prism bar cover test",
+   "page": 50,
+   "fmt": "oddoneout",
+   "q": "The book's PBCT mnemonic DOOB (deviation opposite of base of prism) guides prism orientation. All of the following pairings are correct EXCEPT:",
+   "opts": [
+    "ESO — base-out prism",
+    "EXO — base-in prism",
+    "Hyper — base-up prism",
+    "Hypo — base-up prism"
+   ],
+   "ans": 2,
+   "exp": "Hyper uses a base-DOWN prism (not base-up); hypo uses base-up. (Book p50)"
+  },
+  {
+   "id": "OPH-C12-023",
+   "sec": "Subjective tests (Maddox rod/wing) and diplopia",
+   "page": 51,
+   "fmt": "recall",
+   "q": "Per the book, a use of the Maddox rod test is to measure/diagnose:",
+   "opts": [
+    "Phoria at near fixation",
+    "Phoria at far fixation",
+    "Tropia in infants",
+    "Stereopsis"
+   ],
+   "ans": 1,
+   "exp": "Maddox rod test uses: 1. measure/diagnose phoria at far fixation; 2. macular function test; 3. double Maddox rod test — measure cyclodeviation. (Book p51)"
+  },
+  {
+   "id": "OPH-C12-024",
+   "sec": "Subjective tests (Maddox rod/wing) and diplopia",
+   "page": 51,
+   "fmt": "match",
+   "q": "Match the Maddox rod result (patient's view) with the book's diagnosis — 1) Dot on the line 2) Left exophoria/tropia 3) Left esophoria/tropia … A) Orthophoria (normal) B) Crossed diplopia C) Uncrossed diplopia",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 3,
+   "exp": "Results: dot on the line — orthophoria (normal); left exophoria/tropia — crossed diplopia; left esophoria/tropia — uncrossed diplopia. (Book p51)"
+  },
+  {
+   "id": "OPH-C12-025",
+   "sec": "Subjective tests (Maddox rod/wing) and diplopia",
+   "page": 51,
+   "fmt": "oddoneout",
+   "q": "All of the following are stated about the Maddox wing in the book EXCEPT:",
+   "opts": [
+    "It diagnoses phoria at near fixation",
+    "It is obsolete",
+    "It is the most sensitive test for stereopsis",
+    "It is a subjective test based on the diplopia principle"
+   ],
+   "ans": 2,
+   "exp": "Maddox wing: diagnoses phoria at near fixation; obsolete. It is not a stereopsis test. (Book p51)"
+  },
+  {
+   "id": "OPH-C12-026",
+   "sec": "Subjective tests (Maddox rod/wing) and diplopia",
+   "page": 51,
+   "fmt": "fillup",
+   "q": "Fill up: the book gives one test to differentiate between tropia and phoria: the ______.",
+   "opts": [
+    "Cover-uncover test",
+    "Maddox rod test",
+    "Bruckner's test",
+    "Worth 4-dot test"
+   ],
+   "ans": 0,
+   "exp": "Note: one test to differentiate between tropia and phoria — the cover-uncover test. (Book p51)"
+  },
+  {
+   "id": "OPH-C12-027",
+   "sec": "Subjective tests (Maddox rod/wing) and diplopia",
+   "page": 51,
+   "fmt": "recall",
+   "q": "Monocular diplopia per the book is diplopia that does not disappear on closing the normal eye. Listed examples include all EXCEPT:",
+   "opts": [
+    "Subluxation of lens",
+    "Severe refractory errors (anisometropia)",
+    "Iridodonesis",
+    "Myasthenia gravis"
+   ],
+   "ans": 3,
+   "exp": "Monocular examples: subluxation of lens, severe refractory errors (anisometropia), iridodonesis; myasthenia gravis is a neuromuscular junction disorder causing BINOCULAR diplopia. (Book p51)"
+  },
+  {
+   "id": "OPH-C12-028",
+   "sec": "Subjective tests (Maddox rod/wing) and diplopia",
+   "page": 51,
+   "fmt": "match",
+   "q": "Match the binocular diplopia cause group with its example in the book — 1) Myogenic cause 2) Neurogenic 3) Neuromuscular junction disorders … A) Myasthenia gravis B) 3rd, 4th, 6th nerve palsy C) Squint d/t myogenic cause",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-D",
+    "1-D, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Binocular diplopia disappears if either eye is closed; squint d/t: myogenic cause; neurogenic (3, 4, 6th nerve palsy); neuromuscular junction disorders (myasthenia gravis). (Book p51)"
+  },
+  {
+   "id": "OPH-C12-029",
+   "sec": "Subjective tests (Maddox rod/wing) and diplopia",
+   "page": 51,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed diplopia tests in the book EXCEPT:",
+   "opts": [
+    "Red-green glasses",
+    "Lee's screen",
+    "Hess chart",
+    "Amsler's grid"
+   ],
+   "ans": 3,
+   "exp": "Diplopia tests: red-green glasses (easiest way to check), Lee's screen, Hess chart (most commonly used). Amsler's grid is a retinal chart. (Book p51)"
+  },
+  {
+   "id": "OPH-C12-030",
+   "sec": "Subjective tests (Maddox rod/wing) and diplopia",
+   "page": 51,
+   "fmt": "recall",
+   "q": "The easiest way to check for diplopia per the book is:",
+   "opts": [
+    "Hess chart",
+    "Lee's screen",
+    "Red-green glasses",
+    "Synoptophore"
+   ],
+   "ans": 2,
+   "exp": "Red-green glasses: easiest way to check for diplopia; Hess chart: most commonly used for diplopia. (Book p51)"
+  },
+  {
+   "id": "OPH-C12-031",
+   "sec": "Sensory anomaly tests and stereopsis (G3 BSV)",
+   "page": 52,
+   "fmt": "match",
+   "q": "Match the sensory state with its meaning in the book — 1) BSV 2) ARC 3) Suppression … A) Adaptation to confusion B) 1 object 1 image C) Adaptation to diplopia",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-D, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Tests for sensory anomalies differentiate: 1. BSV — 1 object 1 image; 2. ARC — adaptation to diplopia; 3. Suppression — adaptation to confusion. (Book p52)"
+  },
+  {
+   "id": "OPH-C12-032",
+   "sec": "Sensory anomaly tests and stereopsis (G3 BSV)",
+   "page": 52,
+   "fmt": "match",
+   "q": "Match the Worth 4-dot dots seen with the book's interpretation — 1) 4 dots 2) 5 dots 3) 3 dots (red not seen) 4) 2 dots (green not seen) … A) LE suppression B) Diplopia — non-harmonious ARC C) Normal BSV or harmonious ARC D) RE suppression (d/t amblyopia)",
+   "opts": [
+    "1-C, 2-B, 3-D, 4-A",
+    "1-B, 2-C, 3-A, 4-D",
+    "1-C, 2-D, 3-B, 4-A",
+    "1-D, 2-A, 3-C, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Worth 4-dot results: 4 dots — normal BSV/harmonious ARC; 5 dots — diplopia (non-harmonious ARC); 3 dots — RE suppression (d/t amblyopia); 2 dots — LE suppression. (Book p52)"
+  },
+  {
+   "id": "OPH-C12-033",
+   "sec": "Sensory anomaly tests and stereopsis (G3 BSV)",
+   "page": 52,
+   "fmt": "fillup",
+   "q": "Fill up: the book calls Worth's 4-dot test more common/more important than the ______ striated glasses test.",
+   "opts": [
+    "Bagolini",
+    "Lancaster",
+    "Hess",
+    "Synoptophoric"
+   ],
+   "ans": 0,
+   "exp": "Worth's 4-dot test: more common/more important test > Bagolini striated glasses test. (Book p52)"
+  },
+  {
+   "id": "OPH-C12-034",
+   "sec": "Sensory anomaly tests and stereopsis (G3 BSV)",
+   "page": 52,
+   "fmt": "match",
+   "q": "Match the Worth 4-dot glass colour with the eye it is worn on in the book — 1) Red 2) Green … A) Worn on the right eye B) Worn on the left eye",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "Both on the right eye",
+    "Both on the left eye"
+   ],
+   "ans": 1,
+   "exp": "Worth 4-dot method: red worn on the right eye; green worn on the left eye; 4 dots are shown. (Book p52)"
+  },
+  {
+   "id": "OPH-C12-035",
+   "sec": "Sensory anomaly tests and stereopsis (G3 BSV)",
+   "page": 53,
+   "fmt": "match",
+   "q": "Match the Bagolini striated glasses finding with the book's interpretation — 1) X (two crossing lines) 2) A single diagonal line 3) Two diverging lines … A) Diplopia — non-harmonious ARC B) Right eye suppression C) BSV or harmonious ARC",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-C, 2-D, 3-B",
+    "1-B, 2-A, 3-D",
+    "1-D, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Bagolini results: X — binocular single vision or harmonious ARC; single line — right eye suppression; two diverging lines — diplopia, non-harmonious ARC. (Book p53)"
+  },
+  {
+   "id": "OPH-C12-036",
+   "sec": "Sensory anomaly tests and stereopsis (G3 BSV)",
+   "page": 53,
+   "fmt": "recall",
+   "q": "The 4 prism test in the book is used to differentiate between BSV and ______ in microtropia (small angle squint).",
+   "opts": [
+    "Phoria of the heterophoric eye",
+    "Harmonious ARC",
+    "Amblyopia of the deviated eye",
+    "Central suppression scotoma"
+   ],
+   "ans": 3,
+   "exp": "4 prism test: used to differentiate between BSV and central suppression scotoma in microtropia (small angle squint); the after image test is the other listed test. (Book p53)"
+  },
+  {
+   "id": "OPH-C12-037",
+   "sec": "Sensory anomaly tests and stereopsis (G3 BSV)",
+   "page": 53,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed tests for stereopsis (G3 BSV, depth perception) in the book EXCEPT:",
+   "opts": [
+    "Two pencil test (gross stereopsis)",
+    "Titmus fly test (Polaroid vectographic images)",
+    "Random dot stereogram test",
+    "Ishihara chart"
+   ],
+   "ans": 3,
+   "exp": "Stereopsis tests: 1. two pencil test (gross stereopsis); 2. Titmus fly test (Polaroid vectographic images, matte-ean grey); 3. random dot stereogram test — best test, eliminates monocular clues (Lang, Frisby, Frisby-Davis distance stereotest). (Book p53)"
+  },
+  {
+   "id": "OPH-C12-038",
+   "sec": "Sensory anomaly tests and stereopsis (G3 BSV)",
+   "page": 53,
+   "fmt": "truefalse",
+   "q": "Which statement about the stereopsis tests is FALSE per the book?",
+   "opts": [
+    "The Hess chart is the best test of stereopsis",
+    "The two pencil test assesses gross stereopsis",
+    "The Titmus fly test uses vectorographic images",
+    "The random dot stereogram test is the best test, used to eliminate monocular clues of depth perception"
+   ],
+   "ans": 0,
+   "exp": "Best stereopsis test = random dot stereogram; the Hess chart is a diplopia chart (most commonly used for diplopia), not the best stereopsis test. (Book p53)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U12-1",
+   "ch": 12,
+   "n": 1,
+   "title": "Ocular movements, refraction, accommodative squint and fusional vergence",
+   "sec": "Squint · p48",
+   "guide": "Examination of ocular movements: 9 directions of gaze — dextro-elevation (RSR + LIO), sursumversion (RSR + RIO, LSR + LIO), levo-elevation (RIO + LSR), dextroversion (RLR + LMR), primary position, levoversion (RMR + LLR), dextro-depression (RIR + LSO), deorsumversion (RIR + RSO, LIR + LSO), levo-depression (RSO + LIR). Refractory error: Snellen chart 6/6 normal; <6/6 → retinoscope. Accommodative squint: uncorrected hypermetropia → loss of near vision → overaccommodation + overconvergence → esotropia; treatment — spectacles. Fusional vergence: extra power of EOM to keep heterophoria from manifesting; tests — Livingston gauge, pencil, synoptophore, RAF rule (m/c used, a points measured); RAF ruler on nose: blurring point = near point of accommodation (normal 20y 8 cm, 50y >46 cm), diplopia point = near point of convergence (normal <10 cm); poor fusional vergence treated with orthoptic strengthening exercises.",
+   "qs": [
+    "OPH-C12-001",
+    "OPH-C12-002",
+    "OPH-C12-003",
+    "OPH-C12-004",
+    "OPH-C12-005",
+    "OPH-C12-006",
+    "OPH-C12-007",
+    "OPH-C12-008"
+   ]
+  },
+  {
+   "id": "OPH-U12-2",
+   "ch": 12,
+   "n": 2,
+   "title": "Measuring ocular deviation — objective tests (Hirschberg, Bruckner)",
+   "sec": "Squint · p49-50",
+   "guide": "Objective tests: Hirschberg's, Bruckner's, cover-uncover, prism-bar cover. Subjective: ophthalmoplegic principle (Maddox rod, Maddox wing); haploscope principle (Lancaster RG, synoptophore). Hirschberg (corneal reflection): direction — DOOR (deviation opposite of reflection; CR nasal to centre → 15° exodeviation at pupillary margin); degree — 1 mm CR deviation = 7° squint/14 Δ (1 pd = 1/2°); CR at pupillary margin 15°/30 Δ, at limbus 45°/90 Δ (photographic chart 15/30/45°, clinical rule HCRT). Bruckner's: screening in infants; light through direct ophthalmoscope; examine fundal red reflex — equal b/w both eyes (normal), arc-like (refracting error), unequal (unequal squint).",
+   "qs": [
+    "OPH-C12-009",
+    "OPH-C12-010",
+    "OPH-C12-011",
+    "OPH-C12-012",
+    "OPH-C12-013",
+    "OPH-C12-014",
+    "OPH-C12-015"
+   ]
+  },
+  {
+   "id": "OPH-U12-3",
+   "ch": 12,
+   "n": 3,
+   "title": "Cover–uncover test and the prism bar cover test",
+   "sec": "Squint · p50",
+   "guide": "Cover test: confirm tropia (covered eye shows corrective movement); uncover test: diagnose phoria (deviation under cover, returns on removal). Mnemonic DOOM: deviation opposite of movement. PBCT: best and most accurate test for the measurement of degree of tropia; principle — neutralization, light through a prism deviates towards the apex; goal — prism power at which the eye appears normal on cover-uncover; mnemonic DOOB (deviation opposite of base of prism); orientation — ESO base-out, EXO base-in, hyper base-down, hypo base-up.",
+   "qs": [
+    "OPH-C12-016",
+    "OPH-C12-017",
+    "OPH-C12-018",
+    "OPH-C12-019",
+    "OPH-C12-020",
+    "OPH-C12-021",
+    "OPH-C12-022"
+   ]
+  },
+  {
+   "id": "OPH-U12-4",
+   "ch": 12,
+   "n": 4,
+   "title": "Subjective tests (Maddox rod/wing) and diplopia",
+   "sec": "Squint · p51",
+   "guide": "Maddox rod (diplopia principle): uses — measure/diagnose phoria at far fixation, macular function test, double Maddox rod test (measure cyclodeviation); results — dot on line: orthophoria; crossed diplopia: left exophoria/tropia; uncrossed: left esophoria/tropia. Maddox wing: diagnoses phoria at near fixation; obsolete. One test to differentiate tropia vs phoria: cover-uncover. Diplopia types: monocular (does not disappear on closing the normal eye — subluxation of lens, severe refractory errors/anisometropia, iridodonesis) and binocular (disappears if either eye is closed — squint d/t myogenic, neurogenic (3, 4, 6th nerve palsy), neuromuscular junction disorders (myasthenia gravis)). Tests: red-green glasses (easiest way), Lee's screen, Hess chart (most commonly used).",
+   "qs": [
+    "OPH-C12-023",
+    "OPH-C12-024",
+    "OPH-C12-025",
+    "OPH-C12-026",
+    "OPH-C12-027",
+    "OPH-C12-028",
+    "OPH-C12-029",
+    "OPH-C12-030"
+   ]
+  },
+  {
+   "id": "OPH-U12-5",
+   "ch": 12,
+   "n": 5,
+   "title": "Sensory anomaly tests and stereopsis (G3 BSV, depth perception)",
+   "sec": "Squint · p52-53",
+   "guide": "Sensory anomaly tests differentiate: BSV (1 object 1 image), ARC (adaptation to diplopia), suppression (adaptation to confusion). Worth 4-dot: more common/more important > Bagolini; red on right eye, green on left eye; 4 dots — normal BSV/harmonious ARC; 5 dots — diplopia/non-harmonious ARC; 3 dots — RE suppression (d/t amblyopia); 2 dots — LE suppression. Bagolini striated glasses (RE 45°, LE 135°; light images perpendicular to striations): X — BSV or harmonious ARC; single line — RE suppression; diverging lines — diplopia, non-harmonious ARC. 4 prism test: differentiates BSV from central suppression scotoma in microtropia; after image test also listed. Stereopsis tests: two pencil (gross), Titmus fly (Polaroid vectographic), random dot stereogram — best (eliminates monocular clues): Lang, Frisby, Frisby-Davis distance stereotest.",
+   "qs": [
+    "OPH-C12-031",
+    "OPH-C12-032",
+    "OPH-C12-033",
+    "OPH-C12-034",
+    "OPH-C12-035",
+    "OPH-C12-036",
+    "OPH-C12-037",
+    "OPH-C12-038"
+   ]
+  }
+ ]
+}

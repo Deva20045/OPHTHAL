@@ -1,0 +1,423 @@
+{
+ "chapter": 9,
+ "title": "Congenital Anomalies of Optic Disc and Colour Blindness",
+ "pageRange": "40-42",
+ "questions": [
+  {
+   "id": "OPH-C9-001",
+   "sec": "Congenital anomalies of the optic disc",
+   "page": 40,
+   "fmt": "recall",
+   "q": "Morning glory syndrome per the book is a:",
+   "opts": [
+    "Bilateral malformation of the optic disc",
+    "U/L malformation of the optic disc",
+    "Congenital coloboma of the disc",
+    "Papillophakia of the disc"
+   ],
+   "ans": 1,
+   "exp": "Morning glory syndrome: U/L malformation of the OD. (Book p40)"
+  },
+  {
+   "id": "OPH-C9-002",
+   "sec": "Congenital anomalies of the optic disc",
+   "page": 40,
+   "fmt": "fillup",
+   "q": "Fill up: the cause of morning glory syndrome in the book is a peripapillary scleral defect d/t absence of the ______.",
+   "opts": [
+    "Lamina cribrosa",
+    "Zonules",
+    "Scleral spur",
+    "Corneal endothelium"
+   ],
+   "ans": 0,
+   "exp": "Cause: peripapillary scleral defect d/t absence of lamina cribrosa. (Book p40)"
+  },
+  {
+   "id": "OPH-C9-003",
+   "sec": "Congenital anomalies of the optic disc",
+   "page": 40,
+   "fmt": "recall",
+   "q": "The fundal photograph of morning glory syndrome in the book shows a large OD with:",
+   "opts": [
+    "A macular star of hard exudates",
+    "Peripapillary drusen of the disc",
+    "A radial pattern of blood vessels, spoke wheel like",
+    "A champagne-cork surface of the disc"
+   ],
+   "ans": 2,
+   "exp": "Morning glory photograph: large OD with a radial pattern of blood vessels (spoke wheel like). (Book p40)"
+  },
+  {
+   "id": "OPH-C9-004",
+   "sec": "Congenital anomalies of the optic disc",
+   "page": 40,
+   "fmt": "fillup",
+   "q": "Fill up: the lamina cribrosa is the fenestrated lamina of the ______ that allows the fibres of the ON to pass through.",
+   "opts": [
+    "Cornea",
+    "Retina",
+    "Choroid",
+    "Sclera"
+   ],
+   "ans": 3,
+   "exp": "Lamina cribrosa: fenestrated lamina of sclera that allows fibres of the ON to pass through. (Book p40)"
+  },
+  {
+   "id": "OPH-C9-005",
+   "sec": "Congenital anomalies of the optic disc",
+   "page": 40,
+   "fmt": "recall",
+   "q": "Per the book's diagram, if the lamina cribrosa is absent the result is:",
+   "opts": [
+    "Axial retrodisplacement of the ON",
+    "Anterior displacement of the ON",
+    "Atrophy of the retina",
+    "Choroidal detachment"
+   ],
+   "ans": 0,
+   "exp": "If the lamina cribrosa is absent → axial retrodisplacement of the ON. (Book p40)"
+  },
+  {
+   "id": "OPH-C9-006",
+   "sec": "Congenital anomalies of the optic disc",
+   "page": 40,
+   "fmt": "scenario",
+   "q": "A child's disc photograph shows white streaks around the optic disc. Per the book this appearance occurs when:",
+   "opts": [
+    "The OD becomes hyperemic",
+    "The OD acquires myelination",
+    "Drusen calcify on the disc",
+    "The cup excavates"
+   ],
+   "ans": 1,
+   "exp": "If the OD acquires myelination → white streaks around the OD. (Book p40)"
+  },
+  {
+   "id": "OPH-C9-007",
+   "sec": "Congenital anomalies of the optic disc",
+   "page": 40,
+   "fmt": "truefalse",
+   "q": "Which statement about myelinated nerve fibres of the disc is FALSE per the book?",
+   "opts": [
+    "The normal OD is non-myelinated",
+    "There is no visual loss",
+    "They cause a macular star",
+    "They are a congenital disc anomaly"
+   ],
+   "ans": 2,
+   "exp": "Myelinated nerve fibres: normal OD is non-myelinated; no visual loss. (Book p40)"
+  },
+  {
+   "id": "OPH-C9-008",
+   "sec": "Colour blindness — terminology and congenital genetics",
+   "page": 40,
+   "fmt": "match",
+   "q": "Match the primary colour with its terminology in the book — 1) Red 2) Green 3) Blue … A) Trita B) Prota C) Deuta",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-C, 3-B",
+    "1-A, 2-D, 3-B",
+    "1-B, 2-D, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Terminology: Red — prota; Green — deuta; Blue — trita. (Book p40)"
+  },
+  {
+   "id": "OPH-C9-009",
+   "sec": "Colour blindness — terminology and congenital genetics",
+   "page": 40,
+   "fmt": "fillup",
+   "q": "Fill up: in the book's CB pathology terminology, anopia means ______ and anomaly means a defect in perception.",
+   "opts": [
+    "Non perception",
+    "Mild blurring",
+    "Diplopia",
+    "Photopsia"
+   ],
+   "ans": 0,
+   "exp": "Pathology: anopia — non perception; anomaly — defect in perception. (Book p40)"
+  },
+  {
+   "id": "OPH-C9-010",
+   "sec": "Colour blindness — terminology and congenital genetics",
+   "page": 41,
+   "fmt": "numeric",
+   "q": "Per the book, congenital CB is X-linked recessive (m/c) with m > F, the red (L) and green (M) cone genes lie on chromosome X, and the blue (S) cone gene lies on chromosome ______.",
+   "opts": [
+    "18",
+    "3",
+    "7",
+    "12"
+   ],
+   "ans": 2,
+   "exp": "Genes affected: red (L cones) and green (M cones) — chromosome X; blue (S cones) — chromosome 7; red ↓ green CB is m/c. (Book p41)"
+  },
+  {
+   "id": "OPH-C9-011",
+   "sec": "Colour blindness — terminology and congenital genetics",
+   "page": 41,
+   "fmt": "match",
+   "q": "Match the acquired CB cause with the colour affected in the book's table — 1) Optic nerve disease (e.g. d/t ethambutol) — except glaucoma 2) Macular disease — except Stargardt's disease; sildenafil 3) Old age / digoxin … A) Blue/yellow CB B) Red/green CB C) Blue CB: yellowish tinging of vision (xanthopsia)",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-D, 3-A",
+    "1-C, 2-B, 3-D",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Acquired CB: ON diseases (eg d/t ethambutol) except glaucoma → red/green CB; macular disease except Stargardt's (a cone dystrophy without CB) + sildenafil → blue/yellow CB; old age/digoxin → blue CB with yellowish tinging (xanthopsia). (Book p41)"
+  },
+  {
+   "id": "OPH-C9-012",
+   "sec": "Colour blindness — terminology and congenital genetics",
+   "page": 41,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed in the book as exclusions in acquired CB EXCEPT:",
+   "opts": [
+    "Glaucoma (from ON-disease red/green CB)",
+    "Stargardt's disease (a cone dystrophy without CB)",
+    "Sildenafil (grouped with macular disease)",
+    "Diabetic retinopathy"
+   ],
+   "ans": 3,
+   "exp": "Exclusions printed: ON diseases — except glaucoma; macular disease — except Stargardt's disease (type of cone dystrophy without CB); sildenafil listed with macular disease; old age/digoxin. Diabetic retinopathy is not mentioned. (Book p41)"
+  },
+  {
+   "id": "OPH-C9-013",
+   "sec": "Colour blindness — types from dichromats to achromatopsia",
+   "page": 41,
+   "fmt": "recall",
+   "q": "In the book's type tree, a dichromatic patient:",
+   "opts": [
+    "Has anopia for 1 colour but can perceive the other 2 colours",
+    "Perceives all 3 colours with anomalies in 1 or 2",
+    "Has absent colour vision (black/white)",
+    "Perceives of only 1 colour"
+   ],
+   "ans": 0,
+   "exp": "Dichromatic: anopia for 1 colour, can perceive 2 other colours (protanopia, deuteranopia, tritanopia — autosomal dominant inheritance). (Book p41)"
+  },
+  {
+   "id": "OPH-C9-014",
+   "sec": "Colour blindness — types from dichromats to achromatopsia",
+   "page": 41,
+   "fmt": "fillup",
+   "q": "Fill up: trichromatic anomalous vision (a) protanomaly, (b) deuteranomaly and (c) ______ — the patient can perceive all 3 colours with anomalies in 1 or 2.",
+   "opts": [
+    "Hemeralopia",
+    "Tritanomaly",
+    "Xanthopsia",
+    "Achromatopsia"
+   ],
+   "ans": 1,
+   "exp": "Trichromatic anomalous: can perceive all 3 colours with anomalies in perception of 1 or 2 — protanomaly, deuteranomaly, tritanomaly. (Book p41)"
+  },
+  {
+   "id": "OPH-C9-015",
+   "sec": "Colour blindness — types from dichromats to achromatopsia",
+   "page": 41,
+   "fmt": "oddoneout",
+   "q": "Achromatopsia (absent colour vision) in the book's tree includes all of the following EXCEPT:",
+   "opts": [
+    "Red monochromat (black/white)",
+    "Cone monochromat (perception of only 1 colour)",
+    "Total colour blindness with hemeralopia (day blindness)",
+    "Deuteranomaly"
+   ],
+   "ans": 3,
+   "exp": "Achromatopsia: red monochromat (black/white; autosomal recessive; total colour blindness → hemeralopia/day blindness) and cone monochromat (perception of only 1 colour). Deuteranomaly is trichromatic anomalous vision. (Book p41)"
+  },
+  {
+   "id": "OPH-C9-016",
+   "sec": "Colour blindness — types from dichromats to achromatopsia",
+   "page": 41,
+   "fmt": "truefalse",
+   "q": "Which statement about the inheritance of colour vision types is FALSE per the book?",
+   "opts": [
+    "Dichromatic types are listed with autosomal dominant inheritance",
+    "Red monochromat has autosomal recessive inheritance",
+    "Trichromatic anomalous types are autosomal recessive",
+    "Congenital CB overall is X-linked recessive"
+   ],
+   "ans": 2,
+   "exp": "Dichromatic (protanopia, deuteranopia, tritanopia): autosomal dominant inheritance; red monochromat: autosomal recessive; congenital CB: X-linked recessive (m/c). (Book p41)"
+  },
+  {
+   "id": "OPH-C9-017",
+   "sec": "Colour blindness — types from dichromats to achromatopsia",
+   "page": 41,
+   "fmt": "scenario",
+   "q": "A young man sees the world in black and white and squints in bright daylight (day blindness). Per the book's tree the term for the day blindness is:",
+   "opts": [
+    "Xanthopsia",
+    "Hemeralopia",
+    "Achromatopsia of the cones",
+    "Isocoria"
+   ],
+   "ans": 1,
+   "exp": "Red monochromat (black/white): autosomal recessive, total colour blindness → hemeralopia (day blindness). (Book p41)"
+  },
+  {
+   "id": "OPH-C9-018",
+   "sec": "Colour blindness — tests",
+   "page": 42,
+   "fmt": "match",
+   "q": "Match the colour vision test with its use in the book's table — 1) Ishihara chart 2) Hardy Rand Rittler test … A) Pediatric age group B) M/c used to detect CB; cannot detect tritan defects",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "Both for pediatric age group",
+    "Both cannot detect tritan defects"
+   ],
+   "ans": 0,
+   "exp": "Ishihara chart: m/c used to detect CB; cannot detect tritan defects. Hardy Rand Rittler test: pediatric age group. (Book p42)"
+  },
+  {
+   "id": "OPH-C9-019",
+   "sec": "Colour blindness — tests",
+   "page": 42,
+   "fmt": "recall",
+   "q": "The principle shared by Ishihara and Hardy Rand Rittler charts per the book is the:",
+   "opts": [
+    "Optokinetic principle",
+    "Autostereogram principle",
+    "Pseudoisochromatic principle",
+    "Anomaloscope principle"
+   ],
+   "ans": 2,
+   "exp": "Both charts work on the pseudoisochromatic principle. (Book p42)"
+  },
+  {
+   "id": "OPH-C9-020",
+   "sec": "Colour blindness — tests",
+   "page": 42,
+   "fmt": "numeric",
+   "q": "Per the book's table, the Ishihara chart has ______ plates (numbers and lines, with ↓ false positives and false negatives), and the Hardy Rand Rittler test has ______ plates with shapes (O, Δ, ×).",
+   "opts": [
+    "24 and 38",
+    "40 and 20",
+    "30 and 30",
+    "38 and 24"
+   ],
+   "ans": 3,
+   "exp": "Ishihara: 38 plates — numbers, lines → ↓ false positives ↓ false negatives. Hardy Rand Rittler: 24 plates → shapes (O, Δ, ×). (Book p42)"
+  },
+  {
+   "id": "OPH-C9-021",
+   "sec": "Colour blindness — tests",
+   "page": 42,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed colour vision tests in the book EXCEPT:",
+   "opts": [
+    "Holmgren's wool test",
+    "Nagel's anomaloscope",
+    "Farnsworth Munsell 100 hue test",
+    "Amsler's grid"
+   ],
+   "ans": 3,
+   "exp": "Tests listed: 3. Holmgren's wool test; 4. Nagel's anomaloscope; 5. Farnsworth Munsell 100 hue; 6. Farnsworth Munsell 15 hue; 7. Lantern test. Amsler's grid (retinal chart) is not a CB test. (Book p42)"
+  },
+  {
+   "id": "OPH-C9-022",
+   "sec": "Colour blindness — tests",
+   "page": 42,
+   "fmt": "recall",
+   "q": "The most accurate test for the severity of CB per the book is:",
+   "opts": [
+    "Ishihara chart",
+    "Nagel's anomaloscope",
+    "Lantern test",
+    "Holmgren's wool test"
+   ],
+   "ans": 1,
+   "exp": "Nagel's anomaloscope: most accurate test for severity of CB. (Book p42)"
+  },
+  {
+   "id": "OPH-C9-023",
+   "sec": "Colour blindness — tests",
+   "page": 42,
+   "fmt": "scenario",
+   "q": "A 28-year-old pilot candidate needs the most sensitive CB test, one that can detect all types of CB. Per the book you choose:",
+   "opts": [
+    "Farnsworth Munsell 100 hue test (85 hue caps)",
+    "Farnsworth Munsell 15 hue test",
+    "Hardy Rand Rittler test",
+    "Red-green glasses"
+   ],
+   "ans": 0,
+   "exp": "Farnsworth Munsell 100 hue test: most sensitive test; can detect all types of CB; instrument holds 85 hue caps. (Book p42)"
+  },
+  {
+   "id": "OPH-C9-024",
+   "sec": "Colour blindness — tests",
+   "page": 42,
+   "fmt": "truefalse",
+   "q": "Which statement about the remaining CB tests is FALSE per the book?",
+   "opts": [
+    "The Farnsworth Munsell 15 hue test differentiates b/w congenital and acquired CB",
+    "The lantern test is used for vocational CB testing",
+    "The lantern test uses 85 hue caps",
+    "Nagel's anomaloscope gauges severity"
+   ],
+   "ans": 2,
+   "exp": "Farnsworth Munsell 15 hue test: differentiates b/w congenital and acquired CB; lantern test: vocational CB testing; the 85 hue caps belong to the 100 hue test, not the lantern test. (Book p42)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U9-1",
+   "ch": 9,
+   "n": 1,
+   "title": "Congenital anomalies of the optic disc",
+   "sec": "Neuro-Ophthalmology · p40",
+   "guide": "Morning glory syndrome: U/L malformation of the OD; cause — peripapillary scleral defect d/t absence of lamina cribrosa; photograph shows a large OD with a radial (spoke wheel like) pattern of blood vessels. The lamina cribrosa is the fenestrated lamina of sclera that allows the ON fibres to pass; if absent → axial retrodisplacement of the ON; if the OD acquires myelination → white streaks around the OD. Myelinated nerve fibres: normal OD is non-myelinated; no visual loss.",
+   "qs": [
+    "OPH-C9-001",
+    "OPH-C9-002",
+    "OPH-C9-003",
+    "OPH-C9-004",
+    "OPH-C9-005",
+    "OPH-C9-006",
+    "OPH-C9-007"
+   ]
+  },
+  {
+   "id": "OPH-U9-2",
+   "ch": 9,
+   "n": 2,
+   "title": "Colour blindness — terminology, genetics and types",
+   "sec": "Neuro-Ophthalmology · p40-41",
+   "guide": "Terminology: primary colours — red (prota), green (deuta), blue (trita); pathology — anopia (non perception), anomaly (defect in perception). Congenital: X-linked recessive (m/c), m > F (carrier); red (L) and green (M) cone genes on chromosome X, blue (S) on chromosome 7; red ↓ green CB m/c. Acquired: ON diseases (eg d/t ethambutol) except glaucoma → red/green CB; macular disease except Stargardt's (cone dystrophy without CB) + sildenafil → blue/yellow CB; old age/digoxin → blue CB (xanthopsia, yellowish tinging). Types: dyschromatopsia — dichromatic (anopia for 1 colour, perceives 2 others: protanopia, deuteranopia, tritanopia — autosomal dominant) and trichromatic anomalous (perceives all 3 with anomalies in 1-2: protanomaly, deuteranomaly, tritanomaly); achromatopsia — red monochromat (black/white, autosomal recessive, total CB → hemeralopia/day blindness) and cone monochromat (perception of only 1 colour).",
+   "qs": [
+    "OPH-C9-008",
+    "OPH-C9-009",
+    "OPH-C9-010",
+    "OPH-C9-011",
+    "OPH-C9-012",
+    "OPH-C9-013",
+    "OPH-C9-014",
+    "OPH-C9-015",
+    "OPH-C9-016",
+    "OPH-C9-017"
+   ]
+  },
+  {
+   "id": "OPH-U9-3",
+   "ch": 9,
+   "n": 3,
+   "title": "Colour blindness — tests",
+   "sec": "Neuro-Ophthalmology · p42",
+   "guide": "Ishihara chart: m/c used to detect CB, cannot detect tritan defects; 38 plates (numbers, lines) with ↓ false positives/false negatives. Hardy Rand Rittler: pediatric age group; 24 plates with shapes (O, Δ, ×). Both use the pseudoisochromatic principle. Others: Holmgren's wool test; Nagel's anomaloscope (most accurate for severity); Farnsworth Munsell 100 hue (most sensitive, detects all types, 85 hue caps); Farnsworth Munsell 15 hue (differentiates b/w congenital and acquired); lantern test (vocational CB testing).",
+   "qs": [
+    "OPH-C9-018",
+    "OPH-C9-019",
+    "OPH-C9-020",
+    "OPH-C9-021",
+    "OPH-C9-022",
+    "OPH-C9-023",
+    "OPH-C9-024"
+   ]
+  }
+ ]
+}

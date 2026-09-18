@@ -33,15 +33,15 @@ scope (Book p1–233) is converted into questions in strict book order.
 | 4 | Anatomy of Retina | p13 | **LIVE** |
 | 5 | Ocular Routes of Drug Administration, Blood Supply of Eye and Embryology of Eye | p14 | **LIVE** |
 | 6 | Visual Pathway and Visual Field Defects | p21 | **LIVE** |
-| 7 | Pupillary Reflexes, Light Reflex and its Lesions | p26 | SOON |
-| 8 | Optic Atrophy: Optic Neuritis, Optic Neuropathies and Papilledema | p32 | SOON |
-| 9 | Congenital Anomalies of Optic Disc and Colour Blindness | p40 | SOON |
-| 10 | Squint : Extraocular Muscles and Binocular Single Vision | p43 | SOON |
-| 11 | Squint : Classifications and Directions | p46 | SOON |
-| 12 | Squint : Investigations | p48 | SOON |
-| 13 | Paralytic Squint | p54 | SOON |
-| 14 | Gaze Defects | p59 | SOON |
-| 15 | Restrictive Squint and Comitant Squint | p63 | SOON |
+| 7 | Pupillary Reflexes, Light Reflex and its Lesions | p26 | **LIVE** |
+| 8 | Optic Atrophy: Optic Neuritis, Optic Neuropathies and Papilledema | p32 | **LIVE** |
+| 9 | Congenital Anomalies of Optic Disc and Colour Blindness | p40 | **LIVE** |
+| 10 | Squint : Extraocular Muscles and Binocular Single Vision | p43 | **LIVE** |
+| 11 | Squint : Classifications and Directions | p46 | **LIVE** |
+| 12 | Squint : Investigations | p48 | **LIVE** |
+| 13 | Paralytic Squint | p54 | **LIVE** |
+| 14 | Gaze Defects | p59 | **LIVE** |
+| 15 | Restrictive Squint and Comitant Squint | p63 | **LIVE** |
 | 16 | Pseudo-strabismus and Ocular Myopathies | p66 | SOON |
 | 17 | Anatomy and Metabolism (Lens) | p68 | SOON |
 | 18 | Acquired Cataract : Types | p73 | SOON |
@@ -78,7 +78,7 @@ scope (Book p1–233) is converted into questions in strict book order.
 | 49 | Lasers In Ophthalmology | p228 | SOON |
 | 50 | Physiology of Vision | p229 | SOON |
 
-*(Status column: Ch 1-6 = **LIVE**; every other chapter = **SOON** — rendered in the app
+*(Status column: Ch 1-15 = **LIVE**; every other chapter = **SOON** — rendered in the app
 as a locked "Soon" row. Update this table as chapters go live.)*
 
 ### Section spans
@@ -146,11 +146,20 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 4 "Anatomy of Retina" (p13): 2 units, 14 questions — BUILT & VERIFIED**
 - [x] **Ch 5 "Ocular Routes of Drug Administration, Blood Supply of Eye and Embryology of Eye" (p14–20): 6 units, 47 questions — BUILT & VERIFIED**
 - [x] **Ch 6 "Visual Pathway and Visual Field Defects" (p21–25): 5 units, 42 questions — BUILT & VERIFIED**
-- [ ] Ch 7–50 (per pipeline above)
+- [x] **Ch 7 "Pupillary Reflexes, Light Reflex and its Lesions" (p26–31): 5 units, 40 questions — BUILT & VERIFIED**
+- [x] **Ch 8 "Optic Atrophy: Optic Neuritis, Optic Neuropathies and Papilledema" (p32–39): 6 units, 48 questions — BUILT & VERIFIED**
+- [x] **Ch 9 "Congenital Anomalies of Optic Disc and Colour Blindness" (p40–42): 3 units, 24 questions — BUILT & VERIFIED**
+- [x] **Ch 10 "Squint : Extraocular Muscles and Binocular Single Vision" (p43–45): 3 units, 24 questions — BUILT & VERIFIED**
+- [x] **Ch 11 "Squint : Classifications and Directions" (p46–47): 2 units, 20 questions — BUILT & VERIFIED**
+- [x] **Ch 12 "Squint : Investigations" (p48–53): 5 units, 38 questions — BUILT & VERIFIED**
+- [x] **Ch 13 "Paralytic Squint" (p54–58): 5 units, 40 questions — BUILT & VERIFIED**
+- [x] **Ch 14 "Gaze Defects" (p59–62): 4 units, 33 questions — BUILT & VERIFIED**
+- [x] **Ch 15 "Restrictive Squint and Comitant Squint" (p63–65): 3 units, 24 questions — BUILT & VERIFIED**
+- [ ] Ch 16–50 (per pipeline above)
 
 ## NEXT
-**Ch 7 "Pupillary Reflexes, Light Reflex and its Lesions" (p26–31)** —
-render Part 1 PDF pages 29–34, read line-by-line, author `data/ch07.json`,
+**Ch 16 "Pseudo-strabismus and Ocular Myopathies" (p66–67)** —
+render Part 1 PDF pages 69–70, read line-by-line, author `data/ch16.json`,
 run build + checks + audit, commit + push.
 
 ## Live

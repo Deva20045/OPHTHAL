@@ -1,0 +1,837 @@
+{
+ "chapter": 8,
+ "title": "Optic Atrophy: Optic Neuritis, Optic Neuropathies and Papilledema",
+ "pageRange": "32-39",
+ "questions": [
+  {
+   "id": "OPH-C8-001",
+   "sec": "Optic atrophy — clinical features and the Rostenbaum index",
+   "page": 32,
+   "fmt": "recall",
+   "q": "Per the book, the state of the optic disc is representative of the:",
+   "opts": [
+    "Optic nerve",
+    "Optic tract",
+    "Ciliary ganglion",
+    "Lateral geniculate body"
+   ],
+   "ans": 0,
+   "exp": "Optic atrophy: conditions of the optic disc are representative of the optic nerve. (Book p32)"
+  },
+  {
+   "id": "OPH-C8-002",
+   "sec": "Optic atrophy — clinical features and the Rostenbaum index",
+   "page": 32,
+   "fmt": "recall",
+   "q": "The first classical sign of optic atrophy in the book is:",
+   "opts": [
+    "Enlargement of the optic cup with a deep excavation",
+    "Pallor of the optic disc d/t loss of vascularity",
+    "Peripapillary sheathing",
+    "Hyaline bodies around the disc"
+   ],
+   "ans": 1,
+   "exp": "Clinical feature 1: pallor of the OD (d/t loss of vascularity) — the first classical sign. (Book p32)"
+  },
+  {
+   "id": "OPH-C8-003",
+   "sec": "Optic atrophy — clinical features and the Rostenbaum index",
+   "page": 32,
+   "fmt": "fillup",
+   "q": "Fill up: the loss of vascularity in optic atrophy is quantified by the ______ index, the ratio of small to large blood vessels.",
+   "opts": [
+    "Frisen's grading",
+    "Parks' three step",
+    "Rostenbaum's index",
+    "Maddox rod test"
+   ],
+   "ans": 2,
+   "exp": "Loss of vascularity is defined by the Rostenbaum index — ratio of small : large blood vessels. (Book p32)"
+  },
+  {
+   "id": "OPH-C8-004",
+   "sec": "Optic atrophy — clinical features and the Rostenbaum index",
+   "page": 32,
+   "fmt": "numeric",
+   "q": "Per the book, the Rostenbaum index in a normal disc is greater than ______, and in optic atrophy it is less than ______.",
+   "opts": [
+    ">7 and <10",
+    ">10 and <3",
+    ">5 and <7",
+    ">10 and <7"
+   ],
+   "ans": 3,
+   "exp": "Normal ratio >10; optic atrophy <7, reflecting loss of small vessels on the OD. (Book p32)"
+  },
+  {
+   "id": "OPH-C8-005",
+   "sec": "Optic atrophy — clinical features and the Rostenbaum index",
+   "page": 32,
+   "fmt": "scenario",
+   "q": "A patient with optic atrophy on fundus review still reads 6/6. The book explains this is possible because:",
+   "opts": [
+    "The affected fibres determine the field loss; central fibres may be spared",
+    "The optic cup is filled up d/t swelling",
+    "Peripapillary sheathing restores the vascularity",
+    "The Rostenbaum index remains normal"
+   ],
+   "ans": 0,
+   "exp": "Visual field loss depends on the affected fibres; a patient may have 6/6 vision if central fibres are spared. (Book p32)"
+  },
+  {
+   "id": "OPH-C8-006",
+   "sec": "Optic atrophy — clinical features and the Rostenbaum index",
+   "page": 32,
+   "fmt": "oddoneout",
+   "q": "All of the following are labelled on the book's normal optic disc photograph EXCEPT:",
+   "opts": [
+    "Yellowish optic cup",
+    "Waxy pallor of the disc",
+    "Pink/orange neuroretinal ring",
+    "Normal blood vessels"
+   ],
+   "ans": 1,
+   "exp": "Normal OD photograph: optic cup (yellowish) and pink/orange neuroretinal ring; waxy pallor belongs to consecutive (retinal) atrophy. (Book p32)"
+  },
+  {
+   "id": "OPH-C8-007",
+   "sec": "Types of optic atrophy — primary, secondary and consecutive",
+   "page": 33,
+   "fmt": "match",
+   "q": "Match the atrophy type with its definition — 1) Primary (1°) 2) Secondary (2°) 3) Consecutive … A) D/t disease of the inner retina and its blood supply B) Atrophy after optic disc swelling C) Atrophy without antecedent optic disc swelling",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 2,
+   "exp": "Primary (1°): atrophy without antecedent disc swelling; Secondary (2°): atrophy after disc swelling; Consecutive: d/t disease of the inner retina and its blood supply. (Book p33)"
+  },
+  {
+   "id": "OPH-C8-008",
+   "sec": "Types of optic atrophy — primary, secondary and consecutive",
+   "page": 33,
+   "fmt": "match",
+   "q": "Match the atrophy type with the disc appearance in the book's table — 1) Primary 2) Secondary 3) Consecutive … A) Waxy pallor of the disc, less sharply defined margins B) Dirty gray-white, ill-defined margins C) Chalky white, well defined margins",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-A, 2-D, 3-B",
+    "1-A, 2-D, 3-C",
+    "1-A, 2-C, 3-D"
+   ],
+   "ans": 0,
+   "exp": "Primary: chalky white, well defined margins; Secondary: dirty gray-white, ill-defined margins; Consecutive: waxy pallor, less sharply defined margins. (Book p33)"
+  },
+  {
+   "id": "OPH-C8-009",
+   "sec": "Types of optic atrophy — primary, secondary and consecutive",
+   "page": 33,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed causes of primary optic atrophy EXCEPT:",
+   "opts": [
+    "Papilledema",
+    "Tumors",
+    "Optic neuritis (m/c cause: multiple sclerosis)",
+    "Toxic"
+   ],
+   "ans": 0,
+   "exp": "Primary causes: optic neuritis (m/c cause multiple sclerosis), tumors, trauma, hereditary, toxic; papilledema is a cause of secondary atrophy. (Book p33)"
+  },
+  {
+   "id": "OPH-C8-010",
+   "sec": "Types of optic atrophy — primary, secondary and consecutive",
+   "page": 33,
+   "fmt": "recall",
+   "q": "In the book's table, the vessels in secondary atrophy show:",
+   "opts": [
+    "Attenuation",
+    "Peripapillary sheathing",
+    "Tortuosity with telangiectasia",
+    "Normal calibre"
+   ],
+   "ans": 1,
+   "exp": "Vessels: primary — normal; secondary — peripapillary sheathing; consecutive — attenuation. (Book p33)"
+  },
+  {
+   "id": "OPH-C8-011",
+   "sec": "Types of optic atrophy — primary, secondary and consecutive",
+   "page": 33,
+   "fmt": "truefalse",
+   "q": "Which statement about the optic cup in atrophy types is FALSE per the book?",
+   "opts": [
+    "Primary: shallow, saucer shaped",
+    "Secondary: filled up d/t swelling",
+    "Consecutive: enlarged and excavated",
+    "Consecutive: normal"
+   ],
+   "ans": 2,
+   "exp": "Optic cup: primary — shallow, saucer shaped; secondary — filled up d/t swelling; consecutive — normal. (Book p33)"
+  },
+  {
+   "id": "OPH-C8-012",
+   "sec": "Types of optic atrophy — primary, secondary and consecutive",
+   "page": 33,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed retinal diseases producing consecutive atrophy EXCEPT:",
+   "opts": [
+    "Retinitis seen in CRAO/CRVO",
+    "Healed vasculitis",
+    "Panretinal photo-coagulation",
+    "Optic neuritis"
+   ],
+   "ans": 3,
+   "exp": "Consecutive (retinal) causes: retinitis seen CRAO/CRVO, healed vasculitis, panretinal photo-coagulation, retinitis pigmentosa; optic neuritis is a primary cause. (Book p33)"
+  },
+  {
+   "id": "OPH-C8-013",
+   "sec": "Types of optic atrophy — primary, secondary and consecutive",
+   "page": 33,
+   "fmt": "fillup",
+   "q": "Fill up: the surrounding retina in secondary atrophy shows ______.",
+   "opts": [
+    "Hyaline bodies/drusen",
+    "The underlying pathology",
+    "A normal retina",
+    "Chalky white deposits"
+   ],
+   "ans": 0,
+   "exp": "Surrounding retina: primary — normal; secondary — hyaline bodies/drusen; consecutive — pathology seen. (Book p33)"
+  },
+  {
+   "id": "OPH-C8-014",
+   "sec": "Optic neuritis — types and the macular star",
+   "page": 34,
+   "fmt": "match",
+   "q": "Match the optic neuritis type with its part of the nerve and key feature — 1) Papillitis 2) Retrobulbar neuritis 3) Neuroretinitis (papillitis + maculitis) … A) M/c in adults, no visible sign, associated with MS B) M/c in children, disc hyperemia, flame shaped haemorrhages C) Macular star appearance, associated with viral infections",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 1,
+   "exp": "Papillitis (intraocular part), m/c in children: disc hyperemia, flame shaped haemorrhages in/around the disc. Retrobulbar (intraorbital/intracanalicular/intracranial), m/c in adults: no visible sign, loss of vision, MS association. Neuroretinitis: macular star, viral associations. (Book p34)"
+  },
+  {
+   "id": "OPH-C8-015",
+   "sec": "Optic neuritis — types and the macular star",
+   "page": 34,
+   "fmt": "fillup",
+   "q": "Fill up: in neuroretinitis the macular star appearance is produced by exudates radiating from the ______.",
+   "opts": [
+    "Optic disc",
+    "Zonules",
+    "Fovea",
+    "Cornea"
+   ],
+   "ans": 2,
+   "exp": "Neuroretinitis photograph: papillitis with macular star appearance d/t exudates radiating from the macula. (Book p34)"
+  },
+  {
+   "id": "OPH-C8-016",
+   "sec": "Optic neuritis — types and the macular star",
+   "page": 34,
+   "fmt": "oddoneout",
+   "q": "The book's mnemonic NHAP lists causes of the macular star. All of the following belong EXCEPT:",
+   "opts": [
+    "Neuroretinitis",
+    "Hypertensive retinopathy",
+    "Angioma (retinal)",
+    "CRAO"
+   ],
+   "ans": 3,
+   "exp": "NHAP: Neuroretinitis, Hypertensive retinopathy, Angioma (retinal), Papilledema; CRAO is not in the mnemonic. (Book p34)"
+  },
+  {
+   "id": "OPH-C8-017",
+   "sec": "Optic neuritis — types and the macular star",
+   "page": 34,
+   "fmt": "oddoneout",
+   "q": "The book's mnemonic 'a CuP mar' lists clinical features of optic neuritis d/t multiple sclerosis. All of the following belong EXCEPT:",
+   "opts": [
+    "Horner's syndrome",
+    "Colour blindness (red ↓ green)",
+    "Unilateral (m/c) loss of vision",
+    "Central scotoma"
+   ],
+   "ans": 0,
+   "exp": "MS features: central scotoma, colour blindness (red ↓ green), unilateral (m/c) loss of vision, Uhthoff's phenomenon; Horner's syndrome is not listed. (Book p34)"
+  },
+  {
+   "id": "OPH-C8-018",
+   "sec": "Optic neuritis — types and the macular star",
+   "page": 34,
+   "fmt": "recall",
+   "q": "Uhthoff's phenomenon, listed with MS-related optic neuritis, is:",
+   "opts": [
+    "Improvement of vision with a rise in body temperature",
+    "Worsening of symptoms with a rise in body temperature (e.g. during exercise)",
+    "Transitory complete blindness during sleep only",
+    "Pain that eases with ocular movement, worsens at rest"
+   ],
+   "ans": 1,
+   "exp": "Uhthoff's phenomenon: ↑ body temperature (eg: during exercise) → worsening of symptoms. (Book p34)"
+  },
+  {
+   "id": "OPH-C8-019",
+   "sec": "Optic neuritis — MS features, pain and the earliest sign",
+   "page": 35,
+   "fmt": "recall",
+   "q": "The Pulfrich phenomenon in optic neuritis is:",
+   "opts": [
+    "An altitudinal defect respecting the horizontal midline",
+    "Colour blindness for red and green",
+    "Altered perception of kinetic (fast moving) objects with static objects normal",
+    "A junctional scotoma"
+   ],
+   "ans": 2,
+   "exp": "Pulfrich phenomenon: altered perception of kinetic objects (static → normal) d/t optic nerve demyelination → ↓ speed of impulse conduction → inaccurate perception of fast moving objects. (Book p35)"
+  },
+  {
+   "id": "OPH-C8-020",
+   "sec": "Optic neuritis — MS features, pain and the earliest sign",
+   "page": 35,
+   "fmt": "scenario",
+   "q": "A 26-year-old woman with acute optic neuritis reports pain that worsens whenever she moves her eyes. Per the book the mechanism is:",
+   "opts": [
+    "Ciliary spasm from the near reflex",
+    "Corneal nerve involvement with surface pain",
+    "Raised intraocular pressure",
+    "Extraocular muscle inflammation through the common sheath"
+   ],
+   "ans": 3,
+   "exp": "Pain in the eye: exaggerated with ocular movements — ON inflammation → extraocular muscle inflammation (d/t common sheath) → muscles inflamed → pain on movement. (Book p35)"
+  },
+  {
+   "id": "OPH-C8-021",
+   "sec": "Optic neuritis — MS features, pain and the earliest sign",
+   "page": 35,
+   "fmt": "recall",
+   "q": "The earliest sign of optic neuritis per the book is:",
+   "opts": [
+    "Marcus Gunn pupil (RAPD)",
+    "Pallor of the optic disc",
+    "Pain on movement",
+    "Central scotoma"
+   ],
+   "ans": 0,
+   "exp": "Marcus Gunn pupil/RAPD: earliest sign of optic neuritis. (Book p35)"
+  },
+  {
+   "id": "OPH-C8-022",
+   "sec": "Optic neuritis — ONTT, beta-IFN and glatiramer",
+   "page": 35,
+   "fmt": "management",
+   "q": "Per the ONTT protocol, the treatment regimen for a qualifying optic neuritis patient is:",
+   "opts": [
+    "Oral prednisone 1 mg/kg/day for 11 days alone",
+    "IV methylprednisolone 1 g/day for 3 days → oral prednisone 1 mg/kg/day for 11 days",
+    "IV methylprednisolone 1 g/day for 11 days only",
+    "Oral prednisolone 1 mg/kg/day for 3 days → IV for 11 days"
+   ],
+   "ans": 1,
+   "exp": "ONTT: steroids — IV methylprednisolone 1g/day × 3 days → oral prednisone 1mg/kg/day × 11 days; exclusive oral steroids are C/I due to ↑ chances of relapse. (Book p35)"
+  },
+  {
+   "id": "OPH-C8-023",
+   "sec": "Optic neuritis — ONTT, beta-IFN and glatiramer",
+   "page": 35,
+   "fmt": "truefalse",
+   "q": "Which statement about the ONTT is FALSE per the book?",
+   "opts": [
+    "Eligibility requires vision at initial presentation <6/12",
+    "Eligibility requires no previous episode of multiple sclerosis and/or optic neuritis",
+    "Eligibility requires ≥1 demyelinating lesion on MRI",
+    "Exclusive oral steroids are contraindicated"
+   ],
+   "ans": 2,
+   "exp": "ONTT criteria: vision at presentation <6/12; no previous episode of MS and/or optic neuritis; ≥1 demyelinating lesion on MRI; exclusive oral steroids are C/I (↑ relapse). (Book p35)"
+  },
+  {
+   "id": "OPH-C8-024",
+   "sec": "Optic neuritis — ONTT, beta-IFN and glatiramer",
+   "page": 35,
+   "fmt": "fillup",
+   "q": "Fill up: the ONTT showed that steroids hasten recovery but produce ______ in the final visual outcome.",
+   "opts": [
+    "Bilateral blindness",
+    "Permanent worsening",
+    "A permanent gain of one line",
+    "No change"
+   ],
+   "ans": 3,
+   "exp": "ONTT outcome: hastens recovery; no change in visual outcome. (Book p35)"
+  },
+  {
+   "id": "OPH-C8-025",
+   "sec": "Optic neuritis — ONTT, beta-IFN and glatiramer",
+   "page": 35,
+   "fmt": "match",
+   "q": "Match the agent with its role in the book's treatment list — 1) Post-steroidal β-IFN 2) Glatiramer acetate 3) Exclusive oral steroids … A) 20 mg s/c injection B) C/I — ↑ chances of relapse C) CHAMPS study: good outcome → ↓ MS occurrence",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-D, 2-C, 3-A",
+    "1-B, 2-C, 3-D",
+    "1-A, 2-B, 3-D"
+   ],
+   "ans": 0,
+   "exp": "Post-steroidal β-IFN (CHAMPS study: good outcome → ↓ occurrence of MS in optic neuritis patients); glatiramer acetate 20 mg s/c; exclusive oral steroids C/I. (Book p35)"
+  },
+  {
+   "id": "OPH-C8-026",
+   "sec": "Neuromyelitis optica (Devic's) and hereditary optic neuropathies",
+   "page": 35,
+   "fmt": "recall",
+   "q": "The pathology of neuromyelitis optica (Devic's disease) per the book is:",
+   "opts": [
+    "D/t anti-MAG antibodies",
+    "D/t aquaporin 4 (AQP-4 autoantigen)",
+    "D/t gadolinium deposition",
+    "D/t vitamin B12 deficiency"
+   ],
+   "ans": 1,
+   "exp": "NMO/Devic's: demyelinating disease, m/c in young females; cause — can be 2° to multiple sclerosis; pathology d/t aquaporin 4 (AQP-4 autoantigen). (Book p35)"
+  },
+  {
+   "id": "OPH-C8-027",
+   "sec": "Neuromyelitis optica (Devic's) and hereditary optic neuropathies",
+   "page": 35,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed presentation features of neuromyelitis optica EXCEPT:",
+   "opts": [
+    "B/L optic neuritis",
+    "Transverse myelitis",
+    "Painless progressive ptosis",
+    "↑ chance of relapse (more than in multiple sclerosis alone)"
+   ],
+   "ans": 2,
+   "exp": "Presentation: B/L optic neuritis + transverse myelitis; ↑ chance of relapse (more than in MS alone). Ptosis is not listed. (Book p35)"
+  },
+  {
+   "id": "OPH-C8-028",
+   "sec": "Neuromyelitis optica (Devic's) and hereditary optic neuropathies",
+   "page": 36,
+   "fmt": "match",
+   "q": "Match the hereditary optic neuropathy with its genetics in the book's table — 1) Kjer/dominant optic atrophy 2) Behr 3) Wolfram (DIDMOAD) … A) Autosomal recessive with ataxia, nystagmus, mental retardation B) Autosomal dominant C) Autosomal recessive with DI, DM, deafness",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-D",
+    "1-A, 2-D, 3-C",
+    "1-D, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Kjer/dominant optic atrophy — autosomal dominant (no remarks); Behr — autosomal recessive (ataxia, nystagmus, mental retardation); Wolfram/DIDMOAD (DI, DM, optic atrophy, deafness) — autosomal recessive (associations DI, DM, deafness). (Book p36)"
+  },
+  {
+   "id": "OPH-C8-029",
+   "sec": "Neuromyelitis optica (Devic's) and hereditary optic neuropathies",
+   "page": 36,
+   "fmt": "numeric",
+   "q": "Per the book, Leber's hereditary optic neuropathy (LHON) carries a point mutation at codon ______.",
+   "opts": [
+    "11778",
+    "816",
+    "3419",
+    "15221"
+   ],
+   "ans": 0,
+   "exp": "LHON: mitochondrial inheritance (maternally transmitted, m > F); point mutation at codon 11778. (Book p36)"
+  },
+  {
+   "id": "OPH-C8-030",
+   "sec": "Neuromyelitis optica (Devic's) and hereditary optic neuropathies",
+   "page": 36,
+   "fmt": "scenario",
+   "q": "A 24-year-old man presents with painless B/L loss of vision, dilated tortuous peripapillary vessels and pseudo-papillitis. Per the book the diagnosis, and its pathognomonic feature, is:",
+   "opts": [
+    "Retrobulbar neuritis — junctional scotoma",
+    "LHON — papillomacular degeneration",
+    "Behr syndrome — macular star",
+    "Papilledema — Paton's lines"
+   ],
+   "ans": 1,
+   "exp": "LHON features: presents in 2nd/3rd decade, painless loss (B/L > U/L), pupillary telangiectasia, pseudo-papillitis, 1° optic atrophy, central scotoma; injury to fibres between disc and macula — papillomacular degeneration is the pathognomonic feature; no treatment so far. (Book p36)"
+  },
+  {
+   "id": "OPH-C8-031",
+   "sec": "Neuromyelitis optica (Devic's) and hereditary optic neuropathies",
+   "page": 36,
+   "fmt": "management",
+   "q": "For neuromyelitis optica the book lists which investigations and management?",
+   "opts": [
+    "VEP alone, with glatiramer acetate as the treatment",
+    "Tonography first, then miotics as the treatment",
+    "NMO IgG (anti-AQP-4) antibodies, lumbar puncture, steroids for control",
+    "OCT alone, with no treatment planned"
+   ],
+   "ans": 2,
+   "exp": "Investigations: measure NMO IgG antibodies (anti AQP-4 antibodies); lumbar puncture. Management: disease control with steroids. (Book p36)"
+  },
+  {
+   "id": "OPH-C8-032",
+   "sec": "Disc swelling differentials, toxic/nutritional neuropathy, papilledema character",
+   "page": 37,
+   "fmt": "truefalse",
+   "q": "Which statement is FALSE per the book's note on mitochondrial and disc swelling entities?",
+   "opts": [
+    "Mitochondrial diseases do not generally have a gender predilection",
+    "Raised intracranial pressure produces papilledema",
+    "LHON is a cause of pseudo-papilledema",
+    "Optic disc drusen cause true papilledema"
+   ],
+   "ans": 3,
+   "exp": "Note: mitochondrial diseases do not generally have a gender predilection. Disc swelling causes: ↑ ICP → papilledema; other (pseudo-papilledema) causes: LHON, methanol poisoning, near vision loss in hypermetropia, optic disc drusen, peripapillary myelinated nerve fibres. (Book p37)"
+  },
+  {
+   "id": "OPH-C8-033",
+   "sec": "Disc swelling differentials, toxic/nutritional neuropathy, papilledema character",
+   "page": 37,
+   "fmt": "oddoneout",
+   "q": "The book's DICE mnemonic lists ophthotoxic drugs. All of the following belong EXCEPT:",
+   "opts": [
+    "Sildenafil",
+    "Isoniazid",
+    "Digoxin",
+    "Chloroquine"
+   ],
+   "ans": 0,
+   "exp": "DICE: Digoxin, Isoniazid, Chloroquine, Ethambutol (most ophthotoxic drug). Sildenafil is listed under acquired colour blindness, not DICE. (Book p37)"
+  },
+  {
+   "id": "OPH-C8-034",
+   "sec": "Disc swelling differentials, toxic/nutritional neuropathy, papilledema character",
+   "page": 37,
+   "fmt": "recall",
+   "q": "Per the book, the most ophthotoxic drug in the DICE mnemonic is:",
+   "opts": [
+    "Digoxin",
+    "Ethambutol",
+    "Isoniazid",
+    "Chloroquine"
+   ],
+   "ans": 1,
+   "exp": "Ethambutol is highlighted as the most ophthotoxic drug. (Book p37)"
+  },
+  {
+   "id": "OPH-C8-035",
+   "sec": "Disc swelling differentials, toxic/nutritional neuropathy, papilledema character",
+   "page": 37,
+   "fmt": "numeric",
+   "q": "For nutritional (tobacco–alcohol) optic amblyopia the book's Rx is:",
+   "opts": [
+    "Cyanocobalamin 1000 units weekly for 10 days",
+    "Methylcobalamin 100 units daily for 10 weeks",
+    "Hydroxocobalamin 1000 units weekly for 10 weeks",
+    "Hydroxocobalamin 1000 units daily for 10 days"
+   ],
+   "ans": 2,
+   "exp": "Rx: hydroxocobalamin 1000 units weekly for 10 weeks. (Book p37)"
+  },
+  {
+   "id": "OPH-C8-036",
+   "sec": "Disc swelling differentials, toxic/nutritional neuropathy, papilledema character",
+   "page": 37,
+   "fmt": "fillup",
+   "q": "Fill up: along with vitamins B1 and B6, the book lists deficiency of vitamin ______ as a cause of toxic/nutritional optic neuropathy.",
+   "opts": [
+    "Vitamin C",
+    "Vitamin A",
+    "Vitamin D",
+    "Vitamin B12"
+   ],
+   "ans": 3,
+   "exp": "Causes of toxic/nutritional optic neuropathy: drugs (DICE), deficiency of vitamins B1/B6/B12, methanol poisoning. (Book p37)"
+  },
+  {
+   "id": "OPH-C8-037",
+   "sec": "Disc swelling differentials, toxic/nutritional neuropathy, papilledema character",
+   "page": 37,
+   "fmt": "scenario",
+   "q": "A 55-year-old heavy smoker and drinker presents with painless progressive visual loss and a central scotoma on perimetry. Per the book the entity and the field pattern are:",
+   "opts": [
+    "Tobacco–alcohol amblyopia with a central (cecocentral) scotoma",
+    "Papilledema with an enlarged blind spot",
+    "AION with an altitudinal defect",
+    "Retrobulbar neuritis with a junctional scotoma"
+   ],
+   "ans": 0,
+   "exp": "Toxic/nutritional optic neuropathy (tobacco–alcohol amblyopia) gives the central/cecocentral scotoma shown between the fovea and optic disc in the book's diagrams. (Book p37)"
+  },
+  {
+   "id": "OPH-C8-038",
+   "sec": "Disc swelling differentials, toxic/nutritional neuropathy, papilledema character",
+   "page": 37,
+   "fmt": "recall",
+   "q": "The character of papilledema swelling per the book is:",
+   "opts": [
+    "Inflammatory, passive, painless, U/L",
+    "Non-inflammatory, passive, painless, B/L",
+    "Non-inflammatory, painful, U/L",
+    "Inflammatory, painful, B/L"
+   ],
+   "ans": 1,
+   "exp": "Papilledema: swelling of the optic disc due to raised ICP; character — non-inflammatory (d/t hydrostatic pressure, passive), painless, B/L (except in Foster Kennedy syndrome). (Book p37)"
+  },
+  {
+   "id": "OPH-C8-039",
+   "sec": "Papilledema — pathogenesis, stages, ICP symptoms, Frisen grading; AION",
+   "page": 38,
+   "fmt": "match",
+   "q": "Match the papilledema pathogenesis step with its next event in the book's flowchart — 1) Raised ICP 2) Blockage of anterograde flow/axoplasmic transport 3) Venous congestion … A) Vascular signs B) Stasis in the optic disc C) Pressure transmitted along the subarachnoid space",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-C, 2-D, 3-B",
+    "1-A, 2-C, 3-D",
+    "1-D, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Flowchart: raised ICP → pressure transmitted along subarachnoid space → pressure on optic nerve → blockage of anterograde flow/axoplasmic transport → stasis in optic disc → extracellular edema (mechanical signs) and venous congestion (vascular signs). (Book p38)"
+  },
+  {
+   "id": "OPH-C8-040",
+   "sec": "Papilledema — pathogenesis, stages, ICP symptoms, Frisen grading; AION",
+   "page": 38,
+   "fmt": "fillup",
+   "q": "Fill up: the earliest fundal sign of acute papilledema in the book is ______.",
+   "opts": [
+    "Hemorrhages around the OD",
+    "Champagne-cork appearance",
+    "Loss of venous pulsations",
+    "Blurring of disc margins"
+   ],
+   "ans": 3,
+   "exp": "Acute papilledema: blurring of disc margins (earlier), elevated OD, Paton's lines; also hyperemia/congestion of the OD, loss of venous pulsations, hemorrhages around the OD. (Book p38)"
+  },
+  {
+   "id": "OPH-C8-041",
+   "sec": "Papilledema — pathogenesis, stages, ICP symptoms, Frisen grading; AION",
+   "page": 38,
+   "fmt": "recall",
+   "q": "Paton's lines in the book are:",
+   "opts": [
+    "Retinochoroidal folds around the OD",
+    "Flame shaped hemorrhages on the disc",
+    "Hyaline bodies on the disc",
+    "Telangiectasia of the cup"
+   ],
+   "ans": 0,
+   "exp": "Paton's lines: retinochoroidal folds around the OD (d/t leakage of fluid). (Book p38)"
+  },
+  {
+   "id": "OPH-C8-042",
+   "sec": "Papilledema — pathogenesis, stages, ICP symptoms, Frisen grading; AION",
+   "page": 38,
+   "fmt": "recall",
+   "q": "The chronic papilledema fundal appearance per the book is:",
+   "opts": [
+    "Chalky white, saucer shaped disc",
+    "Champagne-cork appearance of the OD",
+    "Pink disc with a macular star",
+    "Waxy pallor with attenuated vessels"
+   ],
+   "ans": 1,
+   "exp": "Chronic papilledema: champagne-cork appearance of the OD. (Book p38)"
+  },
+  {
+   "id": "OPH-C8-043",
+   "sec": "Papilledema — pathogenesis, stages, ICP symptoms, Frisen grading; AION",
+   "page": 38,
+   "fmt": "recall",
+   "q": "Per the book, a swollen disc from the retrobulbar ON produces which visual field defect?",
+   "opts": [
+    "Central scotoma",
+    "Bitemporal hemianopia",
+    "Enlargement of the blind spot",
+    "Homonymous hemianopia"
+   ],
+   "ans": 2,
+   "exp": "Retrobulbar ON → OD swollen → VFD: enlargement of the blind spot. (Book p38)"
+  },
+  {
+   "id": "OPH-C8-044",
+   "sec": "Papilledema — pathogenesis, stages, ICP symptoms, Frisen grading; AION",
+   "page": 38,
+   "fmt": "scenario",
+   "q": "A 45-year-old with a brain tumor has headaches that are worst in the morning, projectile vomiting, B/L disc swelling, and intact vision and light reflexes. Per the book the earliest sign of raised ICP is:",
+   "opts": [
+    "Visual loss",
+    "Horizontal diplopia",
+    "Amaurosis fugax",
+    "Headache"
+   ],
+   "ans": 3,
+   "exp": "Symptoms of ICP: headache is the earliest sign, ↑ in morning, projectile vomiting, progressively worsens. (Book p38)"
+  },
+  {
+   "id": "OPH-C8-045",
+   "sec": "Papilledema — pathogenesis, stages, ICP symptoms, Frisen grading; AION",
+   "page": 38,
+   "fmt": "truefalse",
+   "q": "Which statement about the ICP symptoms in the book is FALSE?",
+   "opts": [
+    "Papilledema causes sudden painful LOV early in the course",
+    "Horizontal diplopia can occur d/t associated CN VI palsy",
+    "Amaurosis fugax episodes are diagnostic of stroke",
+    "Papilledema initially has no LOV and a normal pupillary light reflex"
+   ],
+   "ans": 0,
+   "exp": "Papilledema: no LOV, normal pupillary light reflex, leads to 2° optic atrophy (gradual painless loss of vision); horizontal diplopia d/t associated CN VI palsy; amaurosis fugax — d/t brief cessation of axoplasmic transport: transient complete LOV, 30-60s episodes, total (6/6) recovery post attack, diagnostic of stroke. (Book p38)"
+  },
+  {
+   "id": "OPH-C8-046",
+   "sec": "Papilledema — pathogenesis, stages, ICP symptoms, Frisen grading; AION",
+   "page": 38,
+   "fmt": "numeric",
+   "q": "Per the book, each amaurosis fugax episode of papilledema lasts:",
+   "opts": [
+    "3-5 minutes",
+    "30-60 seconds",
+    "30 minutes",
+    "A few hours"
+   ],
+   "ans": 1,
+   "exp": "Amaurosis fugax: transient, complete LOV; 30-60s episodes; total (6/6) recovery of vision post attack. (Book p38)"
+  },
+  {
+   "id": "OPH-C8-047",
+   "sec": "Papilledema — pathogenesis, stages, ICP symptoms, Frisen grading; AION",
+   "page": 39,
+   "fmt": "match",
+   "q": "Match the Frisen grade of papilledema with its finding — 1) Grade 1 2) Grade 3 3) Grade 5 … A) All vessels obscured, ↑↑ venous engorgement → congestion B) 'C' shaped halo (swelling) of the OD C) Loss of major blood vessels around the disc",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-D, 2-C, 3-B",
+    "1-B, 2-D, 3-C",
+    "1-B, 2-A, 3-D"
+   ],
+   "ans": 0,
+   "exp": "Frisen's grading: Grade 1 — 'C' shaped halo (swelling) in OD; Grade 2 — circumferential halo, blurred margins; Grade 3 — loss of major blood vessels around the disc; Grade 4 — loss of blood vessels on disc, ↑↑ swelling over disc; Grade 5 — all vessels obscured, ↑↑ venous engorgement → congestion. (Book p39)"
+  },
+  {
+   "id": "OPH-C8-048",
+   "sec": "Papilledema — pathogenesis, stages, ICP symptoms, Frisen grading; AION",
+   "page": 39,
+   "fmt": "truefalse",
+   "q": "Which statement about anterior ischemic optic neuropathy (AION) is FALSE per the book?",
+   "opts": [
+    "Arteritic AION is caused by giant cell arteritis (large vessel arteritis)",
+    "Non-arteritic AION (no vasculitis) follows occlusion of the short posterior ciliary artery",
+    "Both types give altitudinal field defects",
+    "Arteritic AION presents painlessly with U/L moderate visual loss"
+   ],
+   "ans": 3,
+   "exp": "Arteritic AION: giant cell arteritis, temporal artery pathology, premonitory symptoms (pain, amaurosis fugax), B/L severe visual loss, treatment corticosteroids. Non-arteritic: occlusion of short posterior ciliary artery; associations — hypertension, diabetes, hyperlipidemia, collagen vascular diseases; painless, U/L moderate visual loss; experimental Rx levodopa + carbidopa for 3 weeks; both give altitudinal defects. (Book p39)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U8-1",
+   "ch": 8,
+   "n": 1,
+   "title": "Optic atrophy — clinical features and the Rostenbaum index",
+   "sec": "Neuro-Ophthalmology · p32",
+   "guide": "Conditions of the optic disc are representative of the optic nerve. Clinical features: (1) pallor of the OD d/t loss of vascularity — first classical sign; (2) loss of vascularity defined by the Rostenbaum index (ratio of small : large blood vessels) — normal >10, optic atrophy <7 (loss of small vessels on the OD); (3) visual field loss depends on the affected fibres — a patient may have 6/6 vision if central fibres are spared. Normal disc photograph: yellowish optic cup and pink/orange neuroretinal ring; atrophic disc: pale OD with reduced small vessels.",
+   "qs": [
+    "OPH-C8-001",
+    "OPH-C8-002",
+    "OPH-C8-003",
+    "OPH-C8-004",
+    "OPH-C8-005",
+    "OPH-C8-006"
+   ]
+  },
+  {
+   "id": "OPH-U8-2",
+   "ch": 8,
+   "n": 2,
+   "title": "Types of optic atrophy — primary, secondary and consecutive",
+   "sec": "Neuro-Ophthalmology · p33",
+   "guide": "Primary (1°): atrophy without antecedent disc swelling — chalky white, well defined margins; shallow saucer-shaped cup; normal vessels; normal surrounding retina; causes: optic neuritis (m/c cause multiple sclerosis), tumors, trauma, hereditary, toxic. Secondary (2°): atrophy after disc swelling — dirty gray-white, ill-defined margins; cup filled up d/t swelling; peripapillary sheathing; hyaline bodies/drusen; causes: papilledema, papillitis, AION. Consecutive: atrophy d/t disease of the inner retina and its blood supply — waxy pallor, less sharply defined margins; normal cup; vessel attenuation; pathology seen; retinal diseases: retinitis seen CRAO/CRVO, healed vasculitis, panretinal photo-coagulation, retinitis pigmentosa.",
+   "qs": [
+    "OPH-C8-007",
+    "OPH-C8-008",
+    "OPH-C8-009",
+    "OPH-C8-010",
+    "OPH-C8-011",
+    "OPH-C8-012",
+    "OPH-C8-013"
+   ]
+  },
+  {
+   "id": "OPH-U8-3",
+   "ch": 8,
+   "n": 3,
+   "title": "Optic neuritis — types, the macular star and MS features",
+   "sec": "Neuro-Ophthalmology · p34",
+   "guide": "Optic neuritis = inflammation of the ON, an important cause of 1° atrophy. Parts of the ON: intraocular, intraorbital, intracanalicular, intracranial. Types: papillitis (intraocular) m/c in children — disc hyperemia, flame shaped haemorrhages in/around the disc; retrobulbar neuritis m/c in adults — no visible sign, loss of vision, associated with MS; neuroretinitis (papillitis + maculitis) — macular star appearance (exudates radiating from the macula), associated with viral infections. Macular star causes (NHAP): Neuroretinitis, Hypertensive retinopathy, Angioma (retinal), Papilledema. MS features (mnemonic a CuP mar): central scotoma, colour blindness (red ↓ green), unilateral (m/c) loss of vision, Uhthoff's phenomenon (↑ body temperature, e.g. during exercise → worsening of symptoms).",
+   "qs": [
+    "OPH-C8-014",
+    "OPH-C8-015",
+    "OPH-C8-016",
+    "OPH-C8-017",
+    "OPH-C8-018"
+   ]
+  },
+  {
+   "id": "OPH-U8-4",
+   "ch": 8,
+   "n": 4,
+   "title": "Optic neuritis — Pulfrich, pain, RAPD and the ONTT treatment",
+   "sec": "Neuro-Ophthalmology · p35",
+   "guide": "Pulfrich phenomenon: altered perception of kinetic objects (static → normal) d/t ON demyelination → ↓ speed of impulse conduction → inaccurate perception of fast moving objects. Pain in the eye is exaggerated with ocular movements (ON inflammation → extraocular muscle inflammation d/t common sheath → pain on movement). Marcus Gunn pupil/RAPD: earliest sign. Treatment (ONTT): steroids — IV methylprednisolone 1g/day × 3 days → oral prednisone 1mg/kg/day × 11 days; exclusive oral steroids C/I (↑ relapse). Criteria: vision at presentation <6/12; no previous episode of MS and/or optic neuritis; ≥1 demyelinating lesion on MRI. Outcome: hastens recovery, no change in visual outcome. Post-steroidal β-IFN (CHAMPS study): good outcome → ↓ MS occurrence. Glatiramer acetate 20 mg s/c. NMO/Devic's: demyelinating, m/c in young females, can be 2° to MS; pathology d/t aquaporin 4 (AQP-4 autoantigen); presentation B/L optic neuritis + transverse myelitis, ↑ relapse than MS alone.",
+   "qs": [
+    "OPH-C8-019",
+    "OPH-C8-020",
+    "OPH-C8-021",
+    "OPH-C8-022",
+    "OPH-C8-023",
+    "OPH-C8-024",
+    "OPH-C8-025",
+    "OPH-C8-026",
+    "OPH-C8-027"
+   ]
+  },
+  {
+   "id": "OPH-U8-5",
+   "ch": 8,
+   "n": 5,
+   "title": "Devic's workup, hereditary optic neuropathies and toxic/nutritional neuropathy",
+   "sec": "Neuro-Ophthalmology · p36-37",
+   "guide": "NMO investigations: NMO IgG (anti AQP-4) antibodies, lumbar puncture; management: disease control with steroids. Hereditary optic neuropathies: Kjer/dominant optic atrophy — autosomal dominant; Behr — autosomal recessive (ataxia, nystagmus, mental retardation); Wolfram/DIDMOAD (DI, DM, optic atrophy, deafness) — autosomal recessive (DI, DM, deafness); Leber's (LHON) — mitochondrial (maternal, m > F), point mutation at codon 11778, presents in 2nd/3rd decade, painless loss B/L > U/L, pupillary telangiectasia, pseudo-papillitis, 1° atrophy, central scotoma, papillomacular degeneration (pathognomonic), no treatment so far. Note: mitochondrial diseases do not generally have a gender predilection. Disc swelling causes: ↑ ICP → papilledema; pseudo-papilledema — LHON, methanol poisoning, near vision loss in hypermetropia, optic disc drusen, peripapillary myelinated nerve fibres. Toxic/nutritional (tobacco–alcohol amblyopia): drugs DICE (Digoxin, Isoniazid, Chloroquine, Ethambutol — most ophthotoxic), B1/B6/B12 deficiency, methanol poisoning; cecocentral scotoma; Rx hydroxocobalamin 1000 units weekly × 10 weeks. Papilledema: swelling of the OD d/t raised ICP — non-inflammatory (passive, hydrostatic), painless, B/L (except Foster Kennedy).",
+   "qs": [
+    "OPH-C8-028",
+    "OPH-C8-029",
+    "OPH-C8-030",
+    "OPH-C8-031",
+    "OPH-C8-032",
+    "OPH-C8-033",
+    "OPH-C8-034",
+    "OPH-C8-035",
+    "OPH-C8-036",
+    "OPH-C8-037",
+    "OPH-C8-038"
+   ]
+  },
+  {
+   "id": "OPH-U8-6",
+   "ch": 8,
+   "n": 6,
+   "title": "Papilledema — pathogenesis, stages, ICP symptoms, Frisen grading and AION",
+   "sec": "Neuro-Ophthalmology · p38-39",
+   "guide": "Etiopathogenesis: raised ICP → pressure transmitted along subarachnoid space → pressure on the ON → blockage of anterograde flow/axoplasmic transport → stasis in the optic disc → extracellular edema (mechanical signs) and venous congestion (vascular signs). Acute: blurring of disc margins (earliest), elevated OD, Paton's lines (retinochoroidal folds around the OD d/t leakage of fluid); hyperemia/congestion of the OD, loss of venous pulsations, hemorrhages around the OD. Chronic: champagne-cork appearance. OD swollen → VFD: enlargement of the blind spot. ICP symptoms: papilledema (no LOV, normal light reflex, later 2° atrophy with gradual painless loss), horizontal diplopia (associated CN VI palsy), amaurosis fugax (brief cessation of axoplasmic transport; transient complete LOV, 30-60s episodes, total 6/6 recovery, diagnostic of stroke); headache (earliest sign, ↑ in morning, projectile vomiting, progressively worsens). Rx: depends on the underlying cause of ↑ ICP. Frisen's grading: 1 — 'C' shaped halo; 2 — circumferential halo, blurred margins; 3 — loss of major vessels around the disc; 4 — loss of vessels on the disc, ↑↑ swelling over disc; 5 — all vessels obscured, venous engorgement → congestion. AION: loss of blood supply to the anterior ON. Arteritic: giant cell arteritis (large vessel arteritis), temporal artery pathology, premonitory symptoms (pain, amaurosis fugax), B/L severe visual loss, corticosteroids. Non-arteritic (no vasculitis): occlusion of the short posterior ciliary artery; hypertension, diabetes, hyperlipidemia, collagen vascular diseases; painless, U/L moderate visual loss; experimental Rx levodopa + carbidopa × 3 weeks. Both: altitudinal field defects.",
+   "qs": [
+    "OPH-C8-039",
+    "OPH-C8-040",
+    "OPH-C8-041",
+    "OPH-C8-042",
+    "OPH-C8-043",
+    "OPH-C8-044",
+    "OPH-C8-045",
+    "OPH-C8-046",
+    "OPH-C8-047",
+    "OPH-C8-048"
+   ]
+  }
+ ]
+}
