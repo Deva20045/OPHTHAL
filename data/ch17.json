@@ -1,0 +1,699 @@
+{
+ "chapter": 17,
+ "title": "Anatomy and Metabolism",
+ "pageRange": "68-72",
+ "questions": [
+  {
+   "id": "OPH-C17-001",
+   "sec": "Functional anatomy of lens — structure and site",
+   "page": 68,
+   "fmt": "numeric",
+   "q": "Equator diameter of lens per the book is:",
+   "opts": [
+    "6 mm",
+    "8 mm",
+    "10 mm",
+    "14 mm"
+   ],
+   "ans": 2,
+   "exp": "Equator (Diameter: 10mm). (Book p68)"
+  },
+  {
+   "id": "OPH-C17-002",
+   "sec": "Functional anatomy of lens — structure and site",
+   "page": 68,
+   "fmt": "match",
+   "q": "Match anterior vs posterior lens convexity with radius of curvature per the book — 1) Anterior 2) Posterior … A) Radius 10 mm, less convex B) Radius 6 mm, more convex C) Radius 8 mm, plano",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-C, 2-A",
+    "1-A, 2-C"
+   ],
+   "ans": 0,
+   "exp": "Anterior: Less convex, Radius 10 mm; Posterior: more convex, Radius 6 mm. (Book p68)"
+  },
+  {
+   "id": "OPH-C17-003",
+   "sec": "Functional anatomy of lens — structure and site",
+   "page": 68,
+   "fmt": "fillup",
+   "q": "Fill up: Lens site is patellar fossa between biconvex lens anterior & ___ segment.",
+   "opts": [
+    "posterior",
+    "anterior",
+    "middle",
+    "lateral"
+   ],
+   "ans": 0,
+   "exp": "Site: Patellar fossa (Between biconvex lens anterior & posterior segment). (Book p68)"
+  },
+  {
+   "id": "OPH-C17-004",
+   "sec": "Functional anatomy of lens — structure and site",
+   "page": 68,
+   "fmt": "truefalse",
+   "q": "Which statement about lens blood and nerve supply is TRUE per the book?",
+   "opts": [
+    "Lens has rich blood supply to maintain transparency",
+    "Lens has no blood supply → transparency, no nerve supply, curvature change d/t zonules",
+    "Lens has parasympathetic supply via zonules",
+    "Lens receives blood from hyaloid artery in adults"
+   ],
+   "ans": 1,
+   "exp": "No blood supply → Transparency; No nerve supply; Change in curvature during accommodation is d/t zonules. (Book p68)"
+  },
+  {
+   "id": "OPH-C17-005",
+   "sec": "Functional anatomy of lens — power and refractive indices",
+   "page": 68,
+   "fmt": "recall",
+   "q": "Function of lens per the book and its refractory power:",
+   "opts": [
+    "Diverging refraction, 16 D far +19 D near variable d/t accommodation",
+    "Converging refraction of light, 16 D (Far) +19 D (Near) variable d/t accommodation",
+    "Converging refraction, fixed 20 D",
+    "Diverging refraction, 10 D far 6 D near"
+   ],
+   "ans": 1,
+   "exp": "Function: Converging refraction of light; Refractory power: 16 D (Far) +19 D (Near), variable d/t accommodation. (Book p68)"
+  },
+  {
+   "id": "OPH-C17-006",
+   "sec": "Functional anatomy of lens — power and refractive indices",
+   "page": 68,
+   "fmt": "numeric",
+   "q": "Maximum refractive index in eye per the book is at lens centre:",
+   "opts": [
+    "1.33",
+    "1.39 at periphery",
+    "1.406 at centre (maximum of any structure in eye)",
+    "1.52 at equator"
+   ],
+   "ans": 2,
+   "exp": "Refractory indices: Periphery 1.39, Centre 1.406 (maximum of any structure in eye), Air 1. (Book p68)"
+  },
+  {
+   "id": "OPH-C17-007",
+   "sec": "Functional anatomy of lens — power and refractive indices",
+   "page": 68,
+   "fmt": "oddoneout",
+   "q": "All of the following refractive indices are listed for lens per the book EXCEPT:",
+   "opts": [
+    "Periphery 1.39",
+    "Centre 1.406 maximum",
+    "Air 1",
+    "Aqueous 1.52"
+   ],
+   "ans": 3,
+   "exp": "Listed: Periphery 1.39, Centre 1.406 (max), Air 1. (Book p68)"
+  },
+  {
+   "id": "OPH-C17-008",
+   "sec": "Attachments of the lens — posterior surface",
+   "page": 69,
+   "fmt": "match",
+   "q": "Match attachment with definition per the book — 1) Weigert's ligament 2) Berger's space 3) Cloquet's canal … A) Retrolental cavity central to Weigert's ligament B) Circular attachments of lens & anterior hyaloid/vitreous C) Potential space during embryogenesis contained hyaloid artery",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Weigert's ligament → Circular attachments lens & anterior hyaloid; Berger's space → Retrolental cavity central to Weigert's; Cloquet's canal → Potential space embryogenesis contained hyaloid artery to supply developing lens & vitreous. (Book p69)"
+  },
+  {
+   "id": "OPH-C17-009",
+   "sec": "Attachments of the lens — posterior surface",
+   "page": 69,
+   "fmt": "fillup",
+   "q": "Fill up: Cloquet's canal contains hyaloid artery to supply developing lens & vitreous and disappears by ___ months of gestation.",
+   "opts": [
+    "4 months",
+    "8 months",
+    "10 months",
+    "12 months"
+   ],
+   "ans": 1,
+   "exp": "Disappears by 8 months of gestation. (Book p69)"
+  },
+  {
+   "id": "OPH-C17-010",
+   "sec": "Attachments of the lens — posterior surface",
+   "page": 69,
+   "fmt": "recall",
+   "q": "If remnants of Cloquet's canal/hyaloid system persist, per the book:",
+   "opts": [
+    "On posterior lens Mittendorf dots, on optic disc Bergmeister papillae",
+    "On anterior lens oil droplet, on cornea KF ring",
+    "On posterior lens sunflower, on disc drusen",
+    "On posterior lens rosette, on disc edema"
+   ],
+   "ans": 0,
+   "exp": "If remnants: On posterior lens: mittendorf dots; On optic disc: Bergmeister papillae. (Book p69)"
+  },
+  {
+   "id": "OPH-C17-011",
+   "sec": "Attachments of zonules and canals",
+   "page": 69,
+   "fmt": "match",
+   "q": "Match zonular attachment with canal — 1) Preequatorial zonules 2) Post equatorial zonules … A) Canal of Hannover B) Canal of Petit C) Cloquet's canal",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-C, 2-A",
+    "1-A, 2-C"
+   ],
+   "ans": 0,
+   "exp": "1. Preequatorial zonules, Canal of Hannover, 2. Post equatorial zonules, Canal of Petit, 3. Hyaloid zonules, Weigert's ligament. (Book p69)"
+  },
+  {
+   "id": "OPH-C17-012",
+   "sec": "Attachments of zonules and canals",
+   "page": 69,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed under attachments of zonules per the book EXCEPT:",
+   "opts": [
+    "Preequatorial zonules",
+    "Canal of Hannover",
+    "Canal of Petit",
+    "Canal of Schlemm"
+   ],
+   "ans": 3,
+   "exp": "Attachments: Preequatorial zonules, Canal of Hannover, Post equatorial zonules, Canal of Petit, Hyaloid zonules, Weigert's ligament; Schlemm is aqueous outflow. (Book p69)"
+  },
+  {
+   "id": "OPH-C17-013",
+   "sec": "Structure of the lens — capsule and epithelium",
+   "page": 69,
+   "fmt": "truefalse",
+   "q": "Which statement about lens structure is TRUE per the book diagram on p69?",
+   "opts": [
+    "E cells are at posterior pole, metabolically inactive",
+    "A cells are anterior epithelial cells metabolically active, E cells at equator actively dividing",
+    "Capsule thickness is uniform 10 μm everywhere",
+    "Nucleus forms from anterior epithelium only"
+   ],
+   "ans": 1,
+   "exp": "Metabolically active A cells: Anterior Epithelial cells; Equator (Area of active mitosis) E cells columnar actively dividing elongating to form new lens fibres. (Book p69)"
+  },
+  {
+   "id": "OPH-C17-014",
+   "sec": "Structure of the lens — capsule and epithelium",
+   "page": 69,
+   "fmt": "numeric",
+   "q": "Thickness of lens capsule per the diagram on p69 at posterior pole vs posterior pre-equatorial zone:",
+   "opts": [
+    "4 μm posterior pole (thinnest), 23 μm posterior pre-equatorial zone among thickest",
+    "21 μm posterior pole, 4 μm equator",
+    "17 μm posterior pole, 21 μm anterior",
+    "4 μm everywhere"
+   ],
+   "ans": 0,
+   "exp": "4 μm (Posterior pole) thinnest, 23 μm (Posterior pre-equatorial zone), 21 μm Anterior pre-equatorial, 17 μm Equator. (Book p69)"
+  },
+  {
+   "id": "OPH-C17-015",
+   "sec": "Structure of the lens — capsule and epithelium",
+   "page": 70,
+   "fmt": "recall",
+   "q": "Lens capsule per the book is:",
+   "opts": [
+    "Innermost layer composed of type I collagen, thinnest basement membrane",
+    "Outermost/protective layer, thickest basement membrane in the body, type IV collagen",
+    "Middle layer formed by E cells, type II collagen",
+    "Absent in adults"
+   ],
+   "ans": 1,
+   "exp": "Capsule: Outermost/protective layer; Thickest basement membrane in the body; Composed of type IV collagen; Thinnest posterior pole, thickest posterior pre-equatorial zone. (Book p70)"
+  },
+  {
+   "id": "OPH-C17-016",
+   "sec": "Structure of the lens — capsule and epithelium",
+   "page": 70,
+   "fmt": "fillup",
+   "q": "Fill up: Posterior epithelium is absent in adults and formed primary fibres during ___.",
+   "opts": [
+    "adulthood",
+    "embryogenesis",
+    "senility",
+    "puberty"
+   ],
+   "ans": 1,
+   "exp": "Posterior epithelium: Absent in adults; Formed primary fibres during embryogenesis. (Book p70)"
+  },
+  {
+   "id": "OPH-C17-017",
+   "sec": "Structure of the lens — nucleus and fibres",
+   "page": 70,
+   "fmt": "match",
+   "q": "Match nucleus with time of formation per the book's table — 1) Embryonic 2) Fetal 3) Infantile 4) Adult … A) Day 27 fertilization (oldest) B) During implantation on uterine wall C) Immediately after birth D) 1 month after birth (youngest)",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-C, 3-B, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Embryonic Day 27 fertilization (oldest lens fibres) Primary; Fetal during implantation; Infantile immediately after birth; Adult 1 month after birth (youngest). (Book p70)"
+  },
+  {
+   "id": "OPH-C17-018",
+   "sec": "Structure of the lens — nucleus and fibres",
+   "page": 70,
+   "fmt": "recall",
+   "q": "Lens fibres classification per the book:",
+   "opts": [
+    "Embryonic primary, fetal/infantile/adult secondary",
+    "All primary",
+    "All secondary",
+    "Adult primary, embryonic secondary"
+   ],
+   "ans": 0,
+   "exp": "Embryonic nucleus primary, Fetal/Infantile/Adult secondary. (Book p70)"
+  },
+  {
+   "id": "OPH-C17-019",
+   "sec": "Structure of the lens — sutures",
+   "page": 70,
+   "fmt": "match",
+   "q": "Match suture orientation with process per the book — Anterior Y / Posterior inverted Y — 1) Anterior shape 2) Posterior shape 3) Anterior interdigitation 4) Posterior … A) Y B) λ (inverted Y) C) Apical processes D) Basal processes",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Anterior Shape Y Interdigitations Apical processes; Posterior λ (Inverted Y) Basal processes; Seen in fetal nucleus D/t formation & interdigitations with embryonic nucleus. (Book p70)"
+  },
+  {
+   "id": "OPH-C17-020",
+   "sec": "Structure of the lens — sutures",
+   "page": 70,
+   "fmt": "fillup",
+   "q": "Fill up: Sutures/interdigitations are seen in ___ nucleus.",
+   "opts": [
+    "adult",
+    "fetal",
+    "infantile",
+    "embryonic"
+   ],
+   "ans": 1,
+   "exp": "Sutures in lens/interdigitations: Seen in fetal nucleus; D/t its formation & interdigitations with the embryonic nucleus. (Book p70)"
+  },
+  {
+   "id": "OPH-C17-021",
+   "sec": "Lens matrix architecture and notes",
+   "page": 70,
+   "fmt": "scenario",
+   "q": "A diagram shows lens with curved fibres anterior to posterior pole, horizontal fibres anterior to posterior, hexagonal cross section, axial and radial indentation, lens equator, anterior and posterior pole. This is labelled in the book as:",
+   "opts": [
+    "Lens matrix architecture",
+    "Canal of Petit anatomy",
+    "Vitreous base anatomy",
+    "A-scan biometry"
+   ],
+   "ans": 0,
+   "exp": "Lens matrix architecture diagram shows curved fibres, horizontal fibres, hexagonal cross section, axial indentation, radial indentation, equator, anterior/posterior pole, optical axis, nucleus. (Book p70)"
+  },
+  {
+   "id": "OPH-C17-022",
+   "sec": "Lens matrix architecture and notes",
+   "page": 70,
+   "fmt": "recall",
+   "q": "During cataract surgery, surgeon notes thinnest capsule at posterior pole and thickest at posterior pre-equatorial zone. This matches the book's note that capsule is thickest basement membrane composed of type IV collagen. Which is thickest?",
+   "opts": [
+    "Posterior pole",
+    "Posterior pre-equatorial zone",
+    "Anterior pre-equatorial zone",
+    "Equator"
+   ],
+   "ans": 1,
+   "exp": "Thinnest: Posterior pole; Thickest: Posterior pre-equatorial zone. (Book p70)"
+  },
+  {
+   "id": "OPH-C17-023",
+   "sec": "Biochemistry of lens — proteins",
+   "page": 71,
+   "fmt": "recall",
+   "q": "Sequestered antigen per the book is:",
+   "opts": [
+    "Corneal protein released after trauma",
+    "Lens protein released from the capsule during surgery/trauma to the lens",
+    "Retinal protein released after detachment",
+    "Vitreous collagen released after PVD"
+   ],
+   "ans": 1,
+   "exp": "Sequestered antigen: Lens protein released from the capsule during surgery/trauma to the lens. (Book p71)"
+  },
+  {
+   "id": "OPH-C17-024",
+   "sec": "Biochemistry of lens — proteins",
+   "page": 71,
+   "fmt": "fillup",
+   "q": "Fill up: Ascorbic acid transport in lens epithelium is mediated by SVCT2 (Sodium dependent vitamin C transporter).",
+   "opts": [
+    "SVCT2",
+    "GLUT1",
+    "AQP0",
+    "Na/K ATPase"
+   ],
+   "ans": 0,
+   "exp": "Ascorbic acid transport in lens epithelium: mediated by SVCT2 (Sodium dependent vitamin C transporter). (Book p71)"
+  },
+  {
+   "id": "OPH-C17-025",
+   "sec": "Biochemistry of lens — proteins",
+   "page": 71,
+   "fmt": "match",
+   "q": "Match crystallin type with note — 1) α-crystallins 2) β-crystallins 3) γ-crystallins … A) Maximum amount B) Most important, heat shock prevents denaturation C) Third water-soluble group",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "α-crystallins: most important, Heat shock proteins prevents denaturation; β-crystallins: maximum amount; γ-crystallins. (Book p71)"
+  },
+  {
+   "id": "OPH-C17-026",
+   "sec": "Biochemistry of lens — proteins",
+   "page": 71,
+   "fmt": "oddoneout",
+   "q": "All are water-soluble proteins listed EXCEPT:",
+   "opts": [
+    "α-crystallins",
+    "β-crystallins",
+    "HM3, HM4",
+    "γ-crystallins"
+   ],
+   "ans": 2,
+   "exp": "Water-soluble: Crystallins (α,β,γ) + HMWP HM1, HM2; Water insoluble HMWP HM3, HM4 ↑ in cataract. (Book p71)"
+  },
+  {
+   "id": "OPH-C17-027",
+   "sec": "Biochemistry of lens — proteins",
+   "page": 71,
+   "fmt": "recall",
+   "q": "High molecular weight proteins in water-soluble group per the book are:",
+   "opts": [
+    "HM1, HM2",
+    "HM3, HM4",
+    "Vimentin, Filensin",
+    "MIP 26"
+   ],
+   "ans": 0,
+   "exp": "High molecular weight proteins (HMWP): HM1, HM2 water-soluble; HM3, HM4 water insoluble ↑ in cataract. (Book p71)"
+  },
+  {
+   "id": "OPH-C17-028",
+   "sec": "Biochemistry of lens — water insoluble",
+   "page": 71,
+   "fmt": "match",
+   "q": "Match urea solubility group — 1) Urea soluble 2) Urea insoluble … A) Vimentin/Filensin (Crystal proteins) B) MIP 26 AKA Aquaporin 0 maintains transparency by hydration C) α-crystallins",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-C, 2-A",
+    "1-A, 2-C"
+   ],
+   "ans": 0,
+   "exp": "Urea soluble: Vimentin/Filensin (Crystal proteins); Urea insoluble: MIP 26 AKA Aquaporin 0 maintains transparency by maintaining hydration. (Book p71)"
+  },
+  {
+   "id": "OPH-C17-029",
+   "sec": "Biochemistry of lens — water insoluble",
+   "page": 71,
+   "fmt": "fillup",
+   "q": "Fill up: MIP 26 is AKA ___ and maintains transparency by maintaining hydration.",
+   "opts": [
+    "Aquaporin 0",
+    "Aquaporin 1",
+    "Connexin 43",
+    "SVCT2"
+   ],
+   "ans": 0,
+   "exp": "MIP 26: AKA Aquaporin 0; maintains transparency of lens by maintaining hydration. (Book p71)"
+  },
+  {
+   "id": "OPH-C17-030",
+   "sec": "Antioxidant mechanisms in lens",
+   "page": 71,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed as antioxidants in lens EXCEPT:",
+   "opts": [
+    "Vitamin C",
+    "Vitamin E",
+    "Vitamin A",
+    "Glutathione reductase"
+   ],
+   "ans": 2,
+   "exp": "Antioxidants: Vitamin C, Vitamin E, Glutathione reductase, Superoxide dismutase, Catalase, Vitreous maintains low O2; Note: Vitamin A does not act as antioxidant in lens (p72). (Book p71)"
+  },
+  {
+   "id": "OPH-C17-031",
+   "sec": "Antioxidant mechanisms in lens",
+   "page": 71,
+   "fmt": "recall",
+   "q": "Vitreous role as antioxidant mechanism per the book:",
+   "opts": [
+    "Maintains high O2 level around lens, removal ↓ propensity for cataract",
+    "Maintains low O2 level around lens, removal ↑ propensity for cataract",
+    "Provides ascorbic acid transport",
+    "Provides tryptophan"
+   ],
+   "ans": 1,
+   "exp": "Vitreous: maintains low O2 level around lens (Removal: ↑ propensity for cataract). (Book p71)"
+  },
+  {
+   "id": "OPH-C17-032",
+   "sec": "Biochemistry — HMWP in cataract",
+   "page": 71,
+   "fmt": "fillup",
+   "q": "Fill up: Water insoluble HMWP ___ & ___ increase in cataract.",
+   "opts": [
+    "HM1, HM2",
+    "HM3, HM4",
+    "Vimentin, Filensin",
+    "MIP 26, AQP0"
+   ],
+   "ans": 1,
+   "exp": "HMWP: HM3, HM4 (↑ in cataract). (Book p71)"
+  },
+  {
+   "id": "OPH-C17-033",
+   "sec": "Antioxidant mechanisms in lens",
+   "page": 72,
+   "fmt": "truefalse",
+   "q": "Which statement about antioxidant notes is TRUE per p72?",
+   "opts": [
+    "Vitamin A is main antioxidant in lens",
+    "Tryptophan deficiency ↓ Kynurenine & antioxidants except SOD → ↑ cataract in animal model; Vitamin A not antioxidant",
+    "SOD is decreased in tryptophan deficiency cataract model",
+    "Vitreous removal decreases cataract risk"
+   ],
+   "ans": 1,
+   "exp": "Note: Vitamin A does not act as antioxidant in lens; Tryptophan deficiency → ↓ Kynurenine and antioxidants (except SOD) → ↑ incidence cataract (experimental animal model). (Book p72)"
+  },
+  {
+   "id": "OPH-C17-034",
+   "sec": "Metabolism in lens — glucose source",
+   "page": 72,
+   "fmt": "numeric",
+   "q": "Glucose to lens per the book comes via simple & facilitated diffusion:",
+   "opts": [
+    "90% from aqueous, 10% from vitreous",
+    "10% from aqueous, 90% from vitreous",
+    "50% each",
+    "100% from aqueous"
+   ],
+   "ans": 0,
+   "exp": "Aqueous 90% of glucose, Vitreous 10% of glucose via simple & facilitated diffusion → Lens. (Book p72)"
+  },
+  {
+   "id": "OPH-C17-035",
+   "sec": "Metabolism in lens — pathways",
+   "page": 72,
+   "fmt": "match",
+   "q": "Match metabolic pathway with % per the book — 1) Anaerobic glycolysis 2) Kreb's cycle + HMP shunt 3) Sorbitol pathway … A) >80% B) >15% C) <5%",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": ">80% Anaerobic glycolysis, >15% Kreb's cycle + HMP shunt, <5% Sorbitol pathway. (Book p72)"
+  },
+  {
+   "id": "OPH-C17-036",
+   "sec": "Metabolism in lens — hyperglycemia",
+   "page": 72,
+   "fmt": "fillup",
+   "q": "Fill up: Hyperglycemia — Diabetes (Adults) and Galactosemia (Children) inhibits anaerobic glycolysis and via feedback inhibition ___ sorbitol pathway activity.",
+   "opts": [
+    "decreases",
+    "increases",
+    "abolishes",
+    "does not affect"
+   ],
+   "ans": 1,
+   "exp": "Hyperglycemia: (-) Anaerobic glycolysis, Rate limiting feedback inhibition (+) Sorbitol pathway → ↑ activity. (Book p72)"
+  },
+  {
+   "id": "OPH-C17-037",
+   "sec": "Metabolism in lens — sorbitol pathway",
+   "page": 72,
+   "fmt": "recall",
+   "q": "Enzyme converting sorbitol to fructose and vice versa per the book is:",
+   "opts": [
+    "Aldose reductase",
+    "Hexokinase",
+    "Galactokinase",
+    "UDPG epimerase"
+   ],
+   "ans": 0,
+   "exp": "↑ Sorbitol Aldose reductase ↔ Fructose. (Book p72)"
+  },
+  {
+   "id": "OPH-C17-038",
+   "sec": "Metabolism in lens — cataract formation",
+   "page": 72,
+   "fmt": "scenario",
+   "q": "A diabetic with hyperglycemia shows increased sorbitol inside lens that cannot diffuse out, leading to increased sugars, osmotic pressure, fluid influx and hazy lens. Per the book this sequence is:",
+   "opts": [
+    "Cannot diffuse out → ↑ sugars inside → ↑ osmotic pressure → flow of fluid into lens → opaque/hazy lens: Cataract",
+    "Diffuses out → ↓ sugars → ↓ osmotic pressure → fluid out → clear lens",
+    "↑ sugars → ↓ osmotic pressure → fluid out → cataract",
+    "↓ sorbitol → ↑ fructose → clear lens"
+   ],
+   "ans": 0,
+   "exp": "Cannot diffuse out of lens → ↑ sugars inside → ↑ osmotic pressure → Flow of fluid into lens → Opaque/hazy lens: Cataract. (Book p72)"
+  },
+  {
+   "id": "OPH-C17-039",
+   "sec": "Metabolism in lens — cataract formation",
+   "page": 72,
+   "fmt": "truefalse",
+   "q": "Which statement about lens metabolism and cataract is TRUE?",
+   "opts": [
+    "Sorbitol pathway normally handles >80% glucose",
+    "In hyperglycemia sorbitol cannot diffuse out → ↑ osmotic pressure → fluid in → cataract; anaerobic glycolysis inhibited",
+    "Fructose easily diffuses out preventing cataract",
+    "Galactosemia in adults causes cataract via same mechanism as diabetes"
+   ],
+   "ans": 1,
+   "exp": "Hyperglycemia (Diabetes Adults, Galactosemia Children) → ↓ anaerobic glycolysis → ↑ sorbitol pathway → ↑ sorbitol (cannot diffuse out) → ↑ osmotic pressure → fluid in → cataract. (Book p72)"
+  },
+  {
+   "id": "OPH-C17-040",
+   "sec": "Metabolism in lens — hyperglycemia types",
+   "page": 72,
+   "fmt": "oddoneout",
+   "q": "Per the book, hyperglycemia causing cataract via sorbitol pathway is seen in:",
+   "opts": [
+    "Diabetes in adults",
+    "Galactosemia in children",
+    "Myotonic dystrophy in adults",
+    "Both diabetes and galactosemia via ↑ sorbitol"
+   ],
+   "ans": 2,
+   "exp": "Hyperglycemia: Diabetes (Adults), Galactosemia (Children). Myotonic dystrophy has different cataract mechanism. (Book p72)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U17-1",
+   "ch": 17,
+   "n": 1,
+   "title": "Functional anatomy — structure, site, power, indices",
+   "sec": "Lens · p68",
+   "guide": "Structure: Equator Diameter 10mm; Anterior less convex Radius 10mm; Posterior more convex Radius 6mm; Site patellar fossa between anterior & posterior segment; No blood supply → transparency, No nerve supply, curvature change d/t zonules; Function converging refraction; Power 16D Far +19D Near variable; Refractive indices Periphery 1.39 Centre 1.406 max of any structure in eye Air 1.",
+   "qs": [
+    "OPH-C17-001",
+    "OPH-C17-002",
+    "OPH-C17-003",
+    "OPH-C17-004",
+    "OPH-C17-005",
+    "OPH-C17-006",
+    "OPH-C17-007"
+   ]
+  },
+  {
+   "id": "OPH-U17-2",
+   "ch": 17,
+   "n": 2,
+   "title": "Attachments of lens and zonules",
+   "sec": "Lens · p69",
+   "guide": "Posterior surface: Vitreous base, Weigert's ligament circular attachments lens & anterior hyaloid/vitreous, Berger's space retrolental cavity central to Weigert's, Cloquet's canal potential space embryogenesis contained hyaloid artery supply developing lens & vitreous disappears by 8 months gestation; Remnants: posterior lens Mittendorf dots, optic disc Bergmeister papillae; Zonules: 1 Preequatorial Canal of Hannover, 2 Post equatorial Canal of Petit, 3 Hyaloid zonules Weigert's ligament; Equator active mitosis E cells columnar dividing elongating to new lens fibres; A cells anterior epithelial metabolically active; Thickness 21 μm anterior pre-equatorial, 17 μm equator, 23 μm posterior pre-equatorial, 4 μm posterior pole.",
+   "qs": [
+    "OPH-C17-008",
+    "OPH-C17-009",
+    "OPH-C17-010",
+    "OPH-C17-011",
+    "OPH-C17-012",
+    "OPH-C17-013",
+    "OPH-C17-014"
+   ]
+  },
+  {
+   "id": "OPH-U17-3",
+   "ch": 17,
+   "n": 3,
+   "title": "Structure of lens — capsule, nucleus, sutures, matrix",
+   "sec": "Lens · p70",
+   "guide": "Capsule outermost/protective thickest basement membrane in body type IV collagen thinnest posterior pole thickest posterior pre-equatorial zone; Anterior epithelium contains A cells & E cells; Posterior epithelium absent in adults formed primary fibres during embryogenesis; Cortex formed by E cells & posterior epithelium; Nucleus table: Embryonic Day 27 fertilization oldest Primary, Fetal during implantation uterine wall Secondary, Infantile immediately after birth Secondary, Adult 1 month after birth youngest Secondary; Sutures seen in fetal nucleus D/t formation & interdigitations embryonic nucleus Anterior Y Apical processes Posterior λ inverted Y Basal processes; Lens matrix architecture Anterior pole Optical axis Nucleus Curved fibres anterior to posterior Horizontal fibres Hexagonal cross section Axial indentation Radial indentation Lens equator Posterior pole.",
+   "qs": [
+    "OPH-C17-015",
+    "OPH-C17-016",
+    "OPH-C17-017",
+    "OPH-C17-018",
+    "OPH-C17-019",
+    "OPH-C17-020",
+    "OPH-C17-021",
+    "OPH-C17-022"
+   ]
+  },
+  {
+   "id": "OPH-U17-4",
+   "ch": 17,
+   "n": 4,
+   "title": "Biochemistry — proteins and antioxidants",
+   "sec": "Lens · p71",
+   "guide": "Sequestered antigen lens protein released from capsule during surgery/trauma; Ascorbic acid transport mediated by SVCT2; Proteins: Water-soluble crystallins α most important heat shock prevents denaturation, β maximum amount, γ, HMWP HM1 HM2; Water insoluble urea soluble Vimentin/Filensin crystal proteins, urea insoluble MIP 26 AKA Aquaporin 0 maintains transparency hydration, HMWP HM3 HM4 ↑ in cataract; Antioxidants Vitamin C, E, Glutathione reductase, Superoxide dismutase, Catalase, Vitreous maintains low O2 Removal ↑ propensity cataract; Note Vitamin A does not act as antioxidant.",
+   "qs": [
+    "OPH-C17-023",
+    "OPH-C17-024",
+    "OPH-C17-025",
+    "OPH-C17-026",
+    "OPH-C17-027",
+    "OPH-C17-028",
+    "OPH-C17-029",
+    "OPH-C17-030",
+    "OPH-C17-031",
+    "OPH-C17-032"
+   ]
+  },
+  {
+   "id": "OPH-U17-5",
+   "ch": 17,
+   "n": 5,
+   "title": "Metabolism — sorbitol pathway and cataract",
+   "sec": "Lens · p71-72",
+   "guide": "Vitamin A does not act as antioxidant; Tryptophan deficiency ↓ Kynurenine and antioxidants except SOD → ↑ cataract animal model; Metabolism Aqueous 90% glucose Vitreous 10% via simple & facilitated diffusion Lens metabolism >80% Anaerobic glycolysis >15% Kreb's cycle HMP shunt <5% Sorbitol pathway; Hyperglycemia Diabetes Adults Galactosemia Children inhibits anaerobic glycolysis rate limiting feedback inhibition increases sorbitol pathway activity ↑ sorbitol Aldose reductase ↔ fructose Cannot diffuse out → ↑ sugars inside → ↑ osmotic pressure → fluid into lens → opaque/hazy cataract.",
+   "qs": [
+    "OPH-C17-033",
+    "OPH-C17-034",
+    "OPH-C17-035",
+    "OPH-C17-036",
+    "OPH-C17-037",
+    "OPH-C17-038",
+    "OPH-C17-039",
+    "OPH-C17-040"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,561 @@
+{
+ "chapter": 19,
+ "title": "Acquired Cataract : Senile Cataract",
+ "pageRange": "76-79",
+ "questions": [
+  {
+   "id": "OPH-C19-001",
+   "sec": "Senile cataract — incidence and risk",
+   "page": 76,
+   "fmt": "numeric",
+   "q": "Incidence of senile cataract per the book is:",
+   "opts": [
+    "20-30 years",
+    "50-70 years",
+    "10-20 years",
+    "80-90 years"
+   ],
+   "ans": 1,
+   "exp": "Incidence: 50-70 years. (Book p76)"
+  },
+  {
+   "id": "OPH-C19-002",
+   "sec": "Senile cataract — incidence and risk",
+   "page": 76,
+   "fmt": "recall",
+   "q": "Anticipation phenomenon in senile cataract per the book means:",
+   "opts": [
+    "Later occurrence if family history present",
+    "Earlier occurrence if family history present",
+    "No family influence",
+    "Only environmental"
+   ],
+   "ans": 1,
+   "exp": "Anticipation phenomenon present (Earlier occurrence if family history present). (Book p76)"
+  },
+  {
+   "id": "OPH-C19-003",
+   "sec": "Senile cataract — incidence and risk",
+   "page": 76,
+   "fmt": "fillup",
+   "q": "Fill up: Increasing age → Oxidative damage to membranes & ___.",
+   "opts": [
+    "proteins",
+    "DNA only",
+    "lipids only",
+    "carbohydrates"
+   ],
+   "ans": 0,
+   "exp": "Increasing age → Oxidative damage to membranes & proteins. (Book p76)"
+  },
+  {
+   "id": "OPH-C19-004",
+   "sec": "Senile cataract — risk factors",
+   "page": 76,
+   "fmt": "oddoneout",
+   "q": "All are listed as risk factors for cataract formation per the book EXCEPT:",
+   "opts": [
+    "Sunlight (UV A + UV B) → Hydration",
+    "Use of corticosteroids",
+    "Increasing age oxidative damage",
+    "Use of topical antibiotics"
+   ],
+   "ans": 3,
+   "exp": "Other risk factors: Sunlight (UV A + UV B) → Hydration, use of corticosteroids, increasing age oxidative damage, family history anticipation. (Book p76)"
+  },
+  {
+   "id": "OPH-C19-005",
+   "sec": "Senile cataract — nuclear cataract",
+   "page": 76,
+   "fmt": "recall",
+   "q": "Nuclear cataract is AKA ___ and loss of vision is:",
+   "opts": [
+    "Peripheral cataract, night > day",
+    "Central cataract, daytime > night",
+    "Cupuliform cataract, near > far",
+    "Shield cataract, day = night"
+   ],
+   "ans": 1,
+   "exp": "Nuclear Cataract AKA central cataract; Loss of vision: Daytime > night. (Book p76)"
+  },
+  {
+   "id": "OPH-C19-006",
+   "sec": "Senile cataract — nuclear cataract daytime vs night",
+   "page": 76,
+   "fmt": "scenario",
+   "q": "A 65-year-old with central nuclear opacity complains vision worse in bright sunlight but can read menu in dim restaurant. Per the book's diagram, this is because:",
+   "opts": [
+    "Daytime constricted pupil → light hits central opacity; Night dilated pupil → image via periphery",
+    "Night blindness due to rod dysfunction",
+    "Cortical cataract peripheral",
+    "PSC at nodal point"
+   ],
+   "ans": 0,
+   "exp": "Day time (Constricted pupil) Light rays Central opacity; Night time (Dilated pupil) Image is formed. (Book p76)"
+  },
+  {
+   "id": "OPH-C19-007",
+   "sec": "Senile cataract — second sight phenomenon",
+   "page": 76,
+   "fmt": "match",
+   "q": "Match second sight sequence per the book — 1) Sclerosis 2) ↑ RI of nucleus 3) Index myopia … A) Rigid/dense cataract of nucleus B) ↑ power of lens C) Near sighted, previously presbyopic/hypermetropic far sighted → second sight",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Sclerosis → Rigid/dense cataract of nucleus → ↑ RI of nucleus → ↑ power of lens → Index myopia (Near sighted) → Previously presbyopic or hypermetropic patients (Far sighted) → Second sight phenomenon. (Book p76)"
+  },
+  {
+   "id": "OPH-C19-008",
+   "sec": "Senile cataract — second sight phenomenon",
+   "page": 76,
+   "fmt": "fillup",
+   "q": "Fill up: Second sight phenomenon is index ___ due to ↑ RI of sclerotic nucleus.",
+   "opts": [
+    "myopia",
+    "hypermetropia",
+    "astigmatism",
+    "presbyopia"
+   ],
+   "ans": 0,
+   "exp": "Index myopia (Near sighted) → Second sight phenomenon. (Book p76)"
+  },
+  {
+   "id": "OPH-C19-009",
+   "sec": "Senile cataract — second sight scenario",
+   "page": 76,
+   "fmt": "scenario",
+   "q": "A 62-year-old hypermetrope who needed +2.5 D reading glasses now reads without glasses, myopic shift noted. Per the book this second sight phenomenon is due to:",
+   "opts": [
+    "Sclerosis ↑ RI of nucleus ↑ power → index myopia",
+    "Cortical hydration ↓ power",
+    "PSC opacity at nodal point",
+    "Anterior subcapsular gold deposits"
+   ],
+   "ans": 0,
+   "exp": "Sclerosis Rigid/dense cataract nucleus ↑ RI → ↑ power lens → Index myopia (Near sighted) → Previously presbyopic/hypermetropic far sighted → Second sight phenomenon. (Book p76)"
+  },
+  {
+   "id": "OPH-C19-010",
+   "sec": "Senile cataract — nuclear grading",
+   "page": 77,
+   "fmt": "match",
+   "q": "Match nuclear cataract grading per the book — 1) Grade1 2) Grade2 3) Grade3 4) Grade4 … A) Yellow d/t urochrome pigment leads to xanthopsia B) Amber C) Brown cataracta brunescens D) Black cataracta nigra",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Grade 1: Yellow (D/t urochrome pigment Leads to xanthopsia), Grade 2: Amber, Grade 3: Brown (Cataracta brunescens), Grade 4: Black (Cataracta nigra). (Book p77)"
+  },
+  {
+   "id": "OPH-C19-011",
+   "sec": "Senile cataract — nuclear grading",
+   "page": 77,
+   "fmt": "recall",
+   "q": "Xanthopsia in Grade1 nuclear cataract is due to:",
+   "opts": [
+    "Urochrome pigment",
+    "Copper deposition",
+    "Melanin",
+    "Bilirubin"
+   ],
+   "ans": 0,
+   "exp": "Grade 1: Yellow (D/t urochrome pigment Leads to xanthopsia). (Book p77)"
+  },
+  {
+   "id": "OPH-C19-012",
+   "sec": "Senile cataract — slit illumination",
+   "page": 77,
+   "fmt": "truefalse",
+   "q": "Which statement about oblique slit illumination is TRUE per the book's images?",
+   "opts": [
+    "Normal lens shows anterior part, cornea, nucleus, posterior part of lens",
+    "Normal lens shows only nucleus",
+    "Grade2/3 shows clear lens",
+    "Oblique slit cannot show cortex"
+   ],
+   "ans": 0,
+   "exp": "Oblique slit illumination of normal lens labels Anterior part Cornea Nucleus Posterior part; Grade2/3 cataract labels Pupil Anterior capsule Nucleus Yellow/orange Cortex Anterior chamber. (Book p77)"
+  },
+  {
+   "id": "OPH-C19-013",
+   "sec": "Cortical cataract — features",
+   "page": 77,
+   "fmt": "recall",
+   "q": "Cortical cataract per the book is:",
+   "opts": [
+    "Central cataract with daytime > night loss",
+    "Peripheral cataract with night time (Nyctalopia) > daytime loss",
+    "Rarest form at nodal point",
+    "Posterior subcapsular with glare"
+   ],
+   "ans": 1,
+   "exp": "Cortical Cataract: Peripheral cataract; Loss of vision: Night time (Nyctalopia/night blindness) > daytime. (Book p77)"
+  },
+  {
+   "id": "OPH-C19-014",
+   "sec": "Cortical cataract — progression",
+   "page": 77,
+   "fmt": "match",
+   "q": "Match cortical cataract progression per the book — 1) Hydration 2) Cuneiform/immature senile 3) Mature/intumescent … A) Water clefts → Lamellar separation → Greyish white lens with iris shadow B) Pearly white, absence iris shadow d/t swollen lens, m/c complication phacomorphic glaucoma C) Clear spaces, wedge shaped opacities m/c inferonasally",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Hydration water clefts → Lamellar separation → Cuneiform AKA immature senile cataract Greyish white colour presence iris shadow wedge shaped opacities clear spaces m/c inferonasally → Continuous hydration/swelling if not treated → Mature/intumescent Pearly white absence iris shadow d/t swollen lens m/c complication Phacomorphic glaucoma. (Book p77)"
+  },
+  {
+   "id": "OPH-C19-015",
+   "sec": "Cortical cataract — cuneiform",
+   "page": 77,
+   "fmt": "fillup",
+   "q": "Fill up: Cuneiform cataract shows clear spaces and ___ shaped opacities m/c inferonasally.",
+   "opts": [
+    "wedge",
+    "rosette",
+    "breadcrumb",
+    "oil droplet"
+   ],
+   "ans": 0,
+   "exp": "Clear spaces wedge shaped opacities Cuneiform cataract m/c inferonasally. (Book p77)"
+  },
+  {
+   "id": "OPH-C19-016",
+   "sec": "Cortical cataract — mature",
+   "page": 77,
+   "fmt": "scenario",
+   "q": "A 70-year-old with greyish white lens and visible iris shadow progresses to pearly white lens with no iris shadow, swollen lens, IOP raised. Per the book, m/c complication at mature intumescent stage is:",
+   "opts": [
+    "Phacomorphic glaucoma",
+    "Phacolytic glaucoma",
+    "Subluxation of lens",
+    "Retinal detachment"
+   ],
+   "ans": 0,
+   "exp": "Mature senile/intumescent: Pearly white absence iris shadow d/t swollen lens m/c complication Phacomorphic glaucoma. (Book p77)"
+  },
+  {
+   "id": "OPH-C19-017",
+   "sec": "Cortical vs nuclear vs PSC",
+   "page": 77,
+   "fmt": "scenario",
+   "q": "Three patients: A) Daytime worse than night, central yellow nucleus; B) Night worse than day, wedge opacities inferonasally; C) Glare at night, daytime near worse, max loss, nodal point. Per the book, A, B, C are:",
+   "opts": [
+    "A Nuclear, B Cortical, C PSC",
+    "A Cortical, B Nuclear, C Anterior subcapsular",
+    "A PSC, B Nuclear, C Cortical",
+    "A Anterior subcapsular, B PSC, C Nuclear"
+   ],
+   "ans": 0,
+   "exp": "Nuclear: Day > night, central; Cortical: Peripheral night > day wedge inferonasally; PSC: Glare day > night near > far max loss nodal point. (Book p77)"
+  },
+  {
+   "id": "OPH-C19-018",
+   "sec": "Hypermature senile cataract",
+   "page": 78,
+   "fmt": "recall",
+   "q": "Hypermature senile cataract is complete disintegration of cortical fibres d/t dysfunction of zonules and its m/c complication is:",
+   "opts": [
+    "Phacomorphic glaucoma",
+    "Subluxation of lens",
+    "Phacolytic glaucoma",
+    "Endophthalmitis"
+   ],
+   "ans": 1,
+   "exp": "Hypermature senile cataract Complete disintegration cortical fibres (D/t dysfunction zonules) m/c complication Subluxation of lens. (Book p78)"
+  },
+  {
+   "id": "OPH-C19-019",
+   "sec": "Hypermature — morgagnian vs sclerotic",
+   "page": 78,
+   "fmt": "match",
+   "q": "Match hypermature variant — 1) Morgagnian 2) Sclerotic calcified … A) Liquefaction cortex → sinking nucleus → m/c complication phacolytic glaucoma B) Disintegrated cortex → leak through capsule → shrinkage with thickened anterior capsule C) Pearly white with iris shadow",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-C, 2-A",
+    "1-A, 2-C"
+   ],
+   "ans": 0,
+   "exp": "Morgagnian: Liquefaction cortex Sinking nucleus m/c complication Phacolytic glaucoma; Sclerotic calcified: Disintegrated cortex Leak through capsule Shrinkage lens with thickened anterior capsule. (Book p78)"
+  },
+  {
+   "id": "OPH-C19-020",
+   "sec": "Hypermature — morgagnian",
+   "page": 78,
+   "fmt": "fillup",
+   "q": "Fill up: In morgagnian cataract, liquefaction of cortex leads to sinking of ___.",
+   "opts": [
+    "nucleus",
+    "cortex",
+    "iris",
+    "vitreous"
+   ],
+   "ans": 0,
+   "exp": "Morgagnian cataract: Liquefaction of cortex Sinking of nucleus m/c complication Phacolytic glaucoma. (Book p78)"
+  },
+  {
+   "id": "OPH-C19-021",
+   "sec": "Hypermature — images",
+   "page": 78,
+   "fmt": "scenario",
+   "q": "Photo series shows cortex and nucleus labels, then nucleus sinking inferiorly, then absorbed cortex with nucleus visible. Per the book this is variant of:",
+   "opts": [
+    "Morgagnian cataract",
+    "Sclerotic calcified cataract",
+    "Cuneiform cataract",
+    "Nuclear cataract grade1"
+   ],
+   "ans": 0,
+   "exp": "Variants of morgagnian cataract images Cortex Nucleus → Absorbed cortex Nucleus sinking. (Book p78)"
+  },
+  {
+   "id": "OPH-C19-022",
+   "sec": "Posterior subcapsular cataract (PSC)",
+   "page": 78,
+   "fmt": "recall",
+   "q": "PSC per the book is AKA:",
+   "opts": [
+    "Cupuliform cataract",
+    "Cuneiform cataract",
+    "Cataracta brunescens",
+    "Shield cataract"
+   ],
+   "ans": 0,
+   "exp": "Posterior Subcapsular Cataract (PSC) AKA cupuliform cataract. (Book p78)"
+  },
+  {
+   "id": "OPH-C19-023",
+   "sec": "Posterior subcapsular cataract — clinical",
+   "page": 78,
+   "fmt": "oddoneout",
+   "q": "All are clinical features of PSC per the book EXCEPT:",
+   "opts": [
+    "Glare difficulty driving at night d/t bright light",
+    "Loss of vision daytime > night, near > far",
+    "Maximum loss of vision of all cataracts (opacity at nodal point)",
+    "Night blindness > daytime"
+   ],
+   "ans": 3,
+   "exp": "PSC: Glare C/o difficulty driving at night d/t bright light; Loss Day > night, Near > far; Maximum loss of vision (Opacity at nodal point). Night > day is cortical. (Book p78)"
+  },
+  {
+   "id": "OPH-C19-024",
+   "sec": "Posterior subcapsular cataract — pathology",
+   "page": 78,
+   "fmt": "match",
+   "q": "Match PSC pathology per the book — 1) Dysplasia of E cells 2) Posterior migration & enlargement 3) Bladder/Wedl cells … A) Collect to form plaque (Opacity) B) Equatorial cells dysplasia start C) Intermediate step",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Pathology: Dysplasia of 'E' cells (Equatorial cells) → Posterior migration & enlargement → Bladder/Wedl cells: Collect to form plaque (Opacity). (Book p78)"
+  },
+  {
+   "id": "OPH-C19-025",
+   "sec": "Posterior subcapsular cataract — pathology",
+   "page": 78,
+   "fmt": "fillup",
+   "q": "Fill up: In PSC, dysplasia of E cells leads to formation of ___ cells that form plaque.",
+   "opts": [
+    "Bladder/Wedl",
+    "Mittendorf",
+    "Bergmeister",
+    "Glaukomflecken"
+   ],
+   "ans": 0,
+   "exp": "Bladder/Wedl cells: Collect to form plaque (Opacity). (Book p78)"
+  },
+  {
+   "id": "OPH-C19-026",
+   "sec": "Senile cataract — etiology steroids and others",
+   "page": 79,
+   "fmt": "truefalse",
+   "q": "Which statement about steroid-induced cataract/glaucoma is TRUE per the book?",
+   "opts": [
+    "Systemic steroids cause glaucoma, topical cause cataract",
+    "Systemic steroids cause cataract, topical steroids cause glaucoma",
+    "Both systemic and topical cause only glaucoma",
+    "Steroids never cause cataract"
+   ],
+   "ans": 1,
+   "exp": "Etiology: Steroids: Systemic steroids: Cataract; Topical steroids: Glaucoma. (Book p79)"
+  },
+  {
+   "id": "OPH-C19-027",
+   "sec": "Senile cataract — other etiologies",
+   "page": 79,
+   "fmt": "oddoneout",
+   "q": "All of the following are listed under other conditions causing cataract per p79 EXCEPT:",
+   "opts": [
+    "Neurofibromatosis type 2",
+    "Myotonic dystrophy",
+    "Galactosemia",
+    "Keratoconus"
+   ],
+   "ans": 3,
+   "exp": "Other conditions: Neurofibromatosis type 2, Myotonic dystrophy, Galactosemia, Blunt trauma, Complicated cataract primarily d/t uveitis/post uveitis, X-rays occupational ionizing radiation. (Book p79)"
+  },
+  {
+   "id": "OPH-C19-028",
+   "sec": "Senile cataract — anterior subcapsular",
+   "page": 79,
+   "fmt": "recall",
+   "q": "Rarest form of cataract per the book is:",
+   "opts": [
+    "Posterior subcapsular",
+    "Nuclear",
+    "Anterior subcapsular",
+    "Cortical"
+   ],
+   "ans": 2,
+   "exp": "ANTERIOR SUBCAPSULAR CATARACT Rarest form of cataract. (Book p79)"
+  },
+  {
+   "id": "OPH-C19-029",
+   "sec": "Senile cataract — anterior subcapsular etiology",
+   "page": 79,
+   "fmt": "fillup",
+   "q": "Fill up: Mnemonic AACG for anterior subcapsular cataract — Acute angle closure glaucoma: Glaukomflecken, Atopic dermatitis: Shield cataract, Amiodarone, Chlorpromazine, Gold ___.",
+   "opts": [
+    "deposits",
+    "deficiency",
+    "excess",
+    "allergy"
+   ],
+   "ans": 0,
+   "exp": "Mnemonic AACG: Acute angle closure glaucoma: Glaukomflecken, Atopic dermatitis: Shield cataract, Amiodarone, Chlorpromazine, Gold deposits. (Book p79)"
+  },
+  {
+   "id": "OPH-C19-030",
+   "sec": "Senile cataract — anterior subcapsular associations",
+   "page": 79,
+   "fmt": "match",
+   "q": "Match anterior subcapsular cause with cataract name — 1) Acute angle closure glaucoma 2) Atopic dermatitis … A) Glaukomflecken B) Shield cataract C) Sunflower",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-C, 2-A",
+    "1-A, 2-C"
+   ],
+   "ans": 0,
+   "exp": "Acute angle closure glaucoma: Glaukomflecken; Atopic dermatitis: Shield cataract. (Book p79)"
+  },
+  {
+   "id": "OPH-C19-031",
+   "sec": "Senile cataract — x-rays and complicated",
+   "page": 79,
+   "fmt": "recall",
+   "q": "X-rays as etiology for cataract per the book refers to:",
+   "opts": [
+    "Occupational exposure to ionizing radiation",
+    "Infrared rays from glass blowing",
+    "UV light from sunlight",
+    "Laser exposure"
+   ],
+   "ans": 0,
+   "exp": "X-rays: Occupational exposure to ionizing radiation. (Book p79)"
+  },
+  {
+   "id": "OPH-C19-032",
+   "sec": "Senile cataract — complicated",
+   "page": 79,
+   "fmt": "fillup",
+   "q": "Fill up: Complicated cataract as cause listed under senile cataract etiology is primarily d/t uveitis/___ uveitis.",
+   "opts": [
+    "post",
+    "anterior",
+    "intermediate",
+    "pan"
+   ],
+   "ans": 0,
+   "exp": "Complicated cataract: Primarily d/t uveitis/post uveitis. (Book p79)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U19-1",
+   "ch": 19,
+   "n": 1,
+   "title": "Incidence, risk factors, nuclear cataract and second sight",
+   "sec": "Lens · p76",
+   "guide": "Incidence 50-70 years Anticipation phenomenon earlier if family history Increasing age oxidative damage membranes & proteins Other risk factors Sunlight UV A+UV B → Hydration Use corticosteroids Classification based on site Nuclear AKA central cataract Loss daytime > night Day time constricted pupil light rays central opacity Night dilated pupil image formed Second sight Sclerosis rigid/dense cataract nucleus ↑ RI ↑ power lens Index myopia near sighted Previously presbyopic hypermetropic far sighted → Second sight phenomenon.",
+   "qs": [
+    "OPH-C19-001",
+    "OPH-C19-002",
+    "OPH-C19-003",
+    "OPH-C19-004",
+    "OPH-C19-005",
+    "OPH-C19-006",
+    "OPH-C19-007",
+    "OPH-C19-008",
+    "OPH-C19-009"
+   ]
+  },
+  {
+   "id": "OPH-U19-2",
+   "ch": 19,
+   "n": 2,
+   "title": "Nuclear grading and cortical cataract progression",
+   "sec": "Lens · p77",
+   "guide": "Grading Grade1 Yellow d/t urochrome pigment leads to xanthopsia Grade2 Amber Grade3 Brown cataracta brunescens Grade4 Black cataracta nigra Images Oblique slit illumination normal lens anterior part cornea nucleus posterior part Grade2/3 pupil anterior capsule nucleus yellow/orange cortex anterior chamber; Cortical Peripheral cataract Loss night time nyctalopia > daytime Progression Hydration water clefts Lamellar separation Cuneiform AKA immature senile cataract Greyish white presence iris shadow Clear spaces wedge shaped opacities m/c inferonasally Continuous hydration swelling if not treated Mature senile/intumescent Pearly white absence iris shadow d/t swollen lens m/c complication Phacomorphic glaucoma If not treated → hypermature.",
+   "qs": [
+    "OPH-C19-010",
+    "OPH-C19-011",
+    "OPH-C19-012",
+    "OPH-C19-013",
+    "OPH-C19-014",
+    "OPH-C19-015",
+    "OPH-C19-016",
+    "OPH-C19-017"
+   ]
+  },
+  {
+   "id": "OPH-U19-3",
+   "ch": 19,
+   "n": 3,
+   "title": "Hypermature variants and posterior subcapsular cataract",
+   "sec": "Lens · p78",
+   "guide": "Hypermature senile cataract complete disintegration cortical fibres D/t dysfunction zonules m/c complication Subluxation of lens Variants Morgagnian Liquefaction cortex Sinking nucleus m/c complication Phacolytic glaucoma Sclerotic calcified Disintegrated cortex Leak through capsule Shrinkage lens thickened anterior capsule Variants of morgagnian images Cortex Nucleus Absorbed cortex; Sclerotic calcified Disintegrated cortex → Leak → Shrinkage with wrinkled thickened anterior capsule; PSC AKA cupuliform cataract Posterior subcapsular Clinical Glare difficulty driving at night bright light Loss daytime > night near > far Maximum loss of vision all cataracts opacity at nodal point Pathology Dysplasia E cells equatorial → Posterior migration & enlargement → Bladder/Wedl cells collect to form plaque opacity.",
+   "qs": [
+    "OPH-C19-018",
+    "OPH-C19-019",
+    "OPH-C19-020",
+    "OPH-C19-021",
+    "OPH-C19-022",
+    "OPH-C19-023",
+    "OPH-C19-024",
+    "OPH-C19-025"
+   ]
+  },
+  {
+   "id": "OPH-U19-4",
+   "ch": 19,
+   "n": 4,
+   "title": "Etiology of anterior subcapsular and other causes",
+   "sec": "Lens · p79",
+   "guide": "Etiology Steroids Systemic cataract Topical glaucoma X-rays occupational ionizing radiation Other conditions Neurofibromatosis type 2 Myotonic dystrophy Galactosemia Blunt trauma Complicated cataract primarily d/t uveitis/post uveitis; Anterior subcapsular cataract Rarest form Etiology mnemonic AACG Acute angle closure glaucoma Glaukomflecken Atopic dermatitis Shield cataract Amiodarone Chlorpromazine Gold deposits.",
+   "qs": [
+    "OPH-C19-026",
+    "OPH-C19-027",
+    "OPH-C19-028",
+    "OPH-C19-029",
+    "OPH-C19-030",
+    "OPH-C19-031",
+    "OPH-C19-032"
+   ]
+  }
+ ]
+}

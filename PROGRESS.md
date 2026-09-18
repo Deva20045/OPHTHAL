@@ -42,11 +42,11 @@ scope (Book p1–233) is converted into questions in strict book order.
 | 13 | Paralytic Squint | p54 | **LIVE** |
 | 14 | Gaze Defects | p59 | **LIVE** |
 | 15 | Restrictive Squint and Comitant Squint | p63 | **LIVE** |
-| 16 | Pseudo-strabismus and Ocular Myopathies | p66 | SOON |
-| 17 | Anatomy and Metabolism (Lens) | p68 | SOON |
-| 18 | Acquired Cataract : Types | p73 | SOON |
-| 19 | Acquired Cataract : Senile Cataract | p76 | SOON |
-| 20 | Cataract Surgery | p80 | SOON |
+| 16 | Pseudo-strabismus and Ocular Myopathies | p66 | **LIVE** |
+| 17 | Anatomy and Metabolism (Lens) | p68 | **LIVE** |
+| 18 | Acquired Cataract : Types | p73 | **LIVE** |
+| 19 | Acquired Cataract : Senile Cataract | p76 | **LIVE** |
+| 20 | Cataract Surgery | p80 | **LIVE** |
 | 21 | Complications of Cataract Surgery | p83 | SOON |
 | 22 | Congenital Cataract, Ectopia lentis and Miscellaneous | p87 | SOON |
 | 23 | Glaucoma : What and How? | p90 | SOON |
@@ -78,7 +78,7 @@ scope (Book p1–233) is converted into questions in strict book order.
 | 49 | Lasers In Ophthalmology | p228 | SOON |
 | 50 | Physiology of Vision | p229 | SOON |
 
-*(Status column: Ch 1-15 = **LIVE**; every other chapter = **SOON** — rendered in the app
+*(Status column: Ch 1-20 = **LIVE**; every other chapter = **SOON** — rendered in the app
 as a locked "Soon" row. Update this table as chapters go live.)*
 
 ### Section spans
@@ -155,11 +155,16 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 13 "Paralytic Squint" (p54–58): 5 units, 40 questions — BUILT & VERIFIED**
 - [x] **Ch 14 "Gaze Defects" (p59–62): 4 units, 33 questions — BUILT & VERIFIED**
 - [x] **Ch 15 "Restrictive Squint and Comitant Squint" (p63–65): 3 units, 24 questions — BUILT & VERIFIED**
-- [ ] Ch 16–50 (per pipeline above)
+- [x] **Ch 16 "Pseudo-strabismus and Ocular Myopathies" (p66–67): 3 units, 20 questions — BUILT & VERIFIED**
+- [x] **Ch 17 "Anatomy and Metabolism" (p68–72): 5 units, 40 questions — BUILT & VERIFIED**
+- [x] **Ch 18 "Acquired Cataract : Types" (p73–75): 4 units, 28 questions — BUILT & VERIFIED**
+- [x] **Ch 19 "Acquired Cataract : Senile Cataract" (p76–79): 4 units, 32 questions — BUILT & VERIFIED**
+- [x] **Ch 20 "Cataract Surgery" (p80–82): 4 units, 28 questions — BUILT & VERIFIED**
+- [ ] Ch 21–50 (per pipeline above)
 
 ## NEXT
-**Ch 16 "Pseudo-strabismus and Ocular Myopathies" (p66–67)** —
-render Part 1 PDF pages 69–70, read line-by-line, author `data/ch16.json`,
+**Ch 21 "Complications of Cataract Surgery" (p83–86)** —
+render Part 1 PDF pages 86–89, read line-by-line, author `data/ch21.json`,
 run build + checks + audit, commit + push.
 
 ## Live
