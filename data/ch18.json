@@ -1,0 +1,497 @@
+{
+ "chapter": 18,
+ "title": "Acquired Cataract : Types",
+ "pageRange": "73-75",
+ "questions": [
+  {
+   "id": "OPH-C18-001",
+   "sec": "Overview and classification",
+   "page": 73,
+   "fmt": "recall",
+   "q": "Acquired cataract per the book overview is defined as:",
+   "opts": [
+    "Any opacity in the vitreous or its capsule",
+    "Any opacity in the lens or its capsule",
+    "Any opacity in cornea only",
+    "Any opacity in retina"
+   ],
+   "ans": 1,
+   "exp": "Any opacity in the lens or its capsule. (Book p73)"
+  },
+  {
+   "id": "OPH-C18-002",
+   "sec": "Overview and classification",
+   "page": 73,
+   "fmt": "fillup",
+   "q": "Fill up: Gradual painless loss of vision → Blindness, m/c cause in ___.",
+   "opts": [
+    "USA",
+    "India",
+    "Japan",
+    "Africa"
+   ],
+   "ans": 1,
+   "exp": "Blindness (m/c cause in India). (Book p73)"
+  },
+  {
+   "id": "OPH-C18-003",
+   "sec": "Overview and classification",
+   "page": 73,
+   "fmt": "truefalse",
+   "q": "Which statement about loss of vision in cataract is TRUE per the book's note?",
+   "opts": [
+    "Only gradual and painless always",
+    "Can be gradual/sudden, painless/pain (signs of inflammation)",
+    "Always painful with redness",
+    "Always sudden with flashes"
+   ],
+   "ans": 1,
+   "exp": "Loss of vision: Gradual, sudden; Painless, pain (Signs of inflammation). (Book p73)"
+  },
+  {
+   "id": "OPH-C18-004",
+   "sec": "Overview and classification",
+   "page": 73,
+   "fmt": "match",
+   "q": "Match classification per the book — 1) Acquired 2) Congenital … A) Metabolic, Traumatic, Complicated, Senile/age related B) Infantile Onset <1 year, Developmental Onset >1 year C) Only senile",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-C, 2-A",
+    "1-A, 2-C"
+   ],
+   "ans": 0,
+   "exp": "Classification: Acquired: metabolic, traumatic, complicated, senile/age related; Congenital: Infantile (Onset <1 year), Developmental (Onset >1 year). (Book p73)"
+  },
+  {
+   "id": "OPH-C18-005",
+   "sec": "Metabolic cataract — diabetes",
+   "page": 73,
+   "fmt": "recall",
+   "q": "True diabetic cataract/snow flake cataract per the book is:",
+   "opts": [
+    "Posterior subcapsular, Type 2 DM",
+    "Cortical cataract, Type 1 DM",
+    "Nuclear cataract, Type 2 DM",
+    "Lamellar cataract, Type 1 DM"
+   ],
+   "ans": 1,
+   "exp": "True diabetic cataract/Snow flake cataract: Cortical cataract, Type 1 DM. (Book p73)"
+  },
+  {
+   "id": "OPH-C18-006",
+   "sec": "Metabolic cataract — diabetes",
+   "page": 73,
+   "fmt": "fillup",
+   "q": "Fill up: Pre-senile cataract is m/c in type 2 DM, senile cataract before 50 yrs, D/t ___ of crystallins.",
+   "opts": [
+    "carbamylation",
+    "glycosylation",
+    "phosphorylation",
+    "oxidation"
+   ],
+   "ans": 0,
+   "exp": "D/t carbamylation of crystallins. (Book p73)"
+  },
+  {
+   "id": "OPH-C18-007",
+   "sec": "Metabolic cataract — diabetes",
+   "page": 73,
+   "fmt": "oddoneout",
+   "q": "All of the following are other ocular conditions due to DM listed in the book EXCEPT:",
+   "opts": [
+    "Fluctuating refractory errors d/t fluctuations in glycemic state",
+    "Diabetic retinopathy nonproliferative and proliferative",
+    "Oil droplet cataract",
+    "Pre-senile cataract"
+   ],
+   "ans": 2,
+   "exp": "Note Other conditions of eye d/t DM: Fluctuating refractory errors D/t fluctuations in glycemic state, Diabetic retinopathy nonproliferative proliferative; Oil droplet is galactosemia. (Book p73)"
+  },
+  {
+   "id": "OPH-C18-008",
+   "sec": "Metabolic cataract — galactosemia",
+   "page": 73,
+   "fmt": "recall",
+   "q": "Oil droplet cataract is described as:",
+   "opts": [
+    "Only reversible cataract, posterior subcapsular, seen in infancy due to galactosemia",
+    "Irreversible cortical cataract seen in elderly",
+    "Sunflower cataract due to copper",
+    "Christmas tree cataract due to myotonic dystrophy"
+   ],
+   "ans": 0,
+   "exp": "Galactosemia: Oil droplet cataract/posterior subcapsular cataract; Only reversible cataract; Seen in infancy. (Book p73)"
+  },
+  {
+   "id": "OPH-C18-009",
+   "sec": "Metabolic cataract — galactosemia etiology",
+   "page": 73,
+   "fmt": "match",
+   "q": "Match galactosemia enzyme deficiency with type — 1) Galactose-1-PUT 2) UDP galactose epimerase 3) Galactokinase … A) Classical galactosemia (grouped) B) Galactose substrate & galactitol/dulcitol accumulate in lens C) Autosomal recessive deficiency listed",
+   "opts": [
+    "1-A, 2-A, 3-B",
+    "1-B, 2-A, 3-A",
+    "1-A, 2-B, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "D/t autosomal recessive deficiency: Galactose-1-PUT (Phosphate uridyl transferase) + UDP galactose epimerase } Classical galactosemia; Galactokinase: Galactose substrate & galactitol/dulcitol metabolites accumulate in lens. (Book p73)"
+  },
+  {
+   "id": "OPH-C18-010",
+   "sec": "Metabolic cataract — overall",
+   "page": 73,
+   "fmt": "scenario",
+   "q": "An infant after starting breast milk develops vomiting, cataract described as oil droplet posterior subcapsular, reversible. Urine shows reducing substances. Deficiency likely in galactose-1-PUT (classical galactosemia). This matches the book's description of:",
+   "opts": [
+    "Galactosemia oil droplet cataract only reversible",
+    "Diabetic snowflake cataract",
+    "Wilson sunflower cataract",
+    "Traumatic rosette cataract"
+   ],
+   "ans": 0,
+   "exp": "Oil droplet/posterior subcapsular, only reversible, seen in infancy, D/t galactosemia, diagnosis urine reducing substances after breast feeding. (Book p73)"
+  },
+  {
+   "id": "OPH-C18-011",
+   "sec": "Metabolic cataract — galactosemia diagnosis",
+   "page": 74,
+   "fmt": "fillup",
+   "q": "Fill up: Galactosemia diagnosis per the book — Urine assay measurement of increased ___ after breast feeding.",
+   "opts": [
+    "reducing substances",
+    "ketones",
+    "copper",
+    "protein"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis: Urine assay: measurement of increased reducing substances after breast feeding. (Book p74)"
+  },
+  {
+   "id": "OPH-C18-012",
+   "sec": "Myotonic dystrophy cataract",
+   "page": 74,
+   "fmt": "recall",
+   "q": "Myotonic dystrophy cataract per the book:",
+   "opts": [
+    "Sunflower cataract with copper",
+    "Christmas tree/posterior subcapsular, scattered fine iridescent irregular opacities",
+    "Oil droplet cataract reversible",
+    "Rosette shaped posterior subcapsular"
+   ],
+   "ans": 1,
+   "exp": "Myotonic dystrophy: Christmas tree cataract/posterior subcapsular cataract; Scattered, fine, iridescent irregular opacities. (Book p74)"
+  },
+  {
+   "id": "OPH-C18-013",
+   "sec": "Myotonic dystrophy cataract",
+   "page": 74,
+   "fmt": "oddoneout",
+   "q": "All are associated ocular manifestations of myotonic dystrophy per the book EXCEPT:",
+   "opts": [
+    "Ptosis (drooping of upper eyelid)",
+    "Diplopia",
+    "Sunflower cataract",
+    "Christmas tree cataract"
+   ],
+   "ans": 2,
+   "exp": "Associated ocular manifestation: Ptosis, Diplopia; Lens: Christmas tree/posterior subcapsular; Sunflower is Wilson's. (Book p74)"
+  },
+  {
+   "id": "OPH-C18-014",
+   "sec": "Wilson's disease — lens and cornea",
+   "page": 74,
+   "fmt": "match",
+   "q": "Match Wilson's ocular finding with cause — 1) Sunflower cataract 2) KF ring … A) Deposition of copper to Descemet's membrane B) Deposition of cuprous oxide at multiple sites C) Deposition of calcium",
+   "opts": [
+    "1-B, 2-A",
+    "1-A, 2-B",
+    "1-C, 2-A",
+    "1-B, 2-C"
+   ],
+   "ans": 0,
+   "exp": "Lens: Sunflower cataract D/t deposition of cuprous oxide; Cornea Kayser-Fleischer ring: golden brown ring d/t deposition of copper to descemet's membrane (Not pathognomonic). (Book p74)"
+  },
+  {
+   "id": "OPH-C18-015",
+   "sec": "Wilson's disease — KF ring",
+   "page": 74,
+   "fmt": "truefalse",
+   "q": "Which statement about Kayser-Fleischer ring is TRUE per the book?",
+   "opts": [
+    "It is pathognomonic of Wilson's and appears first inferiorly",
+    "Golden brown ring d/t copper to Descemet's membrane, not pathognomonic, appears superior → inferior → circumferential, missed d/t eyelid",
+    "It is due to iron deposition",
+    "Seen only in hepatic Wilson's"
+   ],
+   "ans": 1,
+   "exp": "KF ring: golden brown d/t copper to Descemet's membrane (Not pathognomonic). Seen in all neurological (basal ganglia Cu), only 50% hepatic, Primary biliary cholangitis, Neonatal hepatitis. Progression superior earliest → inferiorly → circumferential, missed clinically d/t being obscured by eyelid. (Book p74)"
+  },
+  {
+   "id": "OPH-C18-016",
+   "sec": "Wilson's disease — KF ring associations",
+   "page": 74,
+   "fmt": "oddoneout",
+   "q": "KF ring is seen in all of the following per the book EXCEPT:",
+   "opts": [
+    "All cases with neurological involvement",
+    "Primary biliary cholangitis",
+    "Neonatal hepatitis",
+    "Only in 100% hepatic cases"
+   ],
+   "ans": 3,
+   "exp": "Seen in: All case neurological involvement (Basal ganglia Cu), Only 50% cases with hepatic involvement, Primary biliary cholangitis, Neonatal hepatitis. (Book p74)"
+  },
+  {
+   "id": "OPH-C18-017",
+   "sec": "Wilson's disease — treatment",
+   "page": 74,
+   "fmt": "recall",
+   "q": "Treatment of Wilson's per the book includes chelation and KF ring disappearance:",
+   "opts": [
+    "Penicillamine + Trientine lifelong, Cu load ↓, KF disappears 3-5 years",
+    "Zinc acetate only for 1 month",
+    "Steroids lifelong",
+    "No treatment needed"
+   ],
+   "ans": 0,
+   "exp": "Chelating agents: Penicillamine and Trientine (Lifelong therapy) MOA Chelation Cu → Cu load ↓ → ↓ Cu absorption KF ring usually disappears after 3-5 years. (Book p74)"
+  },
+  {
+   "id": "OPH-C18-018",
+   "sec": "Wilson's disease — metabolites",
+   "page": 74,
+   "fmt": "truefalse",
+   "q": "Which statement about galactokinase deficiency is TRUE per the book?",
+   "opts": [
+    "Galactose substrate & galactitol/dulcitol accumulate in lens → cataract",
+    "Galactose is converted to glucose normally",
+    "Only copper accumulates",
+    "No cataract occurs"
+   ],
+   "ans": 0,
+   "exp": "Galactokinase: Galactose (Substrate) & galactitol/dulcitol (metabolites) accumulate in lens resulting in cataract. (Book p74)"
+  },
+  {
+   "id": "OPH-C18-019",
+   "sec": "Wilson's disease — progression",
+   "page": 74,
+   "fmt": "numeric",
+   "q": "Per the book, KF ring disappears after chelation therapy in:",
+   "opts": [
+    "3-5 years",
+    "1 month",
+    "10 years",
+    "2 weeks"
+   ],
+   "ans": 0,
+   "exp": "KF ring usually disappears after 3-5 years. (Book p74)"
+  },
+  {
+   "id": "OPH-C18-020",
+   "sec": "Wilson's disease — maintenance",
+   "page": 75,
+   "fmt": "fillup",
+   "q": "Fill up: Maintenance therapy Zinc acetate forms zinc copper complex → ↓ ___ absorption.",
+   "opts": [
+    "Cu",
+    "Fe",
+    "Ca",
+    "Na"
+   ],
+   "ans": 0,
+   "exp": "Maintenance therapy: Zinc acetate (Zinc copper complex → ↓ Cu absorption). (Book p75)"
+  },
+  {
+   "id": "OPH-C18-021",
+   "sec": "Parathyroid tetany cataract",
+   "page": 75,
+   "fmt": "match",
+   "q": "Match parathyroid tetany cataract by age — 1) Children 2) Adults … A) Origin Congenital, location Lamellar B) Origin Acquired, location Subcapsular C) Origin Traumatic, location Cortical",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-C, 2-B",
+    "1-A, 2-C"
+   ],
+   "ans": 0,
+   "exp": "Parathyroid tetany Leads to hypocalcemia → Cataract: Children Origin Congenital location Lamellar; Adults Origin Acquired location Subcapsular. (Book p75)"
+  },
+  {
+   "id": "OPH-C18-022",
+   "sec": "Traumatic cataract",
+   "page": 75,
+   "fmt": "recall",
+   "q": "Blunt trauma cataract per the book is:",
+   "opts": [
+    "Rosette shaped cataract: Posterior subcapsular",
+    "Anterior capsular opacities only",
+    "Sunflower cataract",
+    "Oil droplet cataract"
+   ],
+   "ans": 0,
+   "exp": "Blunt trauma: Rosette shaped cataract: Posterior subcapsular. (Book p75)"
+  },
+  {
+   "id": "OPH-C18-023",
+   "sec": "Traumatic cataract",
+   "page": 75,
+   "fmt": "oddoneout",
+   "q": "All of the following traumatic cataract associations are listed EXCEPT:",
+   "opts": [
+    "Lightning/electric shock: Anterior capsular opacities",
+    "Infrared: Highest wavelength, Glassblower's cataract True exfoliation of lens capsule",
+    "Penetrating: Iron deposition Siderosis bulbi d/t trauma with iron objects Cortical cataract",
+    "Blunt trauma: Sunflower cataract"
+   ],
+   "ans": 3,
+   "exp": "Blunt: Rosette posterior subcapsular; Lightning: Anterior capsular; Infrared: Highest wavelength Glassblower's cataract True exfoliation; Penetrating: Siderosis bulbi cortical. Sunflower is Wilson. (Book p75)"
+  },
+  {
+   "id": "OPH-C18-024",
+   "sec": "Traumatic cataract — infrared and siderosis",
+   "page": 75,
+   "fmt": "fillup",
+   "q": "Fill up: Glassblower's cataract due to infrared rays (highest wavelength) is true exfoliation of ___.",
+   "opts": [
+    "lens capsule",
+    "corneal epithelium",
+    "retina",
+    "iris"
+   ],
+   "ans": 0,
+   "exp": "Infrared rays: Highest wavelength rays, Glassblower's cataract (True exfoliation of lens capsule). (Book p75)"
+  },
+  {
+   "id": "OPH-C18-025",
+   "sec": "Traumatic cataract — siderosis",
+   "page": 75,
+   "fmt": "scenario",
+   "q": "A worker with penetrating injury from iron hammer develops brownish deposits in lens and iris, cortical cataract. Per the book this is:",
+   "opts": [
+    "Chalcosis bulbi due to copper",
+    "Siderosis bulbi due to iron deposition d/t trauma with iron objects",
+    "Sunflower cataract due to cuprous oxide",
+    "Christmas tree cataract"
+   ],
+   "ans": 1,
+   "exp": "Penetrating trauma: Iron deposition in eye: Siderosis bulbi (D/t trauma with iron objects) Cortical cataract. (Book p75)"
+  },
+  {
+   "id": "OPH-C18-026",
+   "sec": "Complicated cataract",
+   "page": 75,
+   "fmt": "recall",
+   "q": "Complicated cataract per the book is:",
+   "opts": [
+    "Posterior subcapsular cataract caused secondary to another condition",
+    "Anterior subcapsular due to trauma only",
+    "Nuclear cataract due to age only",
+    "Congenital cataract"
+   ],
+   "ans": 0,
+   "exp": "Posterior subcapsular cataract caused secondary to another condition. (Book p75)"
+  },
+  {
+   "id": "OPH-C18-027",
+   "sec": "Complicated cataract — etiology UMAR",
+   "page": 75,
+   "fmt": "fillup",
+   "q": "Fill up: Mnemonic UMAR for complicated cataract — Uveitis (m/c), High myopia, Angle closure glaucoma, ___.",
+   "opts": [
+    "Retinitis pigmentosa",
+    "Retinoblastoma",
+    "ROP",
+    "Myopia"
+   ],
+   "ans": 0,
+   "exp": "Mnemonic UMAR: Uveitis (m/c), High myopia, Angle closure glaucoma, Retinitis pigmentosa: Pigment deposition in retina along with night blindness. (Book p75)"
+  },
+  {
+   "id": "OPH-C18-028",
+   "sec": "Complicated cataract — appearance",
+   "page": 75,
+   "fmt": "recall",
+   "q": "Appearance of complicated cataract per the book is:",
+   "opts": [
+    "Breadcrumbs with polychromatic lustre",
+    "Oil droplet appearance with posterior subcapsular location",
+    "Sunflower cataract with cuprous oxide deposition",
+    "Rosette shaped posterior subcapsular cataract after blunt trauma"
+   ],
+   "ans": 0,
+   "exp": "Appearance: Breadcrumbs with polychromatic lustre. (Book p75)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U18-1",
+   "ch": 18,
+   "n": 1,
+   "title": "Overview, classification and diabetic cataract",
+   "sec": "Lens · p73",
+   "guide": "Any opacity in lens or its capsule; Gradual painless loss vision → Blindness m/c cause India; Loss vision gradual/sudden painless/pain signs inflammation; Classification Acquired metabolic traumatic complicated senile/age related Congenital Infantile <1 year Developmental >1 year; Diabetes: True diabetic snowflake cortical Type1 DM; Pre-senile m/c Type2 DM senile cataract before 50 D/t carbamylation crystallins; Other DM eye fluctuating refractory errors D/t glycemic fluctuations, Diabetic retinopathy nonproliferative proliferative; Image Snowflake cataract labels sclera opacities iris.",
+   "qs": [
+    "OPH-C18-001",
+    "OPH-C18-002",
+    "OPH-C18-003",
+    "OPH-C18-004",
+    "OPH-C18-005",
+    "OPH-C18-006",
+    "OPH-C18-007",
+    "OPH-C18-008",
+    "OPH-C18-009",
+    "OPH-C18-010"
+   ]
+  },
+  {
+   "id": "OPH-U18-2",
+   "ch": 18,
+   "n": 2,
+   "title": "Galactosemia, myotonic dystrophy, Wilson's disease",
+   "sec": "Lens · p73-74",
+   "guide": "Galactosemia oil droplet/posterior subcapsular only reversible seen infancy Etiology Galactose X→ Glucose autosomal recessive deficiency Galactose-1-PUT classical galactosemia UDP galactose epimerase Galactokinase Galactose substrate galactitol/dulcitol accumulate; Diagnosis urine increased reducing substances after breast feeding; Myotonic dystrophy Christmas tree/posterior subcapsular scattered fine iridescent irregular opacities Associated Ptosis drooping upper eyelid Diplopia; Wilson Lens Sunflower D/t cuprous oxide multiple sites Cornea KF ring golden brown copper to Descemet's membrane Not pathognomonic Seen all neurological basal ganglia Cu, only 50% hepatic hepatolenticular degeneration, Primary biliary cholangitis, Neonatal hepatitis; Progression superior earliest → inferior → circumferential missed d/t eyelid; Treatment Penicillamine Trientine lifelong MOA Chelation Cu → Cu load ↓ → ↓ absorption KF disappears 3-5 years; Maintenance Zinc acetate zinc copper complex → ↓ Cu absorption; Images sunflower, KF.",
+   "qs": [
+    "OPH-C18-011",
+    "OPH-C18-012",
+    "OPH-C18-013",
+    "OPH-C18-014",
+    "OPH-C18-015",
+    "OPH-C18-016",
+    "OPH-C18-017",
+    "OPH-C18-018",
+    "OPH-C18-019"
+   ]
+  },
+  {
+   "id": "OPH-U18-3",
+   "ch": 18,
+   "n": 3,
+   "title": "Parathyroid tetany and traumatic cataract",
+   "sec": "Lens · p75",
+   "guide": "Parathyroid tetany hypocalcemia → Cataract Children Origin Congenital location Lamellar Adults Origin Acquired location Subcapsular; Traumatic Blunt Rosette shaped posterior subcapsular, Lightning/electric shock Anterior capsular opacities, Infrared highest wavelength Glassblower's cataract True exfoliation lens capsule, Penetrating Iron deposition Siderosis bulbi D/t trauma iron objects Cortical cataract; Images rosette.",
+   "qs": [
+    "OPH-C18-020",
+    "OPH-C18-021",
+    "OPH-C18-022",
+    "OPH-C18-023",
+    "OPH-C18-024",
+    "OPH-C18-025"
+   ]
+  },
+  {
+   "id": "OPH-U18-4",
+   "ch": 18,
+   "n": 4,
+   "title": "Complicated cataract",
+   "sec": "Lens · p75",
+   "guide": "Posterior subcapsular secondary to another condition mnemonic UMAR Uveitis m/c High myopia Angle closure glaucoma Retinitis pigmentosa pigment deposition retina night blindness; Appearance Breadcrumbs with polychromatic lustre.",
+   "qs": [
+    "OPH-C18-026",
+    "OPH-C18-027",
+    "OPH-C18-028"
+   ]
+  }
+ ]
+}

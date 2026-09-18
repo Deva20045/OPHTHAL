@@ -1,0 +1,353 @@
+{
+ "chapter": 23,
+ "title": "Glaucoma : What and How?",
+ "pageRange": "90-93",
+ "questions": [
+  {
+   "id": "OPH-C23-001",
+   "sec": "Overview of glaucoma defining features",
+   "page": 90,
+   "fmt": "match",
+   "q": "Match defining feature with investigation per p90 table — 1) Progressive optic neuropathy characteristic optic disc changes 2) Irreversible visual field changes 3) IOP may/may not be raised IOP Risk factor … A) Examination optic disc Ophthalmoscopy B) Visual field Perimetry C) Measure IOP Tonometry",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Defining features: 1 Progressive optic neuropathy characteristic optic disc changes Examination optic disc Ophthalmoscopy 2 Irreversible visual field changes Drugs only prevent progression Visual field Perimetry 3 IOP may/may not be raised IOP Risk factor Measure IOP Tonometry. (Book p90)"
+  },
+  {
+   "id": "OPH-C23-002",
+   "sec": "Overview of glaucoma",
+   "page": 90,
+   "fmt": "truefalse",
+   "q": "Which statement about glaucoma is TRUE per p90?",
+   "opts": [
+    "IOP always raised and is defining feature, disc changes not needed, reversible",
+    "Progressive optic neuropathy characteristic disc changes, irreversible field defects drugs only prevent progression, IOP may/may not be raised risk factor",
+    "Glaucoma is reversible with drugs, disc and field normal, IOP only criterion",
+    "Optic disc changes are not needed for diagnosis, IOP always normal, field reversible"
+   ],
+   "ans": 1,
+   "exp": "Progressive optic neuropathy, Irreversible visual field changes Drugs only prevent progression, IOP may/may not be raised IOP Risk factor. (Book p90)"
+  },
+  {
+   "id": "OPH-C23-003",
+   "sec": "Pathophysiology theories",
+   "page": 90,
+   "fmt": "match",
+   "q": "Match theory with mechanism per p90 — 1) Mechanical theory 2) Ischemic/vascular theory … A) ↑IOP → Narrowing openings lamina cribrosa sclera → ↓Axoplasmic outflow ON dysfunction B) IOP independent structural vascular changes → ↓Perfusion optic disc C) Only IOP dependent",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-C, 2-A",
+    "1-A, 2-C"
+   ],
+   "ans": 0,
+   "exp": "Theories Mechanical ↑IOP Narrowing openings lamina cribrosa sclera ↓Axoplasmic outflow ON dysfunction vs Ischemic/vascular IOP independent Structural vascular changes ↓Perfusion optic disc → Optic atrophy. (Book p90)"
+  },
+  {
+   "id": "OPH-C23-004",
+   "sec": "Aqueous humour normal flow",
+   "page": 90,
+   "fmt": "fillup",
+   "q": "Fill up: Aqueous production per the book is non pigmented epithelium of ciliary processes, secretion into posterior chamber PC.",
+   "opts": [
+    "Non pigmented epithelium of ciliary processes",
+    "Pigmented epithelium of ciliary processes",
+    "Corneal endothelium",
+    "Trabecular meshwork"
+   ],
+   "ans": 0,
+   "exp": "Production: Non pigmented epithelium of ciliary processes Secretion: Into posterior chamber PC. (Book p90)"
+  },
+  {
+   "id": "OPH-C23-005",
+   "sec": "Aqueous humour pathway",
+   "page": 91,
+   "fmt": "match",
+   "q": "Match aqueous pathway per p91 — 1) Secretion 2) Pathway via pupil to AC to angle … A) Into posterior chamber PC B) Via pupil reaches anterior chamber AC angle irido corneal angle C) Trabecular outflow",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-C, 2-A",
+    "1-A, 2-C"
+   ],
+   "ans": 0,
+   "exp": "Secretion Into posterior chamber PC via pupil Reaches anterior chamber AC Angle anterior chamber irido corneal angle. (Book p91)"
+  },
+  {
+   "id": "OPH-C23-006",
+   "sec": "Aqueous outflow",
+   "page": 91,
+   "fmt": "match",
+   "q": "Match outflow type with details per p91 — 1) Trabecular 90% 2) Uveoscleral 10% … A) Pressure dependent Pathway AC → Trabecular meshwork → Schlemm's canal → Aqueous vein → Episcleral vein B) Pressure independent Pathway AC → Supraciliary space C) Only trabecular",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-C, 2-A",
+    "1-A, 2-C"
+   ],
+   "ans": 0,
+   "exp": "Outflow Trabecular 90% Pressure dependent AC → Trabecular meshwork → Schlemm's canal → Aqueous vein → Episcleral vein Uveoscleral 10% Pressure independent AC → Supraciliary space Uveoscleral outflow via supraciliary space. (Book p91)"
+  },
+  {
+   "id": "OPH-C23-007",
+   "sec": "Aqueous outflow percentages",
+   "page": 91,
+   "fmt": "numeric",
+   "q": "Percentage of trabecular vs uveoscleral outflow per the book:",
+   "opts": [
+    "Trabecular 90%, Uveoscleral 10%",
+    "Trabecular 10%, Uveoscleral 90%",
+    "50% each",
+    "100% trabecular"
+   ],
+   "ans": 0,
+   "exp": "Trabecular 90% Uveoscleral 10%. (Book p91)"
+  },
+  {
+   "id": "OPH-C23-008",
+   "sec": "Open vs Angle closure pathogenesis",
+   "page": 91,
+   "fmt": "match",
+   "q": "Match glaucoma type with pathogenesis per p91 table — 1) Open Angle 2) Angle Closure … A) Large ACD Blockage trabecular meshwork B) Small ACD Iris apposition cornea Trabecular meshwork Blocked",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Pathogenesis Open Angle Glaucoma Large anterior chamber depth ACD Blockage trabecular meshwork vs Angle Closure Glaucoma Small ACD Iris apposition cornea Trabecular meshwork Blocked. (Book p91)"
+  },
+  {
+   "id": "OPH-C23-009",
+   "sec": "Open vs Angle closure Rx and gonioscopy",
+   "page": 92,
+   "fmt": "match",
+   "q": "Match per p92 top table — 1) Open Angle Rx 2) Angle Closure Rx 3) Gonioscopy Open 4) Gonioscopy Closed … A) Trabeculectomy B) Iridectomy C) Angle open D) Angle closed",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B"
+   ],
+   "ans": 0,
+   "exp": "Rx Open Angle Trabeculectomy Angle Closure Iridectomy Gonioscopy Examination angle anterior chamber Angle open vs Angle closed. (Book p92)"
+  },
+  {
+   "id": "OPH-C23-010",
+   "sec": "Mechanism and causes open vs closed",
+   "page": 92,
+   "fmt": "truefalse",
+   "q": "Which statement about open vs angle closure mechanism is TRUE per p92?",
+   "opts": [
+    "Open angle when anterior chamber angle structures are visible, Angle closure when iris apposition cornea angle structures obscure",
+    "Open angle when iris apposition cornea",
+    "Angle closure when trabecular meshwork open",
+    "Both same"
+   ],
+   "ans": 0,
+   "exp": "Open angle When anterior chamber angle structures visible Angle closure When iris apposition cornea Thus angle structures obscure. (Book p92)"
+  },
+  {
+   "id": "OPH-C23-011",
+   "sec": "Open angle depending on site blockage",
+   "page": 92,
+   "fmt": "oddoneout",
+   "q": "All are listed under Pre-trabecular membrane covering angle per p92 EXCEPT:",
+   "opts": [
+    "Neovascular G",
+    "PPMD",
+    "POAG",
+    "ICE syndrome Fuchs heterochromic iridocyclitis Trauma"
+   ],
+   "ans": 2,
+   "exp": "Pre-trabecular membrane covering angle: Neovascular G, PPMD, Iridocorneal endothelial syndrome ICE, Fuchs' heterochromic iridocyclitis, Trauma; Trabecular Blockage Tm POAG Phacolytic Pigmentary Ghost Pseudoexfoliative Uveitis Trauma; Post-trabecular Obstruction Schlemm's canal or Elevated episcleral venous pressure Sickle cell anemia Elevated episcleral pressure CCF SVC syndrome Thyrotoxicosis. POAG is trabecular. (Book p92)"
+  },
+  {
+   "id": "OPH-C23-012",
+   "sec": "Open angle trabecular causes",
+   "page": 92,
+   "fmt": "recall",
+   "q": "Trabecular blockage causes per p92 include:",
+   "opts": [
+    "POAG, Phacolytic G, Pigmentary G, Ghost cell G, Pseudoexfoliative G, Uveitis, Trauma as trabecular blockage",
+    "Only POAG is trabecular cause, no other glaucoma listed as trabecular blockage",
+    "Sickle cell anemia only causes post-trabecular obstruction, not trabecular blockage",
+    "CCF and SVC syndrome only cause elevated episcleral pressure, not trabecular blockage"
+   ],
+   "ans": 0,
+   "exp": "Trabecular Blockage Tm POAG Phacolytic G Pigmentary G Ghost cell G Pseudoexfoliative G Uveitis Trauma. (Book p92)"
+  },
+  {
+   "id": "OPH-C23-013",
+   "sec": "Open angle post-trabecular causes",
+   "page": 92,
+   "fmt": "oddoneout",
+   "q": "All are post-trabecular obstruction/collapse Schlemm's canal or elevated episcleral venous pressure causes per p92 EXCEPT:",
+   "opts": [
+    "Sickle cell anemia",
+    "Elevated episcleral pressure",
+    "CCF Superior vena cava syndrome Thyrotoxicosis",
+    "Neovascular glaucoma"
+   ],
+   "ans": 3,
+   "exp": "Post-trabecular Obstruction/collapse Schlemm's canal or Elevated episcleral venous pressure Sickle cell anemia Elevated episcleral pressure CCF Superior vena cava syndrome Thyrotoxicosis Neovascular is pre-trabecular. (Book p92)"
+  },
+  {
+   "id": "OPH-C23-014",
+   "sec": "Angle closure pulling vs pushing",
+   "page": 92,
+   "fmt": "match",
+   "q": "Match angle closure mechanism per p92 — 1) Pulling membrane covering angle contracts pulls peripheral iris to cornea 2) Pushing with pupillary block 3) Pushing without pupillary block … A) Neovascular G ICE Trauma B) PACG Phacomorphic Phacotopic Aphakia Pseudophakia C) Plateau iris Malignant G Tumors Post surgical",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Angle closure Pulling membrane covering angle Contracts Pulls peripheral iris towards cornea Neovascular G ICE Trauma Pushing Apposition lens and pupillary margins With pupillary block PACG Phacomorphic Phacotopic Aphakia Pseudophakia Without pupillary block Plateau iris Malignant G Tumors Post surgical. (Book p92)"
+  },
+  {
+   "id": "OPH-C23-015",
+   "sec": "Investigations optic disc and visual field",
+   "page": 93,
+   "fmt": "recall",
+   "q": "Optic disc examination per p93 includes:",
+   "opts": [
+    "Direct ophthalmoscopy, Slit lamp biomicroscopy, CSLO, Spectral domain OCT, SLP",
+    "Only direct ophthalmoscopy",
+    "Only tonometry",
+    "Only gonioscopy"
+   ],
+   "ans": 0,
+   "exp": "Optic disc examination: Direct ophthalmoscopy, Slit lamp biomicroscopy, Confocal Scanning Laser Tomography CSLO, Spectral domain OCT, Confocal Scanning Laser Polarimetry SLP. (Book p93)"
+  },
+  {
+   "id": "OPH-C23-016",
+   "sec": "Perimetry kinetic vs static",
+   "page": 93,
+   "fmt": "match",
+   "q": "Match perimetry per p93 — 1) Kinetic 2) Static … A) Goldmann perimeter Bjerrum tangent screen target moves monocular testing B) Humphrey field analyzer HFA Dicon Octopus target stationary",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Perimetry Kinetic Goldmann perimeter Bjerrum tangent screen vs Static Humphrey field analyzer HFA Dicon Octopus. (Book p93)"
+  },
+  {
+   "id": "OPH-C23-017",
+   "sec": "Tonometry types",
+   "page": 93,
+   "fmt": "oddoneout",
+   "q": "All are listed under Tonometry per p93 EXCEPT:",
+   "opts": [
+    "Indentation tonometry",
+    "Non-contact tonometry",
+    "Transpalpebral tonometry",
+    "Direct ophthalmoscopy"
+   ],
+   "ans": 3,
+   "exp": "IOP measurement Tonometry: Indentation, Non-contact, Transpalpebral, Applanation. (Book p93)"
+  },
+  {
+   "id": "OPH-C23-018",
+   "sec": "Applanation tonometry fixed force vs fixed area",
+   "page": 93,
+   "fmt": "match",
+   "q": "Match applanation tonometry per p93 — 1) Fixed force 2) Fixed area … A) Maklakov Tonomat Barraquer B) Goldmann's Perkin's Pneumatic Draeger Mackay marg Tonopen PASCAL",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 0,
+   "exp": "Applanation Fixed force Maklakov Tonomat Barraquer vs Fixed area Goldmann's Perkin's Pneumatic Draeger Mackay marg Tonopen PASCAL. (Book p93)"
+  },
+  {
+   "id": "OPH-C23-019",
+   "sec": "Examination of angle anterior chamber",
+   "page": 93,
+   "fmt": "recall",
+   "q": "Examination of angle of anterior chamber per p93 includes:",
+   "opts": [
+    "Van Herrick's method, Oblique Flashlight Test, Gonioscopy, UBM, Anterior segment ASOCT for angle examination",
+    "Only gonioscopy used for angle examination, no other method mentioned in book",
+    "Only Van Herrick's method used for angle examination, other tests not for angle",
+    "Only tonometry used for angle examination, angle tests not needed for glaucoma"
+   ],
+   "ans": 0,
+   "exp": "Examination angle anterior chamber: Van Herrick's method, Oblique Flashlight Test, Gonioscopy, Ultrasonic Biomicroscopy UBM, Anterior segment ASOCT. (Book p93)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U23-1",
+   "ch": 23,
+   "n": 1,
+   "title": "Overview and pathophysiology theories",
+   "sec": "Glaucoma · p90",
+   "guide": "Defining features Progressive optic neuropathy characteristic disc changes Examination ophthalmoscopy Irreversible field changes Drugs only prevent progression Perimetry Visual field IOP may/may not be raised Risk factor Tonometry; Theories Mechanical ↑IOP Narrowing openings lamina cribrosa sclera ↓Axoplasmic outflow ON dysfunction vs Ischemic vascular IOP independent structural vascular changes ↓Perfusion optic disc → Optic atrophy; Aqueous Production Non pigmented epithelium ciliary processes Secretion posterior chamber PC.",
+   "qs": [
+    "OPH-C23-001",
+    "OPH-C23-002",
+    "OPH-C23-003",
+    "OPH-C23-004"
+   ]
+  },
+  {
+   "id": "OPH-U23-2",
+   "ch": 23,
+   "n": 2,
+   "title": "Aqueous flow and outflow",
+   "sec": "Glaucoma · p91",
+   "guide": "Secretion Into PC via pupil Reaches AC Angle irido corneal angle Trabecular outflow Trabecular meshwork Schlemm's canal Aqueous vein Episcleral vein Uveoscleral outflow via supraciliary space Outflow Trabecular 90% Pressure dependent AC → Trabecular meshwork → Schlemm's canal → Aqueous vein → Episcleral vein Uveoscleral 10% Pressure independent AC → Supraciliary space Pathogenesis Open Angle Large ACD Blockage trabecular meshwork vs Angle Closure Small ACD Iris apposition cornea Trabecular Blocked.",
+   "qs": [
+    "OPH-C23-005",
+    "OPH-C23-006",
+    "OPH-C23-007",
+    "OPH-C23-008"
+   ]
+  },
+  {
+   "id": "OPH-U23-3",
+   "ch": 23,
+   "n": 3,
+   "title": "Types and mechanism and causes",
+   "sec": "Glaucoma · p92",
+   "guide": "Rx Open Trabeculectomy Closed Iridectomy Gonioscopy Angle open vs closed Mechanism Open angle visible structures Angle closure iris apposition cornea obscure Open angle Depending site blockage Pre-trabecular membrane covering angle Neovascular PPMD ICE Fuchs heterochromic iridocyclitis Trauma Trabecular Blockage POAG Phacolytic Pigmentary Ghost Pseudoexfoliative Uveitis Trauma Post-trabecular Obstruction Schlemm's canal Elevated episcleral venous pressure Sickle cell Elevated episcleral pressure CCF SVC syndrome Thyrotoxicosis Angle closure Pulling membrane contracts pulls peripheral iris Neovascular ICE Trauma Pushing Apposition lens pupillary margins With block PACG Phacomorphic Phacotopic Aphakia Pseudophakia Without Plateau iris Malignant Tumors Post surgical.",
+   "qs": [
+    "OPH-C23-009",
+    "OPH-C23-010",
+    "OPH-C23-011",
+    "OPH-C23-012",
+    "OPH-C23-013",
+    "OPH-C23-014"
+   ]
+  },
+  {
+   "id": "OPH-U23-4",
+   "ch": 23,
+   "n": 4,
+   "title": "Investigations overview",
+   "sec": "Glaucoma · p93",
+   "guide": "Investigations Optic disc Direct ophthalmoscopy Slit lamp biomicroscopy CSLO Spectral domain OCT SLP Visual field Perimetry Kinetic Goldmann Bjerrum tangent screen Static Humphrey HFA Dicon Octopus IOP Tonometry Indentation Non-contact Transpalpebral Applanation Fixed force Maklakov Tonomat Barraquer Fixed area Goldmann Perkin Pneumatic Draeger Mackay marg Tonopen PASCAL Examination angle Van Herrick Oblique Flashlight Gonioscopy UBM ASOCT.",
+   "qs": [
+    "OPH-C23-015",
+    "OPH-C23-016",
+    "OPH-C23-017",
+    "OPH-C23-018",
+    "OPH-C23-019"
+   ]
+  }
+ ]
+}

@@ -31,7 +31,17 @@ rest show a **Soon** badge.
 | Ch 13 · Paralytic Squint (p54–58) — 5 units, 40 questions | ✅ live |
 | Ch 14 · Gaze Defects (p59–62) — 4 units, 33 questions | ✅ live |
 | Ch 15 · Restrictive Squint and Comitant Squint (p63–65) — 3 units, 24 questions | ✅ live |
-| Ch 16–50 (Lens, Glaucoma, Optics, Retina, Cornea, Uvea, Conjunctiva, Adnexa, Miscellaneous) | 🚧 in progress |
+| Ch 16 · Pseudo-strabismus and Ocular Myopathies (p66–67) — 3 units, 20 questions | ✅ live |
+| Ch 17 · Anatomy and Metabolism (p68–72) — 5 units, 40 questions | ✅ live |
+| Ch 18 · Acquired Cataract : Types (p73–75) — 4 units, 28 questions | ✅ live |
+| Ch 19 · Acquired Cataract : Senile Cataract (p76–79) — 4 units, 32 questions | ✅ live |
+| Ch 20 · Cataract Surgery (p80–82) — 4 units, 28 questions | ✅ live |
+| Ch 21 · Complications of Cataract Surgery (p83–86) — 4 units, 26 questions | ✅ live |
+| Ch 22 · Congenital Cataract, Ectopia lentis and Miscellaneous (p87–89) — 3 units, 18 questions | ✅ live |
+| Ch 23 · Glaucoma : What and How? (p90–93) — 4 units, 19 questions | ✅ live |
+| Ch 24 · Investigations for Glaucoma (p94–101) — 6 units, 30 questions | ✅ live |
+| Ch 25 · Primary Open Angle Glaucoma (p102–108) — 6 units, 30 questions | ✅ live |
+| Ch 26–50 (Angle Closure, Secondary Glaucoma, Optics, Retina, Cornea, Uvea, Conjunctiva, Adnexa, Miscellaneous) | 🚧 in progress |
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 50-chapter
 roadmap, data schema, per-chapter pipeline, and NEXT step.

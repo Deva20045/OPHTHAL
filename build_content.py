@@ -44,7 +44,7 @@ CHAPTERS = [
     (22, "Congenital Cataract, Ectopia lentis and Miscellaneous", 87),
     (23, "Glaucoma : What and How?", 90),
     (24, "Investigations for Glaucoma", 94),
-    (25, "Primary open angle glaucoma", 102),
+    (25, "Primary Open Angle Glaucoma", 102),
     (26, "Primary Angle Closure Glaucoma", 109),
     (27, "Secondary Glaucoma(s) and Congenital Glaucoma", 113),
     (28, "Tests for Vision and Normal Optics of Eyes", 117),

@@ -1,0 +1,497 @@
+{
+ "chapter": 20,
+ "title": "Cataract Surgery",
+ "pageRange": "80-82",
+ "questions": [
+  {
+   "id": "OPH-C20-001",
+   "sec": "Pre-operative steps — dilatation",
+   "page": 80,
+   "fmt": "recall",
+   "q": "Per the book, dilate the pupil for cataract surgery with:",
+   "opts": [
+    "Pilocarpine + Timolol",
+    "Tropicamide + Phenylephrine eyedrops",
+    "Atropine + Homatropine",
+    "Latanoprost + Brimonidine"
+   ],
+   "ans": 1,
+   "exp": "Dilate the pupil: Tropicamide + Phenylephrine eyedrops. (Book p80)"
+  },
+  {
+   "id": "OPH-C20-002",
+   "sec": "Pre-operative steps — anaesthesia",
+   "page": 80,
+   "fmt": "match",
+   "q": "Match anaesthesia option per the book's order — 1) Topical 2) Intracameral augmentation 3) Peribulbar 4) Retrobulbar … A) Proparacaine drops B) Lidocaine augmentation C) Block listed as > peribulbar > retrobulbar D) Both blocks are peribulbar > retrobulbar hierarchy",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Local Anaesthesia: a Topical Proparacaine drops + b Intracameral lidocaine augmentation c Peribulbar block > d Retrobulbar block. (Book p80)"
+  },
+  {
+   "id": "OPH-C20-003",
+   "sec": "Pre-operative steps — mydricaine",
+   "page": 80,
+   "fmt": "fillup",
+   "q": "Fill up: Mydricaine used per the book is Bupivacaine + Lignocaine + 1:2,00,000 Adrenaline + ___ for better penetration, long acting.",
+   "opts": [
+    "Hyaluronidase",
+    "Chondroitinase",
+    "Collagenase",
+    "Trypsin"
+   ],
+   "ans": 0,
+   "exp": "Mydricaine used: Bupivacaine + Lignocaine + 1:2,00,000 Adrenaline + Hyaluronidase (for better penetration) (long acting). (Book p80)"
+  },
+  {
+   "id": "OPH-C20-004",
+   "sec": "Pre-operative steps — sterilization",
+   "page": 80,
+   "fmt": "recall",
+   "q": "Universal prophylaxis for cataract surgery per the book is:",
+   "opts": [
+    "5% povidone iodine / betadine solution instilled in conjunctival sac",
+    "10% povidone iodine on skin only",
+    "Chlorhexidine 0.5% in anterior chamber",
+    "No prophylaxis needed"
+   ],
+   "ans": 0,
+   "exp": "Sterilize with Pre-operative Antibiotics Universal prophylaxis: 5% povidone iodine / betadine solution (instilled in the conjunctival sac). (Book p80)"
+  },
+  {
+   "id": "OPH-C20-005",
+   "sec": "Phacoemulsification — Part 1 side port",
+   "page": 80,
+   "fmt": "numeric",
+   "q": "Side port incision in phaco per the book is made with 15° blade / MVR Blade (2 cutting edges) and is:",
+   "opts": [
+    "≤1 mm in length",
+    "3.2 mm in length",
+    "5 mm in length",
+    "10 mm in length"
+   ],
+   "ans": 0,
+   "exp": "Side Port incision: made with 15° blade / MVR Blade (2 cutting edges) ≤1 mm in length. (Book p80)"
+  },
+  {
+   "id": "OPH-C20-006",
+   "sec": "Phacoemulsification — Part 1 staining",
+   "page": 80,
+   "fmt": "fillup",
+   "q": "Fill up: Staining of anterior capsule per the book uses ___ blue.",
+   "opts": [
+    "Trypan",
+    "Methylene",
+    "Indocyanine green",
+    "Fluorescein"
+   ],
+   "ans": 0,
+   "exp": "Staining of anterior capsule: Trypan blue. (Book p80)"
+  },
+  {
+   "id": "OPH-C20-007",
+   "sec": "Phacoemulsification — Part 1 CCC",
+   "page": 80,
+   "fmt": "recall",
+   "q": "Continuous Curvilinear Capsulorhexis (CCC) per the book is:",
+   "opts": [
+    "Hole in posterior capsule with no benefit",
+    "Hole in anterior capsule reduces radial tears stabilizes lens ↓ PCO vs Can opener obsolete",
+    "Hole in iris to prevent glaucoma",
+    "Hole in cornea for entry"
+   ],
+   "ans": 1,
+   "exp": "Continuous Curvilinear Capsulorhexis: Hole made in the anterior capsule; Advantages over Can opener technique (obsolete): Reduces radial tears, Stabilizes lens, Decreases chance of posterior capsule opacification (PCO). (Book p80)"
+  },
+  {
+   "id": "OPH-C20-008",
+   "sec": "Phacoemulsification — Part 1 CCC advantages",
+   "page": 80,
+   "fmt": "oddoneout",
+   "q": "All are advantages of CCC over Can opener technique per the book EXCEPT:",
+   "opts": [
+    "Reduces radial tears",
+    "Stabilizes the lens",
+    "Decreases chance of PCO",
+    "Increases radial tears"
+   ],
+   "ans": 3,
+   "exp": "Advantages: Reduces radial tears, Stabilizes lens, Decreases chance of PCO; Can opener is obsolete. (Book p80)"
+  },
+  {
+   "id": "OPH-C20-009",
+   "sec": "Phacoemulsification — Part 2 main port",
+   "page": 80,
+   "fmt": "numeric",
+   "q": "Main port incision per the book uses keratome size:",
+   "opts": [
+    "2.2mm (sizes 2.2, 2.4, 3.2mm listed)",
+    "15° blade only",
+    "1 mm",
+    "5.5 mm"
+   ],
+   "ans": 0,
+   "exp": "Main port incision: using a 2.2mm keratome (Size of keratome: 2.2mm, 2.4mm, 3.2mm). (Book p80)"
+  },
+  {
+   "id": "OPH-C20-010",
+   "sec": "Phacoemulsification — overall truefalse",
+   "page": 80,
+   "fmt": "truefalse",
+   "q": "Which statement about cataract surgery steps is TRUE per the book?",
+   "opts": [
+    "Side port ≤1 mm 15°/MVR, trypan blue, CCC anterior reduces radial tears stabilizes ↓ PCO, main 2.2mm keratome",
+    "Side port 5 mm with no staining and can opener technique preferred over CCC",
+    "CCC increases PCO and radial tears with unstable lens",
+    "Main port uses only 15° blade with sutured closure always"
+   ],
+   "ans": 0,
+   "exp": "Side port ≤1 mm 15°/MVR 2 cutting edges, Staining Trypan blue, CCC hole anterior capsule advantages reduces radial tears stabilizes lens decreases PCO vs Can opener obsolete, Main port 2.2mm keratome sizes 2.2 2.4 3.2. (Book p80)"
+  },
+  {
+   "id": "OPH-C20-011",
+   "sec": "Phacoemulsification — hydrodissection and hydrodelineation",
+   "page": 81,
+   "fmt": "match",
+   "q": "Match step with description per p81 — 1) Hydrodissection 2) Hydrodelineation … A) Separation of cortex from capsule by jet of fluid below margin of anterior capsule B) Elective step separation of epinucleus from endonucleus by jet of fluid, advantage softening epinucleus → easy aspiration with cortex C) Piezoelectric tip converts ultrasonic to mechanical",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-C, 2-A",
+    "1-A, 2-C"
+   ],
+   "ans": 0,
+   "exp": "Hydrodissection: Separation cortex from capsule by injecting jet fluid below margin anterior capsule; Hydrodelineation: Elective step Separation epinucleus from endonucleus by jet fluid Advantage softening epinucleus → easy aspiration along with cortex. (Book p81)"
+  },
+  {
+   "id": "OPH-C20-012",
+   "sec": "Phacoemulsification — hydrodelineation advantage",
+   "page": 81,
+   "fmt": "fillup",
+   "q": "Fill up: Advantage of hydrodelineation is softening of epinucleus → easy aspiration along with ___.",
+   "opts": [
+    "cortex",
+    "nucleus",
+    "iris",
+    "vitreous"
+   ],
+   "ans": 0,
+   "exp": "Advantage: Softening of epinucleus → easy aspiration along with cortex. (Book p81)"
+  },
+  {
+   "id": "OPH-C20-013",
+   "sec": "Phacoemulsification — nuclear fragmentation",
+   "page": 81,
+   "fmt": "recall",
+   "q": "Nuclear fragmentation with phaco-probe per the book uses:",
+   "opts": [
+    "Piezoelectric tip ultrasonic → to & fro mechanical motion",
+    "Laser energy only with no ultrasound",
+    "Manual expression of nucleus without probe",
+    "Cryoprobe freezing technique"
+   ],
+   "ans": 0,
+   "exp": "Nuclear fragmentation with phaco-probe: Piezoelectric tip of probe converts ultrasonic energy → to & fro mechanical motion. (Book p81)"
+  },
+  {
+   "id": "OPH-C20-014",
+   "sec": "Phacoemulsification — closure",
+   "page": 81,
+   "fmt": "truefalse",
+   "q": "Which statement about phaco closure is TRUE per the book?",
+   "opts": [
+    "Incisions sutured always with 10-0 nylon",
+    "Irrigation/aspiration fragments & cortex, IOL implantation, incisions closed by hydration no suture",
+    "No closure needed left open",
+    "Closure with glue only"
+   ],
+   "ans": 1,
+   "exp": "Irrigation and aspiration of nuclear fragments & cortical matter, Implantation of IOL, Incisions closed by hydration: no suture used. (Book p81)"
+  },
+  {
+   "id": "OPH-C20-015",
+   "sec": "FLACS",
+   "page": 81,
+   "fmt": "recall",
+   "q": "FLACS per the book:",
+   "opts": [
+    "FLACS similar to phaco, laser used in CCC, main port, nuclear fragmentation",
+    "FLACS completely different from phaco with no similarity",
+    "FLACS uses only manual can opener technique obsolete",
+    "FLACS uses no laser and only manual steps"
+   ],
+   "ans": 0,
+   "exp": "FLACS Procedure similar to that of Phacoemulsification Laser used in the following steps: 1 CCC 2 main port incision 3 nuclear fragmentation. (Book p81)"
+  },
+  {
+   "id": "OPH-C20-016",
+   "sec": "FLACS — Argentinian flag sign",
+   "page": 81,
+   "fmt": "scenario",
+   "q": "During CCC in intumescent cataract, ↑ intralenticular pressure leads to radial tear. The book shows Argentinian flag sign as complication of intumescent cataract. Mechanism is:",
+   "opts": [
+    "↑ intralenticular pressure → radial tear during CCC",
+    "↓ pressure → collapse",
+    "Zonular dialysis",
+    "Corneal edema"
+   ],
+   "ans": 0,
+   "exp": "Note: Complication of Intumescent cataract: ↑ intralenticular pressure → radial tear during CCC Argentinian flag sign. (Book p81)"
+  },
+  {
+   "id": "OPH-C20-017",
+   "sec": "Intraocular Lens — implantation sites",
+   "page": 81,
+   "fmt": "match",
+   "q": "Match IOL implantation site per the book — 1) In front of iris 2) In the capsular bag (best) 3) In the sulcus … A) ACIOL B) PCIOL best C) PCIOL in sulcus",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Implantation sites: In front of iris: ACIOL; In the capsular bag (best) PCIOL; In the sulcus PCIOL. (Book p81)"
+  },
+  {
+   "id": "OPH-C20-018",
+   "sec": "Phacoemulsification — hydro steps",
+   "page": 81,
+   "fmt": "oddoneout",
+   "q": "All are steps of phacoemulsification per the book EXCEPT:",
+   "opts": [
+    "Hydrodissection separation cortex from capsule jet fluid below margin anterior capsule",
+    "Hydrodelineation elective separation epinucleus endonucleus",
+    "Nuclear fragmentation piezoelectric tip ultrasonic → to & fro mechanical",
+    "Trabeculectomy for glaucoma"
+   ],
+   "ans": 3,
+   "exp": "Steps 5 Hydrodissection, 6 Hydrodelineation elective, 7 Nuclear fragmentation piezoelectric, 8 Irrigation aspiration, 9 IOL implantation, 10 Incisions closed by hydration no suture. (Book p81)"
+  },
+  {
+   "id": "OPH-C20-019",
+   "sec": "Intraocular Lens — material",
+   "page": 82,
+   "fmt": "match",
+   "q": "Match IOL type with material per p82 table — 1) ACIOL 2) PCIOL Rigid 3) PCIOL Foldable … A) PMMA Poly methyl methacrylate B) PMMA C) Acrylic Hydrophilic Silicone Preferred in vitreal surgeries",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Made of: ACIOL PMMA Poly methyl methacrylate; PCIOL Rigid type PMMA; Foldable Acrylic Hydrophilic Silicone Preferred in vitreal surgeries. (Book p82)"
+  },
+  {
+   "id": "OPH-C20-020",
+   "sec": "Intraocular Lens — shape and note",
+   "page": 82,
+   "fmt": "fillup",
+   "q": "Fill up: Per the book's table, ACIOL is S shaped, PCIOL is C shaped, both have haptics and optics; Rigid lens → ICCE, ECCE; Foldable lens → Phacoemulsification, ___.",
+   "opts": [
+    "FLACS",
+    "Trabeculectomy",
+    "DCR",
+    "Keratoplasty"
+   ],
+   "ans": 0,
+   "exp": "Note: Rigid lens → ICCE, ECCE; Foldable lens → Phacoemulsification, FLACS. Shape S shaped vs C shaped Haptics Optics. (Book p82)"
+  },
+  {
+   "id": "OPH-C20-021",
+   "sec": "Intraocular Lens — types",
+   "page": 82,
+   "fmt": "oddoneout",
+   "q": "All are types of IOL listed per the book EXCEPT:",
+   "opts": [
+    "Multifocal IOL with multiple rings for near/intermediate/far, side effect glare & halos in bright lights",
+    "Toric IOL for preexisting astigmatism/cylindrical power",
+    "Square edged IOL decreases chance of PCO",
+    "Iris claw IOL is only type"
+   ],
+   "ans": 3,
+   "exp": "Types: Multifocal IOL Has multiple rings near intermediate far Side effect glare & halos bright lights Toric IOL In case preexisting astigmatism/cylindrical power Square edged IOL Decreases chance PCO. (Book p82)"
+  },
+  {
+   "id": "OPH-C20-022",
+   "sec": "Intraocular Lens — multifocal side effect",
+   "page": 82,
+   "fmt": "recall",
+   "q": "Side effect of multifocal IOL per the book is:",
+   "opts": [
+    "Leads to glare & halos in bright lights",
+    "Leads to night blindness",
+    "Leads to uveitis always",
+    "Leads to glaucoma"
+   ],
+   "ans": 0,
+   "exp": "Multifocal IOL Side effect: leads to glare & halos in bright lights. (Book p82)"
+  },
+  {
+   "id": "OPH-C20-023",
+   "sec": "Biometry — steps",
+   "page": 82,
+   "fmt": "match",
+   "q": "Match biometry step with method per the book — 1) Step1 Corneal curvature 2) Step2 Axial length 3) Step3 Formulae … A) Keratometry B) A (Amplitude) scan USG uses 8MHz sound waves Anteroposterior diameter 24mm Normal C) SRK-T m/c etc",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Biometry Calculation IOL power pre-op Step1 Corneal curvature measurement by Keratometry Step2 Axial length eyeball Anteroposterior diameter 24mm Normal measured by A Scan USG uses 8MHz sound waves Step3 Formulae. (Book p82)"
+  },
+  {
+   "id": "OPH-C20-024",
+   "sec": "Biometry — axial length",
+   "page": 82,
+   "fmt": "numeric",
+   "q": "Normal anteroposterior diameter / axial length per the book and A-scan frequency:",
+   "opts": [
+    "24mm normal, 8MHz sound waves",
+    "24cm normal, 10MHz",
+    "22mm normal, 5MHz",
+    "30mm normal, 8MHz"
+   ],
+   "ans": 0,
+   "exp": "Anteroposterior diameter: 24mm (Normal) measured by A Scan USG uses 8MHz sound waves. (Book p82)"
+  },
+  {
+   "id": "OPH-C20-025",
+   "sec": "Biometry — formulae",
+   "page": 82,
+   "fmt": "match",
+   "q": "Match formula with indication per the book — 1) SRK-T 2) Holladay's 3) Hoffer Q 4) Haigis L … A) m/c B) If AL >24.5 mm C) If AL <22 mm D) Used in post LASIK cases d/t changes in corneal curvature",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-B, 3-C, 4-A"
+   ],
+   "ans": 0,
+   "exp": "Formulae: SRK-T Formula (m/c), Holladay's Formula If AL >24.5 mm, Hoffer Q Formula If AL <22 mm, Haigis L Formula used in post LASIK cases (D/t changes in corneal curvature). (Book p82)"
+  },
+  {
+   "id": "OPH-C20-026",
+   "sec": "Biometry — formulae scenario",
+   "page": 82,
+   "fmt": "scenario",
+   "q": "A patient with axial length 26 mm, post myopic LASIK now needs cataract surgery. Per the book, which formulae would be considered?",
+   "opts": [
+    "Holladay's for >24.5 mm and Haigis L for post LASIK, SRK-T is m/c",
+    "Hoffer Q only for long eyes",
+    "SRK-T contraindicated in long eyes",
+    "Only Holladay's for all"
+   ],
+   "ans": 0,
+   "exp": "SRK-T m/c, Holladay If AL >24.5 mm, Hoffer Q If AL <22 mm, Haigis L used in post LASIK cases D/t changes in corneal curvature. (Book p82)"
+  },
+  {
+   "id": "OPH-C20-027",
+   "sec": "Intraocular Lens — A-scan diagram",
+   "page": 82,
+   "fmt": "recall",
+   "q": "A-scan diagram per the book labels:",
+   "opts": [
+    "Probe, Cornea Ant/Post Lens, Retina Sclera, Orbital Fat, Axial length",
+    "Only cornea and retina with no lens details",
+    "Only lens thickness measured without axial length",
+    "Only orbital fat with no ocular structures"
+   ],
+   "ans": 0,
+   "exp": "A Scan diagram labels Probe Cornea Ant/Post Lens Retina Sclera Orbital Fat Axial length. (Book p82)"
+  },
+  {
+   "id": "OPH-C20-028",
+   "sec": "IOL — toric indication",
+   "page": 82,
+   "fmt": "fillup",
+   "q": "Fill up: Toric IOL is used in case of preexisting ___/cylindrical power.",
+   "opts": [
+    "astigmatism",
+    "myopia",
+    "hypermetropia",
+    "presbyopia"
+   ],
+   "ans": 0,
+   "exp": "Toric IOL: In case of preexisting astigmatism/cylindrical power. (Book p82)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U20-1",
+   "ch": 20,
+   "n": 1,
+   "title": "Pre-operative preparation",
+   "sec": "Lens · p80",
+   "guide": "Dilate pupil Tropicamide + Phenylephrine eyedrops Local Anaesthesia Topical Proparacaine drops + Intracameral lidocaine augmentation Peribulbar block > Retrobulbar block Mydricaine used Bupivacaine + Lignocaine + 1:2,00,000 Adrenaline + Hyaluronidase for better penetration long acting Sterilize Pre-operative Antibiotics Universal prophylaxis 5% povidone iodine/betadine instilled conjunctival sac.",
+   "qs": [
+    "OPH-C20-001",
+    "OPH-C20-002",
+    "OPH-C20-003",
+    "OPH-C20-004",
+    "OPH-C20-005",
+    "OPH-C20-006",
+    "OPH-C20-007",
+    "OPH-C20-008",
+    "OPH-C20-009",
+    "OPH-C20-010"
+   ]
+  },
+  {
+   "id": "OPH-U20-2",
+   "ch": 20,
+   "n": 2,
+   "title": "Phaco Part 2 — hydro steps, FLACS and implantation sites",
+   "sec": "Lens · p81",
+   "guide": "Hydrodissection Separation cortex from capsule injecting jet fluid below margin anterior capsule Hydrodelineation Elective step Separation epinucleus from endonucleus jet fluid Advantage softening epinucleus → easy aspiration along with cortex Nuclear fragmentation with phaco-probe Piezoelectric tip converts ultrasonic → to & fro mechanical motion Irrigation aspiration nuclear fragments cortical matter Implantation IOL Incisions closed by hydration no suture FLACS Procedure similar to Phaco Laser used steps CCC main port incision nuclear fragmentation Note Complication Intumescent cataract ↑ intralenticular pressure → radial tear during CCC Argentinian flag sign image; IOL Implantation sites In front of iris ACIOL In capsular bag best PCIOL In sulcus.",
+   "qs": [
+    "OPH-C20-011",
+    "OPH-C20-012",
+    "OPH-C20-013",
+    "OPH-C20-014",
+    "OPH-C20-015",
+    "OPH-C20-016",
+    "OPH-C20-017",
+    "OPH-C20-018"
+   ]
+  },
+  {
+   "id": "OPH-U20-3",
+   "ch": 20,
+   "n": 3,
+   "title": "IOL — material, shape and types",
+   "sec": "Lens · p82",
+   "guide": "Table Made of ACIOL PMMA Poly methyl methacrylate PCIOL Rigid PMMA Foldable Acrylic Hydrophilic Silicone Preferred vitreal surgeries Shape ACIOL S shaped PCIOL C shaped Haptics Optics Note Rigid lens → ICCE ECCE Foldable → Phaco FLACS Types Multifocal IOL multiple rings near intermediate far Side effect glare halos bright lights Toric IOL preexisting astigmatism cylindrical power Square edged IOL Decreases chance PCO image multifocal IOL.",
+   "qs": [
+    "OPH-C20-019",
+    "OPH-C20-020",
+    "OPH-C20-021",
+    "OPH-C20-022",
+    "OPH-C20-023"
+   ]
+  },
+  {
+   "id": "OPH-U20-4",
+   "ch": 20,
+   "n": 4,
+   "title": "Biometry — steps and formulae",
+   "sec": "Lens · p82",
+   "guide": "Biometry Calculation IOL power pre-op Step1 Corneal curvature Keratometry Step2 Axial length Anteroposterior diameter 24mm Normal measured A Amplitude scan USG uses 8MHz sound waves Diagram Probe Cornea Ant/Post Lens Retina Sclera Orbital Fat Axial length Step3 Formulae SRK-T m/c Holladay If AL >24.5 mm Hoffer Q If AL <22 mm Haigis L used post LASIK cases D/t changes corneal curvature.",
+   "qs": [
+    "OPH-C20-024",
+    "OPH-C20-025",
+    "OPH-C20-026",
+    "OPH-C20-027",
+    "OPH-C20-028"
+   ]
+  }
+ ]
+}

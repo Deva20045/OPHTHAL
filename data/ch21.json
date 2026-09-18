@@ -1,0 +1,465 @@
+{
+ "chapter": 21,
+ "title": "Complications of Cataract Surgery",
+ "pageRange": "83-86",
+ "questions": [
+  {
+   "id": "OPH-C21-001",
+   "sec": "Complications classification and PCR",
+   "page": 83,
+   "fmt": "match",
+   "q": "Match complication timing per the book's flowchart — 1) Operative 2) Acute post operative 3) Late post operative … A) PCO, phimosis, Irvin-Gass B) PCR, UGH, expulsive haemorrhage, Descemet detachment C) Endophthalmitis, iris prolapse, flat AC",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Complications: Operative, Acute post operative, Late post operative. (Book p83)"
+  },
+  {
+   "id": "OPH-C21-002",
+   "sec": "Posterior capsular rupture (PCR)",
+   "page": 83,
+   "fmt": "recall",
+   "q": "Causes of posterior capsular rupture per the book are:",
+   "opts": [
+    "Complete hydrodissection and perfect fragmentation",
+    "Incomplete hydrodissection: capsule aspirated along with cortex, defective nuclear fragmentation",
+    "Use of trypan blue",
+    "Use of 5% povidone iodine"
+   ],
+   "ans": 1,
+   "exp": "Causes: D/t incomplete hydrodissection: Capsule aspirated along with cortex; Defective nuclear fragmentation. (Book p83)"
+  },
+  {
+   "id": "OPH-C21-003",
+   "sec": "Posterior capsular rupture (PCR)",
+   "page": 83,
+   "fmt": "fillup",
+   "q": "Fill up: Complications of PCR include implantation disturbance and fall of IOL into the ___, resolved by implantation at sulcus or anterior chamber.",
+   "opts": [
+    "vitreous",
+    "aqueous",
+    "cornea",
+    "sclera"
+   ],
+   "ans": 0,
+   "exp": "Complications of PCR: Implantation disturbance, Fall of IOL into the vitreous Resolved by implantation at Sulcus, Anterior chamber, Vitreous in anterior segment. (Book p83)"
+  },
+  {
+   "id": "OPH-C21-004",
+   "sec": "UGH syndrome",
+   "page": 83,
+   "fmt": "recall",
+   "q": "UGH syndrome per the book is:",
+   "opts": [
+    "Uveitis - Glaucoma - Hyphema (Collection of blood in AC)",
+    "Uveitis - Glaucoma - Hypermetropia",
+    "Uveitis - Ghost cell - Hyphema",
+    "Uveal effusion - Glaucoma - Hemorrhage"
+   ],
+   "ans": 0,
+   "exp": "UGH SYNDROME Uveitis - Glaucoma - Hyphema (Collection of blood in AC). (Book p83)"
+  },
+  {
+   "id": "OPH-C21-005",
+   "sec": "UGH syndrome",
+   "page": 83,
+   "fmt": "fillup",
+   "q": "Fill up: Cause of UGH per the book is ACIOL implantation → ___ chafing.",
+   "opts": [
+    "iris",
+    "corneal",
+    "lens",
+    "vitreous"
+   ],
+   "ans": 0,
+   "exp": "Causes: ACIOL implantation → Iris chafing. (Book p83)"
+  },
+  {
+   "id": "OPH-C21-006",
+   "sec": "UGH syndrome specific to ACIOL",
+   "page": 83,
+   "fmt": "match",
+   "q": "Match ACIOL iris chafing consequence per the book — 1) Inflammation 2) Glaucoma 3) Hyphema … A) Pigment blocking trabecular meshwork (Iris pigmented tissue) B) Uveitis C) D/t vascularity of iris",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Complications specific to ACIOL Iris chafing → Inflammation uveitis, Glaucoma pigment blocking trabecular meshwork (Iris pigmented tissue), Hyphema D/t vascularity of iris. (Book p83)"
+  },
+  {
+   "id": "OPH-C21-007",
+   "sec": "UGH syndrome management",
+   "page": 83,
+   "fmt": "management",
+   "q": "Management of UGH per the book and prognosis:",
+   "opts": [
+    "Steroids + anti-glaucoma agents, explant ACIOL if severe, slower recovery 7-10 days vs 24h normal",
+    "Topical antibiotics + systemic steroids, retain ACIOL always, rapid recovery 24-48h regain vision",
+    "Immediate evisceration with scleral implant, no steroids, permanent vision loss expected",
+    "Observation only, no medical therapy, spontaneous resolution within 2-3 days without intervention"
+   ],
+   "ans": 0,
+   "exp": "Management: Steroids/antiglaucoma agents, Explant ACIOL (in severe cases), Slower prognosis: 7-10 days to regain vision (24 hours normally). (Book p83)"
+  },
+  {
+   "id": "OPH-C21-008",
+   "sec": "Expulsive choroidal haemorrhage",
+   "page": 84,
+   "fmt": "recall",
+   "q": "Expulsive choroidal haemorrhage cause per the book:",
+   "opts": [
+    "Pressure difference during surgery → haemorrhage of choroidal vessels, short posterior ciliary artery",
+    "Trauma to inner surface cornea by instrument",
+    "Incomplete hydrodissection",
+    "Use of trypan blue"
+   ],
+   "ans": 0,
+   "exp": "Cause: Pressure difference during surgery → Haemorrhage of choroidal vessels Short posterior ciliary artery. (Book p84)"
+  },
+  {
+   "id": "OPH-C21-009",
+   "sec": "Expulsive choroidal haemorrhage",
+   "page": 84,
+   "fmt": "match",
+   "q": "Match short posterior ciliary artery supply per the book — 1) Posterior sclera/choroid 2) Outer 4 layers retina … A) Supplies posterior portion of sclera, choroid B) Supplies outer 4 layers of retina C) Supplies inner retina",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-C, 2-A",
+    "1-A, 2-C"
+   ],
+   "ans": 0,
+   "exp": "Short posterior ciliary artery Supplies Posterior portion sclera choroid Outer 4 layers retina. (Book p84)"
+  },
+  {
+   "id": "OPH-C21-010",
+   "sec": "Descemet membrane detachment",
+   "page": 84,
+   "fmt": "fillup",
+   "q": "Fill up: Descemet membrane detachment cause is trauma to the inner surface of cornea d/t entry/exit of instrument during surgeries, treatment is descemetopexy → air bubble in ___.",
+   "opts": [
+    "anterior chamber",
+    "posterior chamber",
+    "vitreous",
+    "sub-tenon"
+   ],
+   "ans": 0,
+   "exp": "Cause: Trauma to inner surface cornea d/t entry/exit instrument; Treatment: Descemetopexy → Air bubble in anterior chamber. (Book p84)"
+  },
+  {
+   "id": "OPH-C21-011",
+   "sec": "Acute post operative — iris prolapse",
+   "page": 84,
+   "fmt": "recall",
+   "q": "Iris prolapse acute post operative complication is due to:",
+   "opts": [
+    "Defective closure of incision in periphery of cornea",
+    "Complete hydrodissection",
+    "Use of square edged IOL",
+    "YAG laser capsulotomy"
+   ],
+   "ans": 0,
+   "exp": "Iris prolapse: D/t defective closure of incision in the periphery of cornea. (Book p84)"
+  },
+  {
+   "id": "OPH-C21-012",
+   "sec": "Endophthalmitis — definition and etiology",
+   "page": 84,
+   "fmt": "truefalse",
+   "q": "Which statement about endophthalmitis is TRUE per the book?",
+   "opts": [
+    "Suppurative inflammation all layers except sclera, etiology infective per book",
+    "Suppurative inflammation only cornea and conjunctiva, etiology allergic per book",
+    "Non-infective granulomatous inflammation of sclera only, etiology autoimmune",
+    "Suppurative inflammation includes sclera always, etiology purely traumatic non-infective"
+   ],
+   "ans": 0,
+   "exp": "Endophthalmitis (EO): Suppurative inflammation of all layers of eyeball except sclera; Etiology: Infective. (Book p84)"
+  },
+  {
+   "id": "OPH-C21-013",
+   "sec": "Endophthalmitis — agents",
+   "page": 84,
+   "fmt": "match",
+   "q": "Match agent with m/c cause of endophthalmitis per p84 table — 1) Staph epidermidis/Coag neg staph 2) Propionibacterium acnes 3) Bacillus cereus 4) Klebsiella 5) Candida … A) Acute onset <7 days post-op EO B) Late onset 6 weeks-6 months post-op EO C) Post traumatic EO D) Bacterial endogenous EO E) Fungal endogenous EO",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D, 5-E",
+    "1-B, 2-A, 3-D, 4-C, 5-E",
+    "1-A, 2-C, 3-B, 4-E, 5-D",
+    "1-E, 2-D, 3-C, 4-B, 5-A"
+   ],
+   "ans": 0,
+   "exp": "Table: Staph epidermidis/Coag neg staph Acute onset <7 days Post-op EO, Propionibacterium acnes Late onset 6w-6mo Post-op EO, Bacillus cereus Post traumatic EO, Klebsiella Bacterial endogenous EO, Candida Fungal endogenous EO. (Book p84)"
+  },
+  {
+   "id": "OPH-C21-014",
+   "sec": "Endophthalmitis — symptoms and signs",
+   "page": 85,
+   "fmt": "oddoneout",
+   "q": "All are symptoms of endophthalmitis per p85 EXCEPT:",
+   "opts": [
+    "Pain",
+    "Redness",
+    "Loss of vision",
+    "Photophobia only without pain"
+   ],
+   "ans": 3,
+   "exp": "Symptoms: Pain, Redness, Loss of vision. (Book p85)"
+  },
+  {
+   "id": "OPH-C21-015",
+   "sec": "Endophthalmitis — signs",
+   "page": 85,
+   "fmt": "fillup",
+   "q": "Fill up: Sign of endophthalmitis in anterior chamber is hypopyon/pus, with hazy cornea, congestion/hyperemia, posterior segment yellowish exudates in ___.",
+   "opts": [
+    "vitreous",
+    "aqueous",
+    "lens",
+    "sclera"
+   ],
+   "ans": 0,
+   "exp": "Signs: Anterior chamber Hypopyon/pus Hazy cornea Congestion/hyperemia Posterior segment Yellowish exudates in vitreous. (Book p85)"
+  },
+  {
+   "id": "OPH-C21-016",
+   "sec": "Endophthalmitis — management",
+   "page": 85,
+   "fmt": "management",
+   "q": "Management per assessment of vision in endophthalmitis per the book — Clinical blindness No PL vs Visual potential present:",
+   "opts": [
+    "No PL → evisceration (all except sclera); Visual potential → pars plana vitrectomy + intravitreal vancomycin 1mg/0.1mL + ceftazidime 2.2mg/0.1mL + topical antibiotics",
+    "No PL → topical antibiotics only and observation; Visual potential → systemic steroids only, no vitrectomy",
+    "Visual potential → immediate evisceration; No PL → intravitreal antibiotics only, no surgery needed",
+    "Both groups → systemic antibiotics only, no intravitreal or vitrectomy, conservative management"
+   ],
+   "ans": 0,
+   "exp": "Assessment: Clinical blindness No perception of light: Surgical removal Evisceration Removal all layers except sclera; Visual potential present Posterior segment coverage + Anterior segment coverage Pars plana vitrectomy Intravitreal antibiotics Vancomycin 1mg in 0.1mL Ceftazidime 2.2mg in 0.1mL Topical antibiotics. (Book p85)"
+  },
+  {
+   "id": "OPH-C21-017",
+   "sec": "Endophthalmitis — antibiotics note",
+   "page": 85,
+   "fmt": "truefalse",
+   "q": "Which statement about endophthalmitis antibiotics is TRUE per p85 note?",
+   "opts": [
+    "Systemic antibiotics have major role in healing endophthalmitis",
+    "Systemic antibiotics have no role in healing endophthalmitis; intravitreal Vancomycin 1mg/0.1mL and Ceftazidime 2.2mg/0.1mL used",
+    "Only oral steroids used",
+    "No antibiotics needed"
+   ],
+   "ans": 1,
+   "exp": "Note: Systemic antibiotics have no role in healing endophthalmitis. Intravitreal Vancomycin 1mg in 0.1mL Ceftazidime 2.2mg in 0.1mL. (Book p85)"
+  },
+  {
+   "id": "OPH-C21-018",
+   "sec": "Flat/shallow AC and other complications",
+   "page": 85,
+   "fmt": "oddoneout",
+   "q": "All are causes of flat/shallow AC per the book EXCEPT:",
+   "opts": [
+    "Wound leak",
+    "Malignant glaucoma",
+    "Pupillary block glaucoma",
+    "PCO"
+   ],
+   "ans": 3,
+   "exp": "Flat/shallow AC: Wound leak, Malignant glaucoma, Pupillary block glaucoma, Cilio-choroidal detachment. Other complications: Uveitis, Retinal detachment, Astigmatism. PCO is late. (Book p85)"
+  },
+  {
+   "id": "OPH-C21-019",
+   "sec": "Flat/shallow AC and other complications",
+   "page": 85,
+   "fmt": "recall",
+   "q": "Other complications listed besides flat AC per p85 are:",
+   "opts": [
+    "Uveitis, Retinal detachment, Astigmatism",
+    "PCO only",
+    "Sunrise syndrome only",
+    "Glaucoma only"
+   ],
+   "ans": 0,
+   "exp": "Other complications: Uveitis, Retinal detachment, Astigmatism. (Book p85)"
+  },
+  {
+   "id": "OPH-C21-020",
+   "sec": "Late post operative — PCO",
+   "page": 86,
+   "fmt": "recall",
+   "q": "Posterior capsular opacification per the book:",
+   "opts": [
+    "AKA 2° cataract, m/c late 6-12w, painless gradual vision loss, square edged IOL reduces occurrence",
+    "Acute complication <7 days post-op, painful red eye, treated with intravitreal antibiotics",
+    "Due to bacterial infection of vitreous, presents with hypopyon and requires evisceration",
+    "Treated with topical steroids only, no YAG needed, resolves spontaneously in 2-3 weeks"
+   ],
+   "ans": 0,
+   "exp": "PCO AKA 2° cataract after cataract m/c late complication 6-12 weeks Causes gradual painless loss vision Square edged IOL reduce occurrence Pathology Posterior collection residual epithelial cells. (Book p86)"
+  },
+  {
+   "id": "OPH-C21-021",
+   "sec": "Late post operative — PCO pathology",
+   "page": 86,
+   "fmt": "match",
+   "q": "Match PCO pathology per p86 — 1) Soemmerring's ring 10% 2) Elschnig's pearls 90% 3) Capsular wrinkling … A) Residual epithelial cells collection posterior B) Specific % noted C) Wrinkling of capsule",
+   "opts": [
+    "1-B, 2-B, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Pathology Posterior collection residual epithelial cells Soemmerring's ring 10% Elschnig's pearls 90% Capsular wrinkling. (Book p86)"
+  },
+  {
+   "id": "OPH-C21-022",
+   "sec": "Late post operative — PCO treatment",
+   "page": 86,
+   "fmt": "fillup",
+   "q": "Fill up: Treatment of PCO is Nd:YAG laser posterior capsulotomy, mechanism ___.",
+   "opts": [
+    "photodisruption",
+    "photocoagulation",
+    "photoablation",
+    "photoionization"
+   ],
+   "ans": 0,
+   "exp": "Treatment: Nd:YAG laser posterior capsulotomy Mechanism Photodisruption. (Book p86)"
+  },
+  {
+   "id": "OPH-C21-023",
+   "sec": "Anterior capsule phimosis",
+   "page": 86,
+   "fmt": "scenario",
+   "q": "A patient 2 months after cataract surgery shows contraction of anterior capsule due to fibrosis leading to IOL decentration, image shows AC phimosis. Per the book this is:",
+   "opts": [
+    "Anterior capsule phimosis",
+    "Posterior capsule opacification",
+    "Iris prolapse",
+    "Expulsive haemorrhage"
+   ],
+   "ans": 0,
+   "exp": "ANTERIOR CAPSULE PHIMOSIS Contraction anterior capsule d/t fibrosis → IOL decentration image AC phimosis. (Book p86)"
+  },
+  {
+   "id": "OPH-C21-024",
+   "sec": "Irvin Glass syndrome",
+   "page": 86,
+   "fmt": "match",
+   "q": "Match Irvin-Gass syndrome triad per p86 — occurs 6 to 10 weeks after Sx — 1) CME 2) Bullous keratopathy 3) Vitreous wick … A) Cystoid macular edema B) Bullous keratopathy C) Vitreous strand touching cornea",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "IRVIN GLASS SYNDROME Occurs 6 to 10 weeks after Sx Triad Cystoid macular edema CME Bullous Keratopathy Vitreous strand touching cornea vitreous wick. (Book p86)"
+  },
+  {
+   "id": "OPH-C21-025",
+   "sec": "IOL dislocation",
+   "page": 86,
+   "fmt": "match",
+   "q": "Match IOL dislocation direction with syndrome per the book — 1) Upwards 2) Downwards 3) Lost lens … A) Sunrise syndrome B) Sunset syndrome C) IOL falls into vitreous D/t PCR or spontaneous Hallerman-Streiff",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "IOL DISLOCATION Upwards Sunrise syndrome Downwards Sunset syndrome Lost lens syndrome IOL falls into vitreous D/t PCR Spontaneous Hallerman-Streiff syndrome. (Book p86)"
+  },
+  {
+   "id": "OPH-C21-026",
+   "sec": "IOL dislocation causes",
+   "page": 86,
+   "fmt": "oddoneout",
+   "q": "All are causes of IOL dislocation/lost lens syndrome per the book EXCEPT:",
+   "opts": [
+    "PCR",
+    "Hallerman-Streiff syndrome spontaneous",
+    "Use of trypan blue",
+    "Fall into vitreous"
+   ],
+   "ans": 2,
+   "exp": "Lost lens syndrome IOL falls into vitreous D/t PCR Spontaneous Hallerman-Streiff syndrome. (Book p86)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U21-1",
+   "ch": 21,
+   "n": 1,
+   "title": "Operative complications — PCR and UGH",
+   "sec": "Lens · p83",
+   "guide": "Complications Operative Acute post Late post; PCR Causes incomplete hydrodissection capsule aspirated with cortex defective nuclear fragmentation Complications implantation disturbance fall IOL vitreous resolved sulcus anterior chamber vitreous anterior segment; UGH Uveitis Glaucoma Hyphema blood AC Cause ACIOL iris chafing Specific inflammation uveitis Glaucoma pigment blocking trabecular meshwork iris pigmented tissue Hyphema vascularity iris Management steroids antiglaucoma agents explant ACIOL severe slower prognosis 7-10 days regain vision 24h normally.",
+   "qs": [
+    "OPH-C21-001",
+    "OPH-C21-002",
+    "OPH-C21-003",
+    "OPH-C21-004",
+    "OPH-C21-005",
+    "OPH-C21-006",
+    "OPH-C21-007"
+   ]
+  },
+  {
+   "id": "OPH-U21-2",
+   "ch": 21,
+   "n": 2,
+   "title": "Expulsive haemorrhage, Descemet detachment, iris prolapse, endophthalmitis etiology",
+   "sec": "Lens · p84",
+   "guide": "Expulsive choroidal haemorrhage pressure difference surgery haemorrhage choroidal vessels short posterior ciliary artery supplies posterior sclera choroid outer 4 retina; Descemet membrane detachment trauma inner surface cornea entry/exit instrument Treatment descemetopexy air bubble anterior chamber; Acute post Iris prolapse defective closure incision periphery cornea; Endophthalmitis suppurative inflammation all layers except sclera Etiology infective table Staph epidermidis Coag neg acute <7 days post-op EO Propionibacterium acnes late 6w-6mo post-op Bacillus cereus post traumatic Klebsiella bacterial endogenous Candida fungal endogenous.",
+   "qs": [
+    "OPH-C21-008",
+    "OPH-C21-009",
+    "OPH-C21-010",
+    "OPH-C21-011",
+    "OPH-C21-012",
+    "OPH-C21-013"
+   ]
+  },
+  {
+   "id": "OPH-U21-3",
+   "ch": 21,
+   "n": 3,
+   "title": "Endophthalmitis management and flat AC",
+   "sec": "Lens · p85",
+   "guide": "Symptoms Pain Redness Loss vision Signs Anterior hypopyon/pus hazy cornea congestion hyperemia Posterior yellowish exudates vitreous Management Assessment vision Clinical blindness No PL Surgical removal Evisceration all layers except sclera Visual potential present Posterior+Anterior coverage Pars plana vitrectomy Intravitreal Vancomycin 1mg 0.1mL Ceftazidime 2.2mg 0.1mL Topical antibiotics Note systemic antibiotics no role healing endophthalmitis Flat/shallow AC Wound leak Malignant glaucoma Pupillary block Cilio-choroidal detachment Other Uveitis Retinal detachment Astigmatism.",
+   "qs": [
+    "OPH-C21-014",
+    "OPH-C21-015",
+    "OPH-C21-016",
+    "OPH-C21-017",
+    "OPH-C21-018",
+    "OPH-C21-019"
+   ]
+  },
+  {
+   "id": "OPH-U21-4",
+   "ch": 21,
+   "n": 4,
+   "title": "Late complications — PCO, phimosis, Irvin-Gass, IOL dislocation",
+   "sec": "Lens · p86",
+   "guide": "Late PCO AKA 2° cataract after cataract m/c late 6-12 weeks gradual painless loss vision square edged IOL reduces occurrence Pathology posterior collection residual epithelial cells Soemmerring ring 10% Elschnig pearls 90% capsular wrinkling Images Nd:YAG post capsulotomy Elschnig pearls Treatment Nd:YAG posterior capsulotomy photodisruption; Anterior capsule phimosis contraction fibrosis → IOL decentration AC phimosis image; Irvin Glass syndrome 6-10 weeks after Sx Triad CME Bullous keratopathy Vitreous strand touching cornea vitreous wick; IOL dislocation Upwards Sunrise Downwards Sunset Lost lens falls vitreous D/t PCR Spontaneous Hallerman-Streiff.",
+   "qs": [
+    "OPH-C21-020",
+    "OPH-C21-021",
+    "OPH-C21-022",
+    "OPH-C21-023",
+    "OPH-C21-024",
+    "OPH-C21-025",
+    "OPH-C21-026"
+   ]
+  }
+ ]
+}
