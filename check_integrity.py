@@ -45,6 +45,11 @@ LIVE_CHAPTERS = {
     23: ("Glaucoma : What and How?", 90, 93, 19, 4),
     24: ("Investigations for Glaucoma", 94, 101, 30, 6),
     25: ("Primary Open Angle Glaucoma", 102, 108, 30, 6),
+    26: ("Primary Angle Closure Glaucoma", 109, 112, 35, 5),
+    27: ("Secondary Glaucoma(s) and Congenital Glaucoma", 113, 116, 36, 6),
+    28: ("Tests for Vision and Normal Optics of Eyes", 117, 121, 38, 5),
+    29: ("Myopia and Hypermetropia", 122, 129, 47, 7),
+    30: ("Astigmatism, Reading of Spectacle Prescription and Binocular Errors", 130, 134, 33, 5),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain

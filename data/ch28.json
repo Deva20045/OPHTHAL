@@ -1,0 +1,667 @@
+{
+ "chapter": 28,
+ "title": "Tests for Vision and Normal Optics of Eyes",
+ "pageRange": "117-121",
+ "questions": [
+  {
+   "id": "OPH-C28-001",
+   "sec": "Components of vision",
+   "page": 117,
+   "fmt": "recall",
+   "q": "Minimum resolvable component of visual acuity per p117:",
+   "opts": [
+    "Tested clinically; MAR = 2 points subtending an angle",
+    "Cannot be measured by clinical tests",
+    "Same as hyperacuity",
+    "Only stereopsis"
+   ],
+   "ans": 0,
+   "exp": "Minimum resolvable: tested clinically; MAR (minimum angle of resolution) = 2 points subtending an angle. (Book p117)"
+  },
+  {
+   "id": "OPH-C28-002",
+   "sec": "Components of vision",
+   "page": 117,
+   "fmt": "numeric",
+   "q": "Per p117, two points subtending an angle of <30-60 seconds on the eye:",
+   "opts": [
+    "Can be viewed separately",
+    "Can't be viewed separately",
+    "Are seen doubled",
+    "Become invisible"
+   ],
+   "ans": 1,
+   "exp": "<30-60 seconds: on eye can't be viewed separately; >30-60 seconds: can be viewed separately. (Book p117)"
+  },
+  {
+   "id": "OPH-C28-003",
+   "sec": "Components of vision",
+   "page": 117,
+   "fmt": "oddoneout",
+   "q": "All relate to minimum discriminable/hyperacuity per p117 EXCEPT:",
+   "opts": [
+    "Stereopsis (3D vision)",
+    "Vernier acuity",
+    "Minimum angle of resolution (MAR)",
+    "Cannot be measured by clinical tests"
+   ],
+   "ans": 2,
+   "exp": "Hyperacuity: cannot be measured by clinical tests; eg stereopsis (3D vision), vernier acuity. MAR belongs to minimum resolvable. (Book p117)"
+  },
+  {
+   "id": "OPH-C28-004",
+   "sec": "Snellen chart",
+   "page": 117,
+   "fmt": "fillup",
+   "q": "Snellen fraction 6/24 per p117: numerator 6 = ___; denominator 24 = ___.",
+   "opts": [
+    "Total number of letters seen; number of rows attempted",
+    "Distance in metres; equivalent distance in feet",
+    "Minutes of arc subtended; seconds of arc subtended",
+    "Distance of examination (in m); respective minimum distance at which normal eye can visualize the row"
+   ],
+   "ans": 3,
+   "exp": "6 → distance of examination (in m); 24 → respective distance: minimum distance at which normal eye can visualize the row. (Book p117)"
+  },
+  {
+   "id": "OPH-C28-005",
+   "sec": "Snellen chart",
+   "page": 117,
+   "fmt": "recall",
+   "q": "Snellen's chart structure per p117:",
+   "opts": [
+    "Minimum 7 rows of letters; variable letters per row; each eye tested separately",
+    "Fixed 5 letters in every row",
+    "Both eyes tested together",
+    "Only 3 rows of optotypes"
+   ],
+   "ans": 0,
+   "exp": "Minimum 7 rows of letters; number of letters per row variable; each eye tested separately. (Book p117)"
+  },
+  {
+   "id": "OPH-C28-006",
+   "sec": "Snellen procedure",
+   "page": 117,
+   "fmt": "scenario",
+   "q": "A patient cannot read 6/60 at 6 m per p117 flowchart. Next step:",
+   "opts": [
+    "Record acuity as 6/60",
+    "Move patient closer in increments of 1 m until a larger row is visible",
+    "Directly record finger counting",
+    "Declare the patient blind"
+   ],
+   "ans": 1,
+   "exp": "If even 6/60 not visible at 6 m → move patient closer in increments of 1 m until larger row is visible → record acuity (eg 3/60 if largest row seen at 3 m). (Book p117)"
+  },
+  {
+   "id": "OPH-C28-007",
+   "sec": "Snellen procedure",
+   "page": 117,
+   "fmt": "fillup",
+   "q": "Per p117, if the largest row is seen at 3 m the recorded acuity is ___; if nothing visible until 1 m, next test is ___.",
+   "opts": [
+    "3/60; perception of light",
+    "6/30; hand movements",
+    "3/60; finger counting close to face (FCCF)",
+    "1/60; finger counting"
+   ],
+   "ans": 2,
+   "exp": "3/60 if largest row seen at 3 m; if not visible until 1 m → finger counting close to face → FCCF+; if negative → hand movements HM(+); if not perceived → light PL+; if negative → patient blind. (Book p117)"
+  },
+  {
+   "id": "OPH-C28-008",
+   "sec": "Snellen procedure",
+   "page": 117,
+   "fmt": "recall",
+   "q": "Worst-to-best sequence of poor-vision recording per p117:",
+   "opts": [
+    "FCCF → rows → HM → PL → blind",
+    "PL → HM → FCCF → blind → rows",
+    "HM → PL → rows → FCCF → blind",
+    "Blind → PL → HM → FCCF → rows"
+   ],
+   "ans": 3,
+   "exp": "Rows → finger counting (FCCF+) → hand movements (HM+) → light perception (PL+) → patient blind. (Book p117)"
+  },
+  {
+   "id": "OPH-C28-009",
+   "sec": "Principle",
+   "page": 118,
+   "fmt": "fillup",
+   "q": "Least acuity discernible via Snellen's chart per p118:",
+   "opts": [
+    "1/60",
+    "6/60",
+    "6/9",
+    "3/60"
+   ],
+   "ans": 0,
+   "exp": "Note: least acuity discernible via Snellen's chart: 1/60. (Book p118)"
+  },
+  {
+   "id": "OPH-C28-010",
+   "sec": "Principle",
+   "page": 118,
+   "fmt": "numeric",
+   "q": "Principle per p118: each optotype subtends ___ at the nodal point when viewed from its respective distance; each segment subtends 1 minute.",
+   "opts": [
+    "1 minute of arc",
+    "5 minutes of arc",
+    "10 minutes of arc",
+    "30 seconds of arc"
+   ],
+   "ans": 1,
+   "exp": "Each optotype subtends angle of 5 minutes of arc at nodal point of eye; angle subtended by each segment = 1' (> MAR); total angle = 5'. (Book p118)"
+  },
+  {
+   "id": "OPH-C28-011",
+   "sec": "Principle",
+   "page": 118,
+   "fmt": "numeric",
+   "q": "Angle (in minutes) subtended at variable distance X per p118 equals:",
+   "opts": [
+    "Given distance (X) / respective distance × 1'",
+    "X × 5'",
+    "Respective distance / given distance (X) × 5'",
+    "5' / X"
+   ],
+   "ans": 2,
+   "exp": "Angle (in minutes) = respective distance / given distance (X) × 5'. (Book p118)"
+  },
+  {
+   "id": "OPH-C28-012",
+   "sec": "Illiterate tests",
+   "page": 118,
+   "fmt": "match",
+   "q": "Match per p118 — 1) Landolt C ring chart 2) Snellen's E chart 3) Bailey-Lovie/logMAR chart … A) Direction identification test with broken rings B) Direction identification test with letter E C) Constant 5 letters per row, log value, not used in India",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 3,
+   "exp": "Direction identification tests used in illiterate patients: Landolt C ring chart, Snellen's E chart; Bailey-Lovie/logMAR: constant 5 letters per row, log value, not used in India. (Book p118)"
+  },
+  {
+   "id": "OPH-C28-013",
+   "sec": "Illiterate tests",
+   "page": 118,
+   "fmt": "truefalse",
+   "q": "Which statement on Bailey-Lovie/logMAR chart per p118 is TRUE?",
+   "opts": [
+    "5 letters/row; log acuity; no crowding; not used in India",
+    "Widely used across India for recording log acuity",
+    "Shows marked crowding phenomenon at lower visual acuity",
+    "Variable letters per row exactly like Snellen's chart but tested at 3 m"
+   ],
+   "ans": 0,
+   "exp": "Number of letters per row constant (5); log value used to record acuity; not used in India; advantages: no crowding phenomenon, increased accuracy at lower visual acuity. (Book p118)"
+  },
+  {
+   "id": "OPH-C28-014",
+   "sec": "Illiterate tests",
+   "page": 118,
+   "fmt": "recall",
+   "q": "Direction identification tests per p118 are used for:",
+   "opts": [
+    "Infants only",
+    "Illiterate patients",
+    "Intubated patients",
+    "Only low vision"
+   ],
+   "ans": 1,
+   "exp": "Direction identification tests used in illiterate patients: Landolt C ring chart and Snellen's E chart. (Book p118)"
+  },
+  {
+   "id": "OPH-C28-015",
+   "sec": "Children tests",
+   "page": 119,
+   "fmt": "match",
+   "q": "Match verbal tests for school children (2-5 yrs) per p119 — 1) Sheridan Gardiner 2) STYCAR 3) Key picture / Broken wheel / Allen cards … A) Letter matching: HOTV test, child matches letters on cards/tiles B) Screening in young children and the intellectually disabled C) Picture matching tests",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 2,
+   "exp": "Matching of letters: Sheridan Gardiner HOTV test (child matches letters on cards/tiles), STYCAR (screening in young children and the intellectually disabled); matching of pictures: key picture test, broken wheel test, Allen picture card preschool test. (Book p119)"
+  },
+  {
+   "id": "OPH-C28-016",
+   "sec": "Children tests",
+   "page": 119,
+   "fmt": "recall",
+   "q": "Sheridan Gardiner test per p119:",
+   "opts": [
+    "Rotating drum nystagmus test",
+    "Preferential looking with stripes",
+    "Vanishing optotype cards",
+    "HOTV test — child matches letters on the cards/tiles"
+   ],
+   "ans": 3,
+   "exp": "Sheridan Gardiner: HOTV test; child matches letters on the cards/tiles. (Book p119)"
+  },
+  {
+   "id": "OPH-C28-017",
+   "sec": "Infant tests",
+   "page": 119,
+   "fmt": "fillup",
+   "q": "OKN drum per p119 tests ___ acuity; thinner the strip perceived → higher the acuity.",
+   "opts": [
+    "Resolvable (MAR)",
+    "Detection",
+    "Vernier",
+    "Stereopsis"
+   ],
+   "ans": 0,
+   "exp": "OKN drum: variable thickness of strip; thinner the strip perceived → higher the acuity; resolvable acuity (MAR) tested. (Book p119)"
+  },
+  {
+   "id": "OPH-C28-018",
+   "sec": "Infant tests",
+   "page": 119,
+   "fmt": "fillup",
+   "q": "Carford drum per p119 uses dots of varying sizes; smaller the dots visualized → higher acuity; it tests ___ acuity.",
+   "opts": [
+    "Resolvable (MAR)",
+    "Detection",
+    "Vernier",
+    "Contrast"
+   ],
+   "ans": 1,
+   "exp": "Carford drum: dots of varying sizes; smaller the dots visualized → higher acuity; detection acuity tested. (Book p119)"
+  },
+  {
+   "id": "OPH-C28-019",
+   "sec": "Infant tests",
+   "page": 119,
+   "fmt": "truefalse",
+   "q": "Preferential looking test (PLT) per p119:",
+   "opts": [
+    "Infant prefers plain over striped areas during the test",
+    "The stripes progressively widen as the infant's acuity improves",
+    "Prefers stripes; narrowing stripes; thinner seen → ↑ acuity",
+    "Uses vanishing optotype cards instead of stripes"
+   ],
+   "ans": 2,
+   "exp": "An infant prefers to look at striped over plain areas; progressive narrowing of stripes; thinner the stripes visualized → ↑ acuity. Types: Teller acuity cards, Keeler gratings. (Book p119)"
+  },
+  {
+   "id": "OPH-C28-020",
+   "sec": "Infant tests",
+   "page": 119,
+   "fmt": "recall",
+   "q": "Cardiff Acuity Test (CAT) per p119:",
+   "opts": [
+    "Detection acuity with dots",
+    "Rotating drum test",
+    "Letter matching test",
+    "Used in both infants and toddlers; based on vanishing optotype"
+   ],
+   "ans": 3,
+   "exp": "Cardiff Acuity Test: used in both infants and toddlers; based on vanishing optotype. (Book p119)"
+  },
+  {
+   "id": "OPH-C28-021",
+   "sec": "Infant tests",
+   "page": 119,
+   "fmt": "recall",
+   "q": "VEP principle per p119:",
+   "opts": [
+    "Light stimulus → visual pathway → ↑ visual cortex activity → normal VEP",
+    "Sound stimulus → auditory cortex",
+    "Electrical lid stimulation",
+    "Rotating drum → nystagmus"
+   ],
+   "ans": 0,
+   "exp": "Principle: light stimulus → visual pathway → ↑ visual cortex activity → normal VEP. (Book p119)"
+  },
+  {
+   "id": "OPH-C28-022",
+   "sec": "Infant tests",
+   "page": 119,
+   "fmt": "oddoneout",
+   "q": "Tests listed for infants per p119 include all EXCEPT:",
+   "opts": [
+    "OKN drum / Carford drum",
+    "Sheridan Gardiner HOTV matching",
+    "Cardiff acuity test and VEP",
+    "Preferential looking test"
+   ],
+   "ans": 1,
+   "exp": "Infant tests: OKN, PLT, CAT, VEP (+ indirect assessment). Sheridan Gardiner belongs to verbal tests for school children 2-5 yrs. (Book p119)"
+  },
+  {
+   "id": "OPH-C28-023",
+   "sec": "Indirect assessment",
+   "page": 120,
+   "fmt": "match",
+   "q": "Match indirect assessment reflexes per p120 — 1) Blink reflex 2) Menace reflex 3) VEP … A) Stimulus: approach of object near eye; response: closure of eyes; develops around 5 months B) Stimulus: illumination of eyes; response: blinking; present since birth C) Objective cortical response to light stimulus",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 2,
+   "exp": "Blink reflex present since birth; menace reflex develops around 5 months of age; VEP is objective. (Book p120)"
+  },
+  {
+   "id": "OPH-C28-024",
+   "sec": "Indirect assessment",
+   "page": 120,
+   "fmt": "numeric",
+   "q": "Menace reflex develops around ___ per p120.",
+   "opts": [
+    "Birth",
+    "1 month of age",
+    "12 months of age",
+    "5 months of age"
+   ],
+   "ans": 3,
+   "exp": "Menace reflex develops around 5 months of age; blink reflex present since birth. (Book p120)"
+  },
+  {
+   "id": "OPH-C28-025",
+   "sec": "Near vision",
+   "page": 120,
+   "fmt": "recall",
+   "q": "Near vision tests per p120: main use and distance of examination:",
+   "opts": [
+    "Diagnosis of presbyopia; 30-35 cm (comfortable reading distance)",
+    "Diagnosis of myopia; 6 m",
+    "Glaucoma screening; 1 m",
+    "Stereopsis; 20 ft"
+   ],
+   "ans": 0,
+   "exp": "Use: for diagnosis of presbyopia; distance of examination 30-35 cm (comfortable reading distance). (Book p120)"
+  },
+  {
+   "id": "OPH-C28-026",
+   "sec": "Near vision",
+   "page": 120,
+   "fmt": "fillup",
+   "q": "Snellen's near chart grades per p120: best = ___, worst = ___.",
+   "opts": [
+    "N5; N24",
+    "N6; N36",
+    "N8; N48",
+    "N6; N24"
+   ],
+   "ans": 1,
+   "exp": "Snellen's near chart (m/c): N6 (best), N8, N12, N24, N36 (worst). (Book p120)"
+  },
+  {
+   "id": "OPH-C28-027",
+   "sec": "Near vision",
+   "page": 120,
+   "fmt": "numeric",
+   "q": "Jaeger's chart results per p120 range between:",
+   "opts": [
+    "N1 → N8",
+    "J1 → J10",
+    "J1 → J7",
+    "1 → 40"
+   ],
+   "ans": 2,
+   "exp": "Jaeger's chart: results between J1 → J7; also Roman test type. (Book p120)"
+  },
+  {
+   "id": "OPH-C28-028",
+   "sec": "Near vision",
+   "page": 120,
+   "fmt": "numeric",
+   "q": "Least distance of distinct vision (near point) per p120:",
+   "opts": [
+    "15 cm",
+    "60 cm",
+    "30-35 cm",
+    "25 cm"
+   ],
+   "ans": 3,
+   "exp": "Note: least distance of distinct vision (near point) = 25 cm. (Book p120)"
+  },
+  {
+   "id": "OPH-C28-029",
+   "sec": "Contrast sensitivity",
+   "page": 120,
+   "fmt": "oddoneout",
+   "q": "Contrast sensitivity tests mnemonic CRAP BF per p120 includes all EXCEPT:",
+   "opts": [
+    "Snellen E chart",
+    "Regan chart and Arden gratings",
+    "Cambridge low contrast gratings",
+    "Pelli-Robson, Bailey-Lovie contrast, FACT charts"
+   ],
+   "ans": 0,
+   "exp": "CRAP BF: Cambridge low contrast gratings, Regan chart, Arden gratings, Pelli-Robson chart (m/c), Bailey-Lovie contrast chart, FACT chart. (Book p120)"
+  },
+  {
+   "id": "OPH-C28-030",
+   "sec": "Contrast sensitivity",
+   "page": 120,
+   "fmt": "fillup",
+   "q": "Pelli-Robson chart per p120 presents letters as ___ at an examination distance of ___.",
+   "opts": [
+    "Pairs; 6 m",
+    "Triplets; 1 m",
+    "Single letters; 20 ft",
+    "Triplets; 3 m"
+   ],
+   "ans": 1,
+   "exp": "Pelli-Robson chart (m/c): letters as triplets; distance of examination 1 m; contrast sensitivity affected before visual acuity (eg cataract). (Book p120)"
+  },
+  {
+   "id": "OPH-C28-031",
+   "sec": "Gullstrand",
+   "page": 121,
+   "fmt": "match",
+   "q": "Match refractive powers per p121 (Gullstrand's concept) — 1) Cornea anterior surface 2) Cornea posterior surface 3) Lens … A) +48.8 D B) -5.88 D C) +19 D",
+   "opts": [
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 2,
+   "exp": "Cornea anterior +48.8 D; cornea posterior -5.88 D; lens +19 D. (Book p121)"
+  },
+  {
+   "id": "OPH-C28-032",
+   "sec": "Gullstrand",
+   "page": 121,
+   "fmt": "truefalse",
+   "q": "Power at posterior surfaces of cornea and lens is negative per p121 because:",
+   "opts": [
+    "Tear film absorbs light",
+    "Light is moving from rarer to denser medium",
+    "The surfaces are convex",
+    "Light is moving from denser to rarer medium"
+   ],
+   "ans": 3,
+   "exp": "Power at posterior surfaces of cornea and lens are in the negative as light is moving from denser to rarer medium. (Book p121)"
+  },
+  {
+   "id": "OPH-C28-033",
+   "sec": "Gullstrand",
+   "page": 121,
+   "fmt": "match",
+   "q": "Match radii of curvature per p121 — 1) Cornea anterior 2) Cornea posterior 3) Lens anterior 4) Lens posterior … A) 7.7 mm B) 6.8 mm C) 10 mm D) -6 mm",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-A, 2-C, 3-B, 4-D"
+   ],
+   "ans": 0,
+   "exp": "Radii of curvature: cornea anterior 7.7 mm, cornea posterior 6.8 mm, lens anterior 10 mm, lens posterior -6 mm. (Book p121)"
+  },
+  {
+   "id": "OPH-C28-034",
+   "sec": "Listing's reduced eye",
+   "page": 121,
+   "fmt": "recall",
+   "q": "Total powers in Listing's reduced eye per p121:",
+   "opts": [
+    "Eye +43 D; cornea +58.6 D; lens +19 D",
+    "Eye +58.6 D; cornea +43 D; lens +19 D",
+    "Eye +58.6 D; cornea +19 D; lens +43 D",
+    "Eye +60 D; cornea +40 D; lens +20 D"
+   ],
+   "ans": 1,
+   "exp": "Total power: eye +58.6 D; cornea +43 D; lens +19 D. (Book p121)"
+  },
+  {
+   "id": "OPH-C28-035",
+   "sec": "Listing's reduced eye",
+   "page": 121,
+   "fmt": "match",
+   "q": "Match Listing's reduced eye points per p121 — 1) P (principle point) 2) N (nodal point) 3) F2 (real image focal point) 4) F1 (virtual image focal point) … A) 1.35 mm B) 7.0 mm C) 24.13 mm D) -15.7 mm",
+   "opts": [
+    "1-C, 2-D, 3-B, 4-A",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-D, 2-C, 3-A, 4-B"
+   ],
+   "ans": 2,
+   "exp": "P 1.35 mm; N 7.0 mm; F2 24.13 mm from reference; F1 -15.7 mm. (Book p121)"
+  },
+  {
+   "id": "OPH-C28-036",
+   "sec": "Refracting power",
+   "page": 121,
+   "fmt": "oddoneout",
+   "q": "Factors affecting refracting power per p121 include all EXCEPT:",
+   "opts": [
+    "Radius of curvature",
+    "Difference in refractive index b/w 2 media",
+    "Axial length of eye",
+    "Pupil diameter"
+   ],
+   "ans": 3,
+   "exp": "Factors: radius of curvature; difference in refractive index b/w 2 media; axial length of eye. (Book p121)"
+  },
+  {
+   "id": "OPH-C28-037",
+   "sec": "Angles",
+   "page": 121,
+   "fmt": "fillup",
+   "q": "Angle kappa per p121 is between ___; normally ≤5°.",
+   "opts": [
+    "Visual and pupillary axis",
+    "Visual and anatomical axis",
+    "Optical and orbital axis",
+    "Pupillary and orbital axis"
+   ],
+   "ans": 0,
+   "exp": "Angle kappa (κ): b/w visual and pupillary axis; normally ≤5°; if ↑↑ or ↓↓ → appearance of deviated eyeball. (Book p121)"
+  },
+  {
+   "id": "OPH-C28-038",
+   "sec": "Angles",
+   "page": 121,
+   "fmt": "recall",
+   "q": "Angle alpha per p121:",
+   "opts": [
+    "B/w visual and pupillary axis",
+    "B/w visual axis and anatomical axis",
+    "B/w optical axis and orbital axis",
+    "Always 0° in normals"
+   ],
+   "ans": 1,
+   "exp": "Angle alpha (α): b/w visual axis and anatomical axis. (Book p121)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U28-1",
+   "ch": 28,
+   "n": 1,
+   "title": "Components of visual acuity; Snellen's chart and poor-vision flowchart",
+   "sec": "Optics · p117",
+   "guide": "Components of visual acuity/vision minimum visible minimum resolvable (tested clinically; MAR = 2 points subtending angle; <30-60 sec can't be viewed separately >30-60 sec can) minimum discriminable/hyperacuity (cannot be measured by clinical tests; eg stereopsis 3D vision vernier acuity) Tests for far vision 1 Snellen's chart minimum 7 rows variable letters per row each eye separately fraction 6 = distance of examination (m) 24 = respective minimum distance normal eye visualizes row Procedure 6m/20ft serial attempts if 6/60 not visible move closer 1 m increments record eg 3/60 at 3 m if not till 1 m finger counting FCCF+ hand movements HM+ light PL+ blind.",
+   "qs": [
+    "OPH-C28-001",
+    "OPH-C28-002",
+    "OPH-C28-003",
+    "OPH-C28-004",
+    "OPH-C28-005",
+    "OPH-C28-006",
+    "OPH-C28-007",
+    "OPH-C28-008"
+   ]
+  },
+  {
+   "id": "OPH-U28-2",
+   "ch": 28,
+   "n": 2,
+   "title": "Snellen principle (5' arc); illiterate and logMAR charts",
+   "sec": "Optics · p118",
+   "guide": "Least acuity discernible 1/60 Principle each optotype subtends 5 minutes of arc at nodal point when viewed from respective distance each segment 1' angle at variable X = respective distance/given distance × 5' 2 Direction identification tests illiterate Landolt C ring chart Snellen's E chart 3 Bailey-Lovie/logMAR constant 5 letters per row log value not used in India advantages no crowding phenomenon increased accuracy at lower VA.",
+   "qs": [
+    "OPH-C28-009",
+    "OPH-C28-010",
+    "OPH-C28-011",
+    "OPH-C28-012",
+    "OPH-C28-013",
+    "OPH-C28-014"
+   ]
+  },
+  {
+   "id": "OPH-U28-3",
+   "ch": 28,
+   "n": 3,
+   "title": "Verbal tests (2-5 yrs) and infant tests — OKN, PLT, CAT, VEP",
+   "sec": "Optics · p119",
+   "guide": "4 Tests for verbal fx school children 2-5 yrs no communication needed letter matching Sheridan Gardiner HOTV child matches letters on cards/tiles STYCAR screening young children intellectually disabled picture matching key picture broken wheel Allen picture card preschool 5 Infant tests a OKN rotating drum infant fixates on dot/strip OKN drum variable strip thickness thinner strip perceived higher acuity resolvable (MAR) Carford drum dots smaller dots higher acuity detection b PLT infant prefers striped over plain progressive narrowing thinner stripes ↑ acuity types Teller acuity cards Keeler gratings c CAT infants and toddlers vanishing optotype D VEP light stimulus → visual pathway → ↑ visual cortex activity → normal VEP.",
+   "qs": [
+    "OPH-C28-015",
+    "OPH-C28-016",
+    "OPH-C28-017",
+    "OPH-C28-018",
+    "OPH-C28-019",
+    "OPH-C28-020",
+    "OPH-C28-021",
+    "OPH-C28-022"
+   ]
+  },
+  {
+   "id": "OPH-U28-4",
+   "ch": 28,
+   "n": 4,
+   "title": "Indirect assessment reflexes; near vision; contrast sensitivity",
+   "sec": "Optics · p120",
+   "guide": "e Indirect assessment blink reflex (stimulus illumination response blinking present since birth) menace reflex (stimulus approach of object response closure develops around 5 months) Tests for near vision use diagnosis of presbyopia distance 30-35 cm Snellen's near chart m/c N6 best N8 N12 N24 N36 worst Jaeger's chart J1→J7 Roman test type least distance of distinct vision (near point) 25 cm Tests for contrast sensitivity use diseases like cataract contrast affected before visual acuity mnemonic CRAP BF Cambridge low contrast gratings Regan chart Arden gratings Pelli-Robson (m/c) letters as triplets distance 1 m Bailey-Lovie contrast chart FACT chart.",
+   "qs": [
+    "OPH-C28-023",
+    "OPH-C28-024",
+    "OPH-C28-025",
+    "OPH-C28-026",
+    "OPH-C28-027",
+    "OPH-C28-028",
+    "OPH-C28-029",
+    "OPH-C28-030"
+   ]
+  },
+  {
+   "id": "OPH-U28-5",
+   "ch": 28,
+   "n": 5,
+   "title": "Normal optics — Gullstrand, Listing's reduced eye, angles kappa/alpha",
+   "sec": "Optics · p121",
+   "guide": "Normal optics function converging light rays onto retina Gullstrand cornea anterior +48.8 D (7.7 mm) cornea posterior -5.88 D (6.8 mm) lens +19 D (10 mm; -6 mm) posterior surfaces negative as light moves denser→rarer Listing's reduced eye eye +58.6 D cornea +43 D lens +19 D P 1.35 mm N 7.0 mm F2 24.13 mm F1 -15.7 mm application alter axial length → N P F alteration → aberrant image formation Factors affecting refracting power radius of curvature difference in RI b/w 2 media axial length Angle kappa b/w visual and pupillary axis normally ≤5° ↑↑/↓↓ appearance of deviated eyeball Angle alpha b/w visual axis and anatomical axis.",
+   "qs": [
+    "OPH-C28-031",
+    "OPH-C28-032",
+    "OPH-C28-033",
+    "OPH-C28-034",
+    "OPH-C28-035",
+    "OPH-C28-036",
+    "OPH-C28-037",
+    "OPH-C28-038"
+   ]
+  }
+ ]
+}

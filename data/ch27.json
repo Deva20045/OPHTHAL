@@ -1,0 +1,645 @@
+{
+ "chapter": 27,
+ "title": "Secondary Glaucoma(s) and Congenital Glaucoma",
+ "pageRange": "113-116",
+ "questions": [
+  {
+   "id": "OPH-C27-001",
+   "sec": "PXF glaucoma",
+   "page": 113,
+   "fmt": "recall",
+   "q": "Pathology of pseudoexfoliation (PXF) glaucoma per p113:",
+   "opts": [
+    "LOX-1 gene mutation → pseudoexfoliative material produced → deposited in different locations",
+    "MYOC mutation → trabecular collagen loss",
+    "CFTR mutation → viscous aqueous",
+    "Optineurin mutation → retinal ganglion cell loss"
+   ],
+   "ans": 0,
+   "exp": "Pathology: LOX-1 gene mutation → pseudoexfoliative material produced → deposited in different locations. (Book p113)"
+  },
+  {
+   "id": "OPH-C27-002",
+   "sec": "PXF glaucoma",
+   "page": 113,
+   "fmt": "oddoneout",
+   "q": "Locations of pseudoexfoliative deposits per p113 include all EXCEPT:",
+   "opts": [
+    "Trabecular meshwork",
+    "Optic disc",
+    "Lens capsule",
+    "Pupillary margin"
+   ],
+   "ans": 1,
+   "exp": "Deposits at trabecular meshwork, pupillary margin, lens capsule, near Schwalbe's line, corneal endothelium — not optic disc. (Book p113)"
+  },
+  {
+   "id": "OPH-C27-003",
+   "sec": "PXF glaucoma",
+   "page": 113,
+   "fmt": "match",
+   "q": "Match deposit location with feature/name per p113 — 1) Trabecular meshwork 2) Pupillary margin 3) Lens capsule 4) Near Schwalbe's line … A) Target sign B) Sampaolesi line C) m/c cause of 2° OAG, mostly unilateral D) Fnocks — poor mydriasis, difficulty during cataract Sx (ruled out pre-operatively)",
+   "opts": [
+    "1-D, 2-C, 3-B, 4-A",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-C, 2-A, 3-D, 4-B"
+   ],
+   "ans": 2,
+   "exp": "TM: m/c cause of 2° OAG, mostly unilateral; pupillary margin: Fnocks, prevents pupillary dilatation (poor mydriasis) → difficulty during cataract Sx; lens capsule: target sign; near Schwalbe's line: Sampaolesi line. (Book p113)"
+  },
+  {
+   "id": "OPH-C27-004",
+   "sec": "PXF glaucoma",
+   "page": 113,
+   "fmt": "truefalse",
+   "q": "Which statement per p113 about PXF deposits is TRUE?",
+   "opts": [
+    "Corneal endothelium shows the target sign",
+    "Trabecular deposits cause 2° ACG",
+    "Lens capsule deposits give Krukenberg spindle",
+    "Pupillary margin deposits prevent pupillary dilatation (poor mydriasis)"
+   ],
+   "ans": 3,
+   "exp": "Pupillary margin Fnocks prevent pupillary dilatation (poor mydriasis) → can cause difficulty during cataract Sx; TM deposits cause 2° OAG; lens capsule gives target sign. (Book p113)"
+  },
+  {
+   "id": "OPH-C27-005",
+   "sec": "PXF glaucoma",
+   "page": 113,
+   "fmt": "fillup",
+   "q": "Target sign per p113 = pseudoexfoliative deposits on the ___ showing central clear zone, clear zone and peripheral zone.",
+   "opts": [
+    "Lens capsule",
+    "Corneal endothelium",
+    "Iris root",
+    "Ciliary body"
+   ],
+   "ans": 0,
+   "exp": "Lens capsule → target sign: central clear zone, clear zone, peripheral zone with deposits. (Book p113)"
+  },
+  {
+   "id": "OPH-C27-006",
+   "sec": "Pigmentary glaucoma",
+   "page": 113,
+   "fmt": "recall",
+   "q": "Pigmentary glaucoma per p113 is m/c in:",
+   "opts": [
+    "Elderly hypermetropic females",
+    "Young male myopes",
+    "Children with aniridia",
+    "Diabetics"
+   ],
+   "ans": 1,
+   "exp": "m/c in young male myopes. (Book p113)"
+  },
+  {
+   "id": "OPH-C27-007",
+   "sec": "Pigmentary glaucoma",
+   "page": 113,
+   "fmt": "match",
+   "q": "Match pigmentary deposit location with clinical feature per p113 — 1) Corneal endothelium 2) Trabecular meshwork 3) Ciliary zonules (insertion on lens) 4) Schwalbe's line … A) 2° OAG B) Zentmayer's line C) Sampaolesi line D) Krukenberg spindle",
+   "opts": [
+    "1-A, 2-D, 3-C, 4-B",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-D, 2-B, 3-A, 4-C"
+   ],
+   "ans": 2,
+   "exp": "Corneal endothelium → Krukenberg spindle; TM → 2° OAG; ciliary zonules (insertion on lens) → Zentmayer's line; Schwalbe's line → Sampaolesi line. (Book p113)"
+  },
+  {
+   "id": "OPH-C27-008",
+   "sec": "Pigmentary glaucoma",
+   "page": 113,
+   "fmt": "fillup",
+   "q": "In both PXF and pigmentary glaucoma per p113, deposits near/at Schwalbe's line are called ___.",
+   "opts": [
+    "Zentmayer's line",
+    "Haab's striae",
+    "Krukenberg spindle",
+    "Sampaolesi line"
+   ],
+   "ans": 3,
+   "exp": "Near Schwalbe's line (PXF) and Schwalbe's line (pigmentary) → Sampaolesi line. (Book p113)"
+  },
+  {
+   "id": "OPH-C27-009",
+   "sec": "Lens induced glaucoma",
+   "page": 114,
+   "fmt": "match",
+   "q": "Match lens induced glaucoma per p114 — 1) Phacomorphic 2) Phacolytic 3) Phacotopic … A) Microspherophakia: lax zonules → anterior lens displacement blocking pupil → 2° ACG B) Intumescent cataract: lens swelling contacts pupillary margin → blocks aqueous flow → 2° ACG C) Morgagnian cataract: liquefied lens proteins leak → block trabecular meshwork → 2° OAG",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Phacomorphic = intumescent cataract → 2° ACG; phacolytic = Morgagnian, liquefied proteins block TM → 2° OAG; phacotopic = microspherophakia anterior displacement → 2° ACG. (Book p114)"
+  },
+  {
+   "id": "OPH-C27-010",
+   "sec": "Lens induced glaucoma",
+   "page": 114,
+   "fmt": "oddoneout",
+   "q": "All describe phacolytic glaucoma per p114 EXCEPT:",
+   "opts": [
+    "Morgagnian cataract",
+    "Intumescent lens blocking the pupil",
+    "Block of trabecular meshwork → 2° OAG",
+    "Liquefaction of lens proteins with fluid leak"
+   ],
+   "ans": 1,
+   "exp": "Intumescent lens blocking the pupil = phacomorphic; phacolytic = Morgagnian with liquefied lens proteins leaking and blocking TM. (Book p114)"
+  },
+  {
+   "id": "OPH-C27-011",
+   "sec": "Lens induced glaucoma",
+   "page": 114,
+   "fmt": "management",
+   "q": "Treatment of phacomorphic and phacolytic glaucoma per p114:",
+   "opts": [
+    "Atropine",
+    "Peripheral laser iridotomy",
+    "Cataract surgery",
+    "Long term miotics"
+   ],
+   "ans": 2,
+   "exp": "Both treated by cataract surgery. (Book p114)"
+  },
+  {
+   "id": "OPH-C27-012",
+   "sec": "Lens induced glaucoma",
+   "page": 114,
+   "fmt": "management",
+   "q": "Phacotopic glaucoma mx per p114:",
+   "opts": [
+    "Pilocarpine to constrict the pupil and pull the iris away from angle",
+    "Enucleation of the affected eye",
+    "IV mannitol alone as definitive therapy",
+    "Atropine ± peripheral laser iridotomy (dilates pupil, opens block)"
+   ],
+   "ans": 3,
+   "exp": "Atropine dilates pupil → opens block; peripheral laser iridotomy. (Book p114)"
+  },
+  {
+   "id": "OPH-C27-013",
+   "sec": "Lens induced glaucoma",
+   "page": 114,
+   "fmt": "truefalse",
+   "q": "Microspherophakia per p114 is:",
+   "opts": [
+    "Congenital small spherical lens with laxing of zonules and ↑ lens movement",
+    "Acquired lens intumescence",
+    "Posterior lenticonus",
+    "Lens coloboma"
+   ],
+   "ans": 0,
+   "exp": "Microspherophakia: congenital anomaly; small spherical lens → laxing of zonules → ↑ lens movement → anterior displacement blocks pupil → 2° ACG. (Book p114)"
+  },
+  {
+   "id": "OPH-C27-014",
+   "sec": "Malignant glaucoma",
+   "page": 114,
+   "fmt": "oddoneout",
+   "q": "Malignant glaucoma per p114 is known by all these names EXCEPT:",
+   "opts": [
+    "Ciliary block glaucoma",
+    "Pupillary block glaucoma",
+    "Inverse glaucoma",
+    "Aqueous misdirection syndrome"
+   ],
+   "ans": 1,
+   "exp": "AKA ciliary block glaucoma / aqueous misdirection syndrome / inverse glaucoma — it is 2° ACG WITHOUT pupillary block. (Book p114)"
+  },
+  {
+   "id": "OPH-C27-015",
+   "sec": "Malignant glaucoma",
+   "page": 114,
+   "fmt": "recall",
+   "q": "Etiology of malignant glaucoma per p114:",
+   "opts": [
+    "Steroid use",
+    "Blunt trauma",
+    "Incisional or laser surgeries",
+    "Diabetes"
+   ],
+   "ans": 2,
+   "exp": "Etiology: incisional or laser surgeries. (Book p114)"
+  },
+  {
+   "id": "OPH-C27-016",
+   "sec": "Malignant glaucoma",
+   "page": 114,
+   "fmt": "truefalse",
+   "q": "Pathogenesis of malignant glaucoma per p114:",
+   "opts": [
+    "Iris neovascularization rubeosis blocking the angle",
+    "2° ACG with pupillary block and posterior synechiae",
+    "Primary trabecular degeneration with open angle and chronically high IOP",
+    "2° ACG without pupillary block; aqueous misdirected posteriorly"
+   ],
+   "ans": 3,
+   "exp": "2° ACG without pupillary block; anterior rotation of ciliary processes → aqueous produced posteriorly → ↑ pressure → iris lens diaphragm pushed forwards. (Book p114)"
+  },
+  {
+   "id": "OPH-C27-017",
+   "sec": "Malignant glaucoma",
+   "page": 114,
+   "fmt": "management",
+   "q": "Rx of malignant glaucoma per p114:",
+   "opts": [
+    "Cycloplegic (eg atropine) → relaxes ciliary muscle → zonules stretched → lens pulled posteriorly → normal aqueous flow",
+    "Pilocarpine to constrict the pupil and open the angle",
+    "Miotics such as demecarium given long term",
+    "Immediate trabeculectomy with mitomycin C"
+   ],
+   "ans": 0,
+   "exp": "Rx: cycloplegic (eg atropine) → relaxes ciliary muscles → zonules stretched → lens pulled posteriorly → normal aqueous flow. (Book p114)"
+  },
+  {
+   "id": "OPH-C27-018",
+   "sec": "Malignant glaucoma",
+   "page": 114,
+   "fmt": "recall",
+   "q": "Inverse glaucoma pair (ACG Rx by atropine instead of pilocarpine) per p114:",
+   "opts": [
+    "Phacomorphic and phacolytic",
+    "Phacotopic and malignant glaucoma",
+    "PACG and POAG",
+    "ICE and PXF"
+   ],
+   "ans": 1,
+   "exp": "Note: phacotopic glaucoma and malignant glaucoma = inverse glaucoma (ACG Rx by atropine instead of pilocarpine). (Book p114)"
+  },
+  {
+   "id": "OPH-C27-019",
+   "sec": "Malignant glaucoma",
+   "page": 114,
+   "fmt": "scenario",
+   "q": "Days after uneventful trabeculectomy a patient shows shallow AC with raised IOP and no pupillary block per p114. Diagnosis and Rx:",
+   "opts": [
+    "PACG — pilocarpine",
+    "Phacolytic — cataract Sx",
+    "Malignant glaucoma — cycloplegic (atropine)",
+    "POAG — latanoprost"
+   ],
+   "ans": 2,
+   "exp": "Malignant (ciliary block/aqueous misdirection) glaucoma follows incisional/laser surgery; 2° ACG without pupillary block; Rx cycloplegic eg atropine. (Book p114)"
+  },
+  {
+   "id": "OPH-C27-020",
+   "sec": "ICE syndrome",
+   "page": 115,
+   "fmt": "fillup",
+   "q": "ICE syndrome per p115: primary abnormality is corneal endothelium giving ___ appearance of cornea.",
+   "opts": [
+    "Ground glass",
+    "Bull's eye",
+    "Honeycomb",
+    "Silver Hammer"
+   ],
+   "ans": 3,
+   "exp": "Primary abnormality: corneal endothelium; silver hammer appearance of cornea. (Book p115)"
+  },
+  {
+   "id": "OPH-C27-021",
+   "sec": "ICE syndrome",
+   "page": 115,
+   "fmt": "recall",
+   "q": "Associated finding in ICE syndrome per p115:",
+   "opts": [
+    "2° ACG",
+    "2° OAG d/t TM lysis",
+    "Congenital glaucoma",
+    "Phacolytic glaucoma"
+   ],
+   "ans": 0,
+   "exp": "Associated finding: 2° ACG. (Book p115)"
+  },
+  {
+   "id": "OPH-C27-022",
+   "sec": "ICE syndrome",
+   "page": 115,
+   "fmt": "match",
+   "q": "Match ICE variants per p115 — 1) Progressive iris atrophy 2) Chandler syndrome 3) Cogan-Reese syndrome … A) Corneal edema B) Iris nevus (pigmented lesion on iris) C) Polycoria and corectopia",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 1,
+   "exp": "Progressive iris atrophy: polycoria (multiple pupils) + corectopia (abnormal pupil position); Chandler syndrome: corneal edema; Cogan-Reese syndrome: iris nevus. (Book p115)"
+  },
+  {
+   "id": "OPH-C27-023",
+   "sec": "Congenital glaucoma",
+   "page": 115,
+   "fmt": "numeric",
+   "q": "Primary congenital glaucoma onset m/c per p115:",
+   "opts": [
+    "After 10 yrs",
+    "5-8 yrs",
+    "<3 yrs (95%)",
+    "Only at birth"
+   ],
+   "ans": 2,
+   "exp": "Age of onset m/c <3 yrs (95%); no other associated disease. (Book p115)"
+  },
+  {
+   "id": "OPH-C27-024",
+   "sec": "Congenital glaucoma",
+   "page": 115,
+   "fmt": "fillup",
+   "q": "Mechanism of primary congenital glaucoma per p115:",
+   "opts": [
+    "Pupillary block",
+    "Steroid response",
+    "PAS d/t neonatal uveitis",
+    "Trabeculodysgenesis (TM malformation) causing OAG"
+   ],
+   "ans": 3,
+   "exp": "Mechanism: trabeculodysgenesis (TM malformation) causes OAG. (Book p115)"
+  },
+  {
+   "id": "OPH-C27-025",
+   "sec": "Congenital glaucoma",
+   "page": 115,
+   "fmt": "truefalse",
+   "q": "Symptom triad of congenital glaucoma per p115:",
+   "opts": [
+    "Photophobia earliest; lacrimation m/c; blepharospasm",
+    "Blepharospasm is the m/c symptom while photophobia is late",
+    "Lacrimation is the earliest symptom and blepharospasm m/c",
+    "Ocular pain is the earliest symptom of the triad"
+   ],
+   "ans": 0,
+   "exp": "Triad: blepharospasm, photophobia (earliest symptom), lacrimation (m/c symptom). (Book p115)"
+  },
+  {
+   "id": "OPH-C27-026",
+   "sec": "Congenital glaucoma signs",
+   "page": 115,
+   "fmt": "numeric",
+   "q": "Corneal diameter in buphthalmos per p115:",
+   "opts": [
+    "10-11 mm",
+    ">13 mm (normal 10-11 mm in children)",
+    "8-9 mm",
+    "Exactly 12 mm in every case"
+   ],
+   "ans": 1,
+   "exp": "Corneal diameter >13 mm (normal 10-11 mm in children); children's eyeball easily distends under pressure. (Book p115)"
+  },
+  {
+   "id": "OPH-C27-027",
+   "sec": "Congenital glaucoma signs",
+   "page": 115,
+   "fmt": "match",
+   "q": "Match congenital glaucoma signs per p115 — 1) Endothelial breaks 2) Horizontal breaks in Descemet's 3) Scleral stretching 4) Deep AC … A) Haab's striae visible against fundal glow B) Hazy cornea d/t aqueous entry C) Blue sclera d/t thinning with underlying vessels visible D) ↑ Axial length → axial myopia",
+   "opts": [
+    "1-A, 2-B, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-B, 2-C, 3-A, 4-D"
+   ],
+   "ans": 2,
+   "exp": "Endothelial breaks → aqueous enters cornea → hazy cornea; horizontal breaks in Descemet's → Haab's striae (visible against fundal glow); scleral stretching → thinning → underlying vessels visible → blue sclera; deep AC → ↑ axial length → axial myopia. (Book p115)"
+  },
+  {
+   "id": "OPH-C27-028",
+   "sec": "Gonioscopy and treatment",
+   "page": 116,
+   "fmt": "oddoneout",
+   "q": "Gonioscopic findings in congenital glaucoma per p116 include all EXCEPT:",
+   "opts": [
+    "Anterior iris insertion",
+    "Barkan membrane",
+    "Loch Ness monster phenomenon (loops of vessels visible)",
+    "Sampaolesi line"
+   ],
+   "ans": 3,
+   "exp": "Gonioscopic findings: anterior iris insertion, Barkan membrane, Loch Ness monster phenomenon (loops of vessels visible). (Book p116)"
+  },
+  {
+   "id": "OPH-C27-029",
+   "sec": "Gonioscopy and treatment",
+   "page": 116,
+   "fmt": "management",
+   "q": "Rx of choice for congenital glaucoma per p116:",
+   "opts": [
+    "Combined procedure: trabeculectomy + trabeculotomy",
+    "Medical therapy alone",
+    "Penetrating keratoplasty",
+    "Long term latanoprost"
+   ],
+   "ans": 0,
+   "exp": "Rx of choice combined procedure: trabeculectomy (cutting of some TM) + trabeculotomy (holes in remaining TM). (Book p116)"
+  },
+  {
+   "id": "OPH-C27-030",
+   "sec": "Gonioscopy and treatment",
+   "page": 116,
+   "fmt": "fillup",
+   "q": "Goniotomy per p116 can be performed if:",
+   "opts": [
+    "Cornea is hazy",
+    "Cornea is clear (if onset >2 yrs)",
+    "IOP is normal",
+    "Only below 6 months of age"
+   ],
+   "ans": 1,
+   "exp": "Goniotomy: needle piercing of TM using a gonioscope to visualize; can be performed if cornea is clear (if onset >2 yrs). (Book p116)"
+  },
+  {
+   "id": "OPH-C27-031",
+   "sec": "Gonioscopy and treatment",
+   "page": 116,
+   "fmt": "recall",
+   "q": "Trabeculotomy per p116 is:",
+   "opts": [
+    "Trephine fistula to AC",
+    "Cyclodialysis cleft",
+    "Formation of holes in the remaining TM",
+    "Laser to TM"
+   ],
+   "ans": 2,
+   "exp": "Trabeculectomy = cutting of some TM; trabeculotomy = formation of holes in the remaining TM. (Book p116)"
+  },
+  {
+   "id": "OPH-C27-032",
+   "sec": "Developmental glaucoma",
+   "page": 116,
+   "fmt": "fillup",
+   "q": "Mechanism of secondary congenital/developmental glaucoma per p116:",
+   "opts": [
+    "Trabeculodysgenesis alone",
+    "Angle recession",
+    "Pupillary block",
+    "Irido trabeculo corneal dysgenesis"
+   ],
+   "ans": 3,
+   "exp": "Mechanism: irido trabeculo corneal dysgenesis. (Book p116)"
+  },
+  {
+   "id": "OPH-C27-033",
+   "sec": "Developmental glaucoma",
+   "page": 116,
+   "fmt": "oddoneout",
+   "q": "Causes of secondary congenital/developmental glaucoma per p116 include all EXCEPT:",
+   "opts": [
+    "Marfan syndrome",
+    "Peter's anomaly",
+    "Aniridia",
+    "Axenfeld-Rieger syndrome"
+   ],
+   "ans": 0,
+   "exp": "Causes: Axenfeld-Rieger syndrome, Peter's anomaly, aniridia (ectopia lentis and glaucoma), phacomatosis (NF, Sturge Weber syndrome). (Book p116)"
+  },
+  {
+   "id": "OPH-C27-034",
+   "sec": "Developmental glaucoma",
+   "page": 116,
+   "fmt": "numeric",
+   "q": "Glaucoma in Axenfeld-Rieger syndrome per p116 occurs in:",
+   "opts": [
+    "25%",
+    "50%",
+    "75%",
+    "100%"
+   ],
+   "ans": 1,
+   "exp": "Glaucoma in 50% cases. (Book p116)"
+  },
+  {
+   "id": "OPH-C27-035",
+   "sec": "Developmental glaucoma",
+   "page": 116,
+   "fmt": "recall",
+   "q": "Posterior embryotoxon per p116:",
+   "opts": [
+    "Posteriorly displaced Schwalbe's line",
+    "Break in Descemet's membrane",
+    "Anteriorly displaced Schwalbe's line",
+    "Vascular loop at disc"
+   ],
+   "ans": 2,
+   "exp": "Posterior embryotoxon: anteriorly displaced Schwalbe's line. (Book p116)"
+  },
+  {
+   "id": "OPH-C27-036",
+   "sec": "Developmental glaucoma",
+   "page": 116,
+   "fmt": "recall",
+   "q": "Phacomatoses causing developmental glaucoma per p116:",
+   "opts": [
+    "Tuberous sclerosis and VHL",
+    "Von Hippel-Lindau and NF",
+    "Retinoblastoma and melanoma",
+    "NF and Sturge Weber syndrome"
+   ],
+   "ans": 3,
+   "exp": "Phacomatosis: NF, Sturge Weber syndrome. (Book p116)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U27-1",
+   "ch": 27,
+   "n": 1,
+   "title": "Pseudoexfoliation and pigmentary glaucoma — deposits and eponyms",
+   "sec": "Glaucoma · p113",
+   "guide": "PXF pathology LOX-1 gene mutation → pseudoexfoliative material produced → deposited in different locations TM m/c cause of 2° OAG mostly unilateral pupillary margin Fnocks whitish deposits prevent pupillary dilatation (poor mydriasis) difficulty during cataract Sx ruled out pre-op lens capsule target sign (central clear zone clear zone peripheral zone deposits) near Schwalbe's line Sampaolesi line corneal endothelium – Pigmentary glaucoma m/c young male myopes corneal endothelium Krukenberg spindle TM 2° OAG ciliary zonules insertion on lens Zentmayer's line Schwalbe's line Sampaolesi line.",
+   "qs": [
+    "OPH-C27-001",
+    "OPH-C27-002",
+    "OPH-C27-003",
+    "OPH-C27-004",
+    "OPH-C27-005",
+    "OPH-C27-006",
+    "OPH-C27-007",
+    "OPH-C27-008"
+   ]
+  },
+  {
+   "id": "OPH-U27-2",
+   "ch": 27,
+   "n": 2,
+   "title": "Lens induced glaucomas — phacomorphic, phacolytic, phacotopic",
+   "sec": "Glaucoma · p114",
+   "guide": "Phacomorphic intumescent cataract swelling of lens contact with pupillary margin blocks aqueous flow 2° ACG Phacolytic Morgagnian cataract liquefaction of lens proteins fluid leak blocks TM 2° OAG both Rx cataract surgery Phacotopic microspherophakia congenital anomaly small spherical lens laxing of zonules ↑ lens movement anterior displacement blocks pupil 2° ACG Rx atropine dilates pupil opens block peripheral laser iridotomy.",
+   "qs": [
+    "OPH-C27-009",
+    "OPH-C27-010",
+    "OPH-C27-011",
+    "OPH-C27-012",
+    "OPH-C27-013"
+   ]
+  },
+  {
+   "id": "OPH-U27-3",
+   "ch": 27,
+   "n": 3,
+   "title": "Malignant (ciliary block/inverse) glaucoma",
+   "sec": "Glaucoma · p114",
+   "guide": "AKA ciliary block glaucoma/aqueous misdirection syndrome/inverse glaucoma Etiology incisional or laser surgeries Pathogenesis 2° ACG without pupillary block anterior rotation of ciliary processes aqueous produced posteriorly ↑ pressure iris lens diaphragm pushed forwards Rx cycloplegic (eg atropine) relaxes ciliary muscles zonules stretched lens pulled posteriorly normal aqueous flow Note phacotopic and malignant glaucoma inverse glaucoma ACG Rx by atropine instead of pilocarpine.",
+   "qs": [
+    "OPH-C27-014",
+    "OPH-C27-015",
+    "OPH-C27-016",
+    "OPH-C27-017",
+    "OPH-C27-018",
+    "OPH-C27-019"
+   ]
+  },
+  {
+   "id": "OPH-U27-4",
+   "ch": 27,
+   "n": 4,
+   "title": "ICE syndrome variants; primary congenital glaucoma overview and triad",
+   "sec": "Glaucoma · p115",
+   "guide": "ICE primary abnormality corneal endothelium silver hammer appearance associated finding 2° ACG 3 variants progressive iris atrophy polycoria corectopia Chandler syndrome corneal edema Cogan-Reese syndrome iris nevus Primary congenital glaucoma no other associated disease onset m/c <3 yrs (95%) mechanism trabeculodysgenesis (TM malformation) causes OAG Presentation triad blepharospasm photophobia earliest symptom lacrimation m/c symptom.",
+   "qs": [
+    "OPH-C27-020",
+    "OPH-C27-021",
+    "OPH-C27-022",
+    "OPH-C27-023",
+    "OPH-C27-024",
+    "OPH-C27-025"
+   ]
+  },
+  {
+   "id": "OPH-U27-5",
+   "ch": 27,
+   "n": 5,
+   "title": "Buphthalmos signs, Haab's striae, gonioscopy and surgical Rx",
+   "sec": "Glaucoma · p115-116",
+   "guide": "Signs children's eyeball easily distends ↑ IOP enlarged eyeball buphthalmos corneal diameter >13 mm (normal 10-11 mm in children) corneal stretching endothelial breaks aqueous enters cornea hazy cornea horizontal breaks in Descemet's Haab's striae visible against fundal glow scleral stretching thinning underlying vessel visible blue sclera deep AC ↑ axial length axial myopia Gonioscopic anterior iris insertion Barkan membrane Loch Ness monster phenomenon (loops of vessels visible) Treatment Rx of choice combined trabeculectomy (cutting some TM) + trabeculotomy (holes in remaining TM) goniotomy needle piercing TM with gonioscope if cornea clear (onset >2 yrs).",
+   "qs": [
+    "OPH-C27-026",
+    "OPH-C27-027",
+    "OPH-C27-028",
+    "OPH-C27-029",
+    "OPH-C27-030",
+    "OPH-C27-031"
+   ]
+  },
+  {
+   "id": "OPH-U27-6",
+   "ch": 27,
+   "n": 6,
+   "title": "Secondary congenital/developmental glaucoma — dysgenesis syndromes",
+   "sec": "Glaucoma · p116",
+   "guide": "Mechanism irido trabeculo corneal dysgenesis Causes Axenfeld-Rieger syndrome glaucoma in 50% posterior embryotoxon anteriorly displaced Schwalbe's line Peter's anomaly aniridia ectopia lentis and glaucoma phacomatosis NF Sturge Weber syndrome.",
+   "qs": [
+    "OPH-C27-032",
+    "OPH-C27-033",
+    "OPH-C27-034",
+    "OPH-C27-035",
+    "OPH-C27-036"
+   ]
+  }
+ ]
+}
