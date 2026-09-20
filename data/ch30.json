@@ -1,0 +1,587 @@
+{
+ "chapter": 30,
+ "title": "Astigmatism, Reading of Spectacle Prescription and Binocular Errors",
+ "pageRange": "130-134",
+ "questions": [
+  {
+   "id": "OPH-C30-001",
+   "sec": "Overview",
+   "page": 130,
+   "fmt": "recall",
+   "q": "Astigmatism overview per p130:",
+   "opts": [
+    "Cylindrical error; different power in the two principal meridians",
+    "Spherical refractive error with same power in both principal axes",
+    "A retinal disease of the macular photoreceptors",
+    "Only a disorder of the crystalline lens"
+   ],
+   "ans": 0,
+   "exp": "Cylindrical refractory error; different refractory power in both principal meridians/axes of eye (in spherical errors same power in both axes). (Book p130)"
+  },
+  {
+   "id": "OPH-C30-002",
+   "sec": "Classification",
+   "page": 130,
+   "fmt": "match",
+   "q": "Match regular astigmatism types per p130 — 1) With the rule 2) Against the rule 3) Oblique … A) Horizontal meridian more curved B) Vertical meridian more curved C) Principal meridians perpendicular but not at 90° and 180°",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 1,
+   "exp": "With the rule: vertical meridian more curved; against the rule: horizontal meridian more curved; oblique: perpendicular but not at 90°/180°. (Book p130)"
+  },
+  {
+   "id": "OPH-C30-003",
+   "sec": "Classification",
+   "page": 130,
+   "fmt": "recall",
+   "q": "Irregular astigmatism per p130:",
+   "opts": [
+    "Both principal meridians remain perfectly perpendicular",
+    "Always a congenital anomaly",
+    "Meridians not perpendicular; eg corneal scar, cataract",
+    "Corrected fully by a spherical lens"
+   ],
+   "ans": 2,
+   "exp": "Irregular: both principal meridians are not perpendicular; can be due to pathologies eg corneal scar, cataract, etc. (Book p130)"
+  },
+  {
+   "id": "OPH-C30-004",
+   "sec": "Refractive types",
+   "page": 130,
+   "fmt": "match",
+   "q": "Match refractive types per p130 — 1) Simple myopic 2) Compound myopic 3) Simple hypermetropic 4) Mixed … A) Both axes myopic B) Axis 1 emmetropic, axis 2 myopic C) Axis 1 emmetropic, axis 2 hypermetropic D) One axis myopic, other hypermetropic",
+   "opts": [
+    "1-B, 2-C, 3-A, 4-D",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-B, 2-A, 3-C, 4-D"
+   ],
+   "ans": 3,
+   "exp": "Simple myopic emmetropic+myopic; compound myopic both myopic; simple hypermetropic emmetropic+hypermetropic; compound hypermetropic both hypermetropic; mixed myopic+hypermetropic. (Book p130)"
+  },
+  {
+   "id": "OPH-C30-005",
+   "sec": "Refractive types",
+   "page": 130,
+   "fmt": "oddoneout",
+   "q": "All pairs are correctly matched per p130 EXCEPT:",
+   "opts": [
+    "Compound hypermetropic — both axes myopic",
+    "Simple myopic — emmetropic + myopic",
+    "Mixed — myopic + hypermetropic",
+    "Simple hypermetropic — emmetropic + hypermetropic"
+   ],
+   "ans": 0,
+   "exp": "Compound hypermetropic = both axes hypermetropic; both axes myopic = compound myopic. (Book p130)"
+  },
+  {
+   "id": "OPH-C30-006",
+   "sec": "Clinical features",
+   "page": 130,
+   "fmt": "recall",
+   "q": "Clinical features of astigmatism per p130:",
+   "opts": [
+    "Painless sudden blindness",
+    "Loss of sharpness (all letters seem to stretch/merge) and asthenopia",
+    "Coloured halos only",
+    "Night blindness"
+   ],
+   "ans": 1,
+   "exp": "1 Loss of vision: loss of sharpness (all letters seem to stretch/merge); 2 asthenopia. (Book p130)"
+  },
+  {
+   "id": "OPH-C30-007",
+   "sec": "Clinical features",
+   "page": 130,
+   "fmt": "truefalse",
+   "q": "In spherical refractory errors per p130:",
+   "opts": [
+    "Only vertical axis has power",
+    "Different power in both axes",
+    "Same power in both axes",
+    "No axes exist"
+   ],
+   "ans": 2,
+   "exp": "In spherical refractory errors → same power in both axes. (Book p130)"
+  },
+  {
+   "id": "OPH-C30-008",
+   "sec": "Clinical features",
+   "page": 130,
+   "fmt": "fillup",
+   "q": "The two principal meridians/axes of the eye per p130 diagram are:",
+   "opts": [
+    "Pupillary and orbital axes",
+    "Oblique meridians only",
+    "Visual and optic axes",
+    "Vertical meridian (Vp) and horizontal meridian (Hp)"
+   ],
+   "ans": 3,
+   "exp": "Vertical meridian (Vp) and horizontal meridian (Hp) are the axes of eye. (Book p130)"
+  },
+  {
+   "id": "OPH-C30-009",
+   "sec": "Treatment spectacles",
+   "page": 131,
+   "fmt": "recall",
+   "q": "Cylindrical lens power orientation per p131:",
+   "opts": [
+    "Power at 90° to its axis",
+    "Power along its axis",
+    "Power only in centre",
+    "No power at all"
+   ],
+   "ans": 0,
+   "exp": "Cylindrical lenses have power 90° to their axis; only 1 axis has power. (Book p131)"
+  },
+  {
+   "id": "OPH-C30-010",
+   "sec": "Treatment spectacles",
+   "page": 131,
+   "fmt": "match",
+   "q": "Match per p131 — 1) Plano convex cylinder 2) Plano concave cylinder 3) Toric contact lens … A) For myopic astigmatism B) For hypermetropic astigmatism C) A lens with 2 surfaces with different powers",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 1,
+   "exp": "Plano convex for hypermetropic A; plano concave for myopic A; toric contact lens = lens with 2 surfaces with different powers. (Book p131)"
+  },
+  {
+   "id": "OPH-C30-011",
+   "sec": "Sturm's conoid",
+   "page": 131,
+   "fmt": "recall",
+   "q": "Sturm's conoid per p131 is:",
+   "opts": [
+    "A lens shape abnormality",
+    "A retinal cone dystrophy",
+    "Arrangement of light rays refracted through a toric surface",
+    "Corneal topography map"
+   ],
+   "ans": 2,
+   "exp": "Sturm's conoid: arrangement of light rays refracted through a toric surface. (Book p131)"
+  },
+  {
+   "id": "OPH-C30-012",
+   "sec": "Sturm's conoid",
+   "page": 131,
+   "fmt": "numeric",
+   "q": "In Sturm's conoid per p131 (Vc > Hc), the intermediate focal point D corresponds to:",
+   "opts": [
+    "Vertical rays focussed line",
+    "Horizontal rays focussed line",
+    "Point focus on retina",
+    "Circle of least diffusion"
+   ],
+   "ans": 3,
+   "exp": "B vertical rays focussed; D circle of least diffusion (convergence of horizontal rays = divergence of vertical rays); F horizontal rays focussed. (Book p131)"
+  },
+  {
+   "id": "OPH-C30-013",
+   "sec": "Sturm's conoid",
+   "page": 131,
+   "fmt": "truefalse",
+   "q": "Principle of astigmatic correction per p131:",
+   "opts": [
+    "Circle of least diffusion placed on retina → clear image",
+    "Focusses the vertical rays exactly on the retina for clarity",
+    "Focusses the horizontal rays exactly on the retina",
+    "Diverges all rays equally in both meridians"
+   ],
+   "ans": 0,
+   "exp": "Principle: converges rays so circle of least diffusion lies at retina → clear image visualized. (Book p131)"
+  },
+  {
+   "id": "OPH-C30-014",
+   "sec": "Sturm's conoid",
+   "page": 131,
+   "fmt": "oddoneout",
+   "q": "Per p131, Vc > Hc leads to all EXCEPT:",
+   "opts": [
+    "Vp > Hp",
+    "Hp > Vp",
+    "Horizontal rays focussed later (F)",
+    "Vertical rays focussed earlier (B)"
+   ],
+   "ans": 1,
+   "exp": "Vc > Hc → Vp > Hp; vertical rays focussed (B), then circle of least diffusion (D), then horizontal rays focussed (F). (Book p131)"
+  },
+  {
+   "id": "OPH-C30-015",
+   "sec": "Sturm's conoid",
+   "page": 131,
+   "fmt": "fillup",
+   "q": "A toric contact lens per p131 has:",
+   "opts": [
+    "Same power on both surfaces",
+    "Only spherical power",
+    "2 surfaces with different powers",
+    "No cylindrical power"
+   ],
+   "ans": 2,
+   "exp": "Toric contact lens: a lens with 2 surfaces with different powers. (Book p131)"
+  },
+  {
+   "id": "OPH-C30-016",
+   "sec": "Surgery",
+   "page": 132,
+   "fmt": "recall",
+   "q": "Astigmatism LASIK per p132:",
+   "opts": [
+    "Burns both axes equally",
+    "Full thickness limbal cut",
+    "Flattens the retina",
+    "Selective burning off of the axis with higher curvature in the cornea"
+   ],
+   "ans": 3,
+   "exp": "Astigmatism LASIK: selective burning off of the axis with higher curvature in the cornea; also accurate keratotomy and LRI (limbal relaxing incisions). (Book p132)"
+  },
+  {
+   "id": "OPH-C30-017",
+   "sec": "Surgery",
+   "page": 132,
+   "fmt": "match",
+   "q": "Match astigmatism surgery per p132 — 1) Astigmatism LASIK 2) Accurate keratotomy 3) LRI … A) Limbal relaxing incisions B) Selective ablation of steeper corneal axis C) Precise corneal cutting procedure",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Astigmatism LASIK selective burning of higher curvature axis; accurate keratotomy; LRI = limbal relaxing incisions; shared principle: partial thickness incision → heals by fibrosis → vertical curvature stretched → reduced Vc. (Book p132)"
+  },
+  {
+   "id": "OPH-C30-018",
+   "sec": "Surgery",
+   "page": 132,
+   "fmt": "truefalse",
+   "q": "LRI principle in with-the-rule astigmatism (Vc > Hc) per p132:",
+   "opts": [
+    "Full thickness central corneal incision",
+    "Partial thickness incision at 90° and 180° on cornea/limbus → heals by fibrosis → vertical curvature stretched → reduced Vc",
+    "No fibrosis occurs after the incisions",
+    "Incisions placed at 45° oblique meridians only"
+   ],
+   "ans": 1,
+   "exp": "With the rule (Vc > Hc): partial thickness incision at 90° and 180° on cornea/limbus → heals by fibrosis → vertical curvature stretched → reduced Vc. (Book p132)"
+  },
+  {
+   "id": "OPH-C30-019",
+   "sec": "Prescription",
+   "page": 132,
+   "fmt": "match",
+   "q": "Match prescription columns per p132 — 1) Sph 2) Cyl 3) (+) power 4) (-) power … A) For astigmatism B) For myopia/hypermetropia C) Prescribed for hypermetropia D) Prescribed for myopia",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-B, 2-C, 3-A, 4-D"
+   ],
+   "ans": 2,
+   "exp": "RE right eye; LE left eye; Sph spherical power for myopia/hypermetropia; Cyl cylindrical power for astigmatism; (+) for hypermetropia; (-) for myopia. (Book p132)"
+  },
+  {
+   "id": "OPH-C30-020",
+   "sec": "Prescription",
+   "page": 132,
+   "fmt": "match",
+   "q": "Match lens type per p132 table — 1) Myopia 2) Simple myopic astigmatism 3) Compound myopic astigmatism 4) Mixed astigmatism … A) - sph B) - cyl C) - sph/- cyl D) - sph/+ cyl (or + sph/- cyl)",
+   "opts": [
+    "1-D, 2-C, 3-B, 4-A",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-A, 2-B, 3-C, 4-D"
+   ],
+   "ans": 3,
+   "exp": "Myopia - sph; simple myopic A - cyl; compound myopic A - sph/- cyl; hypermetropia + sph; simple hypermetropic A + cyl; compound hypermetropic A + sph/+ cyl; mixed - sph/+ cyl or + sph/- cyl. (Book p132)"
+  },
+  {
+   "id": "OPH-C30-021",
+   "sec": "Prescription",
+   "page": 132,
+   "fmt": "recall",
+   "q": "Example prescription for compound hypermetropic astigmatism per p132:",
+   "opts": [
+    "+0.5D sph/+1 D cyl",
+    "+0.75D sph",
+    "-1D sph",
+    "-1D sph/-1.5D cyl"
+   ],
+   "ans": 0,
+   "exp": "Compound hypermetropic astigmatism: + sph/+ cyl, example +0.5D sph/+1 D cyl. (Book p132)"
+  },
+  {
+   "id": "OPH-C30-022",
+   "sec": "Prescription",
+   "page": 132,
+   "fmt": "fillup",
+   "q": "RE and LE in a spectacle prescription per p132 mean:",
+   "opts": [
+    "Refraction error; lens error",
+    "Right eye; left eye",
+    "Retina; lens",
+    "Real eye; lazy eye"
+   ],
+   "ans": 1,
+   "exp": "RE: right eye; LE: left eye. (Book p132)"
+  },
+  {
+   "id": "OPH-C30-023",
+   "sec": "Transformation",
+   "page": 133,
+   "fmt": "recall",
+   "q": "Simple transformation per p133 is done to ensure:",
+   "opts": [
+    "Sph power > cyl power",
+    "Axis at 180°",
+    "Cyl power > sph power",
+    "Zero total power"
+   ],
+   "ans": 2,
+   "exp": "Simple transformation done to ensure that cyl power > sph power. (Book p133)"
+  },
+  {
+   "id": "OPH-C30-024",
+   "sec": "Transformation",
+   "page": 133,
+   "fmt": "fillup",
+   "q": "Simple transformation rules per p133: new sph = old sph + old cyl; new cyl = -(old cyl); new axis = ___.",
+   "opts": [
+    "Same as old axis",
+    "Always 180°",
+    "Always 90°",
+    "Perpendicular to old axis"
+   ],
+   "ans": 3,
+   "exp": "New axis: perpendicular to old axis. (Book p133)"
+  },
+  {
+   "id": "OPH-C30-025",
+   "sec": "Transformation",
+   "page": 133,
+   "fmt": "scenario",
+   "q": "A prescription reads -x D sph /+y D cyl @180° with x > y per p133. After simple transformation it becomes:",
+   "opts": [
+    "(y-x) D sph/-y D cyl @90°",
+    "(x-y) D sph/+y D cyl @180°",
+    "(y+x) D sph/-y D cyl @180°",
+    "-y D sph/(y-x) D cyl @90°"
+   ],
+   "ans": 0,
+   "exp": "New sph = old sph + old cyl; new cyl = -(old cyl); new axis perpendicular → (y-x) D sph/-y D cyl @90°. (Book p133)"
+  },
+  {
+   "id": "OPH-C30-026",
+   "sec": "With/against rule",
+   "page": 133,
+   "fmt": "match",
+   "q": "Match per p133 table (C = convex, V = concave) — 1) With the rule, axis 180° 2) With the rule, axis 90° 3) Against the rule, axis 180° 4) Against the rule, axis 90° … A) - lens (C) B) + lens (V) C) + lens (V) D) - lens (C)",
+   "opts": [
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-C, 3-B, 4-A"
+   ],
+   "ans": 1,
+   "exp": "With the rule: 180° - lens (C), 90° + lens (V); against the rule: 180° + lens (V), 90° - lens (C). (Book p133)"
+  },
+  {
+   "id": "OPH-C30-027",
+   "sec": "With/against rule",
+   "page": 133,
+   "fmt": "truefalse",
+   "q": "-1D cyl @180° per p133 gives:",
+   "opts": [
+    "No power change",
+    "↑ Power at 180° → against the rule",
+    "↑ Power at 90° → vertical power > horizontal power → with the rule astigmatism",
+    "Horizontal power > vertical power"
+   ],
+   "ans": 2,
+   "exp": "Power of cylindrical lens is perpendicular to its axis → ↑ power at 90° → vertical power > horizontal power: with the rule astigmatism. (Book p133)"
+  },
+  {
+   "id": "OPH-C30-028",
+   "sec": "With/against rule",
+   "page": 133,
+   "fmt": "recall",
+   "q": "Power of a cylindrical lens lies per p133:",
+   "opts": [
+    "Along its axis",
+    "Only at its centre",
+    "At 45° to axis",
+    "Perpendicular to its axis"
+   ],
+   "ans": 3,
+   "exp": "Power of cylindrical lens is perpendicular to its axis. (Book p133)"
+  },
+  {
+   "id": "OPH-C30-029",
+   "sec": "Aniseikonia",
+   "page": 133,
+   "fmt": "recall",
+   "q": "Aniseikonia per p133:",
+   "opts": [
+    "Different shape (distortion) and/or size of an image between both eyes d/t varying thickness of glasses",
+    "Same image size perceived in both eyes",
+    "Only a colour difference between the eyes",
+    "Diplopia caused by extraocular muscle palsy"
+   ],
+   "ans": 0,
+   "exp": "Different shape (distortion) and/or size of an image between both eyes; occurs d/t varying thickness of glasses (convex thicker at center, concave thick at periphery). (Book p133)"
+  },
+  {
+   "id": "OPH-C30-030",
+   "sec": "Aniseikonia",
+   "page": 133,
+   "fmt": "match",
+   "q": "Match distortion defects per p133 — 1) Pin cushion defect 2) Barrel defect … A) Seen with high minus (-) correction B) Seen with very high plus (+) correction",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 1,
+   "exp": "Pin cushion defect with very high plus (+) correction; barrel defect with high minus (-) correction. (Book p133)"
+  },
+  {
+   "id": "OPH-C30-031",
+   "sec": "Anisometropia",
+   "page": 134,
+   "fmt": "numeric",
+   "q": "Anisometropia per p134 is significant if the difference is:",
+   "opts": [
+    "<1 D",
+    "0.5 D",
+    ">2.5 D",
+    "Exactly 5 D"
+   ],
+   "ans": 2,
+   "exp": "Different refractory power b/w both eyes; significant if difference >2.5 D. (Book p134)"
+  },
+  {
+   "id": "OPH-C30-032",
+   "sec": "Anisometropia",
+   "page": 134,
+   "fmt": "numeric",
+   "q": "Magnification rule for convex lenses per p134:",
+   "opts": [
+    "5% image magnification per 1 D",
+    "10% per 1 D",
+    "1% per 2 D",
+    "2% image magnification for 1 D"
+   ],
+   "ans": 3,
+   "exp": "Magnification rule for convex lenses: for 1 D → 2% image magnification. (Book p134)"
+  },
+  {
+   "id": "OPH-C30-033",
+   "sec": "Anisometropia",
+   "page": 134,
+   "fmt": "recall",
+   "q": "Significant anisometropia per p134 leads to:",
+   "opts": [
+    "Varying image sizes → failure to fuse → diplopia; Rx surgery",
+    "The brain fuses the two different sized images without symptoms",
+    "No symptoms at all in either eye",
+    "Only headache without any diplopia"
+   ],
+   "ans": 0,
+   "exp": "If significant anisometropia: varying sizes of images from each eye → failure to fuse images → diplopia; Rx: surgical correction. (Book p134)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U30-1",
+   "ch": 30,
+   "n": 1,
+   "title": "Astigmatism overview, classification and refractive types",
+   "sec": "Optics · p130",
+   "guide": "Astigmatism cylindrical refractory error different power in both principal meridians (vertical Vp horizontal Hp) regular both meridians perpendicular with the rule vertical more curved against the rule horizontal more curved oblique perpendicular but not 90/180 irregular not perpendicular eg corneal scar cataract Refractive types simple myopic emmetropic+myopic compound myopic myopic simple hypermetropic emmetropic+hypermetropic compound hypermetropic hypermetropic mixed myopic+hypermetropic Clinical features loss of sharpness (letters stretch/merge) asthenopia.",
+   "qs": [
+    "OPH-C30-001",
+    "OPH-C30-002",
+    "OPH-C30-003",
+    "OPH-C30-004",
+    "OPH-C30-005",
+    "OPH-C30-006",
+    "OPH-C30-007",
+    "OPH-C30-008"
+   ]
+  },
+  {
+   "id": "OPH-U30-2",
+   "ch": 30,
+   "n": 2,
+   "title": "Cylindrical lenses, toric contacts and Sturm's conoid",
+   "sec": "Optics · p131",
+   "guide": "Treatment 1 spectacles cylindrical lenses power 90° to axis only 1 axis has power plano convex for hypermetropic A plano concave for myopic A 2 toric contact lenses lens with 2 surfaces different powers Sturm's conoid arrangement of light rays through toric surface Vc>Hc → Vp>Hp B vertical rays focussed D circle of least diffusion (convergence horizontal = divergence vertical) F horizontal rays focussed principle converges rays so circle of least diffusion lies at retina → clear image.",
+   "qs": [
+    "OPH-C30-009",
+    "OPH-C30-010",
+    "OPH-C30-011",
+    "OPH-C30-012",
+    "OPH-C30-013",
+    "OPH-C30-014",
+    "OPH-C30-015"
+   ]
+  },
+  {
+   "id": "OPH-U30-3",
+   "ch": 30,
+   "n": 3,
+   "title": "Astigmatism surgery and deciphering spectacle prescriptions",
+   "sec": "Optics · p132",
+   "guide": "3 surgery a astigmatism LASIK selective burning of axis with higher curvature b accurate keratotomy c LRI limbal relaxing incisions principle with the rule (Vc>Hc) partial thickness incision at 90 and 180 on cornea/limbus heals by fibrosis vertical curvature stretched reduced Vc Deciphering prescriptions RE right LE left Sph for myopia/hypermetropia Cyl for astigmatism (+) hypermetropia (-) myopia Lens types myopia - sph simple myopic A - cyl compound myopic A - sph/- cyl hypermetropia + sph simple hypermetropic A + cyl compound hypermetropic A + sph/+ cyl mixed - sph/+ cyl or + sph/- cyl examples -1D sph -1D cyl -1D/-1.5D +0.75D +1.5D cyl +0.5D/+1D -1D/+2D +1D/-2D.",
+   "qs": [
+    "OPH-C30-016",
+    "OPH-C30-017",
+    "OPH-C30-018",
+    "OPH-C30-019",
+    "OPH-C30-020",
+    "OPH-C30-021",
+    "OPH-C30-022"
+   ]
+  },
+  {
+   "id": "OPH-U30-4",
+   "ch": 30,
+   "n": 4,
+   "title": "Simple transformation, with/against-the-rule reading, aniseikonia",
+   "sec": "Optics · p133",
+   "guide": "Simple transformation ensures cyl power > sph power new sph old sph + old cyl new cyl -(old cyl) new axis perpendicular eg -x sph/+y cyl @180 (x>y) → (y-x) sph/-y cyl @90 With/against rule inferred from axis of cyl prescribed table 180° 90° with rule - lens (C) + lens (V) against rule + lens (V) - lens (C) eg -1D cyl @180 → ↑ power at 90 → vertical>horizontal with rule Binocular errors aniseikonia different shape/size of image d/t varying thickness of glasses pin cushion defect very high plus barrel defect high minus.",
+   "qs": [
+    "OPH-C30-023",
+    "OPH-C30-024",
+    "OPH-C30-025",
+    "OPH-C30-026",
+    "OPH-C30-027",
+    "OPH-C30-028",
+    "OPH-C30-029",
+    "OPH-C30-030"
+   ]
+  },
+  {
+   "id": "OPH-U30-5",
+   "ch": 30,
+   "n": 5,
+   "title": "Anisometropia — significance, magnification rule, diplopia",
+   "sec": "Optics · p134",
+   "guide": "Anisometropia different refractory power b/w both eyes significant if difference >2.5 D magnification rule for convex lenses for 1D → 2% image magnification if significant → varying sizes of images from each eye → failure to fuse → diplopia Rx surgical correction.",
+   "qs": [
+    "OPH-C30-031",
+    "OPH-C30-032",
+    "OPH-C30-033"
+   ]
+  }
+ ]
+}

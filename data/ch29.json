@@ -1,0 +1,831 @@
+{
+ "chapter": 29,
+ "title": "Myopia and Hypermetropia",
+ "pageRange": "122-129",
+ "questions": [
+  {
+   "id": "OPH-C29-001",
+   "sec": "Emmetropia and ametropia",
+   "page": 122,
+   "fmt": "numeric",
+   "q": "Normal refractory power of the emmetropic eye per p122:",
+   "opts": [
+    "+58.6 D",
+    "+19 D",
+    "+43 D",
+    "+60 D"
+   ],
+   "ans": 0,
+   "exp": "Emmetropia: normal refractory power of eye (+58.6 D); parallel rays from infinity converge on retina. (Book p122)"
+  },
+  {
+   "id": "OPH-C29-002",
+   "sec": "Emmetropia and ametropia",
+   "page": 122,
+   "fmt": "match",
+   "q": "Match ametropia per p122 — 1) Mono-ocular spherical 2) Mono-ocular cylindrical 3) Binocular … A) Anisokonia and anisometropia; present only in binocular vision B) Myopia and hypermetropia; corrected by spherical lens C) Astigmatism; corrected by cylindrical lens",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 1,
+   "exp": "Mono-ocular: spherical (myopia, hypermetropia — spherical lens) and cylindrical (astigmatism — cylindrical lens); binocular: anisokonia, anisometropia. (Book p122)"
+  },
+  {
+   "id": "OPH-C29-003",
+   "sec": "Emmetropia and ametropia",
+   "page": 122,
+   "fmt": "oddoneout",
+   "q": "Binocular ametropia per p122 has all these features EXCEPT:",
+   "opts": [
+    "Pathology contributed to by both eyes",
+    "Present only in binocular vision",
+    "Corrected by cylindrical lens alone",
+    "Disappears in monocular vision"
+   ],
+   "ans": 2,
+   "exp": "Binocular: pathology contributed by both eyes; present only in binocular vision; disappears in monocular vision; eg anisokonia, anisometropia. (Book p122)"
+  },
+  {
+   "id": "OPH-C29-004",
+   "sec": "Pathogenesis",
+   "page": 122,
+   "fmt": "recall",
+   "q": "Myopia pathogenesis per p122:",
+   "opts": [
+    "↓ Refractory power with the image formed behind the retina",
+    "Image formed exactly on the retina without accommodation",
+    "Normal refractive power with a short axial length",
+    "↑ Power → early convergence → image anterior to retina"
+   ],
+   "ans": 3,
+   "exp": "Myopia: ↑ refractory power → early convergence → image anterior to retina; corrective lenses (-). (Book p122)"
+  },
+  {
+   "id": "OPH-C29-005",
+   "sec": "Pathogenesis",
+   "page": 122,
+   "fmt": "recall",
+   "q": "Hypermetropia correction per p122:",
+   "opts": [
+    "(+) lenses",
+    "(-) lenses",
+    "Cylindrical only",
+    "No correction needed"
+   ],
+   "ans": 0,
+   "exp": "Hypermetropia: ↓ refractory power → ↓ converging → image behind retina; corrective lenses (+). (Book p122)"
+  },
+  {
+   "id": "OPH-C29-006",
+   "sec": "Pathogenesis",
+   "page": 122,
+   "fmt": "truefalse",
+   "q": "In myopia the corrective lens is (-) because per p122:",
+   "opts": [
+    "Rays converge late behind the retina needing added plus power",
+    "Rays converge early; diverging lens refocuses on retina",
+    "The lens adds refractive power to the eye",
+    "The eye is too short axially"
+   ],
+   "ans": 1,
+   "exp": "↑ Refractory power → early convergence → image anterior to retina → (-) diverging lenses correct. (Book p122)"
+  },
+  {
+   "id": "OPH-C29-007",
+   "sec": "Pathogenesis",
+   "page": 122,
+   "fmt": "fillup",
+   "q": "In emmetropia per p122, parallel rays from infinity ___.",
+   "opts": [
+    "Converge in front of retina",
+    "Converge behind retina",
+    "Converge on retina",
+    "Never converge"
+   ],
+   "ans": 2,
+   "exp": "Parallel rays from infinity converge on retina. (Book p122)"
+  },
+  {
+   "id": "OPH-C29-008",
+   "sec": "Mechanisms",
+   "page": 123,
+   "fmt": "numeric",
+   "q": "Axial myopia per p123: 1 mm ↑ in axial length adds:",
+   "opts": [
+    "1 D",
+    "0.5 D",
+    "6 D",
+    "3 D"
+   ],
+   "ans": 3,
+   "exp": "Axial myopia (m/c): ↑ axial length; 1 mm ↑ in AL = 3 D added to power; eg buphthalmos. (Book p123)"
+  },
+  {
+   "id": "OPH-C29-009",
+   "sec": "Mechanisms",
+   "page": 123,
+   "fmt": "numeric",
+   "q": "Normal axial length per p123:",
+   "opts": [
+    "24 mm",
+    "22 mm",
+    "26 mm",
+    "20 mm"
+   ],
+   "ans": 0,
+   "exp": "Axial length normally 24 mm; axial hypermetropia: ↓ AL, 1 mm ↓ = 3 D subtracted. (Book p123)"
+  },
+  {
+   "id": "OPH-C29-010",
+   "sec": "Mechanisms",
+   "page": 123,
+   "fmt": "match",
+   "q": "Match myopia mechanisms with examples per p123 — 1) Axial 2) Curvatural 3) Index 4) Positional … A) Keratoconus/lenticonus B) Nuclear cataract (sclerosis) C) Weill Marchesani syndrome D) Buphthalmos",
+   "opts": [
+    "1-A, 2-D, 3-C, 4-B",
+    "1-D, 2-A, 3-B, 4-C",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-D, 2-B, 3-A, 4-C"
+   ],
+   "ans": 1,
+   "exp": "Axial: buphthalmos; curvatural: keratoconus/lenticonus (↑ curvature ↓ ROC); index: nuclear cataract (↑ RI); positional: Weill Marchesani (lens forwards ↓ focal length ↑ power). (Book p123)"
+  },
+  {
+   "id": "OPH-C29-011",
+   "sec": "Mechanisms",
+   "page": 123,
+   "fmt": "oddoneout",
+   "q": "All cause myopia per p123 EXCEPT:",
+   "opts": [
+    "↑ Axial length",
+    "↑ RI of lens",
+    "↓ Curvature of cornea/lens (↑ ROC)",
+    "Anterior lens displacement"
+   ],
+   "ans": 2,
+   "exp": "↓ Curvature of cornea/lens (↑ ROC) causes curvatural HYPERmetropia; myopia = ↑ curvature ↓ ROC. (Book p123)"
+  },
+  {
+   "id": "OPH-C29-012",
+   "sec": "Mechanisms",
+   "page": 123,
+   "fmt": "recall",
+   "q": "Positional myopia per p123:",
+   "opts": [
+    "Lens positioned posteriorly with ↑ focal length",
+    "Radius of curvature increases",
+    "Power of the lens falls with anterior displacement",
+    "Lens anterior → focal length ↓ → power ↑"
+   ],
+   "ans": 3,
+   "exp": "Positional myopia: lens anterior; focal length ↓; power ↑; eg Weill Marchesani syndrome. (Book p123)"
+  },
+  {
+   "id": "OPH-C29-013",
+   "sec": "Symptoms",
+   "page": 123,
+   "fmt": "fillup",
+   "q": "Floaters in high myopia per p123 are d/t:",
+   "opts": [
+    "Vitreous syneresis/liquefaction",
+    "Retinal detachment",
+    "Nuclear sclerosis",
+    "Uveitis"
+   ],
+   "ans": 0,
+   "exp": "Floaters present in high myopia d/t vitreous syneresis/liquefaction. (Book p123)"
+  },
+  {
+   "id": "OPH-C29-014",
+   "sec": "Symptoms",
+   "page": 123,
+   "fmt": "recall",
+   "q": "Half closure/half squinting of eyes in myopia per p123 improves vision because:",
+   "opts": [
+    "It increases IOP",
+    "It cuts off peripheral rays → central rays fall straight onto retina",
+    "It dilates the pupil",
+    "It relaxes the ciliary muscle"
+   ],
+   "ans": 1,
+   "exp": "Cutting off of peripheral rays → central rays fall straight onto retina → improves vision. Hypermetropia: loss of near vision; over-accommodation → tired eyes/headache = asthenopia. (Book p123)"
+  },
+  {
+   "id": "OPH-C29-015",
+   "sec": "Examination signs",
+   "page": 124,
+   "fmt": "match",
+   "q": "Match examination signs per p124 — 1) Myopic eyeball 2) Hypermetropic anterior chamber 3) Myopic squint 4) Hypermetropic squint … A) Small (↓AL); shallower than normal, prone to angle closure glaucoma B) Large (↑AL) → pseudoproptosis; deeper than normal C) Exophoria d/t convergence insufficiency D) Esotropia d/t overaccommodation → overconvergence",
+   "opts": [
+    "1-C, 2-D, 3-A, 4-B",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-B, 2-C, 3-A, 4-D"
+   ],
+   "ans": 2,
+   "exp": "Myopia: large eyeball (↑AL) pseudoproptosis, deeper AC, exophoria; hypermetropia: small eyeball, shallow AC prone to ACG, esotropia. (Book p124)"
+  },
+  {
+   "id": "OPH-C29-016",
+   "sec": "Examination signs",
+   "page": 124,
+   "fmt": "recall",
+   "q": "Hypermetropic squint per p124:",
+   "opts": [
+    "Convergence insufficiency → exophoria",
+    "No squint",
+    "Always divergent",
+    "Overaccommodation → overconvergence → esotropia"
+   ],
+   "ans": 3,
+   "exp": "Overaccommodation → overconvergence → esotropia. (Book p124)"
+  },
+  {
+   "id": "OPH-C29-017",
+   "sec": "Examination signs",
+   "page": 124,
+   "fmt": "truefalse",
+   "q": "Angle kappa in myopia per p124:",
+   "opts": [
+    "Lesser than normal → pseudoesotropia",
+    "Remains normal in both refractive errors",
+    "More than normal → pseudoexotropia appearance",
+    "Causes a true concomitant esotropia"
+   ],
+   "ans": 0,
+   "exp": "Myopia: angle kappa lesser than normal → pseudoesotropia; hypermetropia: more than normal (>5°) → pseudoexotropia. (Book p124)"
+  },
+  {
+   "id": "OPH-C29-018",
+   "sec": "Examination signs",
+   "page": 124,
+   "fmt": "recall",
+   "q": "Pseudoexotropia (appearance of outward deviation) per p124 is seen in:",
+   "opts": [
+    "Myopia with small angle kappa",
+    "Hypermetropia with angle kappa >5°",
+    "Simple astigmatism with-the-rule",
+    "Aniridia with ectopia lentis"
+   ],
+   "ans": 1,
+   "exp": "Hypermetropia: angle kappa more than normal (>5°) → pseudoexotropia. (Book p124)"
+  },
+  {
+   "id": "OPH-C29-019",
+   "sec": "Fundoscopy",
+   "page": 124,
+   "fmt": "oddoneout",
+   "q": "Fundus components per p124: all are TRUE EXCEPT:",
+   "opts": [
+    "Vitreous is transparent",
+    "Retina is transparent",
+    "Cornea is red",
+    "Choroid is red"
+   ],
+   "ans": 2,
+   "exp": "Fundus: vitreous and retina transparent; choroid red. Cornea is not part of the fundus view. (Book p124)"
+  },
+  {
+   "id": "OPH-C29-020",
+   "sec": "Fundoscopy",
+   "page": 124,
+   "fmt": "match",
+   "q": "Match fundoscopy signs per p124 — 1) Hypermetropia 2) Pathological myopia 3) Normal choroid … A) Shot silk fundus (shiny) and pseudopapillitis B) Tessellated/tigroid appearance d/t diffuse RPE attenuation with choroidal red more visible C) Red",
+   "opts": [
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-B, 3-C"
+   ],
+   "ans": 3,
+   "exp": "Hypermetropia: shot silk fundus, pseudo papillitis; myopia: tessellated/tigroid appearance; choroid red. (Book p124)"
+  },
+  {
+   "id": "OPH-C29-021",
+   "sec": "Fundoscopy",
+   "page": 124,
+   "fmt": "numeric",
+   "q": "Pathological/degenerative myopia criteria per p124:",
+   "opts": [
+    "AL >26 mm or refractive power >6 D",
+    "AL >24 mm or power >3 D",
+    "AL >22 mm or power >2 D",
+    "AL >28 mm only"
+   ],
+   "ans": 0,
+   "exp": "Signs seen if pathological/degenerative myopia: AL >26 mm OR refractive power >6 D. (Book p124)"
+  },
+  {
+   "id": "OPH-C29-022",
+   "sec": "Myopic fundus",
+   "page": 125,
+   "fmt": "recall",
+   "q": "Temporal myopic crescent per p125 results from:",
+   "opts": [
+    "Increased RPE proliferation over the disc",
+    "Disparity in stretching of eyeball → chorioretinal atrophy → underlying sclera visible (white)",
+    "Choroidal neovascularization at the macula",
+    "Papilledema with disc hyperemia"
+   ],
+   "ans": 1,
+   "exp": "Disparity in stretching → chorioretinal atrophy → underlying sclera visible (white). (Book p125)"
+  },
+  {
+   "id": "OPH-C29-023",
+   "sec": "Myopic fundus",
+   "page": 125,
+   "fmt": "fillup",
+   "q": "Lacquer cracks per p125 are fine breaks in ___.",
+   "opts": [
+    "Descemet's membrane",
+    "Internal limiting membrane",
+    "Bruch's membrane (innermost layer of choroid)",
+    "Bowman's layer"
+   ],
+   "ans": 2,
+   "exp": "Fine breaks in Bruch's membrane (innermost layer of choroid) → underlying sclera visible (yellowish). (Book p125)"
+  },
+  {
+   "id": "OPH-C29-024",
+   "sec": "Myopic fundus",
+   "page": 125,
+   "fmt": "recall",
+   "q": "Foster Fuchs spots per p125:",
+   "opts": [
+    "Optic disc pits",
+    "Drusen",
+    "Peripheral lattice lesions",
+    "Areas of subretinal hemorrhage at macula"
+   ],
+   "ans": 3,
+   "exp": "Foster Fuch spots: areas of subretinal hemorrhage at macula. (Book p125)"
+  },
+  {
+   "id": "OPH-C29-025",
+   "sec": "Myopic fundus",
+   "page": 125,
+   "fmt": "truefalse",
+   "q": "Posterior staphyloma per p125:",
+   "opts": [
+    "Ectatic scleral bulge d/t ↑AL stretching at normal IOP",
+    "Bulge lined by iris tissue at the limbus",
+    "Anterior bulge of cornea lined by iris tissue at limbus",
+    "Only a congenital anomaly"
+   ],
+   "ans": 0,
+   "exp": "Posterior staphyloma: in sclera; ↑AL → scleral stretching → thinning → bulging d/t normal IOP (ectatic bulge in sclera). (Book p125)"
+  },
+  {
+   "id": "OPH-C29-026",
+   "sec": "Myopic fundus",
+   "page": 125,
+   "fmt": "match",
+   "q": "Match staphyloma types per p125 — 1) Anterior 2) Intercalary 3) Ciliary 4) Equatorial 5) Posterior … A) Bulge in limbus with lining of iris tissue B) Bulge in cornea (frank anterior staphyloma) C) Bulge in anterior sclera with lining of ciliary body D) Bulge in retina E) Bulge in sclera",
+   "opts": [
+    "1-A, 2-B, 3-C, 4-E, 5-D",
+    "1-B, 2-A, 3-C, 4-D, 5-E",
+    "1-E, 2-D, 3-C, 4-B, 5-A",
+    "1-B, 2-C, 3-A, 4-D, 5-E"
+   ],
+   "ans": 1,
+   "exp": "Anterior cornea; intercalary limbus with iris lining; ciliary anterior sclera with ciliary body lining; equatorial retina; posterior sclera. (Book p125)"
+  },
+  {
+   "id": "OPH-C29-027",
+   "sec": "Myopic fundus",
+   "page": 125,
+   "fmt": "recall",
+   "q": "m/c complication of pathological myopia per p125:",
+   "opts": [
+    "Vitreous hemorrhage",
+    "Macular hole",
+    "Rhegmatogenous retinal detachment",
+    "Papillitis"
+   ],
+   "ans": 2,
+   "exp": "Rhegmatogenous retinal detachment: m/c complication of pathological myopia; ↑AL → retinal stretching → break; rupture of vessels → vitreous hemorrhage. (Book p125)"
+  },
+  {
+   "id": "OPH-C29-028",
+   "sec": "Myopic fundus",
+   "page": 125,
+   "fmt": "recall",
+   "q": "Tilted OD in very high myopia per p125 is d/t:",
+   "opts": [
+    "Morning glory disc anomaly",
+    "Papillitis with disc hyperemia",
+    "Optic nerve coloboma",
+    "Supertraction — vitreous pulls retina over OD → OD covered by retina"
+   ],
+   "ans": 3,
+   "exp": "Supertraction: vitreous pulls retina over optic disc → OD covered by retina → tilted OD (seen in very high myopia). (Book p125)"
+  },
+  {
+   "id": "OPH-C29-029",
+   "sec": "Spectacles and lenses",
+   "page": 126,
+   "fmt": "recall",
+   "q": "Spectacle lens for myopia per p126:",
+   "opts": [
+    "Concave/diverging glasses with negative power",
+    "Convex/converging with positive power",
+    "Plano lens",
+    "Cylindrical only"
+   ],
+   "ans": 0,
+   "exp": "Myopia: concave/diverging glasses (negative power); hypermetropia: convex/converging lens (positive power). (Book p126)"
+  },
+  {
+   "id": "OPH-C29-030",
+   "sec": "Spectacles and lenses",
+   "page": 126,
+   "fmt": "truefalse",
+   "q": "Soft contact lenses are preferred in high myopia per p126 because:",
+   "opts": [
+    "Glasses for high myopia are thin but magnify the image",
+    "High powered concave glasses are thicker and minify",
+    "Contact lenses add extra refractive power",
+    "Spectacles cause diplopia in high myopia"
+   ],
+   "ans": 1,
+   "exp": "Soft lenses preferred in high myopia because high powered concave glasses are thicker and minify image. (Book p126)"
+  },
+  {
+   "id": "OPH-C29-031",
+   "sec": "Surgery",
+   "page": 126,
+   "fmt": "oddoneout",
+   "q": "Surgeries for hypermetropia per p126 include all EXCEPT:",
+   "opts": [
+    "Thermal laser keratoplasty (THC: YAG laser)",
+    "Hyperopic LASIK",
+    "Radial keratotomy",
+    "Conductive keratoplasty using radiofrequency"
+   ],
+   "ans": 2,
+   "exp": "Hypermetropia surgery: thermal laser keratoplasty (THC YAG), hyperopic LASIK, conductive keratoplasty (radiofrequency). Radial keratotomy is for myopia. (Book p126)"
+  },
+  {
+   "id": "OPH-C29-032",
+   "sec": "Surgery",
+   "page": 126,
+   "fmt": "recall",
+   "q": "THC in thermal laser keratoplasty per p126 stands for:",
+   "opts": [
+    "Thulium Holmium Cobalt",
+    "Thallium Hydrogen Chromate",
+    "Titanium Holmium Chromium",
+    "Thallium Holmium Chromium"
+   ],
+   "ans": 3,
+   "exp": "Thermal laser keratoplasty: THC: YAG laser (THC: Thallium Holmium Chromium). (Book p126)"
+  },
+  {
+   "id": "OPH-C29-033",
+   "sec": "Surgery",
+   "page": 126,
+   "fmt": "recall",
+   "q": "Radial keratotomy principle per p126:",
+   "opts": [
+    "↓ Corneal curvature → ↓ refractive power",
+    "↑ Corneal curvature → ↑ refractive power",
+    "Flattens retina",
+    "Steepens central cornea"
+   ],
+   "ans": 0,
+   "exp": "Principle: ↓ corneal curvature → ↓ refractive power. Rarely performed for hypermetropia d/t incidence < myopia and very high hypermetropia rare. (Book p126)"
+  },
+  {
+   "id": "OPH-C29-034",
+   "sec": "Surgery",
+   "page": 126,
+   "fmt": "recall",
+   "q": "Surgery for hypermetropia is rarely performed per p126 d/t:",
+   "opts": [
+    "High cost of excimer lasers",
+    "Incidence of hypermetropia < myopia and very high hypermetropia is rare",
+    "Legal restrictions on refractive surgery",
+    "Poor patient compliance with drops"
+   ],
+   "ans": 1,
+   "exp": "Rarely performed d/t incidence of hypermetropia < myopia; very high hypermetropia is rare. (Book p126)"
+  },
+  {
+   "id": "OPH-C29-035",
+   "sec": "Radial keratotomy",
+   "page": 127,
+   "fmt": "numeric",
+   "q": "Radial keratotomy procedure per p127 uses:",
+   "opts": [
+    "4 full thickness central incisions",
+    "16 limbal incisions",
+    "8 partial thickness peripheral corneal incisions",
+    "1 central trephination"
+   ],
+   "ans": 2,
+   "exp": "8 partial thickness peripheral corneal incisions → healing by fibrosis → contraction causing stretching of cornea → ↓ thickness and ↓ refractive power. (Book p127)"
+  },
+  {
+   "id": "OPH-C29-036",
+   "sec": "Radial keratotomy",
+   "page": 127,
+   "fmt": "truefalse",
+   "q": "Radial keratotomy is not done currently per p127 d/t:",
+   "opts": [
+    "Lasers being unavailable",
+    "High infection rates",
+    "Cost",
+    "Unpredictable results"
+   ],
+   "ans": 3,
+   "exp": "Not done currently d/t unpredictable results. (Book p127)"
+  },
+  {
+   "id": "OPH-C29-037",
+   "sec": "Laser surgery",
+   "page": 127,
+   "fmt": "recall",
+   "q": "Excimer laser per p127:",
+   "opts": [
+    "Argon fluoride, 193 nm, photoablation → flattening → ↓ power",
+    "Nd:YAG 1064 nm laser working by photodisruption of the stroma",
+    "Diode 810 nm laser working by photocoagulation",
+    "He-Ne 633 nm laser working by thermal burn"
+   ],
+   "ans": 0,
+   "exp": "Excimer: argon fluoride laser; wavelength 193 nm; MOA photoablation → central thinning of cornea → flattening → ↓ refractive power. PRK and LASIK both use excimer. (Book p127)"
+  },
+  {
+   "id": "OPH-C29-038",
+   "sec": "Laser surgery",
+   "page": 127,
+   "fmt": "match",
+   "q": "Match myopic laser surgeries per p127-128 — 1) PRK 2) LASIK 3) SMILE … A) Photo refractive keratectomy with excimer B) Partial thickness flap (microkeratome) + excimer; 250 micron residual stromal bed C) Nd:Glass photodisruption; flapless lenticule extraction",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 1,
+   "exp": "PRK photo refractive keratectomy and LASIK (epithelium not burnt, partial thickness flap, laser treatment, reattach flap) use excimer on p127; SMILE flapless Nd:Glass photodisruption on p128. (Book p127)"
+  },
+  {
+   "id": "OPH-C29-039",
+   "sec": "Laser surgery",
+   "page": 128,
+   "fmt": "numeric",
+   "q": "LASIK ablation and residual bed per p128:",
+   "opts": [
+    "5 microns per dioptre; 500 micron bed",
+    "20-25 microns per dioptre; 100 micron bed",
+    "10-12 microns per dioptre; 250 micron residual stromal bed",
+    "15 microns per dioptre; 300 micron bed"
+   ],
+   "ans": 2,
+   "exp": "10-12 microns ablated for each dioptre; 250 micron stromal bed residual thickness. (Book p128)"
+  },
+  {
+   "id": "OPH-C29-040",
+   "sec": "Laser surgery",
+   "page": 128,
+   "fmt": "oddoneout",
+   "q": "Contraindications to LASIK per p128 include all EXCEPT:",
+   "opts": [
+    "Corneal thickness <450 μm pre-operation",
+    "Age <18 yrs",
+    "Refraction not stable for at least 12 months pre-op",
+    "Stable -3 D myopia for 2 years in a 25-year-old"
+   ],
+   "ans": 3,
+   "exp": "C/I: corneal thickness <450 μm pre-op (↑ chance of breaching residual thickness barrier), age <18 yrs, refraction not stable ≥12 months. (Book p128)"
+  },
+  {
+   "id": "OPH-C29-041",
+   "sec": "SMILE",
+   "page": 128,
+   "fmt": "fillup",
+   "q": "SMILE per p128 uses laser ___ with mechanism ___.",
+   "opts": [
+    "Nd:Glass; photodisruption",
+    "Excimer; photoablation",
+    "Nd:YAG; photocoagulation",
+    "Diode; thermal burn"
+   ],
+   "ans": 0,
+   "exp": "SMILE: small incision lenticule extraction; laser Nd:Glass; mechanism photodisruption; flapless → no side effects from flap creation. (Book p128)"
+  },
+  {
+   "id": "OPH-C29-042",
+   "sec": "ICL and INTACS",
+   "page": 128,
+   "fmt": "recall",
+   "q": "ICL per p128: material and site of implantation:",
+   "opts": [
+    "Silicone; posterior to lens",
+    "Hydrogel; implanted in the sulcus anterior to lens",
+    "PMMA; in AC angle",
+    "Hydrogel; on corneal surface"
+   ],
+   "ans": 1,
+   "exp": "Implantable collamer lens (ICL): made of hydrogel; implanted in the sulcus anterior to lens. (Book p128)"
+  },
+  {
+   "id": "OPH-C29-043",
+   "sec": "ICL and INTACS",
+   "page": 128,
+   "fmt": "numeric",
+   "q": "ICL indication per p128:",
+   "opts": [
+    "Myopia <2 D",
+    "Hypermetropia >5 D",
+    "Myopia >8 D exclusively (high myopia)",
+    "Astigmatism of 1 D"
+   ],
+   "ans": 2,
+   "exp": "Indication: myopia >8 D exclusively; LASIK in high myopia ↑ chance of breaching stromal residual bed thickness criteria. (Book p128)"
+  },
+  {
+   "id": "OPH-C29-044",
+   "sec": "ICL and INTACS",
+   "page": 128,
+   "fmt": "recall",
+   "q": "INTACS per p128:",
+   "opts": [
+    "Ring segments implanted in sclera for progressive keratoconus",
+    "Silicone scleral buckle placed for retinal detachment",
+    "Intraocular lens implanted in the sulcus for aphakia",
+    "Intracorneal stromal rings; correct 2-5 D myopia; flatten cornea"
+   ],
+   "ans": 3,
+   "exp": "INTACS: intra corneal stromal ring segments; can correct 2-5 D of myopia (low power myopia); 2 semi-circular rings implanted → stretches and flattens cornea. (Book p128)"
+  },
+  {
+   "id": "OPH-C29-045",
+   "sec": "Convex vs concave",
+   "page": 129,
+   "fmt": "match",
+   "q": "Match lens identification per p129 — 1) Convex high power 2) Concave high power 3) Moving convex lens 4) Moving concave lens … A) Thick at periphery; object appears minified B) Thick in centre; object appears magnified C) Object moves in opposite direction D) Object moves in same direction",
+   "opts": [
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-B, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-B, 2-A, 3-D, 4-C"
+   ],
+   "ans": 0,
+   "exp": "Convex: thick in centre, magnifies, object moves opposite; concave: thick at periphery, minifies, object moves same direction. (Book p129)"
+  },
+  {
+   "id": "OPH-C29-046",
+   "sec": "Convex vs concave",
+   "page": 129,
+   "fmt": "oddoneout",
+   "q": "Uses of convex lens per p129 include all EXCEPT:",
+   "opts": [
+    "Correction of hypermetropia",
+    "Correction of myopia",
+    "Presbyopia",
+    "Aphakia"
+   ],
+   "ans": 1,
+   "exp": "Convex: hypermetropia, aphakia, presbyopia; ophthalmoscopy (+20 D in indirect). Concave: correction of myopia. (Book p129)"
+  },
+  {
+   "id": "OPH-C29-047",
+   "sec": "Convex vs concave",
+   "page": 129,
+   "fmt": "truefalse",
+   "q": "Image formed by concave lens per p129:",
+   "opts": [
+    "Real and inverted m/c",
+    "May be magnified",
+    "Always virtual, erect, diminished",
+    "Real only"
+   ],
+   "ans": 2,
+   "exp": "Concave: always virtual, erect, diminished image; convex: real and inverted (m/c), may produce virtual and erect image. (Book p129)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U29-1",
+   "ch": 29,
+   "n": 1,
+   "title": "Emmetropia, ametropia classes and spherical error pathogenesis",
+   "sec": "Optics · p122",
+   "guide": "Emmetropia normal refractory power (+58.6 D) parallel rays from infinity converge on retina Ametropia abnormal refractory power mono-ocular (present in mono and binocular vision) spherical (myopia hypermetropia spherical lens) cylindrical (astigmatism cylindrical lens) binocular (both eyes; present only in binocular vision; disappears in monocular; eg anisokonia anisometropia) Myopia ↑ refractory power early convergence image anterior to retina (-) lenses Hypermetropia ↓ refractory power ↓ converging image behind retina (+) lenses.",
+   "qs": [
+    "OPH-C29-001",
+    "OPH-C29-002",
+    "OPH-C29-003",
+    "OPH-C29-004",
+    "OPH-C29-005",
+    "OPH-C29-006",
+    "OPH-C29-007"
+   ]
+  },
+  {
+   "id": "OPH-U29-2",
+   "ch": 29,
+   "n": 2,
+   "title": "Mechanisms of refractive change (axial, curvatural, index, positional) and symptoms",
+   "sec": "Optics · p123",
+   "guide": "a Axial length normally 24 mm axial myopia m/c ↑AL 1mm↑=3D added eg buphthalmos axial hypermetropia ↓AL 1mm↓=3D subtracted b Curvature curvatural myopia ↑ curvature ↓ ROC eg keratoconus/lenticonus curvatural hypermetropia ↓ curvature ↑ ROC c Refractive index index myopia ↑ RI eg nuclear cataract (sclerosis) index hypermetropia ↓ RI d Position of lens (power=1/focal length) positional myopia lens anterior ↓ focal length ↑ power eg Weill Marchesani positional hypermetropia lens posterior ↑ focal length ↓ power Symptoms myopia loss of far vision near/short-sightedness floaters in high myopia d/t vitreous syneresis/liquefaction half closure/half squinting cuts peripheral rays central rays fall straight onto retina improves vision hypermetropia loss of near vision over-accommodation → tired eyes/headache asthenopia.",
+   "qs": [
+    "OPH-C29-008",
+    "OPH-C29-009",
+    "OPH-C29-010",
+    "OPH-C29-011",
+    "OPH-C29-012",
+    "OPH-C29-013",
+    "OPH-C29-014"
+   ]
+  },
+  {
+   "id": "OPH-U29-3",
+   "ch": 29,
+   "n": 3,
+   "title": "Examination signs — eyeball, AC, squint, angle kappa; fundoscopy",
+   "sec": "Optics · p124",
+   "guide": "Myopia large eyeball ↑AL pseudoproptosis AC deeper far point near → no accommodation for near → convergence insufficiency → exophoria angle kappa lesser → pseudoesotropia Hypermetropia small eyeball ↓AL AC shallower prone to ACG overaccommodation → overconvergence → esotropia angle kappa >5° → pseudoexotropia Fundus vitreous retina transparent choroid red Hypermetropia shot silk fundus shiny pseudopapillitis Myopia pathological if AL>26mm or power >6D tessellated/tigroid appearance diffuse attenuation of RPE choroidal red more visible.",
+   "qs": [
+    "OPH-C29-015",
+    "OPH-C29-016",
+    "OPH-C29-017",
+    "OPH-C29-018",
+    "OPH-C29-019",
+    "OPH-C29-020",
+    "OPH-C29-021"
+   ]
+  },
+  {
+   "id": "OPH-U29-4",
+   "ch": 29,
+   "n": 4,
+   "title": "Myopic fundus — crescent, lacquer cracks, Fuchs spots, staphyloma, RD",
+   "sec": "Optics · p125",
+   "guide": "b Temporal myopic crescent disparity in stretching → chorioretinal atrophy → sclera visible (white) c Lacquer cracks fine breaks in Bruch's membrane (innermost layer of choroid) → yellowish sclera d Foster Fuch spots subretinal hemorrhage at macula e Posterior staphyloma in sclera ↑AL → stretching → thinning → bulging d/t normal IOP (ectatic bulge) f Rhegmatogenous RD m/c complication of pathological myopia ↑AL → retinal stretching break rupture of vessels vitreous hemorrhage supertraction vitreous pulls retina over OD → tilted OD Types of staphyloma anterior cornea intercalary limbus with iris lining ciliary anterior sclera with ciliary body lining equatorial retina posterior sclera.",
+   "qs": [
+    "OPH-C29-022",
+    "OPH-C29-023",
+    "OPH-C29-024",
+    "OPH-C29-025",
+    "OPH-C29-026",
+    "OPH-C29-027",
+    "OPH-C29-028"
+   ]
+  },
+  {
+   "id": "OPH-U29-5",
+   "ch": 29,
+   "n": 5,
+   "title": "Spectacles, contact lenses, hypermetropia surgery, radial keratotomy",
+   "sec": "Optics · p126",
+   "guide": "Spectacles spherical myopia concave/diverging (negative power) hypermetropia convex/converging (positive power) Contact lenses soft preferred in high myopia d/t high powered concave glasses thicker minify image Surgery hypermetropia rarely performed (incidence < myopia; very high rare) 1 thermal laser keratoplasty THC YAG laser (Thallium Holmium Chromium) 2 hyperopic LASIK 3 conductive keratoplasty radiofrequency Surgery myopia radial keratotomy principle ↓ corneal curvature → ↓ refractive power.",
+   "qs": [
+    "OPH-C29-029",
+    "OPH-C29-030",
+    "OPH-C29-031",
+    "OPH-C29-032",
+    "OPH-C29-033",
+    "OPH-C29-034"
+   ]
+  },
+  {
+   "id": "OPH-U29-6",
+   "ch": 29,
+   "n": 6,
+   "title": "RK procedure; excimer laser; LASIK numbers and C/I; SMILE",
+   "sec": "Optics · p127-128",
+   "guide": "RK 8 partial thickness peripheral corneal incisions healing by fibrosis contraction stretching cornea ↓ thickness ↓ refractive power not done currently d/t unpredictable results Laser surgery PRK LASIK excimer laser used argon fluoride 193 nm MOA photoablation → central thinning → flattening → ↓ refractive power LASIK epithelium not burnt partial thickness flap (microkeratome) laser treatment reattach flap 10-12 microns ablated per dioptre 250 micron residual stromal bed C/I corneal thickness <450μm pre-op age <18 yrs refraction not stable ≥12 months SMILE Nd:Glass photodisruption flapless 2 incisions near stroma deep + superficial → lenticule pulled out → thinned cornea.",
+   "qs": [
+    "OPH-C29-035",
+    "OPH-C29-036",
+    "OPH-C29-037",
+    "OPH-C29-038",
+    "OPH-C29-039",
+    "OPH-C29-040",
+    "OPH-C29-041"
+   ]
+  },
+  {
+   "id": "OPH-U29-7",
+   "ch": 29,
+   "n": 7,
+   "title": "ICL, INTACS; convex vs concave lens identification and images",
+   "sec": "Optics · p128-129",
+   "guide": "ICL implantable collamer lens hydrogel implanted in sulcus anterior to lens indication myopia >8 D exclusively (LASIK in high myopia ↑ chance breaching stromal bed criteria) INTACS intra corneal stromal ring segments correct 2-5 D myopia 2 semi-circular rings stretch and flatten cornea Convex converging (+) thick in centre magnifies moving object opposite uses hypermetropia aphakia presbyopia ophthalmoscopy (+20D indirect) image real and inverted m/c may be virtual erect Concave diverging (-) thick at periphery minifies moving object same direction uses myopia image always virtual erect diminished.",
+   "qs": [
+    "OPH-C29-042",
+    "OPH-C29-043",
+    "OPH-C29-044",
+    "OPH-C29-045",
+    "OPH-C29-046",
+    "OPH-C29-047"
+   ]
+  }
+ ]
+}

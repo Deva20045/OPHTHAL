@@ -52,11 +52,11 @@ scope (Book p1–233) is converted into questions in strict book order.
 | 23 | Glaucoma : What and How? | p90 | **LIVE** |
 | 24 | Investigations for Glaucoma | p94 | **LIVE** |
 | 25 | Primary Open Angle Glaucoma | p102 | **LIVE** |
-| 26 | Primary Angle Closure Glaucoma | p109 | SOON |
-| 27 | Secondary Glaucoma(s) and Congenital Glaucoma | p113 | SOON |
-| 28 | Tests for Vision and Normal Optics of Eyes | p117 | SOON |
-| 29 | Myopia and Hypermetropia | p122 | SOON |
-| 30 | Astigmatism, Reading of Spectacle Prescription and Binocular Errors | p130 | SOON |
+| 26 | Primary Angle Closure Glaucoma | p109 | **LIVE** |
+| 27 | Secondary Glaucoma(s) and Congenital Glaucoma | p113 | **LIVE** |
+| 28 | Tests for Vision and Normal Optics of Eyes | p117 | **LIVE** |
+| 29 | Myopia and Hypermetropia | p122 | **LIVE** |
+| 30 | Astigmatism, Reading of Spectacle Prescription and Binocular Errors | p130 | **LIVE** |
 | 31 | Refraction : How to prescribe glasses and Aphakia | p135 | SOON |
 | 32 | Anatomy and Investigations of Retina | p142 | SOON |
 | 33 | Retinoblastoma and Macular Disorders | p148 | SOON |
@@ -165,11 +165,16 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 23 "Glaucoma : What and How?" (p90–93): 4 units, 19 questions — BUILT & VERIFIED**
 - [x] **Ch 24 "Investigations for Glaucoma" (p94–101): 6 units, 30 questions — BUILT & VERIFIED**
 - [x] **Ch 25 "Primary Open Angle Glaucoma" (p102–108): 6 units, 30 questions — BUILT & VERIFIED**
-- [ ] Ch 26–50 (per pipeline above)
+- [x] **Ch 26 "Primary Angle Closure Glaucoma" (p109–112): 5 units, 35 questions — BUILT & VERIFIED**
+- [x] **Ch 27 "Secondary Glaucoma(s) and Congenital Glaucoma" (p113–116): 6 units, 36 questions — BUILT & VERIFIED**
+- [x] **Ch 28 "Tests for Vision and Normal Optics of Eyes" (p117–121): 5 units, 38 questions — BUILT & VERIFIED**
+- [x] **Ch 29 "Myopia and Hypermetropia" (p122–129): 7 units, 47 questions — BUILT & VERIFIED**
+- [x] **Ch 30 "Astigmatism, Reading of Spectacle Prescription and Binocular Errors" (p130–134): 5 units, 33 questions — BUILT & VERIFIED**
+- [ ] Ch 31–50 (per pipeline above)
 
 ## NEXT
-**Ch 26 "Primary Angle Closure Glaucoma" (p109–112)** —
-render Part 1 PDF pages 112–115 (Book p109–112 = PDF 112–115), read line-by-line, author `data/ch26.json`,
+**Ch 31 "Refraction : How to prescribe glasses and Aphakia" (p135–141)** —
+render Part 2 PDF pages 19–25 (Book p135–141 = PDF 19–25), read line-by-line, author `data/ch31.json`,
 run build + checks + audit, commit + push.
 
 ## Live

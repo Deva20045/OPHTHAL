@@ -41,7 +41,12 @@ rest show a **Soon** badge.
 | Ch 23 · Glaucoma : What and How? (p90–93) — 4 units, 19 questions | ✅ live |
 | Ch 24 · Investigations for Glaucoma (p94–101) — 6 units, 30 questions | ✅ live |
 | Ch 25 · Primary Open Angle Glaucoma (p102–108) — 6 units, 30 questions | ✅ live |
-| Ch 26–50 (Angle Closure, Secondary Glaucoma, Optics, Retina, Cornea, Uvea, Conjunctiva, Adnexa, Miscellaneous) | 🚧 in progress |
+| Ch 26 · Primary Angle Closure Glaucoma (p109–112) — 5 units, 35 questions | ✅ live on this branch |
+| Ch 27 · Secondary Glaucoma(s) and Congenital Glaucoma (p113–116) — 6 units, 36 questions | ✅ live on this branch |
+| Ch 28 · Tests for Vision and Normal Optics of Eyes (p117–121) — 5 units, 38 questions | ✅ live on this branch |
+| Ch 29 · Myopia and Hypermetropia (p122–129) — 7 units, 47 questions | ✅ live on this branch |
+| Ch 30 · Astigmatism, Reading of Spectacle Prescription and Binocular Errors (p130–134) — 5 units, 33 questions | ✅ live on this branch |
+| Ch 31–50 (Refraction/Aphakia, Retina, Cornea, Uvea, Conjunctiva, Adnexa, Miscellaneous) | 🚧 in progress |
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 50-chapter
 roadmap, data schema, per-chapter pipeline, and NEXT step.

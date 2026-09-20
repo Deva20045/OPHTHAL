@@ -1,0 +1,619 @@
+{
+ "chapter": 26,
+ "title": "Primary Angle Closure Glaucoma",
+ "pageRange": "109-112",
+ "questions": [
+  {
+   "id": "OPH-C26-001",
+   "sec": "PACG overview",
+   "page": 109,
+   "fmt": "fillup",
+   "q": "Fill up per p109: Primary Angle Closure Glaucoma is AKA ___.",
+   "opts": [
+    "Acute Congestive Glaucoma",
+    "Chronic Simple Glaucoma",
+    "Malignant ciliary block Glaucoma",
+    "Developmental glaucoma"
+   ],
+   "ans": 0,
+   "exp": "AKA Acute Congestive Glaucoma; m/c age 60-70 yrs. (Book p109)"
+  },
+  {
+   "id": "OPH-C26-002",
+   "sec": "PACG overview",
+   "page": 109,
+   "fmt": "numeric",
+   "q": "PACG is m/c at age per p109:",
+   "opts": [
+    "20-30 yrs",
+    "60-70 yrs",
+    "40-50 yrs",
+    "Above 80 yrs"
+   ],
+   "ans": 1,
+   "exp": "m/c age 60-70 yrs. (Book p109)"
+  },
+  {
+   "id": "OPH-C26-003",
+   "sec": "Mechanism",
+   "page": 109,
+   "fmt": "recall",
+   "q": "Correct sequential mechanism of PACG per p109:",
+   "opts": [
+    "Iris bombe → relative pupillary block → PAS → ITC",
+    "PAS → ITC → iris bombe → relative pupillary block",
+    "Relative pupillary block → iris bombe → ITC → PAS",
+    "ITC → relative pupillary block → iris bombe → PAS"
+   ],
+   "ans": 2,
+   "exp": "Relative pupillary block → iris bombe (anterior bowing of iris) → irido trabecular contact (ITC) → if persistent, peripheral anterior synechiae (PAS). (Book p109)"
+  },
+  {
+   "id": "OPH-C26-004",
+   "sec": "Mechanism",
+   "page": 109,
+   "fmt": "fillup",
+   "q": "In relative pupillary block per p109, aqueous cannot flow from ___ and the pushing effect is d/t ↑ pressure in ___.",
+   "opts": [
+    "AC to PC; AC",
+    "TM to Schlemm canal; episcleral veins",
+    "CA to PC; AC",
+    "PC to AC; PC"
+   ],
+   "ans": 3,
+   "exp": "Apposition of pupillary margin against lens surface → aqueous cannot flow from PC → AC → pushing effect d/t ↑ pressure in PC. (Book p109)"
+  },
+  {
+   "id": "OPH-C26-005",
+   "sec": "Mechanism",
+   "page": 109,
+   "fmt": "truefalse",
+   "q": "Which statement on PACG mechanism per p109 is TRUE?",
+   "opts": [
+    "PAS is iris adhesion with cornea and trabecular meshwork disrupting inflow from PC to AC",
+    "Iris bombe means posterior bowing of iris",
+    "ITC permanently opens the angle",
+    "Relative pupillary block apposes pupillary margin against cornea"
+   ],
+   "ans": 0,
+   "exp": "PAS = iris adhesion with cornea and trabecular meshwork → disruption of inflow from PC to AC; iris bombe = ANTERIOR bowing of iris; pupillary block = apposition of pupillary margin against LENS surface. (Book p109)"
+  },
+  {
+   "id": "OPH-C26-006",
+   "sec": "Risk factors",
+   "page": 109,
+   "fmt": "oddoneout",
+   "q": "All increase the chance of iris opposing cornea (PACG risk factors) per p109 EXCEPT:",
+   "opts": [
+    "Hypermetropia d/t small AC",
+    "Axial myopia with deep AC",
+    "Small cornea with ↓ radius and ↑ curvature",
+    "Plateau iris"
+   ],
+   "ans": 1,
+   "exp": "Risk factors d/t ↑ chance of iris opposing cornea: shallow AC, hypermetropia (small AC), females (smaller AC), plateau iris, small cornea (↓ radius with ↑ curvature). (Book p109)"
+  },
+  {
+   "id": "OPH-C26-007",
+   "sec": "Risk factors",
+   "page": 109,
+   "fmt": "scenario",
+   "q": "A 65-year-old lady develops severe ocular pain after a movie in a dim theatre. Per p109 the precipitating sequence is:",
+   "opts": [
+    "Dim light → pupil constriction → angle widens",
+    "Bright screen → lacrimation → angle block",
+    "Dim light → pupil dilation → iris moves towards angle → angle closure",
+    "Darkness → ↓ aqueous production → hypotony"
+   ],
+   "ans": 2,
+   "exp": "Precipitated by dim light (eg movie theatre) → dilation of pupil → iris moves towards angle → angle closure. (Book p109)"
+  },
+  {
+   "id": "OPH-C26-008",
+   "sec": "Classification",
+   "page": 109,
+   "fmt": "match",
+   "q": "Match ACG classification per p109 — 1) PACS 2) PAC 3) PACG … A) Raised IOP with abnormal OD and VF, ITC ≥3 quadrants with PAS, definitive Rx B) Normal IOP/OD/VF, ITC ≥3 quadrants, prophylactic Rx C) Raised IOP with normal OD and VF, ITC ≥3 quadrants with PAS, definitive Rx",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 3,
+   "exp": "PACS normal IOP/OD/VF with ITC ≥3 quadrants → prophylactic; PAC raised IOP with normal OD/VF + PAS → definitive; PACG raised IOP with abnormal OD/VF + PAS → definitive. PACS 1° angle closure suspect; PAC 1° angle closure; PACG 1° angle closure glaucoma. (Book p109)"
+  },
+  {
+   "id": "OPH-C26-009",
+   "sec": "Manifestations",
+   "page": 110,
+   "fmt": "oddoneout",
+   "q": "All are acute symptoms of PACG per p110 EXCEPT:",
+   "opts": [
+    "Painless slow peripheral field loss",
+    "Severe pain, headache and vomiting",
+    "Coloured halos around lights",
+    "Diminution of vision with redness"
+   ],
+   "ans": 0,
+   "exp": "Symptoms present acutely: diminution of vision, redness, severe pain, headache, vomiting, coloured halos around lights. (Book p110)"
+  },
+  {
+   "id": "OPH-C26-010",
+   "sec": "Manifestations IOP",
+   "page": 110,
+   "fmt": "numeric",
+   "q": "IOP in acute PACG per p110 is typically:",
+   "opts": [
+    "10-12 mmHg",
+    ">40 mmHg",
+    "16-20 mmHg",
+    "25-30 mmHg"
+   ],
+   "ans": 1,
+   "exp": "IOP >40 mmHg → severe pain; digital tonometry: rock hard eye. (Book p110)"
+  },
+  {
+   "id": "OPH-C26-011",
+   "sec": "Manifestations IOP",
+   "page": 110,
+   "fmt": "fillup",
+   "q": "Digital tonometry in acute PACG per p110 feels like:",
+   "opts": [
+    "Soft and ballottable",
+    "Normal tension",
+    "Rock hard eye",
+    "Pulsatile"
+   ],
+   "ans": 2,
+   "exp": "Digital tonometry: rock hard eye. (Book p110)"
+  },
+  {
+   "id": "OPH-C26-012",
+   "sec": "Manifestations signs",
+   "page": 110,
+   "fmt": "recall",
+   "q": "On torchlight in PACG per p110 one sees:",
+   "opts": [
+    "Argyll Robertson pupil",
+    "Cherry-red spot",
+    "Leukocoria",
+    "Eclipse sign d/t shallow AC"
+   ],
+   "ans": 3,
+   "exp": "On torchlight: eclipse sign (shallow AC). (Book p110)"
+  },
+  {
+   "id": "OPH-C26-013",
+   "sec": "Slit lamp",
+   "page": 110,
+   "fmt": "truefalse",
+   "q": "Hazy cornea/corneal edema of PACG per p110 is d/t:",
+   "opts": [
+    "Breakage of tight junctions b/w endothelial cells by ↑ IOP → corneal decompensation",
+    "Epithelial scratch d/t lid rubbing",
+    "Primary stromal dystrophy",
+    "Endothelial pump overactivity"
+   ],
+   "ans": 0,
+   "exp": "Hazy cornea/corneal edema: breakage of tight junctions b/w endothelial cells by ↑ IOP → corneal decompensation. (Book p110)"
+  },
+  {
+   "id": "OPH-C26-014",
+   "sec": "Slit lamp",
+   "page": 110,
+   "fmt": "recall",
+   "q": "Coloured haloes around lights in PACG per p110 occur d/t:",
+   "opts": [
+    "Nuclear sclerosis of lens",
+    "Prismatic dispersion of light rays by corneal edema",
+    "Vitreous syneresis",
+    "Pigment dusting of cornea"
+   ],
+   "ans": 1,
+   "exp": "Hazy cornea leads to diminution of vision and coloured haloes around light d/t prismatic dispersion of light rays. (Book p110)"
+  },
+  {
+   "id": "OPH-C26-015",
+   "sec": "Vogt's triad",
+   "page": 110,
+   "fmt": "match",
+   "q": "Match Vogt's triad per p110 — 1) Iris atrophy 2) Posterior synechiae 3) Glaukomflecken … A) Anterior capsular/subcapsular opacities d/t epithelial ischemia and necrosis (2° to ↑ IOP) B) D/t ↑ pressure → ischemia C) Adhesion b/w pupillary margin and anterior surface of lens",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 2,
+   "exp": "Vogt's triad: iris atrophy (d/t ↑ pressure → ischemia), posterior synechiae (adhesion b/w pupillary margin and anterior surface of lens), glaukomflecken cataract (anterior capsular/subcapsular opacities d/t epithelial ischemia and necrosis, 2° to ↑ IOP). (Book p110)"
+  },
+  {
+   "id": "OPH-C26-016",
+   "sec": "Pupillary findings",
+   "page": 111,
+   "fmt": "recall",
+   "q": "Vertically oval pupil in the acute attack per p111 is d/t:",
+   "opts": [
+    "Sphincter tears at 3 and 9 o'clock",
+    "Ciliary spasm",
+    "Posterior synechiae in all quadrants",
+    "Iris atrophy preferentially superior and inferior"
+   ],
+   "ans": 3,
+   "exp": "Vertically oval d/t iris atrophy (preferentially superior and inferior atrophy). (Book p111)"
+  },
+  {
+   "id": "OPH-C26-017",
+   "sec": "Pupillary findings",
+   "page": 111,
+   "fmt": "truefalse",
+   "q": "Which statement on the pupil per p111 is TRUE?",
+   "opts": [
+    "Mid dilated d/t sphincter atrophy; fixed d/t posterior synechiae effects",
+    "The fixed pupil still constricts briskly to light once IOP is controlled",
+    "Mid dilation is due to dilator pupillae hypertrophy",
+    "The pupil remains small and reacts normally"
+   ],
+   "ans": 0,
+   "exp": "Mid dilated d/t atrophy of sphincter pupillae; fixed = neither constricting nor dilating, d/t posterior synechiae effects. (Book p111)"
+  },
+  {
+   "id": "OPH-C26-018",
+   "sec": "Field and disc",
+   "page": 111,
+   "fmt": "match",
+   "q": "Match per p111 — 1) Acute VF change 2) Chronic VF change 3) Optic disc … A) Central nasal step B) Superior field constriction C) Same as POAG but often not visualized d/t hazy cornea",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 1,
+   "exp": "Visual field changes: acute → superior field constriction; chronic → central nasal step. Optic disc: same as in POAG; not visualized d/t anterior chamber changes (hazy cornea). (Book p111)"
+  },
+  {
+   "id": "OPH-C26-019",
+   "sec": "Field and disc",
+   "page": 111,
+   "fmt": "recall",
+   "q": "Optic disc assessment in acute PACG per p111:",
+   "opts": [
+    "Always shows florid disc neovascularization in every case",
+    "Shows a cherry-red spot at the macula",
+    "Not visualized d/t hazy cornea; when seen same as POAG",
+    "Always normal in every case"
+   ],
+   "ans": 2,
+   "exp": "Optic disc changes: same as in POAG; not visualized d/t anterior chamber changes (hazy cornea). (Book p111)"
+  },
+  {
+   "id": "OPH-C26-020",
+   "sec": "Acute mx",
+   "page": 111,
+   "fmt": "management",
+   "q": "First step of acute PACG mx per p111 (treated as ocular emergency):",
+   "opts": [
+    "Immediate laser iridotomy",
+    "Topical atropine",
+    "Start long term pilocarpine",
+    "↓ IOP: IV mannitol or tab acetazolamide or oral glycerin"
+   ],
+   "ans": 3,
+   "exp": "Step 1: ↓ IOP with IV mannitol (2.5%) or tab acetazolamide 250 mg 2 tablets stat or oral glycerin 1 g/kg. (Book p111)"
+  },
+  {
+   "id": "OPH-C26-021",
+   "sec": "Acute mx",
+   "page": 111,
+   "fmt": "numeric",
+   "q": "IV mannitol regimen per p111:",
+   "opts": [
+    "1.2 g/min over 30 min",
+    "0.25 g/min over 2 hrs",
+    "5 g/min over 5 min",
+    "2 g/min over 10 min"
+   ],
+   "ans": 0,
+   "exp": "IV Mannitol (2.5%): 1.2 g/min over 30 min; DOC for acute episode/exacerbations; cannot be given long term d/t diuretic effect. (Book p111)"
+  },
+  {
+   "id": "OPH-C26-022",
+   "sec": "Acute mx",
+   "page": 111,
+   "fmt": "fillup",
+   "q": "Per p111: Tab acetazolamide 250 mg stat = ___ tablets; oral glycerin dose = ___ g/kg of body weight.",
+   "opts": [
+    "1; 2",
+    "2; 1",
+    "4; 0.5",
+    "3; 5"
+   ],
+   "ans": 1,
+   "exp": "Tab Acetazolamide 250 mg → 2 tablets stat; oral glycerin 1 g/kg of body weight. (Book p111)"
+  },
+  {
+   "id": "OPH-C26-023",
+   "sec": "Miosis",
+   "page": 111,
+   "fmt": "truefalse",
+   "q": "Which statement on pilocarpine in the acute attack per p111 is TRUE?",
+   "opts": [
+    "It works best while IOP is still maximal",
+    "It is the drug that lowers IOP fastest",
+    "It is ineffective before IOP normalises d/t inability to constrict if ↑ IOP",
+    "It causes mydriasis"
+   ],
+   "ans": 2,
+   "exp": "Step 2 miosis: DOC pilocarpine (constricts pupil) but ineffective before IOP normalises (d/t inability to constrict if ↑ IOP). (Book p111)"
+  },
+  {
+   "id": "OPH-C26-024",
+   "sec": "Miosis",
+   "page": 111,
+   "fmt": "oddoneout",
+   "q": "Ocular side effects of pilocarpine per p111 include all EXCEPT:",
+   "opts": [
+    "Transient myopia",
+    "Punctal occlusion",
+    "Uveitis",
+    "Eyelid retraction"
+   ],
+   "ans": 3,
+   "exp": "Ocular side effects: transient myopia, punctal occlusion, uveitis. Eyelid retraction is an α-agonist effect (Book p106), not pilocarpine. (Book p111)"
+  },
+  {
+   "id": "OPH-C26-025",
+   "sec": "Miosis",
+   "page": 111,
+   "fmt": "recall",
+   "q": "Pilocarpine cannot be given long term per p111 d/t:",
+   "opts": [
+    "Miosis → impaired dark adaptation",
+    "Corneal verticillata",
+    "Black conjunctival pigmentation",
+    "CNS depression"
+   ],
+   "ans": 0,
+   "exp": "Cannot be given long term d/t miosis: impaired dark adaptation. (Book p111)"
+  },
+  {
+   "id": "OPH-C26-026",
+   "sec": "Note and step 3",
+   "page": 111,
+   "fmt": "management",
+   "q": "Per p111 note, while using timolol one should advise:",
+   "opts": [
+    "Concurrent IV mannitol",
+    "Nasolacrimal duct occlusion",
+    "Stopping after iridotomy",
+    "Punctal dilatation"
+   ],
+   "ans": 1,
+   "exp": "Note: Timolol → nasolacrimal duct occlusion. (Book p111)"
+  },
+  {
+   "id": "OPH-C26-027",
+   "sec": "Step 3",
+   "page": 111,
+   "fmt": "management",
+   "q": "After steps 1 and 2, cornea clear (most cases) per p111. Next:",
+   "opts": [
+    "Repeat step 1 and 2",
+    "Long term mannitol",
+    "Plan for surgery",
+    "Observation only"
+   ],
+   "ans": 2,
+   "exp": "Step 3 assess corneal clarity: clear (most cases) → plan for Sx; hazy (rare) → repeat step 1 and 2. (Book p111)"
+  },
+  {
+   "id": "OPH-C26-028",
+   "sec": "Step 3",
+   "page": 111,
+   "fmt": "scenario",
+   "q": "After acute Rx the cornea remains hazy (rare) per p111. Next best step:",
+   "opts": [
+    "Proceed to iridotomy immediately",
+    "Enucleation",
+    "Systemic steroids alone",
+    "Repeat step 1 and 2"
+   ],
+   "ans": 3,
+   "exp": "Hazy (rare): repeat step 1 and 2. (Book p111)"
+  },
+  {
+   "id": "OPH-C26-029",
+   "sec": "Definitive mx",
+   "page": 112,
+   "fmt": "recall",
+   "q": "Definitive mx of PACG per p112:",
+   "opts": [
+    "Laser iridotomy preferred; TOC for PACG and prophylaxis",
+    "Open iridectomy is always performed first in every patient",
+    "Long term pilocarpine as definitive therapy",
+    "Trabeculectomy is needed in every case"
+   ],
+   "ans": 0,
+   "exp": "Laser iridotomy: preferred over open iridectomy; TOC for PACG and prophylaxis of PACG. (Book p112)"
+  },
+  {
+   "id": "OPH-C26-030",
+   "sec": "Definitive mx",
+   "page": 112,
+   "fmt": "numeric",
+   "q": "Laser iridotomy photodisruption per p112 uses:",
+   "opts": [
+    "Argon 512 nm",
+    "Nd:YAG 1064 nm",
+    "Excimer 193 nm",
+    "Diode 810 nm"
+   ],
+   "ans": 1,
+   "exp": "Photodisruption with Nd:YAG laser: 1064 nm; creation of hole in iris b/w 11 o'clock to 1 o'clock. (Book p112)"
+  },
+  {
+   "id": "OPH-C26-031",
+   "sec": "Definitive mx",
+   "page": 112,
+   "fmt": "fillup",
+   "q": "Iridotomy hole is created b/w ___ so that it is covered by the upper eyelid (p112).",
+   "opts": [
+    "3 to 5 o'clock",
+    "5 to 7 o'clock",
+    "11 o'clock to 1 o'clock",
+    "7 to 9 o'clock"
+   ],
+   "ans": 2,
+   "exp": "Creation of hole in iris b/w 11 o'clock to 1 o'clock; iridotomy hole at 11 o'clock covered by upper eyelid. (Book p112)"
+  },
+  {
+   "id": "OPH-C26-032",
+   "sec": "Diplopia and iridectomy",
+   "page": 112,
+   "fmt": "recall",
+   "q": "Monocular diplopia after iridotomy per p112 occurs when:",
+   "opts": [
+    "A single superior hole is covered by lid",
+    "Hole is placed b/w 11-10 o'clock",
+    "No hole is made",
+    "2 sets of light rays enter the eye (eg holes at 11 and 6 o'clock)"
+   ],
+   "ans": 3,
+   "exp": "Iridotomy holes at 11 and 6 o'clock → 2 sets of light rays enter eye → monocular diplopia; iridectomy b/w 11-10 o'clock keeps superior iris covered by eyelid → diplopia prevented. (Book p112)"
+  },
+  {
+   "id": "OPH-C26-033",
+   "sec": "Diplopia and iridectomy",
+   "page": 112,
+   "fmt": "match",
+   "q": "Match per p112 — 1) Laser iridotomy 2) Iridectomy b/w 11-10 o'clock 3) Diode cyclophotocoagulation … A) Superior iris covered by eyelid → diplopia prevented; aqueous inflow enabled → IOP and iris bombe resolve B) Nd:YAG 1064 nm photodisruption; TOC for PACG and prophylaxis C) 810 nm for painful blind absolute glaucoma → pain relief",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Laser iridotomy Nd:YAG TOC/prophylaxis; iridectomy superiorly covered by eyelid prevents diplopia and enables aqueous inflow → IOP and iris bombe resolve; diode 810 nm cyclophotocoagulation relieves pain in absolute glaucoma. (Book p112)"
+  },
+  {
+   "id": "OPH-C26-034",
+   "sec": "Absolute glaucoma",
+   "page": 112,
+   "fmt": "scenario",
+   "q": "A blind, severely painful absolute glaucoma eye per p112. Best Rx:",
+   "opts": [
+    "Latanoprost eye drops once daily at night",
+    "Diode laser (810 nm) cyclophotocoagulation for pain relief",
+    "Pilocarpine 2% drops four times a day",
+    "IV mannitol infusion repeated daily"
+   ],
+   "ans": 1,
+   "exp": "Rx of absolute glaucoma: no vision (blind); severe pain → diode laser (810 nm) cyclophotocoagulation → enables pain relief. (Book p112)"
+  },
+  {
+   "id": "OPH-C26-035",
+   "sec": "Post Sx",
+   "page": 112,
+   "fmt": "numeric",
+   "q": "Post Sx mild ↑ IOP of 21-22 mmHg per p112 is managed with:",
+   "opts": [
+    "Atropine",
+    "IV mannitol",
+    "Latanoprost",
+    "Long term acetazolamide"
+   ],
+   "ans": 2,
+   "exp": "Post Sx management: if mild ↑ IOP present (21-22 mmHg) → latanoprost. (Book p112)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U26-1",
+   "ch": 26,
+   "n": 1,
+   "title": "Overview, mechanism, risk factors and PACS/PAC/PACG classification",
+   "sec": "Glaucoma · p109",
+   "guide": "AKA Acute Congestive Glaucoma m/c age 60-70 yrs Mechanism a Relative pupillary block apposition of pupillary margin against lens surface aqueous cannot flow PC→AC pushing effect d/t ↑ pressure in PC b Iris bombe anterior bowing of iris c Irido trabecular contact (ITC) if persistent d Peripheral anterior synechiae (PAS) iris adhesion with cornea and trabecular meshwork disruption of inflow PC to AC Risk factors d/t ↑ chance iris opposing cornea shallow AC hypermetropia small AC females smaller AC plateau iris small cornea ↓ radius ↑ curvature Precipitated by dim light eg movie theatre → dilation of pupil → iris moves towards angle → angle closure Convexity of slit d/t iris convexity Classification PACS normal IOP/OD/VF ITC ≥3 quadrants prophylactic PAC raised IOP normal OD/VF ≥3 quadrants + PAS definitive PACG raised IOP abnormal OD/VF ≥3 quadrants + PAS definitive PACS 1° angle closure suspect PAC 1° angle closure PACG 1° angle closure glaucoma.",
+   "qs": [
+    "OPH-C26-001",
+    "OPH-C26-002",
+    "OPH-C26-003",
+    "OPH-C26-004",
+    "OPH-C26-005",
+    "OPH-C26-006",
+    "OPH-C26-007",
+    "OPH-C26-008"
+   ]
+  },
+  {
+   "id": "OPH-U26-2",
+   "ch": 26,
+   "n": 2,
+   "title": "Manifestations — symptoms, IOP, eclipse sign, hazy cornea, Vogt's triad",
+   "sec": "Glaucoma · p110",
+   "guide": "Symptoms present acutely diminution of vision redness severe pain headache vomiting coloured halos around lights Signs seen acutely IOP >40 mmHg severe pain digital tonometry rock hard eye On torchlight eclipse sign (shallow AC) Slit lamp 1 congestion/hyperemia 2 hazy cornea/corneal edema breakage of tight junctions b/w endothelial cells by ↑ IOP → corneal decompensation leads to diminution of vision and coloured haloes d/t prismatic dispersion of light rays 3 Vogt's triad iris atrophy (d/t ↑ pressure → ischemia) posterior synechiae adhesion b/w pupillary margin and anterior surface of lens glaukomflecken cataract anterior capsular/subcapsular opacities d/t epithelial ischemia and necrosis (2° to ↑ IOP).",
+   "qs": [
+    "OPH-C26-009",
+    "OPH-C26-010",
+    "OPH-C26-011",
+    "OPH-C26-012",
+    "OPH-C26-013",
+    "OPH-C26-014",
+    "OPH-C26-015"
+   ]
+  },
+  {
+   "id": "OPH-U26-3",
+   "ch": 26,
+   "n": 3,
+   "title": "Pupil, fields, disc; acute mx steps 1-2 (mannitol, acetazolamide, glycerin, pilocarpine)",
+   "sec": "Glaucoma · p111",
+   "guide": "4 Pupillary findings vertically oval d/t iris atrophy (preferentially superior and inferior) mid dilated d/t atrophy of sphincter pupillae fixed neither constricting nor dilating d/t posterior synechiae effects 5 Visual field changes acute superior field constriction chronic central nasal step 6 Optic disc same as POAG not visualized d/t anterior chamber changes (hazy cornea) Treatment ocular emergency ACUTE Mx Step 1 ↓ IOP a IV mannitol (2.5%) 1.2 g/min over 30 min DOC acute episode/exacerbations cannot long term d/t diuretic effect or b Tab acetazolamide 250 mg 2 tablets stat or c Oral glycerin 1 g/kg Step 2 miosis DOC pilocarpine ineffective before IOP normalises ocular side transient myopia punctal occlusion uveitis cannot long term d/t miosis impaired dark adaptation Note timolol → nasolacrimal duct occlusion.",
+   "qs": [
+    "OPH-C26-016",
+    "OPH-C26-017",
+    "OPH-C26-018",
+    "OPH-C26-019",
+    "OPH-C26-020",
+    "OPH-C26-021",
+    "OPH-C26-022",
+    "OPH-C26-023",
+    "OPH-C26-024",
+    "OPH-C26-025",
+    "OPH-C26-026"
+   ]
+  },
+  {
+   "id": "OPH-U26-4",
+   "ch": 26,
+   "n": 4,
+   "title": "Step 3 corneal clarity; definitive laser iridotomy (Nd:YAG 1064 nm)",
+   "sec": "Glaucoma · p111-112",
+   "guide": "Step 3 assess corneal clarity clear (most cases) plan for Sx hazy (rare) repeat step 1 and 2 DEFINITIVE Mx Laser iridotomy preferred over open iridectomy TOC for PACG and prophylaxis of PACG Procedure photodisruption with Nd:YAG 1064 nm creation of hole in iris b/w 11 o'clock to 1 o'clock covered by upper eyelid.",
+   "qs": [
+    "OPH-C26-027",
+    "OPH-C26-028",
+    "OPH-C26-029",
+    "OPH-C26-030",
+    "OPH-C26-031"
+   ]
+  },
+  {
+   "id": "OPH-U26-5",
+   "ch": 26,
+   "n": 5,
+   "title": "Iridectomy positioning and diplopia, absolute glaucoma, post-Sx care",
+   "sec": "Glaucoma · p112",
+   "guide": "Iridotomy holes at 11 and 6 o'clock → 2 sets of light rays enter eye → monocular diplopia Iridectomy b/w 11-10 o'clock superior iris covered by eyelid diplopia prevented aqueous inflow enabled IOP resolves iris bombe resolves Rx of absolute glaucoma no vision (blind) severe pain → diode laser (810 nm) cyclophotocoagulation → enables pain relief Post Sx management if mild ↑ IOP present (21-22 mmHg) → latanoprost.",
+   "qs": [
+    "OPH-C26-032",
+    "OPH-C26-033",
+    "OPH-C26-034",
+    "OPH-C26-035"
+   ]
+  }
+ ]
+}
