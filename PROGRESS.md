@@ -18,6 +18,24 @@ scope (Book p1–233) is converted into questions in strict book order.
 | `Ophthalmology_Part1_pages_1-116.pdf` | 1–119 | −3 | 1–116 |
 | `Ophthalmology_Part2_pages_117-233.pdf` | 1–117 | +116 | 117–233 |
 
+- **Verified offset table (OCR of every scanned page number, 2026-09).** The scans
+  contain a few duplicate/unnumbered leaves, so K is NOT constant — always confirm
+  the printed page number in the header before authoring:
+
+| Part | PDF pages | K | Book pages | note |
+|---|---|---|---|---|
+| Part 1 | 1–3 | — | — | contents pages, no book number |
+| Part 1 | 4–119 | −3 | 1–116 | verified at PDF 5→2, 8→5, 82→79, 84→81 |
+| Part 2 | 1–20 | +116 | 117–136 | verified PDF 1→117, 20→136 |
+| Part 2 | 21 | +115 | 136 | **duplicate scan of book p136** (second, annotated copy) |
+| Part 2 | 22–68 | +115 | 137–183 | verified PDF 22→137, 27→142, 45→160 |
+| Part 2 | 69–117 | +113 | 182–230 | verified PDF 69→182, 113→226, 116→229 |
+| Part 2 | 117 | — | 230 | final leaf, unnumbered (last content page) |
+
+  Practical rule for Chapters 31–35 (all rendered and read this session):
+  Book p135 = PDF 19, p136 = PDF 20 (dup at 21), p137–183 = PDF + 115,
+  p184+ = PDF + 113.
+
 - First 3 PDF pages of Part 1 = the book's Contents pages (not content scope).
 - Formula: **Book page = PDF page + K** (K per part above).
   Part 1: PDF p4 = Book p1 … PDF p119 = Book p116.
@@ -57,11 +75,11 @@ scope (Book p1–233) is converted into questions in strict book order.
 | 28 | Tests for Vision and Normal Optics of Eyes | p117 | **LIVE** |
 | 29 | Myopia and Hypermetropia | p122 | **LIVE** |
 | 30 | Astigmatism, Reading of Spectacle Prescription and Binocular Errors | p130 | **LIVE** |
-| 31 | Refraction : How to prescribe glasses and Aphakia | p135 | SOON |
-| 32 | Anatomy and Investigations of Retina | p142 | SOON |
-| 33 | Retinoblastoma and Macular Disorders | p148 | SOON |
-| 34 | Dystrophies of Fundus : Retinitis Pigmentosa and others | p156 | SOON |
-| 35 | Retinal Vascular Disorders : Part 1 | p160 | SOON |
+| 31 | Refraction : How to prescribe glasses and Aphakia | p135 | **LIVE** |
+| 32 | Anatomy and Investigations of Retina | p142 | **LIVE** |
+| 33 | Retinoblastoma and Macular Disorders | p148 | **LIVE** |
+| 34 | Dystrophies of Fundus : Retinitis Pigmentosa and others | p156 | **LIVE** |
+| 35 | Retinal Vascular Disorders : Part 1 | p160 | **LIVE** |
 | 36 | Retinal Vascular Disorders : Part 2 | p164 | SOON |
 | 37 | Retinal Detachment | p169 | SOON |
 | 38 | Special Investigations for Cornea | p172 | SOON |
@@ -78,7 +96,7 @@ scope (Book p1–233) is converted into questions in strict book order.
 | 49 | Lasers In Ophthalmology | p228 | SOON |
 | 50 | Physiology of Vision | p229 | SOON |
 
-*(Status column: Ch 1-25 = **LIVE**; every other chapter = **SOON** — rendered in the app
+*(Status column: Ch 1-35 = **LIVE**; every other chapter = **SOON** — rendered in the app
 as a locked "Soon" row. Update this table as chapters go live.)*
 
 ### Section spans
@@ -106,9 +124,10 @@ as a locked "Soon" row. Update this table as chapters go live.)*
   `pulse-ophthalmology.html` and refuses to build if metadata or page ranges disagree.
 
 ## Per-chapter pipeline (repeat for every chapter)
-1. **Render** the chapter's book pages to PNG (Book p = PDF p + K per the map above)
-   and read every line, table, diagram, flowchart and label; zoom into any unclear
-   spot — never guess.
+1. **Render** the chapter's book pages to PNG with `python render_pages.py --range F L`
+   (it resolves Book page → PDF page by OCR of the printed header number, so it stays
+   correct where the scan offsets drift) and read every line, table, diagram, flowchart
+   and label; zoom into any unclear spot — never guess.
 2. **Author** `data/chNN.json`: questions in strict book order; units grouped by
    section; ≥1 varied-format item per unit (fill-up / match / true-false / scenario /
    odd-one-out / numeric / management); every explanation ends `(Book pX)`; every
@@ -133,6 +152,7 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 | `check_integrity.py` | Structural checks: counts, IDs, options, citations, order, source↔app equality, JS syntax |
 | `check_app_smoke.js` | Runtime DOM-shim test: full 50-row roadmap, live-ch paths, quiz start |
 | `audit_variety.py` | Format mix + predictability signals (length bias, hedging, fillers, template runs, option reuse) |
+| `render_pages.py` | Renders book pages to PNG (`python render_pages.py 164 165` / `--range 164 168`); locates each page by OCR of the printed header number and falls back to the verified offset table |
 | `AUDIT.md` | Latest output of `audit_variety.py` |
 | `uploads/` | The 2 source book PDFs (Book p1–233) |
 
@@ -170,12 +190,18 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 28 "Tests for Vision and Normal Optics of Eyes" (p117–121): 5 units, 38 questions — BUILT & VERIFIED**
 - [x] **Ch 29 "Myopia and Hypermetropia" (p122–129): 7 units, 47 questions — BUILT & VERIFIED**
 - [x] **Ch 30 "Astigmatism, Reading of Spectacle Prescription and Binocular Errors" (p130–134): 5 units, 33 questions — BUILT & VERIFIED**
-- [ ] Ch 31–50 (per pipeline above)
+- [x] **Ch 31 "Refraction : How to prescribe glasses and Aphakia" (p135–141): 7 units, 43 questions — BUILT & VERIFIED**
+- [x] **Ch 32 "Anatomy and Investigations of Retina" (p142–147): 7 units, 42 questions — BUILT & VERIFIED**
+- [x] **Ch 33 "Retinoblastoma and Macular Disorders" (p148–155): 8 units, 53 questions — BUILT & VERIFIED**
+- [x] **Ch 34 "Dystrophies of Fundus : Retinitis Pigmentosa and others" (p156–159): 5 units, 35 questions — BUILT & VERIFIED**
+- [x] **Ch 35 "Retinal Vascular Disorders : Part 1" (p160–163): 5 units, 34 questions — BUILT & VERIFIED**
+- [ ] Ch 36–50 (per pipeline above)
 
 ## NEXT
-**Ch 31 "Refraction : How to prescribe glasses and Aphakia" (p135–141)** —
-render Part 2 PDF pages 19–25 (Book p135–141 = PDF 19–25), read line-by-line, author `data/ch31.json`,
-run build + checks + audit, commit + push.
+**Ch 36 "Retinal Vascular Disorders : Part 2" (p164–168)** —
+render Part 2 PDF pages by printed page number (per the verified offset table above:
+book p164–168 sit around PDF 51–55 — **always confirm the printed number in each header**),
+read line-by-line, author `data/ch36.json`, run build + checks + audit, commit + push.
 
 ## Live
 - Preview: https://deva20045.github.io/OPHTHAL/ (updates after merge to `main`)
