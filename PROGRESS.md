@@ -80,13 +80,13 @@ scope (Book p1–233) is converted into questions in strict book order.
 | 33 | Retinoblastoma and Macular Disorders | p148 | **LIVE** |
 | 34 | Dystrophies of Fundus : Retinitis Pigmentosa and others | p156 | **LIVE** |
 | 35 | Retinal Vascular Disorders : Part 1 | p160 | **LIVE** |
-| 36 | Retinal Vascular Disorders : Part 2 | p164 | SOON |
-| 37 | Retinal Detachment | p169 | SOON |
-| 38 | Special Investigations for Cornea | p172 | SOON |
-| 39 | Corneal Ulcer and Keratitis | p175 | SOON |
-| 40 | Corneal Dystrophies, Keratoconus and Miscellaneous Disorders | p180 | SOON |
-| 41 | Anterior Uveitis | p185 | SOON |
-| 42 | Intermediate, Posterior, Pan-uveitis and Miscellaneous Disorders | p191 | SOON |
+| 36 | Retinal Vascular Disorders : Part 2 | p164 | **LIVE** |
+| 37 | Retinal Detachment | p169 | **LIVE** |
+| 38 | Special Investigations for Cornea | p172 | **LIVE** |
+| 39 | Corneal Ulcer and Keratitis | p175 | **LIVE** |
+| 40 | Corneal Dystrophies, Keratoconus and Miscellaneous Disorders | p180 | **LIVE** |
+| 41 | Anterior Uveitis | p185 | **LIVE** |
+| 42 | Intermediate, Posterior, Pan-uveitis and Miscellaneous Disorders | p191 | **LIVE** |
 | 43 | Anatomy of Conjunctiva, Types of Conjunctivitis and Pterygium | p195 | SOON |
 | 44 | Eyelids : Anatomy and Pathologies | p206 | SOON |
 | 45 | Anatomy of Orbit and Proptosis | p209 | SOON |
@@ -96,7 +96,7 @@ scope (Book p1–233) is converted into questions in strict book order.
 | 49 | Lasers In Ophthalmology | p228 | SOON |
 | 50 | Physiology of Vision | p229 | SOON |
 
-*(Status column: Ch 1-35 = **LIVE**; every other chapter = **SOON** — rendered in the app
+*(Status column: Ch 1-42 = **LIVE**; every other chapter = **SOON** — rendered in the app
 as a locked "Soon" row. Update this table as chapters go live.)*
 
 ### Section spans
@@ -195,13 +195,34 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 33 "Retinoblastoma and Macular Disorders" (p148–155): 8 units, 53 questions — BUILT & VERIFIED**
 - [x] **Ch 34 "Dystrophies of Fundus : Retinitis Pigmentosa and others" (p156–159): 5 units, 35 questions — BUILT & VERIFIED**
 - [x] **Ch 35 "Retinal Vascular Disorders : Part 1" (p160–163): 5 units, 34 questions — BUILT & VERIFIED**
-- [ ] Ch 36–50 (per pipeline above)
+- [x] **Ch 36 "Retinal Vascular Disorders : Part 2" (p164–168): 6 units, 64 questions — REBUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH36-42.md`)
+- [x] **Ch 37 "Retinal Detachment" (p169–171): 5 units, 44 questions — REBUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH36-42.md`)
+- [x] **Ch 38 "Special Investigations for Cornea" (p172–174): 5 units, 39 questions — REBUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH36-42.md`)
+- [x] **Ch 39 "Corneal Ulcer and Keratitis" (p175–179): 8 units, 71 questions — REBUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH36-42.md`)
+- [x] **Ch 40 "Corneal Dystrophies, Keratoconus and Miscellaneous Disorders" (p180–184): 6 units, 67 questions — REBUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH36-42.md`)
+- [x] **Ch 41 "Anterior Uveitis" (p185–190): 9 units, 76 questions — REBUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH36-42.md`)
+- [x] **Ch 42 "Intermediate, Posterior, Pan-uveitis and Miscellaneous Disorders" (p191–194): 9 units, 48 questions — REBUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH36-42.md`)
+- [ ] Ch 43–50 (per pipeline above)
 
 ## NEXT
-**Ch 36 "Retinal Vascular Disorders : Part 2" (p164–168)** —
-render Part 2 PDF pages by printed page number (per the verified offset table above:
-book p164–168 sit around PDF 51–55 — **always confirm the printed number in each header**),
-read line-by-line, author `data/ch36.json`, run build + checks + audit, commit + push.
+**Ch 43 "Anatomy of Conjunctiva, Types of Conjunctivitis and Pterygium" (p195–205)** —
+render Part 2 PDF pages by printed page number (p195 onward = PDF 82 + … per the offset table:
+p184+ = PDF + 113; **always confirm the printed number in each header**), read line-by-line,
+author it, run build + checks + audit, commit + push.
+
+### Authoring pipeline used for Ch 36–42 (reuse it)
+- `authoring/lib.py` — `Chapter(num, title, first, last, points)`; `points` = `{page: [every source
+  line/heading/table row/caption in reading order]}`. `c.unit(...)` opens a unit,
+  `c.q(page, fmt, stem, correct, [3 wrong], explanation, cov=[point numbers], sec)` adds a question.
+  `c.finish()` refuses to write `data/chNN.json` unless every point is covered, questions are in
+  (page, first-point) order, options are 4 distinct strings and the answer is not length-predictable;
+  it shuffles answer positions and appends "(Book pN)" to explanations.
+- `authoring/chNN_src.py` — one source file per chapter (points + questions).
+- `python3 authoring/build_all.py [chNN_src ...]` — builds chapters; with no arguments it builds all of
+  Ch 36–42 and regenerates `COVERAGE_AUDIT_CH36-42.md`.
+- Scan quirks found while reading Ch 36–42: PDF 67/68 (p182/p183) are duplicated at PDF 69/70, so
+  p184 = PDF 71 and K becomes +113 from there; Ch 42's p193/p194 print in order in the scan.
+  Book spellings/handwriting are preserved (e.g. "Flourescein", "Cephalozin", "typer 1", "COAXa").
 
 ## Live
 - Preview: https://deva20045.github.io/OPHTHAL/ (updates after merge to `main`)
