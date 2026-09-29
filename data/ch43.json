@@ -1,0 +1,1231 @@
+{
+ "chapter": 43,
+ "title": "Anatomy of Conjunctiva, Types of Conjunctivitis and Pterygium",
+ "pageRange": "195-205",
+ "questions": [
+  {
+   "id": "OPH-C43-001",
+   "sec": "Anatomy of Conjunctiva",
+   "page": 195,
+   "fmt": "fillup",
+   "q": "Conjunctiva is a transparent ___ membrane that does not cover the cornea.",
+   "opts": [
+    "serous",
+    "mucous",
+    "synovial",
+    "cutaneous"
+   ],
+   "ans": 1,
+   "exp": "Conjunctiva is transparent mucous membrane. It does not cover cornea. (Book p195)"
+  },
+  {
+   "id": "OPH-C43-002",
+   "sec": "Anatomy of Conjunctiva",
+   "page": 195,
+   "fmt": "match",
+   "q": "Match the part of conjunctiva with its location — 1) Bulbar  2) Forniceal  3) Palpebral … A) Lines inner surface of eyelids  B) Covers sclera  C) Fornix/junctional fold",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Bulbar covers sclera; Forniceal is fornix fold; Palpebral lines inner surface of eyelids. (Book p195)"
+  },
+  {
+   "id": "OPH-C43-003",
+   "sec": "Anatomy of Conjunctiva",
+   "page": 195,
+   "fmt": "recall",
+   "q": "Plica semilunaris and caruncle are described together as:",
+   "opts": [
+    "Glands of conjunctiva",
+    "Rudimentary structures",
+    "Lymphatic structures",
+    "Fibrous layers"
+   ],
+   "ans": 1,
+   "exp": "Plica semilunaris (represents nictitating membrane) and Caruncle (contains hair follicles) are bracketed as Rudimentary structures. (Book p195)"
+  },
+  {
+   "id": "OPH-C43-004",
+   "sec": "Anatomy of Conjunctiva",
+   "page": 195,
+   "fmt": "fillup",
+   "q": "Plica semilunaris represents the vestigial ___.",
+   "opts": [
+    "tarsal plate",
+    "nictitating membrane",
+    "limbal stem cell niche",
+    "lacrimal punctum"
+   ],
+   "ans": 1,
+   "exp": "Plica semilunaris : Represents nictitating membrane (rudimentary). (Book p195)"
+  },
+  {
+   "id": "OPH-C43-005",
+   "sec": "Anatomy of Conjunctiva",
+   "page": 195,
+   "fmt": "recall",
+   "q": "Caruncle is characterized by containing:",
+   "opts": [
+    "Goblet cells",
+    "Hair follicles",
+    "Meibomian glands",
+    "Lacrimal ductules"
+   ],
+   "ans": 1,
+   "exp": "Caruncle : Contains hair follicles. (Book p195)"
+  },
+  {
+   "id": "OPH-C43-006",
+   "sec": "Anatomy of Conjunctiva",
+   "page": 195,
+   "fmt": "recall",
+   "q": "The outermost layer of conjunctival histology is epithelium of which type? It contains Goblet cells, melanocytes and Langerhans cells.",
+   "opts": [
+    "Keratinized stratified squamous",
+    "Non-keratinised stratified squamous",
+    "Stratified columnar",
+    "Pseudostratified ciliated"
+   ],
+   "ans": 1,
+   "exp": "Histology 1. Outermost layer : Epithelium (Non-keratinised stratified squamous). Contains Goblet cells, melanocytes, Langerhans cells. (Book p195)"
+  },
+  {
+   "id": "OPH-C43-007",
+   "sec": "Anatomy of Conjunctiva",
+   "page": 195,
+   "fmt": "scenario",
+   "q": "Goblet cells in the conjunctival epithelium secrete mucin forming the innermost layer of tear film on parasympathetic stimulation. A drug blocking this would affect:",
+   "opts": [
+    "Aqueous layer",
+    "Lipid layer",
+    "Mucin layer (innermost)",
+    "Glycocalyx only"
+   ],
+   "ans": 2,
+   "exp": "Goblet cells : Secrete mucin (Forms innermost layer of tear film) on parasympathetic stimulation. (Book p195)"
+  },
+  {
+   "id": "OPH-C43-008",
+   "sec": "Anatomy of Conjunctiva",
+   "page": 195,
+   "fmt": "numeric",
+   "q": "The adenoid/lymphatic layer of conjunctiva develops after:",
+   "opts": [
+    "Birth",
+    "3 months of age",
+    "6 months of age",
+    "1 year of age"
+   ],
+   "ans": 1,
+   "exp": "Adenoid/lymphatic layer : Develops after 3 months of age. (Book p195)"
+  },
+  {
+   "id": "OPH-C43-009",
+   "sec": "Anatomy of Conjunctiva",
+   "page": 195,
+   "fmt": "fillup",
+   "q": "The fibrous layer of conjunctiva contains ___ and blood vessels.",
+   "opts": [
+    "muscle fibres",
+    "nerve fibres",
+    "collagen lamellae only",
+    "goblet cells"
+   ],
+   "ans": 1,
+   "exp": "Fibrous layer : Contains nerve fibres & blood vessels. (Book p195)"
+  },
+  {
+   "id": "OPH-C43-010",
+   "sec": "Conjunctivitis - introductory",
+   "page": 196,
+   "fmt": "recall",
+   "q": "Conjunctiva is described as the only site of lymphatic drainage from the eye. Its drainage is:",
+   "opts": [
+    "Medially to pre-auricular nodes, laterally to submandibular nodes",
+    "Medially to submandibular lymph nodes, laterally to peri-auricular & superficial parotid lymph nodes",
+    "Both sides to deep cervical nodes",
+    "Only to submental nodes"
+   ],
+   "ans": 1,
+   "exp": "Lymphatic drainage : Only site of lymphatic drainage from the eye. Medially -> Submandibular lymph nodes; Laterally -> Peri-auricular & superficial parotid lymph nodes. (Book p196)"
+  },
+  {
+   "id": "OPH-C43-011",
+   "sec": "Conjunctivitis - introductory",
+   "page": 196,
+   "fmt": "fillup",
+   "q": "Conjunctivitis is also known as ___.",
+   "opts": [
+    "Red eye",
+    "Eye flu",
+    "Pink eye tropicalis",
+    "Egyptian disease"
+   ],
+   "ans": 1,
+   "exp": "Conjunctivitis Aka Eye flu. (Book p196)"
+  },
+  {
+   "id": "OPH-C43-012",
+   "sec": "Conjunctivitis - introductory",
+   "page": 196,
+   "fmt": "oddoneout",
+   "q": "Which is NOT listed among the symptoms of conjunctivitis on page 196?",
+   "opts": [
+    "Redness",
+    "Discharge sticking to eyelids",
+    "Photophobia with halos",
+    "Foreign body sensation"
+   ],
+   "ans": 2,
+   "exp": "Symptoms : Redness, Discharge sticking to eyelids, Foreign body sensation, Lacrimation, Itching (if allergic), Pain and loss of vision (LOV) : Corneal involvement. (Photophobia with halos is not listed). (Book p196)"
+  },
+  {
+   "id": "OPH-C43-013",
+   "sec": "Conjunctivitis - introductory",
+   "page": 196,
+   "fmt": "scenario",
+   "q": "A patient with conjunctivitis reports itching as the chief complaint. The book indicates itching occurs in which type?",
+   "opts": [
+    "Bacterial",
+    "Allergic",
+    "Viral",
+    "Chlamydial"
+   ],
+   "ans": 1,
+   "exp": "Itching (if allergic). (Book p196)"
+  },
+  {
+   "id": "OPH-C43-014",
+   "sec": "Conjunctivitis - introductory",
+   "page": 196,
+   "fmt": "recall",
+   "q": "In conjunctivitis, pain and loss of vision indicate:",
+   "opts": [
+    "Conjunctival involvement only",
+    "Corneal involvement",
+    "Lacrimal sac involvement",
+    "Eyelid involvement"
+   ],
+   "ans": 1,
+   "exp": "Pain and loss of vision (LOV) : Corneal involvement. (Book p196)"
+  },
+  {
+   "id": "OPH-C43-015",
+   "sec": "Conjunctivitis - introductory",
+   "page": 196,
+   "fmt": "oddoneout",
+   "q": "Circumcorneal redness (ciliary injection) is seen in all EXCEPT:",
+   "opts": [
+    "Glaucoma",
+    "Uveitis",
+    "Corneal ulcer",
+    "Conjunctivitis (conjunctival hyperemia)"
+   ],
+   "ans": 3,
+   "exp": "Differential: Circumcorneal redness seen in -> Glaucoma, Uveitis, Corneal ulcer. Conjunctivitis shows conjunctival hyperemia. (Book p196)"
+  },
+  {
+   "id": "OPH-C43-016",
+   "sec": "Conjunctivitis - introductory",
+   "page": 196,
+   "fmt": "scenario",
+   "q": "Photographs on page 196 compare conjunctival hyperemia vs circumcorneal hyperemia. Circumcorneal hyperemia is noted as seen in:",
+   "opts": [
+    "Only glaucoma",
+    "Glaucoma, uveitis, corneal ulcer",
+    "Only uveitis",
+    "Allergic conjunctivitis"
+   ],
+   "ans": 1,
+   "exp": "Note : Seen in : Glaucoma, uveitis, corneal ulcer (circumcorneal hyperemia). (Book p196)"
+  },
+  {
+   "id": "OPH-C43-017",
+   "sec": "Conjunctivitis signs",
+   "page": 197,
+   "fmt": "recall",
+   "q": "Subconjunctival hemorrhage is managed by:",
+   "opts": [
+    "Topical antibiotics",
+    "No treatment required, resolves spontaneously ≤2 weeks",
+    "Hot fomentation",
+    "Surgical drainage"
+   ],
+   "ans": 1,
+   "exp": "Subconjunctival hemorrhage : No treatment required (Resolves spontaneously ≤2 weeks). (Book p197)"
+  },
+  {
+   "id": "OPH-C43-018",
+   "sec": "Conjunctivitis signs",
+   "page": 197,
+   "fmt": "fillup",
+   "q": "Chemosis is defined as swelling of the ___.",
+   "opts": [
+    "palpebral conjunctiva",
+    "bulbar conjunctiva",
+    "corneal epithelium",
+    "tarsal plate"
+   ],
+   "ans": 1,
+   "exp": "Chemosis : Swelling of bulbar conjunctiva. (Book p197)"
+  },
+  {
+   "id": "OPH-C43-019",
+   "sec": "Conjunctivitis signs",
+   "page": 197,
+   "fmt": "recall",
+   "q": "Discharge in conjunctivitis is described as mucopurulent/watery and:",
+   "opts": [
+    "Causes photophobia and never sticky",
+    "Causes colored halos & stickiness which resolves on washing eye",
+    "Always hemorrhagic",
+    "Only watery in bacterial cases"
+   ],
+   "ans": 1,
+   "exp": "Discharge : mucopurulent/watery. Causes colored halos & stickiness which resolves on washing eye. (Book p197)"
+  },
+  {
+   "id": "OPH-C43-020",
+   "sec": "Conjunctivitis signs",
+   "page": 197,
+   "fmt": "match",
+   "q": "Match the inflammatory reaction with its pathology — 1) Papillae  2) Follicles … A) Lymphoid aggregates  B) Hypertrophied vessels",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-B, 2-B",
+    "1-A, 2-A"
+   ],
+   "ans": 1,
+   "exp": "Papillae : Hypertrophied vessels. Follicles : Lymphoid aggregates. (Book p197)"
+  },
+  {
+   "id": "OPH-C43-021",
+   "sec": "Conjunctivitis signs",
+   "page": 197,
+   "fmt": "match",
+   "q": "Using the etiology table on page 197, match discharge/reaction to cause — Mucopurulent + Papillary reaction / Mucopurulent + Follicular / Watery + Papillary / Watery + Follicular",
+   "opts": [
+    "Bacterial / Chlamydia / Allergic / Viral",
+    "Chlamydia / Bacterial / Viral / Allergic",
+    "Bacterial / Viral / Allergic / Chlamydia",
+    "Allergic / Chlamydia / Bacterial / Viral"
+   ],
+   "ans": 0,
+   "exp": "Table: Discharge Mucopurulent + Papillary Bacterial; Mucopurulent + Follicular Chlamydia; Watery + Papillary Allergic; Watery + Follicular Viral. (Book p197)"
+  },
+  {
+   "id": "OPH-C43-022",
+   "sec": "Conjunctivitis signs",
+   "page": 197,
+   "fmt": "fillup",
+   "q": "Acute mucopurulent conjunctivitis is most commonly caused by ___.",
+   "opts": [
+    "Streptococcus pneumoniae",
+    "Staphylococcus aureus",
+    "Haemophilus influenzae",
+    "Moraxella lacunata"
+   ],
+   "ans": 1,
+   "exp": "Acute mucopurulent conjunctivitis : m/c cause : Staphylococcus aureus. Treatment : Topical antibiotics. (Book p197)"
+  },
+  {
+   "id": "OPH-C43-023",
+   "sec": "Bacterial conjunctivitis",
+   "page": 198,
+   "fmt": "recall",
+   "q": "Acute purulent/hyperacute conjunctivitis/blennorrhoea — most common cause and route:",
+   "opts": [
+    "Staphylococcus aureus – airborne",
+    "Neisseria gonorrhoeae – oculogenital",
+    "Corynebacterium diphtheriae – droplet",
+    "Moraxella – fomite"
+   ],
+   "ans": 1,
+   "exp": "Acute purulent/hyperacute conjunctivitis/blennorrhoea : m/c cause : Neisseria gonorrhoeae. Route : Oculogenital. (Book p198)"
+  },
+  {
+   "id": "OPH-C43-024",
+   "sec": "Bacterial conjunctivitis",
+   "page": 198,
+   "fmt": "recall",
+   "q": "Clinical features of blennorrhea include all EXCEPT:",
+   "opts": [
+    "Copious purulent discharge",
+    "Swelling of eyelids -> overhanging",
+    "Intense pain",
+    "White, ropy discharge without pain"
+   ],
+   "ans": 3,
+   "exp": "Clinical features : 1. Copious purulent discharge. 2. Swelling of eyelids -> Overhanging. 3. Intense pain. 4. Pre-auricular lymphadenopathy. (Book p198)"
+  },
+  {
+   "id": "OPH-C43-025",
+   "sec": "Bacterial conjunctivitis",
+   "page": 198,
+   "fmt": "management",
+   "q": "Treatment for gonococcal blennorrhoea as per book:",
+   "opts": [
+    "Oral azithromycin alone",
+    "I.M. Ceftriaxone 1g single dose followed by Oral erythromycin x 2 weeks",
+    "Topical tetracycline only",
+    "IV vancomycin"
+   ],
+   "ans": 1,
+   "exp": "Treatment : I.M. Ceftriaxone 1g single dose followed by Oral erythromycin x 2 weeks. (Book p198)"
+  },
+  {
+   "id": "OPH-C43-026",
+   "sec": "Bacterial conjunctivitis",
+   "page": 198,
+   "fmt": "match",
+   "q": "Match membranous conjunctivitis with most common cause — 1) Membranous (overall/in adults)  2) Membranous in unimmunised children … A) Corynebacterium diphtheriae  B) Pneumococcus",
+   "opts": [
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
+   ],
+   "ans": 1,
+   "exp": "Acute membranous conjunctivitis : m/c cause Overall/in adults : Pneumococcus. In unimmunised children : Corynebacterium diphtheriae. (Book p198)"
+  },
+  {
+   "id": "OPH-C43-027",
+   "sec": "Bacterial conjunctivitis",
+   "page": 198,
+   "fmt": "truefalse",
+   "q": "Membrane in membranous conjunctivitis is fused with epithelium and bleeds on removal, whereas pseudomembrane does not fuse and no bleeding on removal. Is this true?",
+   "opts": [
+    "True as per book",
+    "False – both bleed",
+    "False – neither bleeds",
+    "False – membranous does not bleed, pseudomembranous does"
+   ],
+   "ans": 0,
+   "exp": "Acute membranous : membrane fused with epithelium -> Bleeds on removal. Acute pseudomembranous : membrane does not fuse -> No bleeding on removal. (Book p198)"
+  },
+  {
+   "id": "OPH-C43-028",
+   "sec": "Bacterial conjunctivitis",
+   "page": 198,
+   "fmt": "recall",
+   "q": "Angular/diplobacillary conjunctivitis — most common cause:",
+   "opts": [
+    "Staphylococcus aureus",
+    "Moraxella lacunata/Axenfeld",
+    "Streptococcus pneumoniae",
+    "Pseudomonas aeruginosa"
+   ],
+   "ans": 1,
+   "exp": "Angular/diplobacillary conjunctivitis : m/c cause : Moraxella lacunata/Axenfeld. (Book p198)"
+  },
+  {
+   "id": "OPH-C43-029",
+   "sec": "Bacterial conjunctivitis",
+   "page": 198,
+   "fmt": "fillup",
+   "q": "In angular conjunctivitis, excoriation at canthi is more marked at ___ canthus.",
+   "opts": [
+    "Medial",
+    "Lateral",
+    "Both equally",
+    "Inferior"
+   ],
+   "ans": 1,
+   "exp": "Clinical features : Excoriation at canthi (Lateral > medial). Redness at intermarginal strip. Blepharitis. (Book p198)"
+  },
+  {
+   "id": "OPH-C43-030",
+   "sec": "Bacterial conjunctivitis",
+   "page": 198,
+   "fmt": "management",
+   "q": "Treatment for angular conjunctivitis includes:",
+   "opts": [
+    "Topical steroids only for 2 weeks (not effective for Moraxella lacunata)",
+    "Tetracycline 1% ointment ≥2 wks + Zinc boric drops (zinc blocks proteolysis)",
+    "Oral ceftriaxone single dose for gonococcal disease (not for angular type)",
+    "Surgical excision of conjunctiva with autograft (not indicated here)"
+   ],
+   "ans": 1,
+   "exp": "Treatment : Tetracycline 1% eye ointment for ≥2 wks. Zinc boric eye drops. (Zinc blocks proteolytic activity). (Book p198)"
+  },
+  {
+   "id": "OPH-C43-031",
+   "sec": "Viral conjunctivitis",
+   "page": 199,
+   "fmt": "match",
+   "q": "Match adenoviral conjunctivitis types with serovars — 1) Non-specific follicular 2) Epidemic keratoconjunctivitis (EKC) 3) Pharyngoconjunctival fever (PCF) … A) 8,19,37  B) 3,4,7  C) 1 to 11 & 19",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Non-specific follicular : Serovars 1 to 11 & 19; EKC : 8,19,37; PCF : 3,4,7. PCF Associated with preauricular lymphadenopathy. (Book p199)"
+  },
+  {
+   "id": "OPH-C43-032",
+   "sec": "Viral conjunctivitis",
+   "page": 199,
+   "fmt": "recall",
+   "q": "Pharyngoconjunctival fever is associated with:",
+   "opts": [
+    "Post-auricular lymphadenopathy",
+    "Preauricular lymphadenopathy",
+    "Submandibular lymphadenopathy",
+    "No lymphadenopathy"
+   ],
+   "ans": 1,
+   "exp": "PCF : Associated with preauricular lymphadenopathy. (Book p199)"
+  },
+  {
+   "id": "OPH-C43-033",
+   "sec": "Viral conjunctivitis",
+   "page": 199,
+   "fmt": "fillup",
+   "q": "Apollo conjunctivitis is also called ___.",
+   "opts": [
+    "Chronic papillary conjunctivitis",
+    "Acute hemorrhagic conjunctivitis",
+    "Vernal keratoconjunctivitis",
+    "Atopic conjunctivitis"
+   ],
+   "ans": 1,
+   "exp": "Apollo conjunctivitis/Acute hemorrhagic conjunctivitis : Hemorrhage of palpebral & bulbar conjunctiva. (Book p199)"
+  },
+  {
+   "id": "OPH-C43-034",
+   "sec": "Viral conjunctivitis",
+   "page": 199,
+   "fmt": "recall",
+   "q": "Most common cause of acute hemorrhagic (Apollo) conjunctivitis is:",
+   "opts": [
+    "Adenovirus type 11",
+    "Picornavirus – Coxsackie A24 (m/c) and Enterovirus 70",
+    "HSV-1",
+    "Influenza virus"
+   ],
+   "ans": 1,
+   "exp": "Causes : 1. Picornavirus : Enterovirus type 70, Coxsackie A24 (m/c). 2. Adenovirus type 11. (Book p199)"
+  },
+  {
+   "id": "OPH-C43-035",
+   "sec": "Viral conjunctivitis",
+   "page": 199,
+   "fmt": "scenario",
+   "q": "A patient has a unilateral, painless nodule with umbilicated appearance at the lid margin that periodically sheds virus causing conjunctivitis. Diagnosis?",
+   "opts": [
+    "Chalazion",
+    "Molluscum contagiosum",
+    "Papilloma",
+    "Basal cell carcinoma"
+   ],
+   "ans": 1,
+   "exp": "Molluscum contagiosum : Unilateral painless nodule with umbilicated appearance. Nodule contains viral particles. Periodic shedding -> Conjunctivitis. Treatment Surgical excision [if cosmetic indication (+)]. (Book p199)"
+  },
+  {
+   "id": "OPH-C43-036",
+   "sec": "Chlamydial conjunctivitis",
+   "page": 199,
+   "fmt": "match",
+   "q": "Match chlamydial types — 1) Adult inclusion 2) Trachoma 3) Ophthalmia neonatorum … A) A,B,Ba,C  B) D to K (+ other causes for neonatorum)",
+   "opts": [
+    "1-B, 2-A, 3-B",
+    "1-A, 2-B, 3-B",
+    "1-A, 2-A, 3-B",
+    "1-B, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Adult inclusion D to K; Trachoma A,B,Ba,C; Ophthalmia neonatorum D to K (+ Other causes). (Book p199)"
+  },
+  {
+   "id": "OPH-C43-037",
+   "sec": "Chlamydial conjunctivitis",
+   "page": 199,
+   "fmt": "fillup",
+   "q": "Trachoma is also known as ___.",
+   "opts": [
+    "Angular conjunctivitis",
+    "Egyptian ophthalmia",
+    "Blennorrhoea",
+    "Spring catarrh"
+   ],
+   "ans": 1,
+   "exp": "TRACHOMA Aka Egyptian ophthalmia. (Book p199)"
+  },
+  {
+   "id": "OPH-C43-038",
+   "sec": "Chlamydial conjunctivitis",
+   "page": 199,
+   "fmt": "recall",
+   "q": "Route of transmission of trachoma — mnemonic 3F includes:",
+   "opts": [
+    "Fingers, Flies, Fomites",
+    "Food, Fingers, Flies",
+    "Fomites, Family, Flies",
+    "Fingers, Fluids, Flies"
+   ],
+   "ans": 0,
+   "exp": "Route : mnemonic 3F – 1. Fingers 2. Flies 3. Fomites. (Book p199)"
+  },
+  {
+   "id": "OPH-C43-039",
+   "sec": "Trachoma pathology",
+   "page": 200,
+   "fmt": "recall",
+   "q": "Pathology of trachoma is which hypersensitivity reaction?",
+   "opts": [
+    "Type I IgE-mediated immediate hypersensitivity",
+    "Type II cytotoxic antibody-mediated",
+    "Type III immune-complex mediated",
+    "Type IV Active inflammation + cicatrization"
+   ],
+   "ans": 3,
+   "exp": "Pathology : Type IV hypersensitivity reaction : Active inflammation + cicatrization. Age group <10 yrs. (Book p200)"
+  },
+  {
+   "id": "OPH-C43-040",
+   "sec": "Trachoma pathology",
+   "page": 200,
+   "fmt": "fillup",
+   "q": "Sago grain follicles in trachoma show Necrosis & ___ cells.",
+   "opts": [
+    "Russell",
+    "Leber",
+    "Ghon",
+    "Hurwitz"
+   ],
+   "ans": 1,
+   "exp": "Sago grain follicles : Necrosis & leber. Necrosis & leber cells seen. m/c site Upper palpebral conjunctiva. (Book p200)"
+  },
+  {
+   "id": "OPH-C43-041",
+   "sec": "Trachoma pathology",
+   "page": 200,
+   "fmt": "oddoneout",
+   "q": "Cicatricial signs in trachoma include all EXCEPT:",
+   "opts": [
+    "Arlt's line",
+    "Herbert's pits (pathognomic)",
+    "Pannus",
+    "Horner Trantas dots"
+   ],
+   "ans": 3,
+   "exp": "Cicatricial sign : Arlt's line (Line of cicatrization); Herbert's pits : Pathognomic D/t healing of limbal follicles; Pannus : Vascularisation of cornea superiorly. Horner Trantas is VKC. (Book p200)"
+  },
+  {
+   "id": "OPH-C43-042",
+   "sec": "Trachoma pathology",
+   "page": 200,
+   "fmt": "scenario",
+   "q": "Arlt's line is shown in an image with markings Upper 1/3rd and Lower 2/3rd. It represents:",
+   "opts": [
+    "Active follicles",
+    "Line of cicatrization",
+    "Pannus vessel",
+    "Allergic papillae"
+   ],
+   "ans": 1,
+   "exp": "Arlt's line : Line of cicatrization. (Image shows lower 2/3rd vs upper 1/3rd). (Book p200)"
+  },
+  {
+   "id": "OPH-C43-043",
+   "sec": "Trachoma pathology",
+   "page": 200,
+   "fmt": "recall",
+   "q": "Pannus in trachoma is:",
+   "opts": [
+    "Vascularisation of cornea superiorly",
+    "Vascularisation of cornea inferiorly",
+    "Avascular scar of cornea",
+    "Lipid deposition"
+   ],
+   "ans": 0,
+   "exp": "Pannus : Vascularisation of cornea superiorly. (Book p200)"
+  },
+  {
+   "id": "OPH-C43-044",
+   "sec": "Trachoma pathology",
+   "page": 200,
+   "fmt": "recall",
+   "q": "Complication sequence of untreated trachoma is:",
+   "opts": [
+    "Trichiasis -> corneal ulcer -> scar -> loss of vision",
+    "Pannus -> cataract -> loss of vision",
+    "Follicles -> glaucoma -> loss of vision",
+    "Corneal ulcer -> pannus -> trichiasis"
+   ],
+   "ans": 0,
+   "exp": "Complications : Trichiasis (inturned eyelash) -> Corneal ulcer -> Scar formation -> Loss of vision. (Book p200)"
+  },
+  {
+   "id": "OPH-C43-045",
+   "sec": "Trachoma pathology",
+   "page": 200,
+   "fmt": "management",
+   "q": "SAFE strategy for trachoma (WHO, 1996) includes all EXCEPT:",
+   "opts": [
+    "Surgery for inturned eyelids",
+    "Antibiotics: Azithromycin 1g",
+    "Facial cleanliness",
+    "Systemic steroids"
+   ],
+   "ans": 3,
+   "exp": "SAFE : Surgery for inturned eyelids, Antibiotics Azithromycin 1g, Facial cleanliness, Environmental change. (Book p200)"
+  },
+  {
+   "id": "OPH-C43-046",
+   "sec": "Trachoma pathology",
+   "page": 200,
+   "fmt": "numeric",
+   "q": "For trachoma control, if prevalence in 1-9 yr old children is >10%, the management is:",
+   "opts": [
+    "Mass prophylaxis",
+    "Treatment to affected children & family",
+    "Facial cleanliness only",
+    "No treatment"
+   ],
+   "ans": 0,
+   "exp": "Table: >10% Mass prophylaxis; 5-10% Treatment to affected children & family; <5% Facial cleanliness & environmental change advised. (Book p200)"
+  },
+  {
+   "id": "OPH-C43-047",
+   "sec": "Trachoma FISTO",
+   "page": 201,
+   "fmt": "match",
+   "q": "Match WHO FISTO classification — 1) TF  2) TI  3) TS  4) TT  5) CO … A) >5 follicles  B) Thickening of upper palpebral conjunctiva  C) Arlt's line  D) Eyelash growing inwards  E) Visual impairment",
+   "opts": [
+    "1-A,2-B,3-C,4-D,5-E",
+    "1-B,2-A,3-C,4-D,5-E",
+    "1-A,2-B,3-D,4-C,5-E",
+    "1-C,2-A,3-B,4-D,5-E"
+   ],
+   "ans": 0,
+   "exp": "FISTO : TF >5 follicles + ; TI Thickening of upper palpebral conjunctiva; TS Arlt's line; TT Eyelash growing inwards; CO Visual impairment. TF/TI Active stage Antibiotics; TS Inactive No treatment; TT Requires surgery. (Book p201)"
+  },
+  {
+   "id": "OPH-C43-048",
+   "sec": "Ophthalmia neonatorum",
+   "page": 201,
+   "fmt": "match",
+   "q": "Match onset after birth with cause of ophthalmia neonatorum — 1) Within first 6h  2) 24-48h  3) 2-5d  4) 5-7d  5) >1 wk … A) Neisseria gonorrhoeae (most severe)  B) Chemical (Silver nitrate)  C) Other bacteria  D) HSV-II  E) Chlamydia trachomatis D-K m/c",
+   "opts": [
+    "1-B,2-A,3-C,4-D,5-E",
+    "1-A,2-B,3-C,4-D,5-E",
+    "1-B,2-C,3-A,4-D,5-E",
+    "1-E,2-A,3-C,4-D,5-B"
+   ],
+   "ans": 0,
+   "exp": "Onset table: Within 1st 6h Chemical (Silver nitrate); 24-48h Neisseria gonorrhoeae (most severe); 2-5d Other bacteria; 5-7d HSV-II; >1 wk Chlamydia trachomatis D-K m/c. (Book p201)"
+  },
+  {
+   "id": "OPH-C43-049",
+   "sec": "Ophthalmia neonatorum",
+   "page": 201,
+   "fmt": "recall",
+   "q": "Ophthalmia neonatorum is defined as conjunctivitis in neonates appearing within:",
+   "opts": [
+    "<7 days of onset",
+    "<28 days of onset",
+    "<48 hours",
+    "<3 months"
+   ],
+   "ans": 1,
+   "exp": "OPHTHALMIA NEONATORUM Conjunctivitis in neonates (<28 days of onset). (Book p201)"
+  },
+  {
+   "id": "OPH-C43-050",
+   "sec": "Ophthalmia neonatorum",
+   "page": 202,
+   "fmt": "management",
+   "q": "Prevention of ophthalmia neonatorum — Crede's method with 1% Silver nitrate is:",
+   "opts": [
+    "Recommended as first choice",
+    "Not recommended d/t chemical conjunctivitis",
+    "Given after 24 hours",
+    "Repeated for 1 week"
+   ],
+   "ans": 1,
+   "exp": "Prevention : 1. Crede's method : Topical 1% Silver nitrate (Not recommended d/t chemical conjunctivitis). 2. 0.5% erythromycin or 3. 1% tetracycline Single application Within 1 hr of birth. (Book p202)"
+  },
+  {
+   "id": "OPH-C43-051",
+   "sec": "Ophthalmia neonatorum",
+   "page": 202,
+   "fmt": "numeric",
+   "q": "Prophylaxis for ophthalmia neonatorum with erythromycin/tetracycline should be given:",
+   "opts": [
+    "Within 1 hr of birth as single application",
+    "Daily for 1 week",
+    "After 48 hours",
+    "Only if mother is infected"
+   ],
+   "ans": 0,
+   "exp": "0.5% erythromycin / 1% tetracycline Single application Within 1 hr of birth. (Book p202)"
+  },
+  {
+   "id": "OPH-C43-052",
+   "sec": "Allergic conjunctivitis",
+   "page": 202,
+   "fmt": "recall",
+   "q": "Allergic conjunctivitis presents with the triad of:",
+   "opts": [
+    "Follicles + mucopurulent discharge + pain",
+    "Papillae reaction + watery discharge + itching",
+    "Pseudomembrane + bloody discharge",
+    "Chemosis + hemorrhagic discharge"
+   ],
+   "ans": 1,
+   "exp": "Allergic conjunctivitis Presents with papillae reaction + watery discharge + itching. (Book p202)"
+  },
+  {
+   "id": "OPH-C43-053",
+   "sec": "Allergic conjunctivitis - VKC",
+   "page": 202,
+   "fmt": "recall",
+   "q": "Vernal keratoconjunctivitis/Spring catarrh is which hypersensitivity? Eg pollen",
+   "opts": [
+    "Type I hypersensitivity reaction",
+    "Type II",
+    "Type III",
+    "Type IV only"
+   ],
+   "ans": 0,
+   "exp": "VERNAL KERATOCONJUNCTIVITIS/SPRING CATARRH Type I hypersensitivity reaction (Eg : pollen). (Book p202)"
+  },
+  {
+   "id": "OPH-C43-054",
+   "sec": "Allergic conjunctivitis - VKC",
+   "page": 202,
+   "fmt": "recall",
+   "q": "VKC incidence is age 5-15 yrs, males > females, young boys, most common in:",
+   "opts": [
+    "Winter",
+    "Spring & summer",
+    "Autumn",
+    "All seasons equally"
+   ],
+   "ans": 1,
+   "exp": "Incidence : Age 5-15 yrs, Males > Females (Young boys), m/c in spring & summer, H/O atopy present. (Book p202)"
+  },
+  {
+   "id": "OPH-C43-055",
+   "sec": "Allergic conjunctivitis - VKC",
+   "page": 202,
+   "fmt": "fillup",
+   "q": "In VKC, papillary hypertrophy shows cobble stone papillae with giant papillae > ___ size.",
+   "opts": [
+    "0.5 mm",
+    "1 mm",
+    "2 mm",
+    "5 mm"
+   ],
+   "ans": 1,
+   "exp": "Papillary hypertrophy : Cobble stone papillae. Giant papillae : >1mm size. (Book p202)"
+  },
+  {
+   "id": "OPH-C43-056",
+   "sec": "Allergic conjunctivitis - VKC",
+   "page": 202,
+   "fmt": "recall",
+   "q": "Horner Trantas sign in VKC is:",
+   "opts": [
+    "Staphyloma of sclera",
+    "Collection of eosinophils + epithelial debris on limbus",
+    "Pigmented keratic precipitates",
+    "Corneal guttata"
+   ],
+   "ans": 1,
+   "exp": "Horner Trantas sign : Collection of eosinophils + epithelial debris. Site : On limbus. (Book p202)"
+  },
+  {
+   "id": "OPH-C43-057",
+   "sec": "Allergic conjunctivitis - VKC",
+   "page": 202,
+   "fmt": "recall",
+   "q": "Pseudogerontoxon described in VKC is:",
+   "opts": [
+    "True arcus senilis in old age",
+    "Paralimbal grey-white band d/t lipid deposition in children, similar to arcus senilis",
+    "Iron line in front of pterygium",
+    "White limbal papillae"
+   ],
+   "ans": 1,
+   "exp": "Pseudogerontoxon : Paralimbal grey-white band (D/t lipid deposition) in children. Appearance similar to arcus senilis. (Book p202)"
+  },
+  {
+   "id": "OPH-C43-058",
+   "sec": "Allergic conjunctivitis - VKC",
+   "page": 202,
+   "fmt": "recall",
+   "q": "Which are additional features of VKC listed? Shield ulcer, Dennie Morgan line, Maxwell Lyon sign, pseudogerontoxon. Which association is given due to excessive itching?",
+   "opts": [
+    "Increased incidence of cataract",
+    "Increased incidence of Keratoconus",
+    "Increased incidence of glaucoma",
+    "Increased incidence of retinal detachment"
+   ],
+   "ans": 1,
+   "exp": "Features: Shield ulcer (in cornea), Dennie Morgan line Extra lower-lid crease, Maxwell Lyon sign Ropy discharge, Note : Excessive itching -> increased incidence of Keratoconus. (Book p202)"
+  },
+  {
+   "id": "OPH-C43-059",
+   "sec": "Allergic conjunctivitis - VKC treatment",
+   "page": 203,
+   "fmt": "management",
+   "q": "Treatment of VKC lists DOC as:",
+   "opts": [
+    "Topical steroids alone",
+    "Olopatadine or Alcaftadine",
+    "Topical antibiotics",
+    "Systemic antihistamine only"
+   ],
+   "ans": 1,
+   "exp": "Treatment : 1. Cold compress 2. Topical anti-histamine 3. Topical mast cell stabilisers 4. DOC : Olopatadine or Alcaftadine 5. Topical steroids in acute exacerbation (For symptomatic treatment). (Book p203)"
+  },
+  {
+   "id": "OPH-C43-060",
+   "sec": "Allergic conjunctivitis - AKC/GPC",
+   "page": 203,
+   "fmt": "recall",
+   "q": "Atopic keratoconjunctivitis is seen in:",
+   "opts": [
+    "1st decade",
+    "2nd to 5th decade",
+    "Only infants",
+    ">60 years only"
+   ],
+   "ans": 1,
+   "exp": "ATOPIC KERATOCONJUNCTIVITIS seen in 2nd to 5th decade. (Book p203)"
+  },
+  {
+   "id": "OPH-C43-061",
+   "sec": "Allergic conjunctivitis - AKC/GPC",
+   "page": 203,
+   "fmt": "fillup",
+   "q": "Hertoghe sign in atopic keratoconjunctivitis is loss of ___.",
+   "opts": [
+    "lateral eyebrow",
+    "medial eyebrow",
+    "eyelashes",
+    "corneal sensation"
+   ],
+   "ans": 0,
+   "exp": "Atopic Clinical : Eyelids : Hertoghe sign (Lateral eyebrow lost). Itching, Papillae, watery discharge. (Book p203)"
+  },
+  {
+   "id": "OPH-C43-062",
+   "sec": "Allergic conjunctivitis - AKC/GPC",
+   "page": 203,
+   "fmt": "recall",
+   "q": "Giant papillary keratoconjunctivitis shows papillae >1mm, type IV hypersensitivity, mechanically induced by all EXCEPT:",
+   "opts": [
+    "Contact lens",
+    "Ocular prostheses",
+    "Protruding sutures",
+    "Pollen"
+   ],
+   "ans": 3,
+   "exp": "GIANT PAPILLARY Etiology : mechanically induced by Contact lens, Ocular prostheses, Protruding sutures. (Book p203)"
+  },
+  {
+   "id": "OPH-C43-063",
+   "sec": "Allergic conjunctivitis - phlyctenular",
+   "page": 203,
+   "fmt": "recall",
+   "q": "Phlyctenular keratoconjunctivitis is type IV hypersensitivity to endogenous allergen. Most common cause in India is TB, in western countries is:",
+   "opts": [
+    "Staphylococcus aureus",
+    "Streptococcus pneumoniae",
+    "Virus",
+    "Fungus"
+   ],
+   "ans": 0,
+   "exp": "Etiology : m/c in India : TB. m/c in western countries : Staphylococcus aureus. (Book p203)"
+  },
+  {
+   "id": "OPH-C43-064",
+   "sec": "Allergic conjunctivitis - phlyctenular",
+   "page": 203,
+   "fmt": "scenario",
+   "q": "A nodule near limbus grows towards cornea and ulcerates giving rise to sacrofulous, fascicular or miliary ulcer. This describes:",
+   "opts": [
+    "Vernal catarrh",
+    "Phlycten",
+    "Pinguecula",
+    "Pterygium"
+   ],
+   "ans": 1,
+   "exp": "Phlycten : Nodule near limbus. Grows towards cornea -> Ulcerates. Gives rise to Sacrofulous ulcer, Fascicular ulcer, miliary ulcer. Treatment Topical Steroids. (Book p203)"
+  },
+  {
+   "id": "OPH-C43-065",
+   "sec": "Pterygium",
+   "page": 204,
+   "fmt": "fillup",
+   "q": "Pterygium is a triangular, fibrovascular growth of degenerative ___ tissue over cornea that destroys Bowman's layer & superficial stroma.",
+   "opts": [
+    "sub-conjunctival",
+    "corneal endothelial",
+    "scleral",
+    "choroidal"
+   ],
+   "ans": 0,
+   "exp": "Pterygium Triangular, fibrovascular growth of degenerative sub-conjunctival tissue over Cornea. Destroys Bowman's layer & superficial stroma. (Book p204)"
+  },
+  {
+   "id": "OPH-C43-066",
+   "sec": "Pterygium",
+   "page": 204,
+   "fmt": "oddoneout",
+   "q": "Which is NOT listed as associated with pterygium?",
+   "opts": [
+    "UV ray exposure",
+    "Dust",
+    "Humidity",
+    "Vitamin A deficiency"
+   ],
+   "ans": 3,
+   "exp": "Associated with UV ray exposure, Dust, Humidity. Cause Limbal stem cell deficiency -> Activation of matrix metalloproteinase. Site Nasal > Lateral. (Book p204)"
+  },
+  {
+   "id": "OPH-C43-067",
+   "sec": "Pterygium",
+   "page": 204,
+   "fmt": "recall",
+   "q": "Stockers line in pterygium is:",
+   "opts": [
+    "Iron deposition in front of apex",
+    "Calcium deposition",
+    "Lipid deposition",
+    "Eosinophil collection"
+   ],
+   "ans": 0,
+   "exp": "Clinical features : 2. Stocker's line : Deposition of iron in front of apex. (Book p204)"
+  },
+  {
+   "id": "OPH-C43-068",
+   "sec": "Pterygium",
+   "page": 204,
+   "fmt": "recall",
+   "q": "Loss of vision in pterygium is due to:",
+   "opts": [
+    "Corneal astigmatism only",
+    "Encroaching into visual axis only",
+    "Both corneal astigmatism and encroaching into visual axis",
+    "Glaucoma"
+   ],
+   "ans": 2,
+   "exp": "Loss of vision. Causes : a. Corneal astigmatism. b. Encroaching into visual axis (Covers pupillary area). (Book p204)"
+  },
+  {
+   "id": "OPH-C43-069",
+   "sec": "Pterygium",
+   "page": 204,
+   "fmt": "management",
+   "q": "To reduce recurrence after surgical excision of pterygium, the book advises:",
+   "opts": [
+    "Topical steroids alone for 1 month with lubrication only",
+    "Mitomycin C topically + Conjunctival autograft (same eye, superior) with sutures/glue/serum",
+    "Systemic chemotherapy with cyclophosphamide protocol",
+    "Laser photocoagulation of conjunctival vessels alone"
+   ],
+   "ans": 1,
+   "exp": "Treatment : Surgical excision : ↑ rate of recurrence. To reduce recurrence : 1. Topical mitomycin C. 2. Autograft : Harvested from same eye. Site : usually superior. Fixed with sutures/fibrin glue/autologous serum. (Book p204)"
+  },
+  {
+   "id": "OPH-C43-070",
+   "sec": "Pinguecula & concretions",
+   "page": 205,
+   "fmt": "recall",
+   "q": "Pinguecula is:",
+   "opts": [
+    "Elastic degeneration of collagen in conjunctival stroma, common nasally",
+    "Benign neoplastic proliferation of conjunctival epithelium",
+    "Calcific degenerative plaque with calcium deposition",
+    "Lymphoid hyperplasia forming follicles nasally"
+   ],
+   "ans": 0,
+   "exp": "PINGUECULA Elastic degeneration of collagen fibres in stroma of conjunctiva. m/c site : Nasal part of conjunctiva. Image Yellowish fat-like nodules. (Book p205)"
+  },
+  {
+   "id": "OPH-C43-071",
+   "sec": "Pinguecula & concretions",
+   "page": 205,
+   "fmt": "fillup",
+   "q": "Concretions are collection of epithelial debris & mucus caused by irritation due to friction of eyelid against bulbar conjunctiva & cornea while ___.",
+   "opts": [
+    "sleeping",
+    "blinking",
+    "reading",
+    "crying"
+   ],
+   "ans": 1,
+   "exp": "CONCRETIONS Collection of epithelial debris & mucus. Cause : Irritation d/t friction of eyelid against bulbar conjunctiva & cornea while blinking. (Book p205)"
+  },
+  {
+   "id": "OPH-C43-072",
+   "sec": "Pinguecula & concretions",
+   "page": 205,
+   "fmt": "management",
+   "q": "Treatment and note about concretions:",
+   "opts": [
+    "Surgical excision with no recurrence; contains calcium",
+    "Removal with 26g needle, spontaneously resolves with good lubrication; concretions do not contain calcium deposits",
+    "Topical steroids; concretions contain calcium",
+    "No treatment needed; always calcified"
+   ],
+   "ans": 1,
+   "exp": "Treatment : Removal with 26g needle. Spontaneously resolves with good lubrication. Note : Concretions do not contain calcium deposits. Images minute yellowish-white elevations. (Book p205)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U43-1",
+   "ch": 43,
+   "n": 1,
+   "title": "Anatomy of Conjunctiva",
+   "sec": "Conjunctiva · p195",
+   "guide": "Transparent mucous membrane parts bulbar forniceal palpebral plica nictitating caruncle hair; histology nonkeratinised goblet mucin lymphatic fibrous.",
+   "qs": [
+    "OPH-C43-001",
+    "OPH-C43-002",
+    "OPH-C43-003",
+    "OPH-C43-004",
+    "OPH-C43-005",
+    "OPH-C43-006",
+    "OPH-C43-007",
+    "OPH-C43-008",
+    "OPH-C43-009"
+   ]
+  },
+  {
+   "id": "OPH-U43-2",
+   "ch": 43,
+   "n": 2,
+   "title": "Conjunctivitis: symptoms and signs",
+   "sec": "Conjunctiva · p196-197",
+   "guide": "Only lymphatic drainage of eye medial lateral; eye flu symptoms redness lacrimation itching corneal pain; hyperemia circumcorneal glaucoma uveitis ulcer; hemorrhage chemosis discharge papillae follicles etiology table.",
+   "qs": [
+    "OPH-C43-010",
+    "OPH-C43-011",
+    "OPH-C43-012",
+    "OPH-C43-013",
+    "OPH-C43-014",
+    "OPH-C43-015",
+    "OPH-C43-016",
+    "OPH-C43-017",
+    "OPH-C43-018",
+    "OPH-C43-019",
+    "OPH-C43-020",
+    "OPH-C43-021",
+    "OPH-C43-022"
+   ]
+  },
+  {
+   "id": "OPH-U43-3",
+   "ch": 43,
+   "n": 3,
+   "title": "Bacterial conjunctivitis",
+   "sec": "Conjunctiva · p198",
+   "guide": "Hyperacute gonococcal oculogenital ceftriaxone erythromycin; membranous pneumococcus vs diphtheriae membrane bleeds pseudomembrane no bleed; angular moraxella excoriation lateral zinc.",
+   "qs": [
+    "OPH-C43-023",
+    "OPH-C43-024",
+    "OPH-C43-025",
+    "OPH-C43-026",
+    "OPH-C43-027",
+    "OPH-C43-028",
+    "OPH-C43-029",
+    "OPH-C43-030"
+   ]
+  },
+  {
+   "id": "OPH-U43-4",
+   "ch": 43,
+   "n": 4,
+   "title": "Viral and Chlamydial conjunctivitis",
+   "sec": "Conjunctiva · p199",
+   "guide": "Adenoviral 1-11/19 EKC 8,19,37 PCF 3,4,7; Apollo picornavirus coxsackie A24; molluscum umbilicated; chlamydial D-K vs A,B,Ba,C; 3F.",
+   "qs": [
+    "OPH-C43-031",
+    "OPH-C43-032",
+    "OPH-C43-033",
+    "OPH-C43-034",
+    "OPH-C43-035",
+    "OPH-C43-036",
+    "OPH-C43-037",
+    "OPH-C43-038"
+   ]
+  },
+  {
+   "id": "OPH-U43-5",
+   "ch": 43,
+   "n": 5,
+   "title": "Trachoma and Ophthalmia neonatorum",
+   "sec": "Conjunctiva · p200-201",
+   "guide": "Type IV <10yr sago grain leber upper palpebral Arlt line Herberts pits pannus superior trichiasis SAFE WHO FISTO TF TI TS TT CO; neonatorum <28d onset table chemical to chlamydia.",
+   "qs": [
+    "OPH-C43-039",
+    "OPH-C43-040",
+    "OPH-C43-041",
+    "OPH-C43-042",
+    "OPH-C43-043",
+    "OPH-C43-044",
+    "OPH-C43-045",
+    "OPH-C43-046",
+    "OPH-C43-047",
+    "OPH-C43-048",
+    "OPH-C43-049",
+    "OPH-C43-050",
+    "OPH-C43-051"
+   ]
+  },
+  {
+   "id": "OPH-U43-6",
+   "ch": 43,
+   "n": 6,
+   "title": "Allergic conjunctivitis - Vernal to Phlyctenular",
+   "sec": "Conjunctiva · p202-203",
+   "guide": "Allergic papillae watery itching; VKC type I spring 5-15 boys giant >1mm Horners pseudogerontoxon shield Dennie Maxwell keratoconus olopatadine; atopic 2nd-5th Hertoghe GPC type IV contact lens phlycten TB staph limbal nodule steroids.",
+   "qs": [
+    "OPH-C43-052",
+    "OPH-C43-053",
+    "OPH-C43-054",
+    "OPH-C43-055",
+    "OPH-C43-056",
+    "OPH-C43-057",
+    "OPH-C43-058",
+    "OPH-C43-059",
+    "OPH-C43-060",
+    "OPH-C43-061",
+    "OPH-C43-062",
+    "OPH-C43-063",
+    "OPH-C43-064"
+   ]
+  },
+  {
+   "id": "OPH-U43-7",
+   "ch": 43,
+   "n": 7,
+   "title": "Pterygium, Pinguecula and Concretions",
+   "sec": "Conjunctiva · p204-205",
+   "guide": "Pterygium degenerative sub-conjunctival Bowmans dust UV limbal deficiency nasal apex Stockers iron astigmatism visual axis mitomycin autograft superior; pinguecula elastic nasal concretions debris blinking 26G no calcium.",
+   "qs": [
+    "OPH-C43-065",
+    "OPH-C43-066",
+    "OPH-C43-067",
+    "OPH-C43-068",
+    "OPH-C43-069",
+    "OPH-C43-070",
+    "OPH-C43-071",
+    "OPH-C43-072"
+   ]
+  }
+ ]
+}

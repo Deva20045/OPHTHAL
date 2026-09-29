@@ -87,16 +87,16 @@ scope (Book p1–233) is converted into questions in strict book order.
 | 40 | Corneal Dystrophies, Keratoconus and Miscellaneous Disorders | p180 | **LIVE** |
 | 41 | Anterior Uveitis | p185 | **LIVE** |
 | 42 | Intermediate, Posterior, Pan-uveitis and Miscellaneous Disorders | p191 | **LIVE** |
-| 43 | Anatomy of Conjunctiva, Types of Conjunctivitis and Pterygium | p195 | SOON |
-| 44 | Eyelids : Anatomy and Pathologies | p206 | SOON |
-| 45 | Anatomy of Orbit and Proptosis | p209 | SOON |
-| 46 | Lacrimal apparatus : Anatomy, Watering eye and Dry eye | p215 | SOON |
+| 43 | Anatomy of Conjunctiva, Types of Conjunctivitis and Pterygium | p195 | **LIVE** |
+| 44 | Eyelids : Anatomy and Pathologies | p206 | **LIVE** |
+| 45 | Anatomy of Orbit and Proptosis | p209 | **LIVE** |
+| 46 | Lacrimal apparatus : Anatomy, Watering eye and Dry eye | p215 | **LIVE** |
 | 47 | Ocular Trauma | p220 | SOON |
 | 48 | Community Ophthalmology | p223 | SOON |
 | 49 | Lasers In Ophthalmology | p228 | SOON |
 | 50 | Physiology of Vision | p229 | SOON |
 
-*(Status column: Ch 1-42 = **LIVE**; every other chapter = **SOON** — rendered in the app
+*(Status column: Ch 1-46 = **LIVE**; every other chapter = **SOON** — rendered in the app
 as a locked "Soon" row. Update this table as chapters go live.)*
 
 ### Section spans
@@ -202,12 +202,15 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 40 "Corneal Dystrophies, Keratoconus and Miscellaneous Disorders" (p180–184): 6 units, 67 questions — REBUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH36-42.md`)
 - [x] **Ch 41 "Anterior Uveitis" (p185–190): 9 units, 76 questions — REBUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH36-42.md`)
 - [x] **Ch 42 "Intermediate, Posterior, Pan-uveitis and Miscellaneous Disorders" (p191–194): 9 units, 48 questions — REBUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH36-42.md`)
-- [ ] Ch 43–50 (per pipeline above)
+- [x] **Ch 43 "Anatomy of Conjunctiva, Types of Conjunctivitis and Pterygium" (p195–205): 7 units, 72 questions — BUILT FROM SCANS & VERIFIED** (line-by-line; all 11 Book pages cited; no length-giveaway)
+- [x] **Ch 44 "Eyelids : Anatomy and Pathologies" (p206–208): 4 units, 29 questions — BUILT FROM SCANS & VERIFIED** (line-by-line; all 3 Book pages cited)
+- [x] **Ch 45 "Anatomy of Orbit and Proptosis" (p209–214): 5 units, 44 questions — BUILT FROM SCANS & VERIFIED** (line-by-line; all 6 Book pages cited)
+- [x] **Ch 46 "Lacrimal apparatus : Anatomy, Watering eye and Dry eye" (p215–219): 4 units, 33 questions — BUILT FROM SCANS & VERIFIED** (line-by-line; all 5 Book pages cited)
+- [ ] Ch 47–50 (per pipeline above)
 
 ## NEXT
-**Ch 43 "Anatomy of Conjunctiva, Types of Conjunctivitis and Pterygium" (p195–205)** —
-render Part 2 PDF pages by printed page number (p195 onward = PDF 82 + … per the offset table:
-p184+ = PDF + 113; **always confirm the printed number in each header**), read line-by-line,
+**Ch 47 "Ocular Trauma" (p220–222)** —
+render Part 2 PDF pages by printed page number (p220 onward = PDF 105 + … per offset p184+ = PDF +113), read line-by-line,
 author it, run build + checks + audit, commit + push.
 
 ### Authoring pipeline used for Ch 36–42 (reuse it)

@@ -1,0 +1,513 @@
+{
+ "chapter": 44,
+ "title": "Eyelids : Anatomy and Pathologies",
+ "pageRange": "206-208",
+ "questions": [
+  {
+   "id": "OPH-C44-001",
+   "sec": "Eyelid Anatomy - Muscles",
+   "page": 206,
+   "fmt": "match",
+   "q": "Match eyelid muscle with nerve and clinical sign in palsy — 1) Levator palpebrae superioris  2) Müller's muscle  3) Orbicularis oculi … A) CN III → Ptosis  B) Sympathetic fibres → Ptosis  C) CN VII → Lagophthalmos; Function A/B Elevation of upper lid, C Closure of eyelid",
+   "opts": [
+    "1-A,2-B,3-C",
+    "1-B,2-A,3-C",
+    "1-C,2-B,3-A",
+    "1-A,2-C,3-B"
+   ],
+   "ans": 0,
+   "exp": "Table : Levator palpebrae superioris CN III Elevation of upper lid Ptosis; Müller's muscle Sympathetic fibres Elevation of upper lid Ptosis; Orbicularis oculi CN VII Closure of eyelid Lagophthalmos. (Book p206)"
+  },
+  {
+   "id": "OPH-C44-002",
+   "sec": "Eyelid Anatomy - Muscles",
+   "page": 206,
+   "fmt": "fillup",
+   "q": "Palsy of orbicularis oculi (CN VII) presents as ___, while levator/Müller's palsy presents as ptosis.",
+   "opts": [
+    "lagophthalmos",
+    "ptosis",
+    "ectropion",
+    "entropion"
+   ],
+   "ans": 0,
+   "exp": "Orbicularis oculi CN VII Closure of eyelid -> Presentation in palsy Lagophthalmos. (Book p206)"
+  },
+  {
+   "id": "OPH-C44-003",
+   "sec": "Eyelid Anatomy - Glands",
+   "page": 206,
+   "fmt": "match",
+   "q": "Match eyelid gland with type and opening — 1) Meibomian (tarsal)  2) Zeis  3) Moll … A) Modified sebaceous – Posterior to anterior surface of eyelid margin  B) Modified sebaceous – Base of lash follicles  C) Modified sweat – Base of lash follicles",
+   "opts": [
+    "1-A,2-B,3-C",
+    "1-C,2-A,3-B",
+    "1-A,2-C,3-B",
+    "1-B,2-A,3-C"
+   ],
+   "ans": 0,
+   "exp": "Glands: Meibomian (tarsal) Modified sebaceous Posterior to anterior surface of eyelid margin; Zeis Modified sebaceous Base of lash follicles; Moll Modified sweat Base of lash follicles. (Book p206)"
+  },
+  {
+   "id": "OPH-C44-004",
+   "sec": "Eyelid Anatomy - Glands",
+   "page": 206,
+   "fmt": "recall",
+   "q": "Which gland opens posterior to anterior surface of eyelid margin?",
+   "opts": [
+    "Zeis",
+    "Moll",
+    "Meibomian (tarsal)",
+    "Accessory lacrimal"
+   ],
+   "ans": 2,
+   "exp": "Meibomian opens Posterior to anterior surface of eyelid margin; Zeis and Moll at Base of lash follicles. (Book p206)"
+  },
+  {
+   "id": "OPH-C44-005",
+   "sec": "Eyelid Anatomy - Lamina",
+   "page": 206,
+   "fmt": "fillup",
+   "q": "The grey line (gray line) divides the eyelid into ___ and posterior lamina.",
+   "opts": [
+    "anterior lamina",
+    "orbital septum",
+    "tarsal plate",
+    "palpebral conjunctiva"
+   ],
+   "ans": 0,
+   "exp": "Grey line : Divides eyelid into Anterior lamina and Posterior. (Book p206)"
+  },
+  {
+   "id": "OPH-C44-006",
+   "sec": "Eyelid Anatomy - Lamina",
+   "page": 206,
+   "fmt": "recall",
+   "q": "Anterior lamina of eyelid consists of:",
+   "opts": [
+    "Tarsal plate and conjunctiva",
+    "Skin (thinnest skin in body), subcutaneous tissue, muscles",
+    "Only orbicularis",
+    "Only skin and tarsus"
+   ],
+   "ans": 1,
+   "exp": "Anterior lamina : Skin : Thinnest skin in the body; Subcutaneous tissue; Muscles. (Book p206)"
+  },
+  {
+   "id": "OPH-C44-007",
+   "sec": "Eyelid Anatomy - Lamina",
+   "page": 206,
+   "fmt": "recall",
+   "q": "Posterior lamina of eyelid includes: Tarsal plate has only fibrous tissue and:",
+   "opts": [
+    "Skin",
+    "Palpebral conjunctiva",
+    "Orbicularis muscle",
+    "Lacrimal gland"
+   ],
+   "ans": 1,
+   "exp": "Posterior : Tarsal plate has only fibrous tissue; Palpebral conjunctiva. Diagram labels Gray line, Zeis & moll glands, Meibomian gland, Eye lash. (Book p206)"
+  },
+  {
+   "id": "OPH-C44-008",
+   "sec": "Eyelid Anatomy - Lamina",
+   "page": 206,
+   "fmt": "recall",
+   "q": "The cross-sectional eyelid diagram labels the grey line and glands. Which gland is most posterior?",
+   "opts": [
+    "Zeis gland",
+    "Moll gland",
+    "Meibomian gland",
+    "All are at same level"
+   ],
+   "ans": 2,
+   "exp": "Diagram : Gray line most superficial, Zeis & moll glands anterior, Meibomian gland deeper posterior tarsal. (Book p206)"
+  },
+  {
+   "id": "OPH-C44-009",
+   "sec": "Chalazion and Hordeolum",
+   "page": 206,
+   "fmt": "match",
+   "q": "Match pathology — 1) Chalazion  2) External hordeolum / stye … A) Suppurative inflammation of Zeis gland  B) Lipogranulomatous inflammation of meibomian gland",
+   "opts": [
+    "1-A,2-B",
+    "1-B,2-A",
+    "1-A,2-A",
+    "1-B,2-B"
+   ],
+   "ans": 1,
+   "exp": "Chalazion Pathology Lipogranulomatous inflammation of meibomian gland; External hordeolum Suppurative inflammation of Zeis gland. (Book p206)"
+  },
+  {
+   "id": "OPH-C44-010",
+   "sec": "Chalazion and Hordeolum",
+   "page": 206,
+   "fmt": "recall",
+   "q": "Infectivity comparison:",
+   "opts": [
+    "Both infective",
+    "Chalazion infective, stye non-infective",
+    "Chalazion Non-infective, External hordeolum Infective : S. aureus",
+    "Both non-infective"
+   ],
+   "ans": 2,
+   "exp": "Infectivity Chalazion Non-infective; External hordeolum Infective : S. aureus. (Book p206)"
+  },
+  {
+   "id": "OPH-C44-011",
+   "sec": "Chalazion and Hordeolum",
+   "page": 207,
+   "fmt": "match",
+   "q": "Match the swelling characteristic — 1) Chalazion  2) External hordeolum/stye … A) Painful diffuse swelling at the lid margin  B) Painless circumscribed swelling away from lid margin",
+   "opts": [
+    "1-A,2-B",
+    "1-B,2-A",
+    "1-A,2-A",
+    "1-B,2-B"
+   ],
+   "ans": 1,
+   "exp": "Chalazion Painless Circumscribed swelling away from lid margin; External hordeolum Painful Diffuse swelling at the lid margin. (Book p207)"
+  },
+  {
+   "id": "OPH-C44-012",
+   "sec": "Chalazion and Hordeolum",
+   "page": 207,
+   "fmt": "management",
+   "q": "Treatment for chalazion includes:",
+   "opts": [
+    "Oral antibiotics alone for 7 days without incision (for stye)",
+    "Horizontal incision on posterior (conjunctival) lid + Intralesional triamcinolone",
+    "Hot compresses only with no incision or steroids",
+    "Cryotherapy to lash base with repeated epilation"
+   ],
+   "ans": 1,
+   "exp": "Chalazion Rx : Incision & curettage : Horizontal incision on posterior part of eyelid (conjunctiva). Intralesional triamcinolone. (Book p207)"
+  },
+  {
+   "id": "OPH-C44-013",
+   "sec": "Chalazion and Hordeolum",
+   "page": 207,
+   "fmt": "management",
+   "q": "Treatment for external hordeolum/stye is:",
+   "opts": [
+    "Incision on posterior conjunctiva",
+    "Hot compresses, Oral antibiotics if recurrent",
+    "Intralesional triamcinolone",
+    "Botulinum toxin"
+   ],
+   "ans": 1,
+   "exp": "External hordeolum Rx : Hot compresses, Oral antibiotics if recurrent. (Book p207)"
+  },
+  {
+   "id": "OPH-C44-014",
+   "sec": "Chalazion and Hordeolum",
+   "page": 207,
+   "fmt": "recall",
+   "q": "Recurrence of chalazion should raise suspicion for:",
+   "opts": [
+    "Basal cell carcinoma",
+    "Sebaceous cell carcinoma",
+    "Squamous cell carcinoma",
+    "Melanoma"
+   ],
+   "ans": 1,
+   "exp": "Complications Chalazion Recurrence -> Sebaceous cell carcinoma. External hordeolum -. (Book p207)"
+  },
+  {
+   "id": "OPH-C44-015",
+   "sec": "Chalazion and Hordeolum",
+   "page": 207,
+   "fmt": "recall",
+   "q": "Hordeolum internum is:",
+   "opts": [
+    "Suppurative inflammation of Zeis gland",
+    "Suppurative inflammation of meibomian gland",
+    "Lipogranulomatous inflammation of meibomian gland",
+    "Viral nodule"
+   ],
+   "ans": 1,
+   "exp": "Hordeolum internum : Suppurative inflammation of meibomian gland. (Book p207)"
+  },
+  {
+   "id": "OPH-C44-016",
+   "sec": "Trichiasis",
+   "page": 207,
+   "fmt": "recall",
+   "q": "Trichiasis is defined as inward misdirection of eyelashes that causes:",
+   "opts": [
+    "Lagophthalmos",
+    "Corneal opacity",
+    "Papilledema",
+    "Ptosis"
+   ],
+   "ans": 1,
+   "exp": "TRICHIASIS Inward misdirection of eyelashes Causes corneal opacity. (Book p207)"
+  },
+  {
+   "id": "OPH-C44-017",
+   "sec": "Trichiasis",
+   "page": 207,
+   "fmt": "management",
+   "q": "Treatment for trichiasis — definitive vs periodic:",
+   "opts": [
+    "Epilation definitive, cryotherapy temporary",
+    "Epilation every 1-2 months (periodic), Cryotherapy of lash base definitive",
+    "Only observation",
+    "Hot compresses definitive"
+   ],
+   "ans": 1,
+   "exp": "Treatment : Epilation every 1-2 months. Cryotherapy of lash base : Definitive. (Book p207)"
+  },
+  {
+   "id": "OPH-C44-018",
+   "sec": "Entropion and Ectropion",
+   "page": 207,
+   "fmt": "match",
+   "q": "Match — 1) Entropion  2) Ectropion … A) Outward turning of eyelid margin m/c cause Senility  B) Inward turning of eyelid margin",
+   "opts": [
+    "1-A,2-B",
+    "1-B,2-A",
+    "1-A,2-A",
+    "1-B,2-B"
+   ],
+   "ans": 1,
+   "exp": "Entropion Inward turning; Ectropion Outward turning m/c cause Senility. (Book p207)"
+  },
+  {
+   "id": "OPH-C44-019",
+   "sec": "Entropion and Ectropion",
+   "page": 207,
+   "fmt": "management",
+   "q": "For entropion, management depends on type — Spastic, Senile, Cicatricial correspond to:",
+   "opts": [
+    "Modified Wheeler/Weiss, Botulinum toxin, Modified Burrows/wedge",
+    "Botulinum toxin injection, Modified Wheeler operation / Weiss Operation, Modified Burrows operation / wedge resection",
+    "Wedge resection for all",
+    "Observation for all"
+   ],
+   "ans": 1,
+   "exp": "Entropion Rx : Spastic -> Botulinum toxin injection; Senile -> Modified Wheeler operation, Weiss Operation; Cicatricial -> Modified Burrows operation, wedge resection. (Book p207)"
+  },
+  {
+   "id": "OPH-C44-020",
+   "sec": "Entropion and Ectropion",
+   "page": 207,
+   "fmt": "management",
+   "q": "For ectropion, operations listed are:",
+   "opts": [
+    "Modified Wheeler and Weiss",
+    "Medial conjunctivoplasty and Buryon Smith operation",
+    "Burrows wedge resection",
+    "Botulinum toxin"
+   ],
+   "ans": 1,
+   "exp": "Ectropion Rx : Medial conjunctivoplasty; Buryon Smith operation (as printed). (Book p207)"
+  },
+  {
+   "id": "OPH-C44-021",
+   "sec": "Other lid conditions",
+   "page": 208,
+   "fmt": "fillup",
+   "q": "Distichiasis is an extra ___ row of eyelashes.",
+   "opts": [
+    "anterior",
+    "posterior",
+    "lateral",
+    "medial"
+   ],
+   "ans": 1,
+   "exp": "DISTICHIASIS Extra posterior row of eye lashes. (Book p208)"
+  },
+  {
+   "id": "OPH-C44-022",
+   "sec": "Other lid conditions",
+   "page": 208,
+   "fmt": "fillup",
+   "q": "Madarosis is loss of lateral ___ of eyelashes & eyebrow due to chronic rubbing of the eye.",
+   "opts": [
+    "1/4",
+    "1/3rd",
+    "1/2",
+    "2/3rd"
+   ],
+   "ans": 1,
+   "exp": "MADAROSIS Loss of lateral 1/3rd of eye lashes & eyebrow d/t chronic rubbing of the eye. (Book p208)"
+  },
+  {
+   "id": "OPH-C44-023",
+   "sec": "Other lid conditions",
+   "page": 208,
+   "fmt": "recall",
+   "q": "Tylosis is:",
+   "opts": [
+    "Extra row of lashes",
+    "Thickening of eyelid margin",
+    "Fusion of lid margins",
+    "Loss of lashes"
+   ],
+   "ans": 1,
+   "exp": "TYLOSIS Thickening of eyelid margin. (Book p208)"
+  },
+  {
+   "id": "OPH-C44-024",
+   "sec": "Other lid conditions",
+   "page": 208,
+   "fmt": "recall",
+   "q": "Ankyloblepharon is:",
+   "opts": [
+    "Fusion of eyelid margin of upper & lower lid, seen post trauma",
+    "Inward turning of lid margin",
+    "Outward turning of lid margin",
+    "Extra posterior lashes"
+   ],
+   "ans": 0,
+   "exp": "ANKYLOBLEPHARON Fusion of eyelid margin of upper & lower lid. Post trauma. (Book p208)"
+  },
+  {
+   "id": "OPH-C44-025",
+   "sec": "Congenital Ptosis",
+   "page": 208,
+   "fmt": "recall",
+   "q": "Congenital ptosis is due to defective development of:",
+   "opts": [
+    "Orbicularis oculi",
+    "Levator palpebrae superioris",
+    "Müller's muscle",
+    "Inferior rectus"
+   ],
+   "ans": 1,
+   "exp": "CONGENITAL PTOSIS D/t defective development of levator palpebrae superioris. (Book p208)"
+  },
+  {
+   "id": "OPH-C44-026",
+   "sec": "Congenital Ptosis",
+   "page": 208,
+   "fmt": "recall",
+   "q": "Clinical features of congenital ptosis include:",
+   "opts": [
+    "Prominent extra upper lid crease with hyperactive lid movement",
+    "Absent upper lid crease + Lid lag on downgaze (lid fails to descend)",
+    "Lid retraction on downgaze with hyperactive descent",
+    "Normal crease with lid fully closing on upward gaze"
+   ],
+   "ans": 1,
+   "exp": "Clinical features : Absent upper lid crease. Lid lag on downgaze : Failure of eyelid to go down on downward gaze. (Book p208)"
+  },
+  {
+   "id": "OPH-C44-027",
+   "sec": "Congenital Ptosis",
+   "page": 208,
+   "fmt": "management",
+   "q": "Treatment of congenital ptosis based on LPS function: Moderate / Fair vs Severe / Poor",
+   "opts": [
+    "Moderate-Fair -> Frontalis sling, Severe-Poor -> LPS resection",
+    "Moderate-Fair -> LPS resection, Severe-Poor -> Frontalis sling Sx",
+    "Both LPS resection",
+    "Both observation"
+   ],
+   "ans": 1,
+   "exp": "Treatment table : Moderate LPS Fair -> LPS resection; Severe LPS Poor -> Frontalis sling Sx. (Book p208)"
+  },
+  {
+   "id": "OPH-C44-028",
+   "sec": "Marcus Gunn",
+   "page": 208,
+   "fmt": "scenario",
+   "q": "A child with closed jaw shows ptosis, but on opening the jaw the ptotic lid moves up. Diagnosis as per book?",
+   "opts": [
+    "Simple congenital ptosis alone without synkinesis",
+    "Marcus Gunn Jaw winking: trigemino-oculomotor synkinesis",
+    "Horner's syndrome with sympathetic ptosis",
+    "Myasthenia gravis with variable fatigable ptosis"
+   ],
+   "ans": 1,
+   "exp": "Marcus Gunn Jaw winking syndrome : D/t trigemino-oculomotor nerve synkinesis. Closed jaw -> ptosis Open jaw -> lid moves up. (Book p208)"
+  },
+  {
+   "id": "OPH-C44-029",
+   "sec": "Marcus Gunn",
+   "page": 208,
+   "fmt": "recall",
+   "q": "Marcus Gunn jaw winking is due to abnormal synkinesis between:",
+   "opts": [
+    "Facial and trigeminal",
+    "Trigemino-oculomotor nerves",
+    "Optic and oculomotor",
+    "Abducent and trigeminal"
+   ],
+   "ans": 1,
+   "exp": "Marcus Gunn D/t trigemino-oculomotor nerve synkinesis. (Book p208)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U44-1",
+   "ch": 44,
+   "n": 1,
+   "title": "Anatomy of eyelid – muscles and glands",
+   "sec": "Adnexa · p206",
+   "guide": "3 muscles CN III Sympathetic CN VII ptosis lagophthalmos; 3 glands modified sebaceous/sweat; grey line anterior posterior lamina.",
+   "qs": [
+    "OPH-C44-001",
+    "OPH-C44-002",
+    "OPH-C44-003",
+    "OPH-C44-004",
+    "OPH-C44-005",
+    "OPH-C44-006",
+    "OPH-C44-007",
+    "OPH-C44-008"
+   ]
+  },
+  {
+   "id": "OPH-U44-2",
+   "ch": 44,
+   "n": 2,
+   "title": "Chalazion and Hordeolum",
+   "sec": "Adnexa · p206-207",
+   "guide": "Lipogranulomatous meibomian non-infective vs suppurative zeis staph; painless away from margin vs painful diffuse; triamcinolone I&C vs hot compress; recurrence sebaceous carcinoma; internum meibomian suppurative.",
+   "qs": [
+    "OPH-C44-009",
+    "OPH-C44-010",
+    "OPH-C44-011",
+    "OPH-C44-012",
+    "OPH-C44-013",
+    "OPH-C44-014",
+    "OPH-C44-015"
+   ]
+  },
+  {
+   "id": "OPH-U44-3",
+   "ch": 44,
+   "n": 3,
+   "title": "Trichiasis, Entropion and Ectropion",
+   "sec": "Adnexa · p207",
+   "guide": "Trichiasis inward lashes corneal opacity epilation cryotherapy; entropion inward vs ectropion outward senility; operations Botulinum Wheeler Weiss Burrows wedge.",
+   "qs": [
+    "OPH-C44-016",
+    "OPH-C44-017",
+    "OPH-C44-018",
+    "OPH-C44-019",
+    "OPH-C44-020"
+   ]
+  },
+  {
+   "id": "OPH-U44-4",
+   "ch": 44,
+   "n": 4,
+   "title": "Miscellaneous lid disorders and congenital ptosis",
+   "sec": "Adnexa · p208",
+   "guide": "Distichiasis posterior row; madarosis lateral 1/3 loss rubbing; tylosis thick margin; ankyloblepharon fusion post trauma; congenital LPS absent crease lid lag LPS resection vs frontalis sling; Marcus Gunn trigemino-oculomotor winking.",
+   "qs": [
+    "OPH-C44-021",
+    "OPH-C44-022",
+    "OPH-C44-023",
+    "OPH-C44-024",
+    "OPH-C44-025",
+    "OPH-C44-026",
+    "OPH-C44-027",
+    "OPH-C44-028",
+    "OPH-C44-029"
+   ]
+  }
+ ]
+}

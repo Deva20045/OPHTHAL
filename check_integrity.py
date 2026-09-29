@@ -62,6 +62,10 @@ LIVE_CHAPTERS = {
     40: ("Corneal Dystrophies, Keratoconus and Miscellaneous Disorders", 180, 184, 67, 6),
     41: ("Anterior Uveitis", 185, 190, 76, 9),
     42: ("Intermediate, Posterior, Pan-uveitis and Miscellaneous Disorders", 191, 194, 48, 9),
+    43: ("Anatomy of Conjunctiva, Types of Conjunctivitis and Pterygium", 195, 205, 72, 7),
+    44: ("Eyelids : Anatomy and Pathologies", 206, 208, 29, 4),
+    45: ("Anatomy of Orbit and Proptosis", 209, 214, 44, 5),
+    46: ("Lacrimal apparatus : Anatomy, Watering eye and Dry eye", 215, 219, 33, 4),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain

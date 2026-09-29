@@ -1,0 +1,763 @@
+{
+ "chapter": 45,
+ "title": "Anatomy of Orbit and Proptosis",
+ "pageRange": "209-214",
+ "questions": [
+  {
+   "id": "OPH-C45-001",
+   "sec": "Anatomy of Orbit - Walls",
+   "page": 209,
+   "fmt": "fillup",
+   "q": "The orbit is described as a ___ surrounding the eye.",
+   "opts": [
+    "soft tissue pouch",
+    "bony cage",
+    "fibrous ring",
+    "muscular cone"
+   ],
+   "ans": 1,
+   "exp": "Bony cage surrounding eye. (Book p209)"
+  },
+  {
+   "id": "OPH-C45-002",
+   "sec": "Anatomy of Orbit - Walls",
+   "page": 209,
+   "fmt": "match",
+   "q": "Match orbital wall with constituent bones — 1) Roof  2) Lateral wall  3) Floor … A) Maxilla, Zygomatic, Palatine  B) Frontal, Lesser wing of sphenoid  C) Zygomatic, Greater wing of sphenoid",
+   "opts": [
+    "1-B,2-C,3-A",
+    "1-A,2-C,3-B",
+    "1-C,2-B,3-A",
+    "1-B,2-A,3-C"
+   ],
+   "ans": 0,
+   "exp": "Table: Roof Frontal + Lesser wing sphenoid; Lateral Zygomatic + Greater wing sphenoid; Floor Maxilla + Zygomatic + Palatine (m/c to fracture -> Blow out fracture). (Book p209)"
+  },
+  {
+   "id": "OPH-C45-003",
+   "sec": "Anatomy of Orbit - Walls",
+   "page": 209,
+   "fmt": "recall",
+   "q": "Which wall of orbit is most common to fracture, resulting in Blow out fracture?",
+   "opts": [
+    "Roof",
+    "Lateral wall",
+    "Floor",
+    "Medial wall"
+   ],
+   "ans": 2,
+   "exp": "Floor (m/c to fracture -> Blow out fracture). (Book p209)"
+  },
+  {
+   "id": "OPH-C45-004",
+   "sec": "Anatomy of Orbit - Walls",
+   "page": 209,
+   "fmt": "fillup",
+   "q": "The thinnest wall of orbit is the medial wall, also called ___.",
+   "opts": [
+    "lamina cribrosa",
+    "lamina papyracea",
+    "orbital plate",
+    "palatine process"
+   ],
+   "ans": 1,
+   "exp": "Medial wall -> Thinnest wall (Lamina papyracea). (Book p209)"
+  },
+  {
+   "id": "OPH-C45-005",
+   "sec": "Anatomy of Orbit - Walls",
+   "page": 209,
+   "fmt": "recall",
+   "q": "Bones forming the medial wall (mnemonic SMEL) are:",
+   "opts": [
+    "Sphenoid body, Maxilla frontal process, Ethmoid bone, Lacrimal bone",
+    "Frontal, Maxilla, Ethmoid, Lacrimal",
+    "Sphenoid wing, Zygomatic, Maxilla, Palatine",
+    "Nasal, Lacrimal, Ethmoid, Sphenoid"
+   ],
+   "ans": 0,
+   "exp": "Medial wall mnemonic SMEL : Sphenoid Body, Maxilla Frontal process, Ethmoid bone, Lacrimal bone. (Book p209)"
+  },
+  {
+   "id": "OPH-C45-006",
+   "sec": "Anatomy of Orbit - Walls",
+   "page": 209,
+   "fmt": "recall",
+   "q": "In the schematic orbit diagram, medial walls are parallel to each other separating orbit from nasal cavities (~2.5 cm apart), lateral walls are at 90° to each other separating orbit from middle cranial fossa, apex angle is 90° and each medial-lateral angle is:",
+   "opts": [
+    "30°",
+    "45°",
+    "60°",
+    "90°"
+   ],
+   "ans": 1,
+   "exp": "Orbit : Schematic shows Medial walls Parallel 2.5 cm apart; Lateral walls 90° to each other; Apex 90°; 45° between medial and lateral at base. (Book p209)"
+  },
+  {
+   "id": "OPH-C45-007",
+   "sec": "Anatomy of Orbit - Walls",
+   "page": 209,
+   "fmt": "recall",
+   "q": "The Annulus of Zinn contains origin of all extra-ocular muscles EXCEPT:",
+   "opts": [
+    "Superior rectus",
+    "Inferior rectus",
+    "Inferior Oblique",
+    "Medial rectus"
+   ],
+   "ans": 2,
+   "exp": "Contains Annulus of Zinn -> Origin of all extra-ocular muscles (except Inferior Oblique). (Book p209)"
+  },
+  {
+   "id": "OPH-C45-008",
+   "sec": "Anatomy of Orbit - Openings",
+   "page": 209,
+   "fmt": "recall",
+   "q": "Openings into orbital apex are:",
+   "opts": [
+    "Optic canal only without any fissures",
+    "Superior orbital fissure only on lateral wall",
+    "Optic canal + Superior fissure (roof-lateral) + Inferior fissure (floor-lateral)",
+    "Foramen rotundum and ovale of sphenoid bone"
+   ],
+   "ans": 2,
+   "exp": "OPENINGS INTO ORBITAL APEX a Optic canal b Superior orbital fissure (Between roof and lateral wall) c Inferior orbital fissure (Between floor and lateral wall). (Book p209)"
+  },
+  {
+   "id": "OPH-C45-009",
+   "sec": "Anatomy of Orbit - Openings",
+   "page": 209,
+   "fmt": "match",
+   "q": "In the 'Structures passing through the openings' diagram, which structures pass through the Annulus of Zinn?",
+   "opts": [
+    "Only the optic nerve and central retinal artery",
+    "Optic nerve II, Ophthalmic artery, III superior/inferior, V1 nasociliary, VI abducent",
+    "Only the lacrimal nerve and frontal nerve",
+    "Only the trochlear nerve IV and lymphatics"
+   ],
+   "ans": 1,
+   "exp": "Diagram shows Structures passing through Annulus of Zinn : Optic nerve CN II, Ophthalmic artery, Superior branch oculomotor III, Nasociliary V1, Abducent VI, Inferior branch oculomotor III, plus nearby Levator palpebrae, Superior oblique outside but near, lacrimal/frontal/trochlear outside. Also Superior ophthalmic vein, Inferior ophthalmic vein. (Book p209)"
+  },
+  {
+   "id": "OPH-C45-010",
+   "sec": "Anatomy of Orbit - Openings",
+   "page": 209,
+   "fmt": "recall",
+   "q": "The diagram of bones forming orbit labels all EXCEPT:",
+   "opts": [
+    "Frontal bone, Supraorbital foramen, Nasal bone, Lacrimal bone, Ethmoid bone",
+    "Sphenoid bone, Superior orbital fissure, Optic canal, Zygomatic bone, Maxilla",
+    "Lacrimal fossa, Palatine bone, Infraorbital foramen",
+    "Pterygoid plate and foramen magnum"
+   ],
+   "ans": 3,
+   "exp": "Bones forming orbit labels: Frontal, Supraorbital margin/foramen, Nasal, Sphenoid, Superior orbital fissure, Optic canal, Zygomatic, Maxilla, Lacrimal, Ethmoid, Lacrimal fossa, Palatine, Infraorbital foramen. (Book p209)"
+  },
+  {
+   "id": "OPH-C45-011",
+   "sec": "Proptosis definition",
+   "page": 210,
+   "fmt": "numeric",
+   "q": "Proptosis/Exophthalmos is defined as protrusion of eyeball from lateral orbital rim > ___ mm OR ___ mm difference between 2 eyes.",
+   "opts": [
+    ">21mm OR 2mm difference",
+    ">18mm OR 3mm difference",
+    ">24mm OR 1mm difference",
+    ">20mm OR 4mm difference"
+   ],
+   "ans": 0,
+   "exp": "Protrusion >21mm OR 2mm difference between 2 eyes (as in text diagram). Note earlier line says >21mm. (Book p210)"
+  },
+  {
+   "id": "OPH-C45-012",
+   "sec": "Proptosis measurement",
+   "page": 210,
+   "fmt": "match",
+   "q": "Match exophthalmometer — 1) Hertel's  2) Leude's … A) Only measures 1 eye at a time, Preferred in children  B) Can measure both eyes together, Preferred overall",
+   "opts": [
+    "1-A,2-B",
+    "1-B,2-A",
+    "1-A,2-A",
+    "1-B,2-B"
+   ],
+   "ans": 1,
+   "exp": "Hertel's Can measure both eyes together Preferred overall; Leude's Only measures 1 eye at a time Preferred in children. Distance measured between Anterior part of cornea and Lateral orbital rim. (Book p210)"
+  },
+  {
+   "id": "OPH-C45-013",
+   "sec": "Proptosis causes",
+   "page": 210,
+   "fmt": "recall",
+   "q": "Bilateral painless causes of proptosis listed include:",
+   "opts": [
+    "Only orbital cellulitis",
+    "Grave's disease, Cortico-cavernous fistula, Leukemia/AML (in children)",
+    "Only cavernous sinus thrombosis",
+    "Only dermoid cyst"
+   ],
+   "ans": 1,
+   "exp": "CAUSES Bilateral Painless : Grave's disease, Cortico-cavernous fistula, Leukemia/AML (in children); Painful : Cavernous sinus thrombosis, Grave's (restriction causing pain). (Book p210)"
+  },
+  {
+   "id": "OPH-C45-014",
+   "sec": "Proptosis causes",
+   "page": 210,
+   "fmt": "recall",
+   "q": "Bilateral painful causes of proptosis listed are:",
+   "opts": [
+    "Cavernous sinus thrombosis + Grave's with restrictive painful motility",
+    "Only orbital cellulitis unilaterally (not bilateral painful)",
+    "Only leukemia/AML in children (painless)",
+    "Only ON glioma and hemangioma (painless axial)"
+   ],
+   "ans": 0,
+   "exp": "Bilateral Painful : Cavernous sinus thrombosis (CST), Grave's (restriction). (Book p210)"
+  },
+  {
+   "id": "OPH-C45-015",
+   "sec": "Proptosis causes - unilateral",
+   "page": 210,
+   "fmt": "fillup",
+   "q": "Axial proptosis is along the 1° axis with outward, straight protrusion, whereas abaxial is ___ 1° axis and direction depends on cause.",
+   "opts": [
+    "along",
+    "away from",
+    "perpendicular to",
+    "oblique to"
+   ],
+   "ans": 1,
+   "exp": "Axial : Along 1° axis Outward straight protrusion; Abaxial : Away from 1° axis Direction depends on cause. (Book p210)"
+  },
+  {
+   "id": "OPH-C45-016",
+   "sec": "Proptosis causes - unilateral",
+   "page": 210,
+   "fmt": "match",
+   "q": "Unilateral Axial proptosis — 1) Painful  2) Painless … A) ON glioma, Cavernous hemangioma  B) Orbital cellulitis, CST",
+   "opts": [
+    "1-A,2-B",
+    "1-B,2-A",
+    "1-A,2-A",
+    "1-B,2-B"
+   ],
+   "ans": 1,
+   "exp": "Axial Painful : Orbital cellulitis, CST; Painless : ON glioma, Cavernous hemangioma. (Book p210)"
+  },
+  {
+   "id": "OPH-C45-017",
+   "sec": "Proptosis causes - unilateral",
+   "page": 210,
+   "fmt": "match",
+   "q": "Unilateral Abaxial proptosis — Inferomedial, Upward, Lateral correspond to which causes? Inferomedial = Superotemporal lesions / Lacrimal gland tumors / Dermoid cysts; Upward = Maxillary sinus tumor; Lateral = Lacrimal sac ??? Check the table.",
+   "opts": [
+    "Inferomedial: Superotemporal lesions/Lacrimal gland/Dermoid; Upward: maxillary sinus tumor; Lateral: Lacrimal sac lesion",
+    "All are superotemporal",
+    "All maxillary sinus",
+    "Inferomedial maxillary sinus, Upward lacrimal"
+   ],
+   "ans": 0,
+   "exp": "Abaxial : Inferomedial : Superotemporal lesions, Lacrimal gland tumors, Dermoid cysts; Upward : maxillary sinus tumor; Lateral : Lacrimal sac ??? (as printed). (Book p210)"
+  },
+  {
+   "id": "OPH-C45-018",
+   "sec": "Proptosis causes - unilateral",
+   "page": 211,
+   "fmt": "recall",
+   "q": "Most common cause of proptosis — In adults is Grave's disease (unilateral or bilateral), In children U/L orbital cellulitis, B/L Leukemia/AML. True or false?",
+   "opts": [
+    "True as per m/c causes",
+    "False – adults most common is cellulitis",
+    "False – children most common is Grave's",
+    "False – leukemia is adult cause"
+   ],
+   "ans": 0,
+   "exp": "m/c causes : In adults : Grave's disease. (Unilateral or bilateral proptosis.) In children : a U/L Orbital cellulitis, b B/L Leukemia/AML. (Book p211)"
+  },
+  {
+   "id": "OPH-C45-019",
+   "sec": "Inflammatory Causes - CST vs OAS",
+   "page": 211,
+   "fmt": "match",
+   "q": "Cavernous sinus thrombosis vs Orbital apex syndrome — Structures involved:",
+   "opts": [
+    "CST: CN III,IV,VI,V1,Va ; OAS: CN II,III,IV,VI,V1 via fissure + optic canal",
+    "CST: Only CN II ; OAS: Only CN V2/V3",
+    "CST and OAS both involve only CN VII",
+    "CST: All cranial nerves II-XII equally"
+   ],
+   "ans": 0,
+   "exp": "Table: Structures involved CST CN III,IV,VI,V1,Va ; OAS Contains structures passing through superior orbital fissure & optic canal CN II,III,IV,VI,V1. (Book p211)"
+  },
+  {
+   "id": "OPH-C45-020",
+   "sec": "Inflammatory Causes - CST vs OAS",
+   "page": 211,
+   "fmt": "recall",
+   "q": "Ophthalmoplegia : Sequential vs Concurrent — CST shows Sequential CN VI -> III -> IV; OAS shows:",
+   "opts": [
+    "Sequential CN III -> VI -> IV in reverse order",
+    "Concurrent: all nerves together -> all muscle actions lost simultaneously",
+    "Only CN VI palsy with no other involvement",
+    "Only isolated CN III palsy with sparing"
+   ],
+   "ans": 1,
+   "exp": "CST : Sequential CN VI affected -> CN III -> CN IV; OAS : Concurrent ophthalmoplegia All nerves affected together -> All muscle actions lost at same time. Ophthalmic nerve V1 corneal anaesthesia Present in both. (Book p211)"
+  },
+  {
+   "id": "OPH-C45-021",
+   "sec": "Inflammatory Causes - CST vs OAS",
+   "page": 211,
+   "fmt": "match",
+   "q": "Visual loss D/t CN II palsy — CST vs OAS : CST No loss initially, Can be affected in late stages; OAS ___",
+   "opts": [
+    "Complete LOV",
+    "No loss even late",
+    "Only mild blurring",
+    "Only color vision defect"
+   ],
+   "ans": 0,
+   "exp": "Visual loss : CST No loss initially Can be affected late; OAS Complete LOV. (Book p211)"
+  },
+  {
+   "id": "OPH-C45-022",
+   "sec": "Inflammatory Causes - CST vs OAS",
+   "page": 211,
+   "fmt": "recall",
+   "q": "Edema in mastoid area D/t CN V2? Actually table says D/t ??? – Present in CST, Absent in OAS. And Chemosis & Proptosis — CST B/L marked severe presenting feature, OAS U/L mild. True?",
+   "opts": [
+    "True as per second table",
+    "False",
+    "Both have B/L severe",
+    "Both U/L mild"
+   ],
+   "ans": 0,
+   "exp": "Second table: Visual loss as above; Edema in mastoid area D/t ??? Present in CST Absent in OAS; Chemosis & Proptosis CST B/L marked severe OAS U/L mild; Systemic signs marked vs mild; Presentation Always B/L (starts U/L) vs Always U/L. (Book p211)"
+  },
+  {
+   "id": "OPH-C45-023",
+   "sec": "Inflammatory Causes - CST vs OAS",
+   "page": 211,
+   "fmt": "fillup",
+   "q": "Cavernous sinus thrombosis always presents as B/L (starts U/L) while orbital apex syndrome always presents as ___ .",
+   "opts": [
+    "B/L",
+    "U/L",
+    "Alternating",
+    "No proptosis"
+   ],
+   "ans": 1,
+   "exp": "Presentation CST Always B/L (starts U/L); OAS Always U/L. (Book p211)"
+  },
+  {
+   "id": "OPH-C45-024",
+   "sec": "Orbital Cellulitis",
+   "page": 212,
+   "fmt": "recall",
+   "q": "Most common cause of orbital cellulitis is:",
+   "opts": [
+    "Primary hematogenous spread from distant focus alone",
+    "Extension of paranasal sinusitis (Ethmoid sinusitis most common)",
+    "Exogenous trauma only without sinus involvement",
+    "Dacryocystitis spreading to orbit primarily"
+   ],
+   "ans": 1,
+   "exp": "ORBITAL CELLULITIS Causes : 1) Extension of paranasal sinusitis (m/c) : Ethmoid sinusitis (m/c). Staphylococcus and Streptococci m/c etiological agents. m/c in children with URTI. (Book p212)"
+  },
+  {
+   "id": "OPH-C45-025",
+   "sec": "Orbital Cellulitis",
+   "page": 212,
+   "fmt": "recall",
+   "q": "Most common etiological agents for orbital cellulitis are:",
+   "opts": [
+    "Viruses",
+    "Staphylococcus and Streptococci",
+    "Fungi",
+    "Pseudomonas"
+   ],
+   "ans": 1,
+   "exp": "Staphylococcus and Streptococci : m/c etiological agents. (Book p212)"
+  },
+  {
+   "id": "OPH-C45-026",
+   "sec": "Orbital Cellulitis",
+   "page": 212,
+   "fmt": "scenario",
+   "q": "Progression if no treatment : Pre-septal cellulitis (Eyelid edema Pain Inability to open eye Rx Topical/oral antibiotics) -> Orbital cellulitis (Proptosis Limitation of eye movement Rx IV antibiotics) -> ___ if still no Rx.",
+   "opts": [
+    "Subperiosteal abscess",
+    "Cavernous sinus thrombosis only",
+    "Optic atrophy",
+    "Chalazion"
+   ],
+   "ans": 0,
+   "exp": "Progression : Pre-septal cellulitis If no Rx -> Orbital cellulitis If no Rx -> Subperiosteal abscess. Complications : Compression of optic nerve -> Blindness. (Book p212)"
+  },
+  {
+   "id": "OPH-C45-027",
+   "sec": "Orbital Cellulitis",
+   "page": 212,
+   "fmt": "recall",
+   "q": "Orbital septum is formed by and separates:",
+   "opts": [
+    "Muscles/fascia/canthal ligaments; separates orbit into pre-septal and post-septal",
+    "Bone only forming the orbital walls separating sinuses",
+    "Conjunctiva only separating cornea from sclera",
+    "Nasal septum separating nasal cavities only"
+   ],
+   "ans": 0,
+   "exp": "Note : Orbital septum Formed by muscles of eyelid, fascia, medial and lateral canthal ligament. Separates orbit from pre-orbital area forming Pre-septal Post-septal. (Book p212)"
+  },
+  {
+   "id": "OPH-C45-028",
+   "sec": "Vascular causes - CCF",
+   "page": 212,
+   "fmt": "recall",
+   "q": "Carotico-Cavernous Fistula (CCF) is an arterio-venous fistula between carotid artery & cavernous sinus. Cause in 75% cases is:",
+   "opts": [
+    "Spontaneous",
+    "Trauma",
+    "Infection",
+    "Tumor"
+   ],
+   "ans": 1,
+   "exp": "CCF Cause : Trauma (75% cases), Spontaneous. (Book p212)"
+  },
+  {
+   "id": "OPH-C45-029",
+   "sec": "Vascular causes - CCF",
+   "page": 212,
+   "fmt": "recall",
+   "q": "Features of CCF — Proptosis is:",
+   "opts": [
+    "Unilateral non-pulsatile proptosis with no bruit or thrill",
+    "Bilateral pulsatile proptosis with bruit/thrill that stops with carotid pressure",
+    "Only upward displacement with no pulsatility",
+    "Only inferomedial displacement with chemosis only"
+   ],
+   "ans": 1,
+   "exp": "Feature : Proptosis Bilateral Pulsatile Bruit & thrill present, stops on applying pressure to ipsilateral carotid artery. Ophthalmoplegia -> First affects CN VI. IOC Digital subtraction carotid angiography DSCA. (Book p212)"
+  },
+  {
+   "id": "OPH-C45-030",
+   "sec": "Vascular causes - CCF",
+   "page": 212,
+   "fmt": "recall",
+   "q": "In CCF, ophthalmoplegia first affects which cranial nerve?",
+   "opts": [
+    "CN III",
+    "CN IV",
+    "CN VI",
+    "CN II"
+   ],
+   "ans": 2,
+   "exp": "Ophthalmoplegia -> First affects CN VI. (Book p212)"
+  },
+  {
+   "id": "OPH-C45-031",
+   "sec": "Vascular causes - CCF",
+   "page": 212,
+   "fmt": "recall",
+   "q": "Investigation of choice for CCF is:",
+   "opts": [
+    "Non-contrast CT scan of brain only",
+    "Magnetic resonance imaging without contrast",
+    "Digital subtraction carotid angiography (DSCA)",
+    "Orbital ultrasound B-scan alone"
+   ],
+   "ans": 2,
+   "exp": "IOC : Digital subtraction carotid angiography (DSCA). (Book p212)"
+  },
+  {
+   "id": "OPH-C45-032",
+   "sec": "Orbital varices",
+   "page": 213,
+   "fmt": "recall",
+   "q": "Orbital varices are defined as:",
+   "opts": [
+    "Acquired arterial malformation",
+    "Congenital enlargement of pre-existing venous channels",
+    "Lymphatic tumor",
+    "Dermoid cyst"
+   ],
+   "ans": 1,
+   "exp": "Orbital varices : Congenital enlargement of pre-existing venous channels. (Book p213)"
+  },
+  {
+   "id": "OPH-C45-033",
+   "sec": "Orbital varices",
+   "page": 213,
+   "fmt": "recall",
+   "q": "Features and complications of orbital varices — Proptosis Unilateral Bag of worms consistency on palpation Non-pulsatile No bruit no thrill Complication:",
+   "opts": [
+    "Orbital hemorrhage/thrombosis",
+    "Pulsatile proptosis",
+    "Bruit present",
+    "Corneal ulcer only"
+   ],
+   "ans": 0,
+   "exp": "Features : Unilateral Bag of worms, Non-pulsatile No bruit no thrill. Complication : Orbital hemorrhage/thrombosis. (Book p213)"
+  },
+  {
+   "id": "OPH-C45-034",
+   "sec": "Types of proptosis",
+   "page": 213,
+   "fmt": "match",
+   "q": "Match intermittent proptosis trigger with cause — 1) ↑ on Valsalva/bending forward  2) ↑ with URTI  3) ↑ on crying … A) Orbital varices  B) Orbital lymphangiomas  C) Capillary hemangioma (children) / Encephalocele (infants)",
+   "opts": [
+    "1-A,2-B,3-C",
+    "1-C,2-B,3-A",
+    "1-B,2-A,3-C",
+    "1-A,2-C,3-B"
+   ],
+   "ans": 0,
+   "exp": "Intermittent proptosis : ↑ on Valsalva/bending forward Orbital varices; ↑ with URTI Orbital lymphangiomas; ↑ on crying Children Capillary hemangioma Infants Encephalocele. Pulsatile: Cortico cavernous fistula, Orbital roof fracture in NF-1 / Trauma. (Book p213)"
+  },
+  {
+   "id": "OPH-C45-035",
+   "sec": "Types of proptosis",
+   "page": 213,
+   "fmt": "recall",
+   "q": "Pulsatile proptosis causes include:",
+   "opts": [
+    "Orbital varices only (intermittent non-pulsatile)",
+    "Cortico-cavernous fistula or Orbital roof fracture in NF-1/Trauma",
+    "Capillary hemangioma only in infants (on crying)",
+    "Buphthalmos with enlarged globe only"
+   ],
+   "ans": 1,
+   "exp": "Pulsatile proptosis : Cortico cavernous fistula, Orbital roof fracture in NF-1 / Trauma. (Book p213)"
+  },
+  {
+   "id": "OPH-C45-036",
+   "sec": "Pseudo proptosis",
+   "page": 213,
+   "fmt": "recall",
+   "q": "Pseudo proptosis is appearance of eyeball protrusion. Causes include all EXCEPT:",
+   "opts": [
+    "Retraction of upper eyelid (can be side effect of apraclonidine)",
+    "Enophthalmos where contralateral eye appears proptosed (Trauma, Horner's)",
+    "Axial length >26mm, Buphthalmos (enlarged eyeball)",
+    "True orbital tumor pushing eye"
+   ],
+   "ans": 3,
+   "exp": "Pseudo proptosis Causes : Retraction of upper eyelid Can be side effect of apraclonidine; Enophthalmos Contralateral eye appears proptosed Seen in Trauma, Horner's; Axial length >26mm; Buphthalmos (enlarged eyeball). (Book p213)"
+  },
+  {
+   "id": "OPH-C45-037",
+   "sec": "TAO - overview",
+   "page": 213,
+   "fmt": "recall",
+   "q": "Thyroid Associated Ophthalmology (TAO) — Most common cause of unilateral and bilateral proptosis in adults, can occur in:",
+   "opts": [
+    "Only hyperthyroidism",
+    "Any state of thyroid activity",
+    "Only hypothyroidism",
+    "Only euthyroid"
+   ],
+   "ans": 1,
+   "exp": "TAO OVERVIEW m/c cause of unilateral and bilateral proptosis in adults. Can occur in any state of thyroid activity. (Book p213)"
+  },
+  {
+   "id": "OPH-C45-038",
+   "sec": "TAO - overview",
+   "page": 213,
+   "fmt": "recall",
+   "q": "Pathogenesis of TAO includes:",
+   "opts": [
+    "Only orbital fat atrophy with enophthalmos occurring",
+    "EOM enlargement + fat infiltration pushing eyeball forward to frank proptosis",
+    "Only muscle fibrosis without inflammatory swelling",
+    "Only lacrimal gland hypertrophy with tearing"
+   ],
+   "ans": 1,
+   "exp": "Pathogenesis : Inflammation -> Enlargement of extra-ocular muscles. Inflammation and infiltration of orbital fat -> Pushing of eyeball forward -> Frank proptosis. (Book p213)"
+  },
+  {
+   "id": "OPH-C45-039",
+   "sec": "TAO - clinical features",
+   "page": 214,
+   "fmt": "match",
+   "q": "Match TAO signs — 1) Goldzeiher's sign (earliest)  2) Dalyrymple sign (m/c)  3) Proptosis (2nd m/c) … A) Congestion/hyperemia  B) Upper eyelid retraction -> pseudo proptosis D/t constriction of Muller's muscle Seen in 93% C) Axial uni/bilateral Seen in 60%",
+   "opts": [
+    "1-A,2-B,3-C",
+    "1-B,2-A,3-C",
+    "1-C,2-B,3-A",
+    "1-A,2-C,3-B"
+   ],
+   "ans": 0,
+   "exp": "Table : Goldzeiher's sign (earliest) Congestion/hyperemia; Dalyrymple sign (m/c) upper eyelid retraction -> pseudo proptosis D/t constriction of Muller's muscle Seen in 93%; Proptosis (2nd m/c) Axial uni/bilateral Seen in 60%. (Book p214)"
+  },
+  {
+   "id": "OPH-C45-040",
+   "sec": "TAO - clinical features",
+   "page": 214,
+   "fmt": "recall",
+   "q": "Von Graefe sign, Kocher's sign, Stellwags sign in TAO are:",
+   "opts": [
+    "von Graefe lid lag on downgaze, Kocher staring/startled, Stellwag reduced blinking",
+    "All are pupillary light reflex abnormalities only",
+    "All are optic nerve head changes on disc exam",
+    "Only von Graefe is relevant, others are absent in TAO"
+   ],
+   "ans": 0,
+   "exp": "Von Graefe sign Lid lag On downgaze upper eyelid does not move down; Kocher's sign Staring/startled appearance; Stellwags sign Reduced eyelid blinking d/t upper eyelid retraction. (Book p214)"
+  },
+  {
+   "id": "OPH-C45-041",
+   "sec": "TAO - clinical features",
+   "page": 214,
+   "fmt": "recall",
+   "q": "Restrictive squint in TAO is due to Fibrosis of extra ocular muscles -> Loss of movement; muscle affected first is:",
+   "opts": [
+    "Superior rectus",
+    "Inferior rectus (Elevation affected first)",
+    "Lateral rectus",
+    "Superior oblique"
+   ],
+   "ans": 1,
+   "exp": "Restrictive squint Fibrosis of extra ocular muscles -> Loss of movement muscle affected first : Inferior rectus. (Elevation affected first). (Book p214)"
+  },
+  {
+   "id": "OPH-C45-042",
+   "sec": "TAO - clinical features",
+   "page": 214,
+   "fmt": "scenario",
+   "q": "Clinical photographs show Dalyrymple sign (upper eyelid retraction) and proptosis vs normal side, and Von Graefe sign showing eyeball down eyelid lagging. Which sign is marked as earliest?",
+   "opts": [
+    "Goldzeiher's sign",
+    "Dalyrymple sign",
+    "Proptosis",
+    "Kocher's sign"
+   ],
+   "ans": 0,
+   "exp": "Goldzeiher's sign (earliest) Congestion/hyperemia. Dalyrymple m/c, Proptosis 2nd m/c. (Book p214)"
+  },
+  {
+   "id": "OPH-C45-043",
+   "sec": "TAO - complications & management",
+   "page": 214,
+   "fmt": "recall",
+   "q": "Complication of TAO due to inability to close eye is:",
+   "opts": [
+    "Primary cataract formation with lens opacity",
+    "Exposure keratitis from lagophthalmos and incomplete closure",
+    "Acute angle-closure glaucoma with rising IOP",
+    "Optic neuritis with demyelination only"
+   ],
+   "ans": 1,
+   "exp": "Complication : Exposure Keratitis (EK) d/t inability to close eye. Management : Ensure euthyroid state. Supportive For EK Lubricants, For upper lid retraction Botox injection into Muller's muscle, For inflammation Systemic steroids. (Book p214)"
+  },
+  {
+   "id": "OPH-C45-044",
+   "sec": "TAO - complications & management",
+   "page": 214,
+   "fmt": "management",
+   "q": "Management for TAO upper lid retraction and inflammation are:",
+   "opts": [
+    "Upper lid retraction Botox injection into levator, inflammation topical antibiotics",
+    "Upper lid retraction Botox injection into Muller's muscle, For inflammation Systemic steroids, For EK Lubricants",
+    "Only observation",
+    "Surgery is first line"
+   ],
+   "ans": 1,
+   "exp": "For EK Lubricants; For upper lid retraction Botox injection into Muller's muscle; For inflammation Systemic steroids. (Book p214)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OPH-U45-1",
+   "ch": 45,
+   "n": 1,
+   "title": "Anatomy of orbit – walls and openings",
+   "sec": "Orbit · p209",
+   "guide": "Bony cage walls roof lateral floor blowout medial lamina SMEL 2.5cm 45° 90° Annulus Zinn except inferior oblique openings optic superior inferior fissures.",
+   "qs": [
+    "OPH-C45-001",
+    "OPH-C45-002",
+    "OPH-C45-003",
+    "OPH-C45-004",
+    "OPH-C45-005",
+    "OPH-C45-006",
+    "OPH-C45-007",
+    "OPH-C45-008",
+    "OPH-C45-009",
+    "OPH-C45-010"
+   ]
+  },
+  {
+   "id": "OPH-U45-2",
+   "ch": 45,
+   "n": 2,
+   "title": "Proptosis – definition, measurement and general causes",
+   "sec": "Orbit · p210",
+   "guide": ">21mm or 2mm diff Hertel both eyes vs Leude one eye children; bilateral painless Grave CCF leukemia vs painful CST; axial vs abaxial inferomedial superotemporal etc.",
+   "qs": [
+    "OPH-C45-011",
+    "OPH-C45-012",
+    "OPH-C45-013",
+    "OPH-C45-014",
+    "OPH-C45-015",
+    "OPH-C45-016",
+    "OPH-C45-017",
+    "OPH-C45-018"
+   ]
+  },
+  {
+   "id": "OPH-U45-3",
+   "ch": 45,
+   "n": 3,
+   "title": "Inflammatory causes – CST vs Orbital apex syndrome",
+   "sec": "Orbit · p211",
+   "guide": "CN involvement sequential VI-III-IV vs concurrent; corneal anaesthesia both; visual loss initially none vs complete; mastoid edema; B/L severe vs U/L mild; B/L onset vs U/L.",
+   "qs": [
+    "OPH-C45-019",
+    "OPH-C45-020",
+    "OPH-C45-021",
+    "OPH-C45-022",
+    "OPH-C45-023"
+   ]
+  },
+  {
+   "id": "OPH-U45-4",
+   "ch": 45,
+   "n": 4,
+   "title": "Orbital cellulitis and vascular causes",
+   "sec": "Orbit · p212",
+   "guide": "Paranasal ethmoid m/c staph strep URTI pre-septal to orbital to subperiosteal blindness septum pre/post; CCF trauma 75% pulsatile bruit thrill CN VI DSCA; varices congenital bag of worms.",
+   "qs": [
+    "OPH-C45-024",
+    "OPH-C45-025",
+    "OPH-C45-026",
+    "OPH-C45-027",
+    "OPH-C45-028",
+    "OPH-C45-029",
+    "OPH-C45-030",
+    "OPH-C45-031",
+    "OPH-C45-032",
+    "OPH-C45-033"
+   ]
+  },
+  {
+   "id": "OPH-U45-5",
+   "ch": 45,
+   "n": 5,
+   "title": "Types of proptosis and Thyroid associated ophthalmology",
+   "sec": "Orbit · p213-214",
+   "guide": "Intermittent Valsalva varices URTI lymphangioma crying hemangioma encephalocele pulsatile CCF roof NF1 pseudo retraction enophthalmos buphthalmos; TAO m/c adults any thyroid muscle fat frank Goldzeiher Dalrymple 93% proptosis 60% von Graefe Kocher Stellwag inferior rectus exposure keratitis botox steroids.",
+   "qs": [
+    "OPH-C45-034",
+    "OPH-C45-035",
+    "OPH-C45-036",
+    "OPH-C45-037",
+    "OPH-C45-038",
+    "OPH-C45-039",
+    "OPH-C45-040",
+    "OPH-C45-041",
+    "OPH-C45-042",
+    "OPH-C45-043",
+    "OPH-C45-044"
+   ]
+  }
+ ]
+}
