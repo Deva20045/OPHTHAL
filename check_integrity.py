@@ -55,6 +55,13 @@ LIVE_CHAPTERS = {
     33: ("Retinoblastoma and Macular Disorders", 148, 155, 53, 8),
     34: ("Dystrophies of Fundus : Retinitis Pigmentosa and others", 156, 159, 35, 5),
     35: ("Retinal Vascular Disorders : Part 1", 160, 163, 34, 5),
+    36: ("Retinal Vascular Disorders : Part 2", 164, 168, 64, 6),
+    37: ("Retinal Detachment", 169, 171, 44, 5),
+    38: ("Special Investigations for Cornea", 172, 174, 39, 5),
+    39: ("Corneal Ulcer and Keratitis", 175, 179, 71, 8),
+    40: ("Corneal Dystrophies, Keratoconus and Miscellaneous Disorders", 180, 184, 67, 6),
+    41: ("Anterior Uveitis", 185, 190, 76, 9),
+    42: ("Intermediate, Posterior, Pan-uveitis and Miscellaneous Disorders", 191, 194, 48, 9),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain

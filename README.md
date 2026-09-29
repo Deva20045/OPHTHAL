@@ -51,7 +51,14 @@ rest show a **Soon** badge.
 | Ch 33 · Retinoblastoma and Macular Disorders (p148–155) — 8 units, 53 questions | ✅ live on this branch |
 | Ch 34 · Dystrophies of Fundus : Retinitis Pigmentosa and others (p156–159) — 5 units, 35 questions | ✅ live on this branch |
 | Ch 35 · Retinal Vascular Disorders : Part 1 (p160–163) — 5 units, 34 questions | ✅ live on this branch |
-| Ch 36–50 (Retina, Cornea, Uvea, Conjunctiva, Adnexa, Miscellaneous) | 🚧 in progress |
+| Ch 36 · Retinal Vascular Disorders : Part 2 (p164–168) — 6 units, 64 questions | ✅ live on this branch |
+| Ch 37 · Retinal Detachment (p169–171) — 5 units, 44 questions | ✅ live on this branch |
+| Ch 38 · Special Investigations for Cornea (p172–174) — 5 units, 39 questions | ✅ live on this branch |
+| Ch 39 · Corneal Ulcer and Keratitis (p175–179) — 8 units, 71 questions | ✅ live on this branch |
+| Ch 40 · Corneal Dystrophies, Keratoconus and Miscellaneous Disorders (p180–184) — 6 units, 67 questions | ✅ live on this branch |
+| Ch 41 · Anterior Uveitis (p185–190) — 9 units, 76 questions | ✅ live on this branch |
+| Ch 42 · Intermediate, Posterior, Pan-uveitis and Miscellaneous Disorders (p191–194) — 9 units, 48 questions | ✅ live on this branch |
+| Ch 43–50 (Conjunctiva, Adnexa, Miscellaneous) | 🚧 in progress |
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 50-chapter
 roadmap, data schema, per-chapter pipeline, and NEXT step.
@@ -65,6 +72,8 @@ roadmap, data schema, per-chapter pipeline, and NEXT step.
 | `build_content.py` | Roadmap + validator; embeds `data/chNN.json` into the app |
 | `check_integrity.py` | Structural gate (counts, order, citations, option quality, JS syntax) |
 | `check_app_smoke.js` | Runtime test (DOM shim): roadmap rows, paths, quiz start |
+| `authoring/` | Line-by-line authoring sources for Ch 36–42 (`lib.py` enforces full point coverage) |
+| `COVERAGE_AUDIT_CH36-42.md` | Page-by-page audit: every source line of Book p164–194 → question IDs |
 | `audit_variety.py` | Format-mix + predictability audit (output saved to `AUDIT.md`) |
 | `render_pages.py` | Helper: renders book pages to PNG by printed page number (see `PROGRESS.md`) |
 | `uploads/` | The 2 source book PDFs (Book p1–233) |
