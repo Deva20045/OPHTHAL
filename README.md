@@ -46,7 +46,12 @@ rest show a **Soon** badge.
 | Ch 28 · Tests for Vision and Normal Optics of Eyes (p117–121) — 5 units, 38 questions | ✅ live on this branch |
 | Ch 29 · Myopia and Hypermetropia (p122–129) — 7 units, 47 questions | ✅ live on this branch |
 | Ch 30 · Astigmatism, Reading of Spectacle Prescription and Binocular Errors (p130–134) — 5 units, 33 questions | ✅ live on this branch |
-| Ch 31–50 (Refraction/Aphakia, Retina, Cornea, Uvea, Conjunctiva, Adnexa, Miscellaneous) | 🚧 in progress |
+| Ch 31 · Refraction : How to prescribe glasses and Aphakia (p135–141) — 7 units, 43 questions | ✅ live on this branch |
+| Ch 32 · Anatomy and Investigations of Retina (p142–147) — 7 units, 42 questions | ✅ live on this branch |
+| Ch 33 · Retinoblastoma and Macular Disorders (p148–155) — 8 units, 53 questions | ✅ live on this branch |
+| Ch 34 · Dystrophies of Fundus : Retinitis Pigmentosa and others (p156–159) — 5 units, 35 questions | ✅ live on this branch |
+| Ch 35 · Retinal Vascular Disorders : Part 1 (p160–163) — 5 units, 34 questions | ✅ live on this branch |
+| Ch 36–50 (Retina, Cornea, Uvea, Conjunctiva, Adnexa, Miscellaneous) | 🚧 in progress |
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 50-chapter
 roadmap, data schema, per-chapter pipeline, and NEXT step.
@@ -61,6 +66,7 @@ roadmap, data schema, per-chapter pipeline, and NEXT step.
 | `check_integrity.py` | Structural gate (counts, order, citations, option quality, JS syntax) |
 | `check_app_smoke.js` | Runtime test (DOM shim): roadmap rows, paths, quiz start |
 | `audit_variety.py` | Format-mix + predictability audit (output saved to `AUDIT.md`) |
+| `render_pages.py` | Helper: renders book pages to PNG by printed page number (see `PROGRESS.md`) |
 | `uploads/` | The 2 source book PDFs (Book p1–233) |
 
 ## Run the checks (after any content change)

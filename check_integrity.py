@@ -50,6 +50,11 @@ LIVE_CHAPTERS = {
     28: ("Tests for Vision and Normal Optics of Eyes", 117, 121, 38, 5),
     29: ("Myopia and Hypermetropia", 122, 129, 47, 7),
     30: ("Astigmatism, Reading of Spectacle Prescription and Binocular Errors", 130, 134, 33, 5),
+    31: ("Refraction : How to prescribe glasses and Aphakia", 135, 141, 43, 7),
+    32: ("Anatomy and Investigations of Retina", 142, 147, 42, 7),
+    33: ("Retinoblastoma and Macular Disorders", 148, 155, 53, 8),
+    34: ("Dystrophies of Fundus : Retinitis Pigmentosa and others", 156, 159, 35, 5),
+    35: ("Retinal Vascular Disorders : Part 1", 160, 163, 34, 5),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain
