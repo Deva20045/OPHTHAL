@@ -147,6 +147,6 @@ for (const chapter of source) {
     `First Chapter ${number} question does not start at its Book page.`);
 }
 
-console.log(`PASS: roadmap of ${pulse.CHAPTERS.length} chapters (${liveCount} live, rest "Soon"), ` +
+console.log(`PASS: roadmap of ${pulse.CHAPTERS.length} chapters (${liveCount} live, ${pulse.CHAPTERS.length - liveCount} locked), ` +
   `Chapter ${source.map((c) => c.chapter).join(', ')} path data and quiz starts, and final ` +
   `questions render at runtime.`);

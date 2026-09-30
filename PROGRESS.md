@@ -2,12 +2,13 @@
 
 ## Goal
 A learner should **not need to read the PDF separately** after solving the questions.
-Every line, table, diagram, flowchart, classification, value and exception of the book
-scope (Book p1–233) is converted into questions in strict book order.
+Every line, table, diagram, flowchart, classification, value and exception in the
+available scan is converted into questions in strict book order. The book roadmap spans
+p1–233, but the supplied scan currently ends at printed p230 (see source-scan caveat).
 
 ## Book & page map
 - Book: **Ophthalmology, Marrow Edition 8** (scan footer: "Ophthalmology · v1.0 ·
-  Marrow 8.0 · 2024") — scans cover **Book pages 1–233** (236 PDF pages in 2 files).
+  Marrow 8.0 · 2024") — uploaded PDFs total 236 pages including contents/duplicates; unique printed content currently verified through p230. Pages p231–233 are absent from the provided Part 2 PDF.
 - The scans have **no text layer**; content is read from rendered page images
   (zoom into any unclear spot; never guess), with the book's printed page number
   in the header used as the citation anchor.
@@ -16,7 +17,7 @@ scope (Book p1–233) is converted into questions in strict book order.
 | Part file (in `uploads/`) | PDF pages | K | Book pages |
 |---|---|---|---|
 | `Ophthalmology_Part1_pages_1-116.pdf` | 1–119 | −3 | 1–116 |
-| `Ophthalmology_Part2_pages_117-233.pdf` | 1–117 | +116 | 117–233 |
+| `Ophthalmology_Part2_pages_117-233.pdf` | 1–117 | varies by scan leaf | 117–230 (p231–233 absent) |
 
 - **Verified offset table (OCR of every scanned page number, 2026-09).** The scans
   contain a few duplicate/unnumbered leaves, so K is NOT constant — always confirm
@@ -39,8 +40,8 @@ scope (Book p1–233) is converted into questions in strict book order.
 - First 3 PDF pages of Part 1 = the book's Contents pages (not content scope).
 - Formula: **Book page = PDF page + K** (K per part above).
   Part 1: PDF p4 = Book p1 … PDF p119 = Book p116.
-  Part 2: PDF p1 = Book p117 … PDF p117 = Book p233.
-- Final content page = Book p233 (Miscellaneous — Physiology of Vision).
+  Part 2: PDF p1 = Book p117; the final supplied leaf is PDF p117 = Book p230.
+- The stated PDF filename/scope mentions p233, but the file contains no leaves for printed pp. 231–233; the available final content is Physiology of Vision on pp. 229–230.
 
 ## Roadmap — all 50 chapters listed from day one (status: LIVE / SOON)
 | # | Chapter | Book start | Status |
@@ -89,15 +90,14 @@ scope (Book p1–233) is converted into questions in strict book order.
 | 42 | Intermediate, Posterior, Pan-uveitis and Miscellaneous Disorders | p191 | **LIVE** |
 | 43 | Anatomy of Conjunctiva, Types of Conjunctivitis and Pterygium | p195 | **LIVE** |
 | 44 | Eyelids : Anatomy and Pathologies | p206 | **LIVE** |
-| 45 | Anatomy of Orbit and Proptosis | p209 | SOON |
-| 46 | Lacrimal apparatus : Anatomy, Watering eye and Dry eye | p215 | SOON |
-| 47 | Ocular Trauma | p220 | SOON |
-| 48 | Community Ophthalmology | p223 | SOON |
-| 49 | Lasers In Ophthalmology | p228 | SOON |
-| 50 | Physiology of Vision | p229 | SOON |
+| 45 | Anatomy of Orbit and Proptosis | p209 | **LIVE** |
+| 46 | Lacrimal apparatus : Anatomy, Watering eye and Dry eye | p215 | **LIVE** |
+| 47 | Ocular Trauma | p220 | **LIVE** |
+| 48 | Community Ophthalmology | p223 | **LIVE** |
+| 49 | Lasers In Ophthalmology | p228 | **LIVE** |
+| 50 | Physiology of Vision | p229 | **LIVE** |
 
-*(Status column: Ch 1-44 = **LIVE**; every other chapter = **SOON** — rendered in the app
-as a locked "Soon" row. Update this table as chapters go live.)*
+*(Status column: Ch 1-50 = **LIVE**; remaining Soon rows are none.)*
 
 ### Section spans
 - **Basic Anatomy of Eye** — Ch 1–5 (p1→p14)
@@ -154,10 +154,12 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 | `audit_variety.py` | Format mix + predictability signals (length bias, hedging, fillers, template runs, option reuse) |
 | `render_pages.py` | Renders book pages to PNG (`python render_pages.py 164 165` / `--range 164 168`); locates each page by OCR of the printed header number and falls back to the verified offset table. Needs `pip install pymupdf`; `rapidocr-onnxruntime` is optional (header OCR), otherwise pass `--no-ocr` and read the printed number off the rendered page |
 | `AUDIT.md` | Latest output of `audit_variety.py` |
-| `authoring/build_all.py` | Builds `data/ch36..ch44.json` from the authoring sources and writes the `COVERAGE_AUDIT_*.md` files |
-| `authoring/lib.py`, `authoring/chNN_src.py` | Line-by-line chapter sources (points + questions) for Ch 36–44 |
+| `authoring/build_all.py` | Builds `data/ch36..ch50.json` from the authoring sources and writes the `COVERAGE_AUDIT_*.md` files |
+| `authoring/lib.py`, `authoring/chNN_src.py` | Line-by-line chapter sources (points + questions) for Ch 36–50 |
 | `COVERAGE_AUDIT_CH43-44.md` | Page-by-page audit: every source line of Book p195–208 → question IDs |
-| `uploads/` | The 2 source book PDFs (Book p1–233) |
+| `COVERAGE_AUDIT_CH45-46.md` | Page-by-page audit: every source line of Book p209–219 → question IDs |
+| `COVERAGE_AUDIT_CH47-50.md` | Page-by-page audit: every source line of available Book pp220–230 → question IDs |
+| `uploads/` | The 2 source book PDFs (available printed content through p230; pp231–233 absent) |
 
 ## Status
 - [x] PDFs moved to `uploads/` and committed (renamed to descriptive part names)
@@ -207,14 +209,17 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 42 "Intermediate, Posterior, Pan-uveitis and Miscellaneous Disorders" (p191–194): 9 units, 48 questions — REBUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH36-42.md`)
 - [x] **Ch 43 "Anatomy of Conjunctiva, Types of Conjunctivitis and Pterygium" (p195–205): 14 units, 119 questions — BUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH43-44.md`)
 - [x] **Ch 44 "Eyelids : Anatomy and Pathologies" (p206–208): 8 units, 39 questions — BUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH43-44.md`)
-- [ ] Ch 45–50 (per pipeline above)
+- [x] **Ch 45 "Anatomy of Orbit and Proptosis" (p209–214): 4 units, 48 questions — BUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH45-46.md`)
+- [x] **Ch 46 "Lacrimal apparatus : Anatomy, Watering eye and Dry eye" (p215–219): 5 units, 38 questions — BUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH45-46.md`)
+- [x] **Ch 47 "Ocular Trauma" (p220–222): 3 units, 29 questions — BUILT FROM SCANS & VERIFIED** (coverage in `COVERAGE_AUDIT_CH47-50.md`)
+- [x] **Ch 48 "Community Ophthalmology" (p223–227): 5 units, 29 questions — BUILT FROM SCANS & VERIFIED** (coverage in `COVERAGE_AUDIT_CH47-50.md`)
+- [x] **Ch 49 "Lasers In Ophthalmology" (p228): 1 unit, 13 questions — BUILT FROM SCANS & VERIFIED** (coverage in `COVERAGE_AUDIT_CH47-50.md`)
+- [x] **Ch 50 "Physiology of Vision" (p229–230 in supplied scan): 3 units, 16 questions — BUILT FROM SCANS & VERIFIED** (coverage in `COVERAGE_AUDIT_CH47-50.md`)
 
 ## NEXT
-**Ch 45 "Anatomy of Orbit and Proptosis" (p209–214)** — render Part 2 PDF pages by printed
-page number (p209 = PDF 96, i.e. PDF + 113; **always confirm the printed number in each
-header**), read line-by-line, author it, run build + checks + audit, commit + push.
+All 50 roadmap chapters have been authored from the supplied scans. **Source-scan caveat:** the Part 2 PDF contains 117 pages and ends at the leaf printed p230; despite the filename/scope label, printed pages p231–233 are not present in the supplied file. Confirm whether any extra scan pages are available before claiming coverage of those pages.
 
-### Authoring pipeline used for Ch 36–44 (reuse it)
+### Authoring pipeline used for Ch 36–50 (reuse it)
 - `authoring/lib.py` — `Chapter(num, title, first, last, points)`; `points` = `{page: [every source
   line/heading/table row/caption in reading order]}`. `c.unit(...)` opens a unit,
   `c.q(page, fmt, stem, correct, [3 wrong], explanation, cov=[point numbers], sec)` adds a question.
@@ -223,7 +228,7 @@ header**), read line-by-line, author it, run build + checks + audit, commit + pu
   it shuffles answer positions and appends "(Book pN)" to explanations.
 - `authoring/chNN_src.py` — one source file per chapter (points + questions).
 - `python3 authoring/build_all.py [chNN_src ...]` — builds chapters; with no arguments it builds all of
-  Ch 36–44 and regenerates `COVERAGE_AUDIT_CH36-42.md` and `COVERAGE_AUDIT_CH43-44.md`.
+  Ch 36–50 and regenerates the four coverage audits, including `COVERAGE_AUDIT_CH47-50.md`.
 - Scan quirks found while reading Ch 36–42: PDF 67/68 (p182/p183) are duplicated at PDF 69/70, so
   p184 = PDF 71 and K becomes +113 from there; Ch 42's p193/p194 print in order in the scan.
   Book spellings/handwriting are preserved (e.g. "Flourescein", "Cephalozin", "typer 1", "COAXa").

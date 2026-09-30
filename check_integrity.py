@@ -64,6 +64,12 @@ LIVE_CHAPTERS = {
     42: ("Intermediate, Posterior, Pan-uveitis and Miscellaneous Disorders", 191, 194, 48, 9),
     43: ("Anatomy of Conjunctiva, Types of Conjunctivitis and Pterygium", 195, 205, 119, 14),
     44: ("Eyelids : Anatomy and Pathologies", 206, 208, 39, 8),
+    45: ("Anatomy of Orbit and Proptosis", 209, 214, 48, 4),
+    46: ("Lacrimal apparatus : Anatomy, Watering eye and Dry eye", 215, 219, 38, 5),
+    47: ("Ocular Trauma", 220, 222, 29, 3),
+    48: ("Community Ophthalmology", 223, 227, 29, 5),
+    49: ("Lasers In Ophthalmology", 228, 228, 13, 1),
+    50: ("Physiology of Vision", 229, 230, 16, 3),
 }
 
 # Question formats used by the varied-format authoring. Every unit must contain
