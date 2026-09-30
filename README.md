@@ -60,7 +60,9 @@ rest show a **Soon** badge.
 | Ch 42 · Intermediate, Posterior, Pan-uveitis and Miscellaneous Disorders (p191–194) — 9 units, 48 questions | ✅ live on this branch |
 | Ch 43 · Anatomy of Conjunctiva, Types of Conjunctivitis and Pterygium (p195–205) — 14 units, 119 questions | ✅ live on this branch |
 | Ch 44 · Eyelids : Anatomy and Pathologies (p206–208) — 8 units, 39 questions | ✅ live on this branch |
-| Ch 45–50 (Orbit, Lacrimal apparatus, Trauma, Community, Lasers, Physiology of Vision) | 🚧 in progress |
+| Ch 45 · Anatomy of Orbit and Proptosis (p209–214) — 4 units, 48 questions | ✅ live on this branch |
+| Ch 46 · Lacrimal apparatus: Anatomy, Watering eye and Dry eye (p215–219) — 5 units, 38 questions | ✅ live on this branch |
+| Ch 47–50 (Ocular Trauma, Community, Lasers, Physiology of Vision) | 🚧 in progress |
 
 See **`PROGRESS.md`** — the single source of truth: page-offset map, 50-chapter
 roadmap, data schema, per-chapter pipeline, and NEXT step.
@@ -74,9 +76,10 @@ roadmap, data schema, per-chapter pipeline, and NEXT step.
 | `build_content.py` | Roadmap + validator; embeds `data/chNN.json` into the app |
 | `check_integrity.py` | Structural gate (counts, order, citations, option quality, JS syntax) |
 | `check_app_smoke.js` | Runtime test (DOM shim): roadmap rows, paths, quiz start |
-| `authoring/` | Line-by-line authoring sources for Ch 36–44 (`lib.py` enforces full point coverage) |
+| `authoring/` | Line-by-line authoring sources for Ch 36–46 (`lib.py` enforces full point coverage) |
 | `COVERAGE_AUDIT_CH36-42.md` | Page-by-page audit: every source line of Book p164–194 → question IDs |
 | `COVERAGE_AUDIT_CH43-44.md` | Page-by-page audit: every source line of Book p195–208 → question IDs |
+| `COVERAGE_AUDIT_CH45-46.md` | Page-by-page audit: every source line of Book p209–219 → question IDs |
 | `audit_variety.py` | Format-mix + predictability audit (output saved to `AUDIT.md`) |
 | `render_pages.py` | Helper: renders book pages to PNG by printed page number (see `PROGRESS.md`) |
 | `uploads/` | The 2 source book PDFs (Book p1–233) |

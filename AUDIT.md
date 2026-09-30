@@ -1,17 +1,17 @@
 ==============================================================================
 PULSE Ophthalmology — QUESTION VARIETY & PREDICTABILITY AUDIT
 ==============================================================================
-1745 questions · 238 units · 44 live chapter(s)
+1831 questions · 247 units · 46 live chapter(s)
 
 FORMAT MIX (whole bank)
-  recall         475   27.2%
-  match          299   17.1%
-  fillup         263   15.1%
-  scenario       206   11.8%
-  oddoneout      162    9.3%
-  numeric        135    7.7%
-  truefalse      110    6.3%
-  management      95    5.4%
+  recall         494   27.0%
+  match          332   18.1%
+  fillup         269   14.7%
+  scenario       218   11.9%
+  oddoneout      164    9.0%
+  numeric        144    7.9%
+  truefalse      112    6.1%
+  management      98    5.4%
 
  Ch   Qs  scen  fill  match   T/F   odd  longest   leak  reuse
 --------------------------------------------------------------
@@ -59,17 +59,19 @@ FORMAT MIX (whole bank)
  42   48    10     6      6     1     3    22.9%   0.0%      4
  43  119    24    25     10     5     6    26.9%   0.8%      3
  44   39    10    12      6     0     1    25.6%   0.0%      3
+ 45   48     7     2     20     1     2    33.3%   0.0%      4
+ 46   38     5     4     13     1     0    26.3%   0.0%      1
 
 PREDICTABILITY SIGNALS (bank-wide means)
-  longest option is the answer        : 28.0%
+  longest option is the answer        : 28.1%
   answer is the only hedged option    : 0.2%
-  answer is the only bracketed option : 3.9%
+  answer is the only bracketed option : 3.8%
   question contains filler distractor : 0.0%
   answer term restated in the stem    : 0.8%
-  avg answer length / distractor      : 30.0 / 24.9
+  avg answer length / distractor      : 29.9 / 24.8
   repeated back-to-back stem templates: 1
   longest uninterrupted repeat run    : 2
-  option sets reused across questions : 93
+  option sets reused across questions : 98
 
 MOST REPEATED STEM OPENERS
 

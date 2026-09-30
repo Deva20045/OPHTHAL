@@ -89,14 +89,14 @@ scope (Book p1–233) is converted into questions in strict book order.
 | 42 | Intermediate, Posterior, Pan-uveitis and Miscellaneous Disorders | p191 | **LIVE** |
 | 43 | Anatomy of Conjunctiva, Types of Conjunctivitis and Pterygium | p195 | **LIVE** |
 | 44 | Eyelids : Anatomy and Pathologies | p206 | **LIVE** |
-| 45 | Anatomy of Orbit and Proptosis | p209 | SOON |
-| 46 | Lacrimal apparatus : Anatomy, Watering eye and Dry eye | p215 | SOON |
+| 45 | Anatomy of Orbit and Proptosis | p209 | **LIVE** |
+| 46 | Lacrimal apparatus : Anatomy, Watering eye and Dry eye | p215 | **LIVE** |
 | 47 | Ocular Trauma | p220 | SOON |
 | 48 | Community Ophthalmology | p223 | SOON |
 | 49 | Lasers In Ophthalmology | p228 | SOON |
 | 50 | Physiology of Vision | p229 | SOON |
 
-*(Status column: Ch 1-44 = **LIVE**; every other chapter = **SOON** — rendered in the app
+*(Status column: Ch 1-46 = **LIVE**; Ch 47-50 = **SOON** — rendered in the app
 as a locked "Soon" row. Update this table as chapters go live.)*
 
 ### Section spans
@@ -154,9 +154,10 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 | `audit_variety.py` | Format mix + predictability signals (length bias, hedging, fillers, template runs, option reuse) |
 | `render_pages.py` | Renders book pages to PNG (`python render_pages.py 164 165` / `--range 164 168`); locates each page by OCR of the printed header number and falls back to the verified offset table. Needs `pip install pymupdf`; `rapidocr-onnxruntime` is optional (header OCR), otherwise pass `--no-ocr` and read the printed number off the rendered page |
 | `AUDIT.md` | Latest output of `audit_variety.py` |
-| `authoring/build_all.py` | Builds `data/ch36..ch44.json` from the authoring sources and writes the `COVERAGE_AUDIT_*.md` files |
-| `authoring/lib.py`, `authoring/chNN_src.py` | Line-by-line chapter sources (points + questions) for Ch 36–44 |
+| `authoring/build_all.py` | Builds `data/ch36..ch46.json` from the authoring sources and writes the `COVERAGE_AUDIT_*.md` files |
+| `authoring/lib.py`, `authoring/chNN_src.py` | Line-by-line chapter sources (points + questions) for Ch 36–46 |
 | `COVERAGE_AUDIT_CH43-44.md` | Page-by-page audit: every source line of Book p195–208 → question IDs |
+| `COVERAGE_AUDIT_CH45-46.md` | Page-by-page audit: every source line of Book p209–219 → question IDs |
 | `uploads/` | The 2 source book PDFs (Book p1–233) |
 
 ## Status
@@ -207,14 +208,16 @@ as a locked "Soon" row. Update this table as chapters go live.)*
 - [x] **Ch 42 "Intermediate, Posterior, Pan-uveitis and Miscellaneous Disorders" (p191–194): 9 units, 48 questions — REBUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH36-42.md`)
 - [x] **Ch 43 "Anatomy of Conjunctiva, Types of Conjunctivitis and Pterygium" (p195–205): 14 units, 119 questions — BUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH43-44.md`)
 - [x] **Ch 44 "Eyelids : Anatomy and Pathologies" (p206–208): 8 units, 39 questions — BUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH43-44.md`)
-- [ ] Ch 45–50 (per pipeline above)
+- [x] **Ch 45 "Anatomy of Orbit and Proptosis" (p209–214): 4 units, 48 questions — BUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH45-46.md`)
+- [x] **Ch 46 "Lacrimal apparatus : Anatomy, Watering eye and Dry eye" (p215–219): 5 units, 38 questions — BUILT FROM SCANS & VERIFIED** (line-by-line; coverage in `COVERAGE_AUDIT_CH45-46.md`)
+- [ ] Ch 47–50 (per pipeline above)
 
 ## NEXT
-**Ch 45 "Anatomy of Orbit and Proptosis" (p209–214)** — render Part 2 PDF pages by printed
-page number (p209 = PDF 96, i.e. PDF + 113; **always confirm the printed number in each
-header**), read line-by-line, author it, run build + checks + audit, commit + push.
+**Ch 47 "Ocular Trauma" (p220–222)** — render Part 2 PDF pages by printed page number
+(p220 = PDF 107, i.e. PDF + 113; **always confirm the printed number in each header**),
+read line-by-line, author it, run build + checks + audit, commit + push.
 
-### Authoring pipeline used for Ch 36–44 (reuse it)
+### Authoring pipeline used for Ch 36–46 (reuse it)
 - `authoring/lib.py` — `Chapter(num, title, first, last, points)`; `points` = `{page: [every source
   line/heading/table row/caption in reading order]}`. `c.unit(...)` opens a unit,
   `c.q(page, fmt, stem, correct, [3 wrong], explanation, cov=[point numbers], sec)` adds a question.
@@ -223,7 +226,8 @@ header**), read line-by-line, author it, run build + checks + audit, commit + pu
   it shuffles answer positions and appends "(Book pN)" to explanations.
 - `authoring/chNN_src.py` — one source file per chapter (points + questions).
 - `python3 authoring/build_all.py [chNN_src ...]` — builds chapters; with no arguments it builds all of
-  Ch 36–44 and regenerates `COVERAGE_AUDIT_CH36-42.md` and `COVERAGE_AUDIT_CH43-44.md`.
+  Ch 36–46 and regenerates `COVERAGE_AUDIT_CH36-42.md`, `COVERAGE_AUDIT_CH43-44.md` and
+  `COVERAGE_AUDIT_CH45-46.md`.
 - Scan quirks found while reading Ch 36–42: PDF 67/68 (p182/p183) are duplicated at PDF 69/70, so
   p184 = PDF 71 and K becomes +113 from there; Ch 42's p193/p194 print in order in the scan.
   Book spellings/handwriting are preserved (e.g. "Flourescein", "Cephalozin", "typer 1", "COAXa").
