@@ -1,19 +1,20 @@
-"""Build data/ch36..ch46.json from authoring sources and write the coverage audits.
+"""Build data/ch36..ch50.json from authoring sources and write the coverage audits.
 
-Usage: python3 authoring/build_all.py            -> all of Ch 36-46 + the coverage audit files
-       python3 authoring/build_all.py ch45_src   -> just one source module (no audit file)
+Usage: python3 authoring/build_all.py            -> all of Ch 36-50 + the coverage audit files
+       python3 authoring/build_all.py ch50_src   -> just one source module (no audit file)
 """
 import importlib, sys
 from pathlib import Path
 HERE = Path(__file__).parent
 sys.path.insert(0, str(HERE))
 ROOT = HERE.parent
-ALL = [f"ch{n}_src" for n in range(36, 47)]
+ALL = [f"ch{n}_src" for n in range(36, 51)]
 # audit file name -> (chapter numbers included, book page span)
 AUDITS = {
     "COVERAGE_AUDIT_CH36-42.md": (range(36, 43), (164, 194)),
     "COVERAGE_AUDIT_CH43-44.md": (range(43, 45), (195, 208)),
     "COVERAGE_AUDIT_CH45-46.md": (range(45, 47), (209, 219)),
+    "COVERAGE_AUDIT_CH47-50.md": (range(47, 51), (220, 230)),
 }
 mods = sys.argv[1:] or ALL
 res = {}
